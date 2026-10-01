@@ -1,0 +1,11 @@
+{
+  "unit_tests_exit": 0,
+  "unit_tests_log": "test_ask_choice_guard (test_pipeline.PipelineTests.test_ask_choice_guard) ... ok\ntest_ask_phase_choices_independent_and_reselection_invalidates (test_pipeline.PipelineTests.test_ask_phase_choices_independent_and_reselection_invalidates) ... ok\ntest_auto_complete (test_pipeline.PipelineTests.test_auto_complete) ... ok\ntest_draft_mutation (test_pipeline.PipelineTests.test_draft_mutation) ... ok\ntest_fail_blocks_next (test_pipeline.PipelineTests.test_fail_blocks_next) ... ok\ntest_hook_absolute_windows_path_from_outside_scope (test_pipeline.PipelineTests.test_hook_absolute_windows_path_from_outside_scope) ... ok\ntest_hook_raw_shell_and_patch_blocked (test_pipeline.PipelineTests.test_hook_raw_shell_and_patch_blocked) ... ok\ntest_hook_read_subcommand_blocked (test_pipeline.PipelineTests.test_hook_read_subcommand_blocked) ... ok\ntest_invalid_evidence (test_pipeline.PipelineTests.test_invalid_evidence) ... ok\ntest_missing_dependency (test_pipeline.PipelineTests.test_missing_dependency) ... ok\ntest_path_traversal (test_pipeline.PipelineTests.test_path_traversal) ... ok\ntest_prepare_reference_mutation_after_write (test_pipeline.PipelineTests.test_prepare_reference_mutation_after_write) ... ok\ntest_prepare_required (test_pipeline.PipelineTests.test_prepare_required) ... ok\ntest_required_checks_cannot_all_be_na (test_pipeline.PipelineTests.test_required_checks_cannot_all_be_na) ... ok\ntest_review_requires_target_evidence (test_pipeline.PipelineTests.test_review_requires_target_evidence) ... ok\ntest_rule_mutation (test_pipeline.PipelineTests.test_rule_mutation) ... ok\ntest_self_review (test_pipeline.PipelineTests.test_self_review) ... ok\ntest_upstream_review_mutation (test_pipeline.PipelineTests.test_upstream_review_mutation) ... ok\n\n----------------------------------------------------------------------\nRan 18 tests in 11.045s\n\nOK\n",
+  "installed_manifest_files_verified": 29,
+  "original_channel_files_checked": 339,
+  "original_channel_changes_since_copy": [],
+  "native_config_json_toml_and_launcher": "valid",
+  "installed_hook_synthetic_event_cases": 5,
+  "native_runtime_activation": "not_verified; project/definition trust required",
+  "manuscript_quality_trial": "not_started"
+}

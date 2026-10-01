@@ -1,0 +1,386 @@
+[00:00] A dark matter particle may have been
+[00:02] detected for the very first time. What's
+[00:05] up with that?
+[00:11] On this installment,
+[00:14] joining me is friend and colleague,
+[00:16] Professor Katie Freeze in the Department
+[00:19] of Physics at the University of Texas at
+[00:21] Austin. She's one of the world's experts
+[00:24] theorists on dark matter. and let's see
+[00:27] what she has to say about this
+[00:29] experiment.
+[00:30] >> Katie,
+[00:31] >> yay.
+[00:32] >> Welcome back to Star Talk.
+[00:34] >> Thank you, Neil.
+[00:35] >> Yes, I'm so excited because yes, it
+[00:38] could be dark matter.
+[00:39] >> Let's back up. Uh, all I can say about
+[00:42] dark matter is that it's 85%
+[00:47] of the gravity of the universe and we
+[00:51] don't know what it is. But you spent
+[00:53] your career trying to understand it, to
+[00:56] make predictions, assuming it is matter.
+[00:59] What kind of matter would it be? And how
+[01:01] would we detect it?
+[01:03] >> I want to just point something out that
+[01:05] our Milky Way galaxy would fly apart if
+[01:09] it weren't for the dark matter particles
+[01:10] holding it together. So the stars at the
+[01:13] outer edges, they're moving pretty fast.
+[01:15] Well, they would just escape. So you
+[01:17] need extra gravity. You need extra mass
+[01:19] to hold it in.
+[01:19] >> This is the 85% of the gravity of the
+[01:21] universe. And we don't know where it's
+[01:22] coming from. It's not stars. It's not
+[01:24] black holes. It's not planets, comets,
+[01:26] asteroids.
+[01:27] >> Nope.
+[01:27] >> So, you have to concoct,
+[01:30] >> for lack of a better term, some
+[01:32] mysterious particle that doesn't
+[01:34] interact with our electromagnetic
+[01:36] forces, which includes light. So, you
+[01:39] don't see it, you don't feel it other
+[01:41] than what presumably is its gravity. So,
+[01:43] you've come up with some idea for this
+[01:46] or you and others. What what what are
+[01:48] you proposing? One of the best motivated
+[01:50] ideas is that it would be WIMPs. Weekly
+[01:54] interacting massive particles.
+[01:56] >> That's just a name. What does that mean?
+[01:57] >> That's just a name. But that means that
+[01:58] they
+[01:59] >> call it Fred. Okay.
+[02:00] >> Oh, that's my ex-husband. Please don't.
+[02:02] >> Oh, sorry.
+[02:05] >> Weekly interacting mass of particles
+[02:07] wimps. They would feel in addition to
+[02:09] gravity the weak force. And we call it
+[02:11] the weak force because it's really weak.
+[02:14] >> So weak force one of the famous four
+[02:16] forces of nature. Yes. Right. So they
+[02:18] have the gravity, the strong force, the
+[02:22] electromagnetic force, and the weak
+[02:23] force, which people don't really hear
+[02:25] much about, but it's very important in
+[02:26] physics.
+[02:28] >> So when you say weakly interacting
+[02:31] and massive, you're combining something
+[02:33] that could interact with the weak force
+[02:37] with this hypothetical particle that
+[02:39] would be the dark matter particle. Is
+[02:41] that correct?
+[02:41] >> Exactly. And when when we say massive,
+[02:43] we we mean it weighs about somewhere
+[02:46] between the same mass as a proton, but
+[02:48] it could be 10,000 times as massive. So
+[02:50] that's where the massive comes in in the
+[02:51] name.
+[02:52] >> It feels like I should know that that's
+[02:55] there. Something's 10,000 times more
+[02:57] massive than a proton. I'm thinking if I
+[02:59] get hit with that, I would feel it.
+[03:01] >> Well, there would be billions going
+[03:03] through your body every second, but only
+[03:05] one a month or so would hit one of your
+[03:07] nuclei. And as far as I know, you're
+[03:09] still here. Now, we get this report from
+[03:11] this experiment that uses liquid xenon.
+[03:14] >> Yes, they've got six tons of liquid
+[03:16] xenon
+[03:17] >> six
+[03:17] >> in a giant cylinder.
+[03:19] >> Is there something about xenon that
+[03:21] makes it more susceptible than other
+[03:23] elements on our glorious periodic table?
+[03:26] Well, if you pick a detector nucleus
+[03:28] that is roughly the same mass as the
+[03:31] particle you're looking for, okay,
+[03:32] >> you get the biggest bang for for your
+[03:34] buck. The most energy transmitted from
+[03:36] the incoming particle to the the nucleus
+[03:39] recoils. It gets it gets bumped.
+[03:42] >> And then you look for that recoil
+[03:44] energy. That's the name of the game.
+[03:46] >> You're not detecting the dark matter
+[03:48] particle. You're detecting the effects
+[03:50] of the dark matter particle on our
+[03:52] matter.
+[03:53] >> Yes, that's right. So we got to really
+[03:55] understand what atoms do.
+[03:57] >> So big picture,
+[03:58] >> yeah,
+[03:58] >> we we have the dark matter particle
+[04:00] hitting a xenon nucleus and then the way
+[04:03] they've set up the experiment that
+[04:05] causes light to come out.
+[04:07] >> All right. And so and they have photo
+[04:08] sensors presumably.
+[04:10] >> They they do and and it's even better.
+[04:11] They've got two different signals.
+[04:13] They've got they call it S1, the one I
+[04:15] just talked about, but then they also
+[04:18] ionize things and they end up with
+[04:19] another photon coming out. They call
+[04:21] that S2. So if you have two signals that
+[04:24] helps you throw away background
+[04:26] competing signals.
+[04:27] >> I don't think the public fully
+[04:29] appreciates not by any fault of their
+[04:31] own how much effort in a scientific
+[04:35] experiment is invested in rejecting
+[04:40] >> contaminating signals from the one
+[04:43] you're looking for.
+[04:43] >> Well, especially because this
+[04:44] interaction is weak. So, right. So, they
+[04:48] have to go deep underground, like a mile
+[04:50] underground to get away from competing
+[04:53] signals that we have on hitting us right
+[04:54] now on the surface of the Earth. Cosmic
+[04:56] rays, they're hitting us. And by the
+[04:58] way, if they hit your nuclei and the if
+[05:00] you if you're unlucky, you're going to
+[05:02] get cancer from one of those hits.
+[05:03] >> Okay. Or we might mutate into something
+[05:06] even greater. We could become one of the
+[05:08] X-Men.
+[05:09] >> Exactly.
+[05:10] >> Katie. Katie.
+[05:14] Katie. It's a single event.
+[05:16] >> Yeah.
+[05:17] >> Since when scientifically
+[05:19] does a single event
+[05:22] constitute an authentic detection when
+[05:26] typically we talk about the statistics.
+[05:29] >> Yeah.
+[05:29] >> Of the detection and we say you have a
+[05:32] hundred of them or a thousand of them
+[05:35] and then you do some statistical
+[05:37] confidence calculations for them. How do
+[05:41] you do any statistics at all on a
+[05:43] singular event? I think you can't. So,
+[05:46] it's everybody's wishful thinking that
+[05:48] this is real.
+[05:49] >> These experiments were designed to be
+[05:52] low background, not too many competing
+[05:55] signals and to be able and for small
+[05:58] numbers of events. That was the way they
+[06:00] were constructed in the first place.
+[06:02] >> Okay? And even with one event, believe
+[06:05] it or not, you can do small number
+[06:07] statistics and argue for the
+[06:10] significance of this event specifically
+[06:12] because all the other backgrounds are
+[06:14] ruled out. But, you know, I got to tell
+[06:16] you, I I I I think it's important to
+[06:18] point out what's different about this
+[06:19] experiment from all the previous ones.
+[06:22] This experiment is going is looking at
+[06:25] higher nuclear recoil energies than any
+[06:28] previous experiment. 250 keV is where is
+[06:31] where they're finding that signal
+[06:32] >> KV thousand electron volts that's a unit
+[06:35] of energy that's huge
+[06:37] >> for these kinds of experiments that's
+[06:39] never been done before
+[06:40] >> all right so the fact that their
+[06:41] threshold of energy detection is so high
+[06:44] automatically rules out so many other
+[06:46] things that might perturb that
+[06:48] >> absolutely so nutrinos or even
+[06:51] >> you need something badass like a dark
+[06:53] matter particle now let me ask you a
+[06:54] second point of comfort given the
+[06:57] ubiquitousness
+[06:59] Is that a word? Of dark matter. Why
+[07:02] don't we have more than one atomic event
+[07:07] within the six tons of xenon?
+[07:10] >> Yeah, it takes those billions of
+[07:12] particles going through there to see
+[07:14] one. The the weak force is really weak.
+[07:18] >> It seems to me there's another
+[07:19] statistical statement we can make about
+[07:22] this cuz you can start the clock when
+[07:25] they began the experiment and then
+[07:27] there's the detection. So I think they
+[07:29] began in 2021.
+[07:32] Detection was in 2023 that they're
+[07:33] reporting about now. It took 2 years to
+[07:36] make a detection.
+[07:37] >> Yeah.
+[07:37] >> Fine. You should be able to predict when
+[07:41] the next detection would occur. It seems
+[07:43] to me.
+[07:44] >> Well, so they're still taking data and
+[07:46] in a few more years we'll know whether
+[07:49] it whether there are more or not.
+[07:51] >> Okay. Because when LIGO when they turned
+[07:53] on LIGO and they discovered colliding
+[07:56] black holes within a certain set amount
+[07:59] of time that they've been getting data
+[08:00] that enabled them to say we expect more
+[08:02] of this and in fact they're going like
+[08:05] gang busters.
+[08:06] >> Yeah.
+[08:06] >> So this could be the beginning of a new
+[08:08] relationship.
+[08:09] >> Yeah.
+[08:10] >> Between our form of matter and dark
+[08:12] matter.
+[08:12] >> The other question is the other
+[08:14] experiments made of xenon. Elanar Play's
+[08:17] xenon experiment for example they can
+[08:19] take data also to look for this I don't
+[08:22] know if they can go into their current
+[08:23] data the way they and and reanalyze it
+[08:26] and look for it or not but they can
+[08:27] certainly also look for this and that's
+[08:29] going to be very exciting is there's not
+[08:31] just one xenon experiment out there
+[08:33] >> this is how science works where someone
+[08:34] gets a detection and it realines the
+[08:38] efforts of other laboratories
+[08:39] observatories telescopes uh to to focus
+[08:43] in on what we should now try to verify.
+[08:46] >> Yeah. And in China, there's Panda X,
+[08:49] >> which is in Panda.
+[08:50] >> It's in a deep tunnel.
+[08:52] >> That's cool. Panda.
+[08:53] >> That's also looking for dark matter.
+[08:54] >> Also made of xenon. Also looking for
+[08:56] dark matter. Same technologies.
+[08:58] >> Uhhuh.
+[08:58] >> And nobody's looked out at this high
+[09:00] recoil energy, but they can.
+[09:02] >> So clearly different experiments would
+[09:04] have different sweet spots.
+[09:05] >> Yeah.
+[09:05] >> That they look for. But now we got one.
+[09:08] >> We've got a bogey.
+[09:10] >> And now maybe they can adjust. Everybody
+[09:11] can readjust their sweet spots.
+[09:13] >> That's right. Now we have we have a new
+[09:14] sweet spot to go after which didn't
+[09:16] people didn't expect.
+[09:17] >> So when you heard about this result
+[09:20] >> what did you do?
+[09:22] >> Never in my life have I written a paper
+[09:23] in 24 hours
+[09:25] >> but we did it.
+[09:26] >> You did it.
+[09:27] >> My grad student Dunius Theodosopouloolis
+[09:30] and I
+[09:31] >> I'm guessing he's Greek.
+[09:33] >> Yeah.
+[09:33] >> Yes. Okay.
+[09:34] >> Okay.
+[09:35] >> So we we wrote a paper in 24 hours. I
+[09:37] don't think he slept much.
+[09:38] >> Okay. So what did you decide about this
+[09:40] detection? We decided it could be a Hig
+[09:42] Xeno.
+[09:43] >> Hig Xeno.
+[09:45] >> No, you're just making this stuff up
+[09:46] now. We just got used to the Higs Bzon
+[09:49] and now you're taking Higs and putting a
+[09:51] Zeno on it.
+[09:52] >> Yeah, because it would be the super
+[09:54] symmetric partner of the Higs
+[09:56] >> of the Higs.
+[09:57] >> Well, one of the other reasons that
+[09:59] wimps are such great candidates is
+[10:00] because they're automatically there in
+[10:02] super symmetric theories
+[10:04] >> where yes, you double the number of
+[10:05] particles, but most of them are way
+[10:07] heavy, which is why we don't encounter
+[10:09] them every day. Okay. And so Hig Xeno
+[10:11] >> Mhm.
+[10:12] >> you did some calculations to suggest it
+[10:13] might have been that
+[10:14] >> there's a caveat. Should I give it
+[10:16] >> please?
+[10:17] >> The the ice cube experiment which looks
+[10:19] was sitting in the south pole looking
+[10:20] for nutrinos. If the particle is a
+[10:23] higenino then there's a signal that
+[10:25] should show up there as well that we
+[10:27] should know about pretty quickly. So if
+[10:30] they don't see it that's bad for us. So
+[10:33] the ice cube experiment is to detect
+[10:36] nutrinos which are also weakly
+[10:39] interacting particles.
+[10:41] >> Yeah.
+[10:42] >> With us.
+[10:43] >> But in more importantly in this context,
+[10:45] they also come out of dark matter
+[10:47] annihilation and
+[10:49] >> from the center of the sun.
+[10:51] >> Oh my gosh.
+[10:52] >> Where you'd have a bunch of wimps hiding
+[10:53] out.
+[10:53] >> Okay. So the the sun could be collecting
+[10:56] wimps.
+[10:56] >> Yeah. And if they annihilate, this is
+[11:00] annihilation, normal matter, antimatter
+[11:02] annihilation. Okay, they annihilate. One
+[11:05] of the byproducts of that are nutrinos
+[11:07] of a particular variety,
+[11:10] >> higher energy
+[11:11] >> with what they'd expect from the sun
+[11:13] just going through its daily business.
+[11:15] >> Yeah, these nutrinos have a different
+[11:17] energy than the products of normal
+[11:19] fusion. The energy comes from the fact
+[11:21] that these are the fastest moving of the
+[11:24] wimps. They are they're they're wimps in
+[11:26] the in our galaxy. They're not all
+[11:28] moving with exactly the same speed.
+[11:29] Their average is like 200 kilometers per
+[11:32] second, but these guys would be moving a
+[11:34] lot faster. So more like 500 km a
+[11:37] second. And that means they're they're
+[11:40] on the tail of still being able to be
+[11:43] kept inside the Milky Way. That's
+[11:45] another reason why the count rate would
+[11:47] be so low.
+[11:47] >> So what you have in the LZ experiment is
+[11:50] they're not looking for nutrinos.
+[11:52] They're looking for an actual impact
+[11:53] with a nucleus,
+[11:54] >> right?
+[11:55] >> But this these particles don't live in a
+[11:58] vacuum. Well, they kind of do because
+[12:00] space is a vacuum, but they don't they
+[12:02] don't live outside of other consequences
+[12:05] of their existence. And nutrinos should
+[12:07] be part of this portfolio of
+[12:10] experiments.
+[12:11] >> Yeah. This
+[12:12] >> would verify them.
+[12:13] >> This is called indirect detection. This
+[12:15] approach of where you looking for the
+[12:16] annihilation products. So Katie being a
+[12:18] good scientist, a good theorist, says,
+[12:21] "Not only here is why I think it's
+[12:24] right, here's a way to test if I'm
+[12:28] wrong."
+[12:28] >> Yeah, that's right.
+[12:33] But I can't be wrong.
+[12:37] >> Neil deGrasse Tyson for Star Talk
+[12:39] sharing with you another installment of
+[12:41] What's Up With That. Until next time,
+[12:44] keep looking up.
+[12:47] Hey everybody, this is my latest book,
+[12:51] Lost in Space, a collaboration between
+[12:54] my podcast, Star Talk, and National
+[12:57] Geographic Books. And my co-author is
+[12:59] senior producer on the podcast, Lindsay
+[13:02] Nicks Walker. It is 5,000
+[13:06] facts
+[13:08] about the universe from deep within
+[13:10] Earth's core out to exoplanets to the
+[13:12] edge of the universe and beyond.
+[13:20] Come on.

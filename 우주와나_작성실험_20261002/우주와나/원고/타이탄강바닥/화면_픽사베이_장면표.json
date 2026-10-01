@@ -1,0 +1,90 @@
+{
+  "title": "타이탄 강바닥 — Pixabay 일반 영상 후보(부족한 화면용)",
+  "scenes": [
+    {
+      "id": "②-안개",
+      "part": "② 안개에 가려진 달",
+      "script": "짙은 주황색 안개가 타이탄 하늘 전체를 덮고 있어요 / 위에서는 땅이 조금도 보이지 않았어요",
+      "queries": ["orange fog", "dense haze sky", "misty landscape sunrise"],
+      "note": "타이탄 실제 촬영이 아니라 안개 분위기용. 실제 안개 사진은 NASA·ESA 자료를 쓴다."
+    },
+    {
+      "id": "②-토성·탐사선",
+      "part": "② 카시니·하위헌스 소개",
+      "script": "토성에 도착한 탐사선 카시니 / 카시니에 붙은 착륙선 하위헌스",
+      "queries": ["saturn rings space", "space probe", "spacecraft flying space"],
+      "video_type": "animation",
+      "note": "CG 영상. 실제 카시니·하위헌스 영상이 아님을 구별한다."
+    },
+    {
+      "id": "③-낙하산",
+      "part": "③ 하위헌스의 낙하와 착륙",
+      "script": "낙하산에 매달려 천천히 내려갔어요 / 2시간 28분",
+      "queries": ["parachute descent", "parachute in the sky"],
+      "note": "지구의 낙하산 영상. 하위헌스 실제 하강 영상은 YouTube CC 자료(참고영상_CC자료.md)를 우선한다."
+    },
+    {
+      "id": "③④-자갈·강바닥",
+      "part": "③ 얼음 자갈 / ⑤ 마른 강바닥",
+      "script": "둥글둥글한 자갈이 깔린 강바닥 / 손바닥만 한 자갈",
+      "queries": ["river pebbles", "riverbed stones", "round stones close up"],
+      "note": "도입의 ‘이 사진’은 실제 하위헌스 사진이 필요하다. 이 영상은 ‘지구의 강바닥은 이렇게 생겼다’ 비교용."
+    },
+    {
+      "id": "④-흐르는 액체",
+      "part": "④ 재료가 바뀐 지구",
+      "script": "산비탈에 물이 흐르면 … 깎고, 굴리고, 쌓는 것",
+      "queries": ["stream flowing over rocks", "mountain stream water", "river flowing stones"],
+      "note": "강이 하는 일 세 가지 설명용."
+    },
+    {
+      "id": "④-얼음·추위",
+      "part": "④ 얼음이 바위 역할",
+      "script": "영하 179도의 얼음은 지구의 얼음과 달리 바위처럼 단단해서",
+      "queries": ["ice cracks", "frozen ground", "ice crystals macro"],
+      "note": ""
+    },
+    {
+      "id": "④-도시가스",
+      "part": "④ 메탄=도시가스, 엘엔지",
+      "script": "메탄은 집에서 도시가스로 쓰는 천연가스의 주성분 / 엘엔지",
+      "queries": ["gas stove blue flame", "LNG tanker ship", "natural gas flame"],
+      "note": "상표·사람 얼굴이 보이지 않는 영상만 고른다."
+    },
+    {
+      "id": "④-구름·비",
+      "part": "④ 메탄이 구름이 되고 비로",
+      "script": "공기 속 물이 작은 방울로 맺혀 구름이 되는 / 방울이 커지면 비가 되어 떨어지고요",
+      "queries": ["rain clouds time lapse", "raindrops falling", "storm clouds forming"],
+      "note": "지구의 물 순환 비교용. 타이탄의 메탄 비가 아님을 구별한다."
+    },
+    {
+      "id": "⑤-사막·폭우",
+      "part": "⑤ 마른 강바닥과 폭우(지구의 사막)",
+      "script": "지구의 사막에도 이런 강이 있습니다 / 몇 해 만에 폭우가 내리면 갑자기 물이 흐르는",
+      "queries": ["dry riverbed desert", "desert flash flood", "desert rain storm"],
+      "note": "대본의 사막 비유 화면."
+    },
+    {
+      "id": "⑤-모래언덕",
+      "part": "⑤ 적도의 모래언덕",
+      "script": "타이탄의 적도 지역에는 지구의 사막처럼 모래언덕이 넓게 펼쳐져 있고",
+      "queries": ["sand dunes wind", "desert dunes aerial"],
+      "note": "타이탄 모래언덕은 얼음·유기물 알갱이라 모양 비교용으로만 쓴다."
+    },
+    {
+      "id": "⑤-호수",
+      "part": "⑤ 극지방 호수와 바다",
+      "script": "극지방에서 메탄이 담긴 호수와 바다를 찾아냈습니다",
+      "queries": ["calm lake aerial", "still lake mist", "lake fog morning"],
+      "note": "실제 카시니 레이더 영상은 YouTube CC 자료(#5·#6·#8)나 NASA 페이지를 우선한다."
+    },
+    {
+      "id": "⑥-드론·헬리콥터",
+      "part": "⑥ 드래곤플라이",
+      "script": "헬리콥터처럼 회전날개로 나는 탐사선 / 날 수 있는 탐사선은 서로 다른 땅을 직접 찾아가",
+      "queries": ["drone flying over landscape", "drone rotor close up", "helicopter flying"],
+      "note": "드래곤플라이 실제 모습이 아니라 ‘날아서 옮겨 다닌다’는 느낌용. 계획 단계의 상상도는 별도 표시."
+    }
+  ]
+}

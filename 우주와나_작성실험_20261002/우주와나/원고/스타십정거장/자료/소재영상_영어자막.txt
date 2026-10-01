@@ -1,0 +1,345 @@
+[00:00:02] When you think about life in space
+[00:00:04] today, you might picture a small group
+[00:00:07] of people jammed into a claustrophobic
+[00:00:09] box with tiny windows drinking recycled
+[00:00:12] pee for days on end.
+[00:00:14] That was life on the ISS, but this is
+[00:00:19] something else entirely.
+[00:00:22] High-tech, futuristic, wide-open spaces
+[00:00:25] where people from all different
+[00:00:27] backgrounds live and work in the most
+[00:00:30] amazing environment ever constructed.
+[00:00:33] They are free from the limitations of
+[00:00:35] the past, although they are also still
+[00:00:38] drinking recycled pee.
+[00:00:40] This is the space station of the future,
+[00:00:42] but it is also a starship, a rocket that
+[00:00:46] provides us with a unique opportunity to
+[00:00:49] dream big.
+[00:00:51] And the reason why we choose Starship is
+[00:00:53] simple. It's gigantic, with the upper
+[00:00:57] stage orbiter reaching 9 m in diameter
+[00:01:00] and stretching on for over 50 m in
+[00:01:02] length.
+[00:01:04] It's the largest single object ever put
+[00:01:06] into space. It dwarfs the old space
+[00:01:09] shuttle orbiter, and it even makes the
+[00:01:11] ISS look small.
+[00:01:13] In general, there are many reasons why
+[00:01:15] SpaceX has designed such a massive
+[00:01:18] vehicle. Building a moon base,
+[00:01:20] colonizing Mars, deploying a million
+[00:01:22] Starlink and AI satellites into Earth
+[00:01:25] orbit, all highly ambitious goals.
+[00:01:28] But one of the easier potential outcomes
+[00:01:30] would actually be to use the rocket
+[00:01:33] itself as the basis for a new space
+[00:01:36] station design.
+[00:01:37] This fixes the biggest issue that has
+[00:01:40] plagued almost every other space
+[00:01:42] station, which is not many. There have
+[00:01:44] only really been four of them made in
+[00:01:46] the last 50 years, and a lot of the
+[00:01:48] reason for that is modular construction.
+[00:01:52] The Soviet Mir, the ISS, and the Chinese
+[00:01:54] Tiangong are all made up of smaller
+[00:01:57] parts that had to be launched into space
+[00:01:59] on several rockets, and then assembled
+[00:02:01] together in orbit by a combination of
+[00:02:04] robot arms and people in spacesuits.
+[00:02:07] This means each step of the construction
+[00:02:10] process is limited by how much stuff can
+[00:02:13] be fit inside the nose cone of a rocket
+[00:02:16] or the cargo bay of a space shuttle. And
+[00:02:18] that's traditionally not been very much
+[00:02:21] stuff. So, you end up with this
+[00:02:23] patchwork collection of small things
+[00:02:25] that are trying to work together as one
+[00:02:27] big thing. But the result is often just
+[00:02:30] a lot of tight corners and physical
+[00:02:32] bottlenecks, resulting in a space
+[00:02:34] station experience that [music] feels
+[00:02:36] more like a submarine than Star Trek.
+[00:02:40] But they did solve this problem 50 years
+[00:02:42] ago, back in the 1970s, with a NASA
+[00:02:45] project called Skylab. It was a very
+[00:02:48] similar concept to what we're
+[00:02:50] envisioning today with the Starship.
+[00:02:52] NASA had built their own gigantic
+[00:02:54] rocket, the Saturn V, which was built to
+[00:02:56] send people to the moon, but the Apollo
+[00:02:59] program ended before all of the Saturn
+[00:03:01] Vs were used up. So, they were looking
+[00:03:04] at this humongous opportunity and trying
+[00:03:06] to figure out the best way to make it do
+[00:03:08] something incredible.
+[00:03:11] Since the rocket would never travel as
+[00:03:13] far as the moon, they would only need to
+[00:03:15] use two of the three stages to reach
+[00:03:17] orbit, leaving the third stage available
+[00:03:19] for some repurposing. NASA engineers
+[00:03:23] converted a space that used to be
+[00:03:24] occupied by two fuel tanks measuring 6.6
+[00:03:27] m wide and 17.9 m long. In here, they
+[00:03:31] built the first orbital laboratory,
+[00:03:34] Skylab. When the station was launched in
+[00:03:36] 1973, this is what life looked like
+[00:03:39] inside for the crew of three, a
+[00:03:42] wide-open, spacious environment where
+[00:03:45] they were free to cartwheel through
+[00:03:47] microgravity.
+[00:03:49] We have never seen anything like this
+[00:03:51] since because no other space station has
+[00:03:54] offered that much internal volume.
+[00:03:57] But our Starship is going to be at least
+[00:04:00] three times the size. Now, when it comes
+[00:04:03] to converting our Starship orbiter into
+[00:04:05] a fully operational space station,
+[00:04:07] there's going to be an extra layer of
+[00:04:09] complication involved.
+[00:04:11] If we look at how a typical Starship is
+[00:04:13] laid out, only about the upper third of
+[00:04:16] the vehicle is open cargo space that
+[00:04:18] could be repurposed into living space.
+[00:04:21] This is the idea for flying people to
+[00:04:23] the moon and Mars, and in those cases,
+[00:04:26] the bottom two-thirds of the Starship
+[00:04:28] would be needed to carry the fuel that
+[00:04:30] will power their journey beyond the
+[00:04:31] Earth. But if our Starship is only going
+[00:04:34] to orbit and then just hanging out there
+[00:04:36] for the long haul, then that space
+[00:04:38] dedicated to fuel storage becomes our
+[00:04:40] opportunity to build this amazing dream
+[00:04:44] space station. It's not like we're going
+[00:04:46] to live inside the old fuel tanks, but
+[00:04:47] we will use that space
+[00:04:49] &gt;&gt; [music]
+[00:04:49] &gt;&gt; for housing all of the critical systems
+[00:04:52] that power the station and keep us
+[00:04:53] alive. That keeps all of the prime real
+[00:04:56] estate up above free for us to enjoy.
+[00:05:00] The biggest problem to solve here is
+[00:05:01] that renovations can only begin once the
+[00:05:04] ship has arrived in orbit. That means
+[00:05:07] somebody has to go down there and start
+[00:05:09] cutting holes, ripping out plumbing, and
+[00:05:11] building floors.
+[00:05:13] Now, the head of SpaceX, Mr. Elon Musk,
+[00:05:15] has already made the bold prediction
+[00:05:16] that his Tesla robot will take over
+[00:05:18] every job within our lifetime. So, we
+[00:05:21] are going to nominate Optimus as the
+[00:05:23] orbital contractor that will bring this
+[00:05:25] all together for us.
+[00:05:27] In addition to interior design, our
+[00:05:29] robotic work crew will need to handle
+[00:05:31] some big modifications to the [music]
+[00:05:33] exterior of the station.
+[00:05:35] From the get-go, this rocket will be
+[00:05:37] built a little differently from your
+[00:05:39] typical Starship. Since this one will
+[00:05:41] never return to Earth or fly to Mars, it
+[00:05:44] doesn't need wing flaps or heat shield
+[00:05:46] tiles. Instead, it will be fitted with
+[00:05:48] some massive window panels wrapping
+[00:05:50] around the nose cone and an airlock
+[00:05:52] hatch for future spacewalks.
+[00:05:55] Once in orbit, the last of the
+[00:05:56] Starship's rocket hardware can be
+[00:05:58] stripped away with engines removed from
+[00:06:00] the base and replaced with a new docking
+[00:06:02] port for crew and cargo ships.
+[00:06:04] Lastly, our autonomous contractors will
+[00:06:07] need to install a pretty massive solar
+[00:06:08] panel array and cooling radiator.
+[00:06:11] Admittedly, this will be shipped up to
+[00:06:13] orbit on an additional Starship mission
+[00:06:15] because if our space station is going to
+[00:06:17] have more than double the volume of the
+[00:06:19] ISS, then it's also going to need more
+[00:06:21] than double the power, which means more
+[00:06:24] than double the size of the solar array.
+[00:06:27] The panels are also rigged up with a
+[00:06:28] plumbing system that moves excess heat
+[00:06:30] from inside the station and radiates it
+[00:06:33] out into space. And with all of that
+[00:06:35] hard work wrapped up, I think the
+[00:06:37] station is ready for its first crew to
+[00:06:40] arrive. That is us. So, let's check this
+[00:06:43] thing out. We pass through an airlock
+[00:06:46] into deck 10 of the space station. This
+[00:06:48] is the top of what used to be a methane
+[00:06:51] fuel tank. And our first glimpse of the
+[00:06:53] most amazing space station ever built is
+[00:06:56] actually pretty underwhelming. This is
+[00:06:59] the waste management and utilities room.
+[00:07:01] It's the basement of the space station,
+[00:07:03] but there is important stuff going on
+[00:07:05] down here. We've got the solar power
+[00:07:07] generator, battery storage, trash
+[00:07:09] compactor, and organic waste composting
+[00:07:12] system.
+[00:07:13] Moving on up to deck nine, we're now
+[00:07:15] into what used to be a liquid oxygen
+[00:07:17] tank, and this
+[00:07:18] &gt;&gt; [music]
+[00:07:19] &gt;&gt; is where all of our air and water is
+[00:07:21] processed. The cool thing about a space
+[00:07:23] station like this is it works just like
+[00:07:25] the Fremen stillsuit in Dune. No
+[00:07:27] moisture goes to waste. Every drop of
+[00:07:30] sweat, spit, and pee is captured and
+[00:07:32] recycled into our precious water supply.
+[00:07:35] That is also where we get fresh oxygen.
+[00:07:38] All of the station's air is filtered to
+[00:07:40] scrub out the CO2, and then some of the
+[00:07:43] recycled water is split into its base
+[00:07:45] elements using the Sabatier process, and
+[00:07:48] the extracted oxygen is used to freshen
+[00:07:50] up the air supply. So, if you've noticed
+[00:07:53] that it smells a little funny in here,
+[00:07:55] that's pee air. Breathe it in, my
+[00:07:57] friends.
+[00:07:58] All of the water is stored in tanks that
+[00:08:00] line the walls of this deck. [music]
+[00:08:02] That's done strategically to create a
+[00:08:04] radiation shelter for the crew. Water is
+[00:08:07] one of the most effective materials to
+[00:08:09] block radiation. So, if a particularly
+[00:08:11] gnarly solar flare ever makes its way
+[00:08:13] towards the Earth, we hunker down in the
+[00:08:16] water room and wait it out.
+[00:08:18] Okay, going up one more deck, we are now
+[00:08:20] out of the old fuel tanks and into the
+[00:08:22] part of the station that wasn't built by
+[00:08:24] robots in space. [music] So, you should
+[00:08:27] start to notice a distinct upgrade to
+[00:08:29] the interior design.
+[00:08:30] This is deck eight, and it's our airlock
+[00:08:33] space where people could suit up and
+[00:08:35] exit the station if they dare.
+[00:08:38] Spacewalks are often necessary for
+[00:08:40] routine maintenance. There are also some
+[00:08:42] really cool new experiments being done
+[00:08:43] in the vacuum of space, but it's also
+[00:08:45] very likely that in a place like this,
+[00:08:47] people will hop out into space just for
+[00:08:49] fun, and that's pretty cool, too. Deck
+[00:08:52] seven is basically a closet and pantry
+[00:08:55] space for all of our food and general
+[00:08:57] supplies. I promise we'll get to the
+[00:08:59] cool stuff in a minute, but we also need
+[00:09:01] to be practical, right? Anyone who's
+[00:09:03] ever bought a house understands the
+[00:09:04] value of some storage space. Anyway,
+[00:09:07] carrying on to deck six, this is the
+[00:09:10] fitness center and sanitation zone. We
+[00:09:13] are trying to recapture as much moisture
+[00:09:15] as possible, so might as well put it all
+[00:09:17] in one spot. And you'll be spending a
+[00:09:19] lot of time on this deck, not only
+[00:09:21] because this is where the space toilet
+[00:09:23] is located, but also to get in your 2
+[00:09:26] hours of exercise per day.
+[00:09:29] This is not a suggested fitness routine.
+[00:09:31] This is doctor's orders. Without
+[00:09:33] constant exercise, the microgravity
+[00:09:36] environment will cause your muscles to
+[00:09:37] shrink and wither away. Then once you've
+[00:09:40] lost that, your bones will go next, and
+[00:09:42] you'll come back as nothing but a
+[00:09:43] brittle skeleton. So, get your reps in.
+[00:09:47] Moving on up, we arrive at deck five.
+[00:09:49] This is your crew quarters. Nothing
+[00:09:51] fancy, but this is a lot nicer living
+[00:09:53] conditions than any astronaut of
+[00:09:55] previous generations. In theory, a
+[00:09:58] station this size could fit a hundred
+[00:10:00] people inside, but that would suck. So,
+[00:10:03] we're looking at a much more reasonable
+[00:10:04] number of about 20 crew members on board
+[00:10:07] at any given time. [music] That's about
+[00:10:09] double the occupancy of the
+[00:10:10] International Space Station in a vessel
+[00:10:13] about three times the size. So, we're
+[00:10:15] all going to have a nice amount of
+[00:10:17] personal space. We've also decked out
+[00:10:19] the crew level with some windows so that
+[00:10:21] you don't wake up feeling like you're
+[00:10:23] trapped in a box.
+[00:10:25] Okay, deck four. This is where things
+[00:10:27] get serious. This is our
+[00:10:29] state-of-the-art orbital research
+[00:10:31] laboratory.
+[00:10:33] All around the outside, the walls are
+[00:10:35] lined with experiment racks. We have
+[00:10:37] very smart individuals up here studying
+[00:10:40] the nature of the universe, glove boxes
+[00:10:42] for handling dangerous materials,
+[00:10:44] biology experiments on plants and
+[00:10:46] animals in space. The cutting edge of
+[00:10:49] microgravity manufacturing is growing
+[00:10:51] new molecules free from the constraints
+[00:10:53] of Earth's environment. It's hard to say
+[00:10:56] exactly what these folks are doing, and
+[00:10:58] if they told you, then they'd probably
+[00:11:00] have to kill you as well. So, let's just
+[00:11:02] float on in silent awe of their
+[00:11:03] intellectual superiority.
+[00:11:06] Okay, welcome to deck three. We have
+[00:11:08] finally arrived at the really cool
+[00:11:10] stuff. This is the beginning of our
+[00:11:12] communal space where those of us not on
+[00:11:15] the government payroll will be spending
+[00:11:16] the majority of our day.
+[00:11:19] Up here, the levels become a little more
+[00:11:21] of an open concept. First, we have our
+[00:11:24] kitchen and dining area. You can't
+[00:11:26] really cook in microgravity, but we can
+[00:11:28] rehydrate meal packets and then put them
+[00:11:30] in the microwave. It's not bad. And
+[00:11:33] we've also been working on zero-G
+[00:11:35] gardening, so there's going to be an
+[00:11:37] adequate supply of fresh fruits and
+[00:11:39] vegetables around.
+[00:11:40] Rising up a little higher to deck two,
+[00:11:42] this is the recreation zone. Video games
+[00:11:45] and virtual reality, throwing around
+[00:11:47] footballs in microgravity, chess boards
+[00:11:49] with magnetic pieces that don't float
+[00:11:51] away, anything you need to keep the mind
+[00:11:53] and body properly stimulated. Now here,
+[00:11:56] right at the top in the nose cone of the
+[00:11:58] Starship is the crowning jewel, our
+[00:12:01] lounge and observation deck. 360°
+[00:12:05] views of the Earth, the moon, and the
+[00:12:07] vast infinity of the cosmos. From here,
+[00:12:10] we watch the sun rise and set over the
+[00:12:12] Earth every 90 minutes as the world
+[00:12:14] flies by at over 28,000 km per hour. It
+[00:12:19] only makes sense that life in a place
+[00:12:21] like this would probably lead to some
+[00:12:23] profound revelations about of life, the
+[00:12:26] universe, and everything. But, I'll
+[00:12:29] leave that up to you to ponder what it
+[00:12:30] all truly means. Now, will we ever get
+[00:12:33] to see any of this outside of our 3D
+[00:12:36] rendered imagination, which again, shout
+[00:12:38] out Roger B for making this. I guess
+[00:12:40] that depends on what you consider to be
+[00:12:42] possible. Everything we've seen is based
+[00:12:45] on stuff that Elon Musk has said that he
+[00:12:48] is going to make. The Starship, the
+[00:12:50] autonomous robots, the technology that
+[00:12:52] would allow the colonization of the moon
+[00:12:54] and Mars.
+[00:12:55] Compared to that big goal of a million
+[00:12:57] people living in a Martian city, the
+[00:12:59] Starship space station is so easy that
+[00:13:01] it would be kind of crazy not to exist.
+[00:13:04] So, in many ways, this is one of our
+[00:13:07] most realistic experiments with
+[00:13:09] speculation. But, if you want to see the
+[00:13:11] really wild stuff, check out the journey
+[00:13:13] to Mars inside a SpaceX Starship.

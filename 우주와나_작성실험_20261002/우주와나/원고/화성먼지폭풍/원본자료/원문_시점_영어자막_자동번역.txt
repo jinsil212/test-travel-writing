@@ -1,0 +1,281 @@
+[00:00] In 2026, the first spacecraft will be launched to Mars, and if all goes well,
+[00:05] the first manned flights to Mars will take place
+[00:08] in 2028. Humans will become a multi-planetary species for the first time.
+[00:13] From then on, the pace of flights will grow exponentially, with the goal of building
+[00:18] a self-sufficient city in about 20 years.
+[00:21] But how are we going to achieve all this?
+[00:24] The first challenge to be solved is getting off Earth, and here a key challenge arises:
+[00:28] minimizing fuel consumption.
+[00:31] Most energy is consumed escaping Earth's gravity, since, once
+[00:35] in space, the absence of drag allows it to maintain motion on an
+[00:41] appropriate trajectory.
+[00:42] If the rocket is headed in the right direction, it will simply be a matter of waiting for it to reach
+[00:47] its destination.
+[00:48] Going to the Moon to refuel would be inefficient because more fuel would be consumed landing
+[00:53] and taking off from the Moon than going directly to Mars.
+[00:57] So the most logical solution is the following.
+[00:59] A rocket bound for Mars takes off and burns much of its fuel to escape
+[01:04] Earth.
+[01:05] At that point, the rocket will enter low-Earth orbit, where a second,
+[01:10] fuel-laden craft will dock for refueling.
+[01:15] And how often can we send rockets to the red planet?
+[01:18] In orbit around the Sun, it takes us a year to circle, and Mars takes almost
+[01:23] a year and eleven months.
+[01:25] This means we'll be relatively close every 26 months.
+[01:28] That's why 2026 will be the year in which the first
+[01:33] rocket test will be sent to Mars, and in 2028 the first humans will arrive.
+[01:37] The length of this trip depends on how quickly the Starship can accelerate
+[01:42] and decelerate.
+[01:43] But based on its current technology, it will take about six months for each trip.
+[01:48] This is also the reason why SpaceX will send at least five ships on each trip.
+[01:53] And it's thanks to this ship, Starship, that the economic viability of reaching Mars
+[01:57] can be achieved.
+[01:58] In the 1980s, taking one kilogram into space on a large rocket cost more than
+[02:03] $75,000 with the Space Shuttle.
+[02:05] Little by little, that efficiency improved, but it was really only incremental.
+[02:10] Then SpaceX entered the industry, and in about 15 years, it went from about $12,000 per
+[02:15] kilogram to just $200, which is about 375 times less than
+[02:21] the Space Shuttle.
+[02:22] However, to build a city on Mars that can grow without constant assistance
+[02:27] from Earth, at least one million tons of equipment is needed, which would cost
+[02:31] more than one trillion dollars.
+[02:34] An obviously impossible figure, given that the US GDP is about
+[02:38] $29 trillion.
+[02:39] However, if space technology could be made about a thousand times cheaper, the cost of becoming
+[02:44] a sustainable multi-planetary system would be reduced to $1 trillion, a
+[02:50] cost that could be spread over 40 years, or about $25 billion
+[02:55] annually.
+[02:56] So, we now have the exit plan fully configured.
+[02:59] But now we have another daunting challenge: entering Mars.
+[03:03] Unlike Earth, Mars has an extremely thin atmosphere, barely
+[03:08] 1% the density of ours.
+[03:11] This means it's not possible to use atmospheric drag as
+[03:16] effectively to reduce landing speed.
+[03:19] And if you're traveling at speeds exceeding 20,000 km/h, your braking plan had better
+[03:25] work perfectly, because one mistake turns you into the most expensive meteorite in
+[03:30] history.
+[03:31] To achieve this, SpaceX has designed its Bellyflop system, a name taken from the style
+[03:35] of swimming pool launch where you crash belly-first.
+[03:39] Mimicking humans in this way, the craft uses its body as an aerodynamic brake,
+[03:44] descending sideways into the Martian atmosphere to maximize drag and drastically reduce
+[03:50] speed.
+[03:51] Once it approaches the ground, the Starship will change position to land vertically,
+[03:56] using its engines for a controlled descent.
+[03:59] Next step: finding suitable landing zones.
+[04:02] Mars has terrain full of craters, rocks and dangerous slopes, and the latest
+[04:07] What we want is to increase the number of craters.
+[04:09] Obviously, we'll be landing on a flat area, but the important thing isn't getting there, it's
+[04:14] staying there.
+[04:15] So, what's the best area to settle on the red planet?
+[04:19] There are three main factors that determine which locations are suitable:
+[04:23] access to essential resources, favorable climatic conditions, and viability for
+[04:28] future expansion.
+[04:29] First is access to water.
+[04:31] On Mars, water isn't found in rivers or lakes, but mainly in the form of ice
+[04:35] beneath the surface and in the polar ice caps.
+[04:39] This ice is covered by a layer of dust and rock, which keeps it protected
+[04:42] from the planet's hostile environment.
+[04:45] To use it, you'd have to dig, as water is key not only for drinking but also
+[04:49] for obtaining oxygen and fuel, but we'll get to that later.
+[04:53] Furthermore, it's also important that this ice be accessible, meaning that it's located
+[04:57] within 5 meters of the surface.
+[05:00] Second, we need good sun exposure, so the best locations are
+[05:05] relatively close to the equator, at latitudes below 40 degrees, where more
+[05:10] sunlight is received and temperatures are less extreme—around minus 60 degrees—facilitating
+[05:16] energy generation and habitat maintenance.
+[05:20] Furthermore, Martian dust storms are a major problem, so the
+[05:23] chosen areas must combine good sun exposure with less dust to
+[05:28] ensure energy generation.
+[05:31] And third, there's geological safety.
+[05:33] Landing on a plain not only makes the descent easier but also reduces the
+[05:38] risk of unstable slopes and avoids areas with geological activity or
+[05:43] recent craters.
+[05:44] The ideal areas are at a low elevation, preferably between minus three and minus four
+[05:49] kilometers.
+[05:50] In these areas, the atmosphere is slightly denser, which improves landing, moderates
+[05:55] temperatures, and facilitates the capture of CO2, essential for producing oxygen and fuel.
+[06:01] Combining these three criteria, what would be the best location?
+[06:05] This is a map of Mars that doesn't tell us much at first glance, but on this topographic map,
+[06:10] where red represents high areas and blue represents low areas,
+[06:14] potential areas are better distinguished.
+[06:16] One of the most promising locations scientists have identified is Arcadia
+[06:20] Planitia.
+[06:21] With an elevation of nearly minus four kilometers and a latitude of around
+[06:26] 40 degrees, it stands out as one of the flattest and safest areas, in addition to having
+[06:31] evidence of accessible underground ice.
+[06:34] Now that we have located the site of our Martian settlement, it's time for the
+[06:38] logistical challenge.
+[06:39] In 2026, five uncrewed cargo ships will be sent with a key mission: to confirm
+[06:45] the presence and accessibility of water, as well as to identify potential hazards on the terrain.
+[06:50] In addition to this, the ships are also tasked with deploying
+[06:54] energy, mining, and life-support infrastructure that will be useful for when the first
+[06:59] humans land, which brings us to 2028, when at least two crewed ships
+[07:05] and two cargo ships will arrive, carrying more equipment and supplies.
+[07:08] However, if difficulties arise, manned missions will be postponed for another two years.
+[07:14] One of the key tasks of these first crews will be to build a
+[07:19] fuel production plant, using the water and carbon dioxide available in the Martian environment
+[07:24] to generate the methane and oxygen needed by the spacecraft.
+[07:28] They will also need to build an initial base to serve as a starting point and
+[07:33] prepare the area for future expansion, with the goal of becoming a
+[07:38] self-sufficient city as soon as possible.
+[07:40] And how will this future base be organized?
+[07:43] SpaceX suggests a four-phase vision for the development of the Martian city, and this
+[07:48] is what the initial phase would look like.
+[07:51] A little later, the base would be medium-sized.
+[07:54] In the third phase, it would resemble a small colony.
+[07:57] In the fourth and final phase, the Martian city is complete and finally self-sufficient.
+[08:03] But how do we get there?
+[08:04] There are eight key elements to consider.
+[08:08] Energy, oxygen, water, food, radiation, dust, infrastructure
+[08:13] , and population.
+[08:15] Let's start with the latter.
+[08:16] SpaceX plans to reach a population of one million in two
+[08:20] or three decades.
+[08:21] Of course, this would be gradual.
+[08:24] Initially, a small group of highly specialized people would be sent
+[08:28] to carry out the initial tasks at the base.
+[08:30] This group of workers would be paid heavily by the organizations
+[08:35] due to the risks involved in colonization.
+[08:37] But as the city expands and is considered safe, the remaining population
+[08:43] may have to pay to go to Mars, either with their own money or with
+[08:47] employment contracts that allow them to cover their costs, or even through loans.
+[08:52] The health of the Martian population will be one of the most complex challenges to address,
+[08:56] as living on Mars exposes colonists to conditions that affect both their
+[09:00] physical and mental well-being.
+[09:02] One of the most immediate problems will be adapting to Martian gravity, which
+[09:06] is only 38% that of Earth.
+[09:09] In the long term, this could cause bone and muscle loss and
+[09:14] cardiovascular problems, requiring intensive exercise, habitats with
+[09:19] simulated gravity, and specific medical treatments.
+[09:22] And then there's the psychological issue.
+[09:24] The colonists will be approximately 225 million kilometers from home, with
+[09:29] communication delays of between 3 and 22 minutes, depending on the relative position of the
+[09:35] planets.
+[09:36] This, coupled with the lack of natural stimulation we have on planet Earth, could
+[09:40] generate stress, anxiety, depression, or even social conflict within the colony.
+[09:45] To address this, it will be key to create pleasant living spaces, offer
+[09:50] recreational activities, and provide psychological support.
+[09:52] Another key health challenge is radiation.
+[09:55] Without a significant magnetic field or a dense atmosphere, Mars offers no protection
+[10:01] against solar and cosmic radiation.
+[10:03] On average, radiation on Mars is 50 times higher than on Earth's surface,
+[10:08] increasing the risk of cancer and other degenerative diseases.
+[10:12] To prevent this, SpaceX and NASA are researching more advanced shielding for
+[10:17] spacecraft and habitats.
+[10:19] In the future, artificial magnetic fields could be deployed to deflect
+[10:24] charged particles, somewhat mimicking the shielding of Earth's magnetic field.
+[10:28] Another less sophisticated but equally effective option is to coat habitats with the
+[10:33] planet's dust, known as regolith, which acts as a natural shield against cosmic radiation
+[10:38] .
+[10:39] A protective layer of water would be very useful, as it has a great capacity to absorb
+[10:44] radiation particles, and the dust I mentioned earlier, regolith, is extremely
+[10:49] fine, abrasive, and electrostatically charged, causing it to stick to surfaces and damage
+[10:54] equipment.
+[10:55] Furthermore, it contains toxic perchlorates, which can affect human health when inhaled.
+[11:00] Minimizing these risks will require advanced filtration systems, airtight suits
+[11:05] , and strict protocols in habitable areas. Regolith also impairs the efficiency
+[11:10] of our next point, energy.
+[11:13] Specifically, solar energy will be one of the main sources of electricity,
+[11:17] but on Mars it is only 40% as effective as on Earth, and regolith can cover
+[11:23] solar panels during dust storms, drastically reducing their ability
+[11:28] to generate energy.
+[11:29] These storms can last for weeks and cover large areas of the planet.
+[11:33] To achieve this, automated cleaning systems for solar panels will be needed, and
+[11:39] it will also be essential to diversify energy sources to ensure a constant
+[11:44] and reliable supply, using mainly nuclear energy and, to a lesser extent, wind energy
+[11:50] depending on the location of the base.
+[11:51] But we are forgetting something fundamental: oxygen.
+[11:55] There is not enough oxygen in the Martian atmosphere for humans to breathe,
+[11:59] as it is mostly composed of carbon dioxide.
+[12:03] So we will have to produce it artificially, and at this particular point it seems
+[12:07] The solution has already been established.
+[12:09] NASA has developed Moxie technology, a device that has already been successfully tested
+[12:14] on the Perseverance rover, which has been on Mars since 2021.
+[12:18] Here's how it works:
+[12:19] Moxie captures carbon dioxide, CO2, from the Martian atmosphere and heats it to around
+[12:24] 800 degrees, separating it into oxygen, O2, and carbon monoxide, CO.
+[12:30] The oxygen is released into habitats to make them habitable, while the
+[12:34] carbon monoxide is reused to produce methane, CH4, used as fuel for Starship spacecraft
+[12:40] along with oxygen.
+[12:41] Furthermore, the water available on Mars could be harnessed through electrolysis, separating
+[12:46] its molecules into oxygen and hydrogen, the latter also being essential for making
+[12:52] methane.
+[12:53] And speaking of water, it's not only necessary for drinking, but also for producing oxygen,
+[12:58] and for maintaining agriculture and personal hygiene.
+[13:01] To extract ice, solutions like Redwater, a system designed to drill and extract
+[13:06] water from the Martian subsurface, not only promise to solve this problem but
+[13:10] could also contribute to important scientific exploration missions.
+[13:14] And as for agriculture, growing food on a planet without fertile soil, without rainfall
+[13:19] , and with a completely hostile climate will require innovative and efficient solutions.
+[13:24] One of the most viable options is the use of greenhouses, which could be hydroponic,
+[13:29] where plant roots grow in nutrient-enriched water, or aeroponic,
+[13:34] where the roots are suspended in the air and sprayed with this nutrient solution.
+[13:38] These systems can be installed within protected habitats, using artificial light
+[13:43] or filtered sunlight to stimulate growth.
+[13:46] In the long term, the Martian regolith could be chemically treated to convert it into
+[13:51] a substrate similar to the fertile soil on our planet, which would improve
+[13:57] the colony's self-sufficiency.
+[13:58] Furthermore, Martian agriculture will not only guarantee fresh food but will also
+[14:03] partially contribute to air and water recycling.
+[14:06] And the last fundamental issue is infrastructure.
+[14:09] Before the colonists arrive, autonomous robots will prepare the ground, level
+[14:14] the surface, move regolith to cover habitats, and deploy solar panels
+[14:19] or other energy systems.
+[14:21] The initial infrastructure will be prefabricated on Earth and transported to Mars by rocket.
+[14:27] These structures will be designed to be autonomous and modular, capable of deploying
+[14:32] automatically or with minimal human intervention.
+[14:35] As the colony grows, it will be essential to implement internal transportation systems,
+[14:40] power stations, and storage facilities for water and food.
+[14:44] These infrastructures will form the physical foundation of the city and thus allow for its
+[14:48] expansion.
+[14:49] Martian regolith could also play a key role, as it can be used to
+[14:54] make compressed bricks or 3D print structures with advanced printers,
+[14:59] reducing the need to transport materials from Earth.
+[15:03] Another critical aspect of infrastructure will be communication with Earth.
+[15:07] Mars is, on average, 225 million kilometers from our planet, which means
+[15:13] that signals take about 12.5 minutes to travel in one direction.
+[15:18] However, this delay varies.
+[15:20] When the planets are closest, it is only three minutes, while
+[15:23] at their furthest point it can reach 22 minutes.
+[15:27] To connect both planets, SpaceX has proposed the Marslink project, an adapted version
+[15:32] of its Starlink satellite network.
+[15:34] This constellation of satellites orbiting Mars will feature advanced laser technology,
+[15:39] capable of initially transmitting data at 4 megabits per second, with the ultimate goal
+[15:44] of exceeding one petabit per second.
+[15:46] Marslink will establish a constant bridge between Mars and Earth, enabling the transmission of
+[15:51] images, scientific data, and essential communications.
+[15:55] Furthermore, Marslink will provide an efficient communications network for missions and
+[16:00] future colonies on the Red Planet.
+[16:02] We dream of Mars, but all dreams come at a price.
+[16:06] Who pays it? And more importantly, what's the benefit?
+[16:09] Initially, space agencies like NASA and ESA will bear part of the cost due to their
+[16:18] scientific and strategic value, while companies like SpaceX reduce costs through reusability,
+[16:24] mass production, and attracting investors.
+[16:26] Space tourism is one of the first clear sources of revenue.
+[16:30] Whether through short trips to the Moon or longer adventures to Mars, the possibility of exploring
+[16:35] outer space promises to capture the interest of many.
+[16:39] If today people pay fortunes to visit places like Antarctica, what wouldn't they do
+[16:43] for a Martian experience?
+[16:45] An estimated price of €30,000 per person could attract around 50,000 people per year,
+[16:50] generating €1.5 billion in gross annual revenue.
+[16:53] It's not a massive market, but it is a profitable start.
+[16:56] The Moon, Mars, and the nearby asteroid belt could become strategic bases
+[17:02] for the extraction of valuable minerals such as helium-3, platinum, rhodium, and ruthenium, essential
+[17:07] for advanced industries.
+[17:09] However, technological limitations and high transportation costs make
+[17:14] this option viable only in the long term.
+[17:17] Furthermore, Mars could generate unique secondary markets.
+[17:20] From small Martian stones to time capsules or even human ashes, the
+[17:26] red planet would become a key element for emotional connection.
+[17:31] In the long term, taxed plots and habitats could also be sold, opening up
+[17:36] an interplanetary real estate market.
+[17:38] Beyond the economic aspect, colonization will drive an unprecedented technological leap,
+[17:43] similar to the one achieved during the two World Wars.
+[17:45] Even if the project doesn't achieve self-sufficiency, the technologies developed to survive
+[17:51] on Mars could revolutionize sustainability, helping us confront critical problems
+[17:56] on Earth, such as climate change and resource scarcity.
+[18:00] But the most important thing is the safety of our species.
+[18:04] Going to Mars is much more than a dream; it's life insurance for humanity.
+[18:08] Becoming a multi-planetary species protects us against existential risks
+[18:13] and guarantees the continuity of our civilization in the face of global disasters.
+[18:17] For example, what if there were a Third World War?

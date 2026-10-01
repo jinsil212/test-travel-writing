@@ -1,0 +1,158 @@
+{
+ "안주(지식팩토리,66만,12:31)": {
+  "chars_ns": 3992,
+  "hook_end": 3.8,
+  "surprise": 1.9,
+  "first_turn": 42.4,
+  "core": 81.4,
+  "closing": 93.7,
+  "closing_share": 6.3,
+  "kw_maxgap": 19.4,
+  "punct": true,
+  "sents": 182,
+  "q_ratio": 9.9,
+  "avg_len": 21.9,
+  "end": {
+   "죠": 4,
+   "다": 5,
+   "니다": 51,
+   "요": 36,
+   "기타": 4
+  },
+  "surprise_sent": 5,
+  "hook_sents": 8
+ },
+ "사자고기(지식팩토리,56만,16:38)": {
+  "chars_ns": 5198,
+  "hook_end": 2.9,
+  "surprise": 0.9,
+  "first_turn": 33.5,
+  "core": 50.4,
+  "closing": 90.6,
+  "closing_share": 9.4,
+  "kw_maxgap": 26.2,
+  "punct": true,
+  "sents": 205,
+  "q_ratio": 4.9,
+  "avg_len": 25.4,
+  "end": {
+   "요": 42,
+   "기타": 3,
+   "니다": 49,
+   "다": 4,
+   "죠": 2
+  },
+  "surprise_sent": 4,
+  "hook_sents": 8
+ },
+ "돼지(지식팩토리,3.8만,15:54)": {
+  "chars_ns": 4881,
+  "hook_end": 3.2,
+  "surprise": 1.0,
+  "first_turn": 10.6,
+  "core": 79.6,
+  "closing": 95.1,
+  "closing_share": 4.9,
+  "kw_maxgap": 5.8,
+  "punct": true,
+  "sents": 196,
+  "q_ratio": 6.6,
+  "avg_len": 24.9,
+  "end": {
+   "니다": 49,
+   "죠": 3,
+   "요": 42,
+   "기타": 4,
+   "다": 2
+  },
+  "surprise_sent": 4,
+  "hook_sents": 7
+ },
+ "에어컨·부진(지식팩토리,112회,15:27)": {
+  "chars_ns": 4753,
+  "hook_end": 12.5,
+  "surprise": 0.4,
+  "first_turn": 27.7,
+  "core": 91.0,
+  "closing": 90.3,
+  "closing_share": 9.7,
+  "kw_maxgap": 10.3,
+  "punct": true,
+  "sents": 184,
+  "q_ratio": 5.4,
+  "avg_len": 25.8,
+  "end": {
+   "니다": 48,
+   "요": 41,
+   "기타": 3,
+   "죠": 7,
+   "다": 2
+  },
+  "surprise_sent": 2,
+  "hook_sents": 22
+ },
+ "생선(지식브런치,152만,16:23)": {
+  "chars_ns": 4744,
+  "hook_end": 6.6,
+  "surprise": 0.9,
+  "first_turn": 17.0,
+  "core": 97.3,
+  "closing": 92.6,
+  "closing_share": 7.4,
+  "kw_maxgap": 15.0,
+  "punct": true,
+  "sents": 173,
+  "q_ratio": 1.2,
+  "avg_len": 27.4,
+  "end": {
+   "죠": 13,
+   "니다": 79,
+   "요": 6,
+   "기타": 2
+  },
+  "surprise_sent": 2,
+  "hook_sents": 12
+ },
+ "짠음식(지식브런치,232만,8:34)": {
+  "chars_ns": 2700,
+  "hook_end": 9.4,
+  "surprise": 1.6,
+  "first_turn": 9.4,
+  "core": 71.0,
+  "closing": 80.2,
+  "closing_share": 19.8,
+  "kw_maxgap": 9.9,
+  "punct": true,
+  "sents": 3,
+  "q_ratio": 0.0,
+  "avg_len": 900.0,
+  "end": {
+   "기타": 67,
+   "니다": 33
+  },
+  "surprise_sent": 2,
+  "hook_sents": 2
+ },
+ "웍(지식브런치,183만,8:47)": {
+  "chars_ns": 2471,
+  "hook_end": 8.1,
+  "surprise": 2.3,
+  "first_turn": 34.1,
+  "core": 80.5,
+  "closing": 98.1,
+  "closing_share": 1.9,
+  "kw_maxgap": 11.3,
+  "punct": false
+ },
+ "화장실(지식브런치,422만,8:22)": {
+  "chars_ns": 2564,
+  "hook_end": 14.1,
+  "surprise": 5.9,
+  "first_turn": 14.2,
+  "core": 92.6,
+  "closing": 92.6,
+  "closing_share": 7.4,
+  "kw_maxgap": 8.6,
+  "punct": false
+ }
+}

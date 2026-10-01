@@ -1,0 +1,117 @@
+{
+  "draft": "C:/Users/진실/Downloads/롱폼원고/_검수/송시열_개정검증/대본_v9.txt",
+  "guide": "C:/Users/진실/Downloads/롱폼원고/_대본지침서.md",
+  "draft_sha256": "0f564b6164dc5f5f9fe14f236b89c87e44d970789962f7d8ba261c311a156d18",
+  "guide_sha256": "b65ed65403e429c2433d9ecf26e28a5387b5fe6f4efd000012d42abb7c0fdcee",
+  "reviewer": "Laplace",
+  "method": "separate_review",
+  "reviewed_at": "2026-09-16",
+  "scope": "v9 전문 136행을 직접 읽고 v8 대비 실제 diff 및 판본 전체 사실 맥락을 재대조했다. 새 사료 조회는 하지 않고 같은 대화에서 직접 확인한 실록·공공 역사 자료를 기준으로 검토했다. 현행 지침은 직전 전문 정독본과 SHA256이 동일함을 확인했다. 사실축 이외의 합격 및 사용자 최종 승인은 판정하지 않는다.",
+  "axes": {
+    "facts": {
+      "verdict": "pass",
+      "reason": "실제 변경은 50행의 혼동 가능한 해설 문장 삭제와 130행 '조사'를 '조사 명령'으로 바꾼 두 곳뿐이다. F01의 명령/집행 혼동이 해결됐고 114~118행의 국문 요구·압송·국문 없는 사사와 130행 회고가 일치한다. 50행 삭제 뒤에도 소문을 전한 민정중, 그의 변호, 의심을 부인한 숙종의 주체가 유지된다. 나머지 전문을 기존 직접 확인 사료와 재대조하여 미해결 사실 문제를 발견하지 못했다.",
+      "findings": []
+    }
+  },
+  "diff_checks": [
+    {
+      "line": 50,
+      "before": "그러면서 그런 의심은 근거가 없다며 송시열을 변호했습니다.",
+      "after": "문장 삭제",
+      "result": "확인",
+      "reason": "소문 전달 뒤 민정중의 변호와 숙종의 의심 부인이 남아 있다. 발언 주체나 사건 경과를 바꾸는 삭제가 아니다.",
+      "source": "https://sillok.history.go.kr/id/ksa_10811024_002"
+    },
+    {
+      "line": 130,
+      "before": "앞서 유배와 조사, 죽음으로 이어졌던 처분을 이제 거꾸로 따지려는 것이었습니다.",
+      "after": "앞서 유배와 조사 명령, 죽음으로 이어졌던 처분을 이제 거꾸로 따지려는 것이었습니다.",
+      "result": "F01 해결",
+      "reason": "국문 요구 수용과 국문 실제 실행을 구별한다. 116행 '하지만 조사받을 기회조차 오지 않았습니다.'와 모순 없이 연결된다.",
+      "sources": [
+        "https://sillok.history.go.kr/id/ksa_11504021_001",
+        "https://sillok.history.go.kr/id/ksa_11506003_002",
+        "https://sillok.history.go.kr/id/ksa_12004010_004"
+      ]
+    }
+  ],
+  "full_context_checks": [
+    {
+      "lines": "1~20",
+      "topic": "효종의 옛 사부·학문·정치구상·초빙",
+      "reason": "대군 사부 이력, 유학 교육과 강학, 효종의 북벌 구상 및 반복 초빙에 근거한다. 구체 수업 장면·속마음·지지자 지시를 창작하지 않았다.",
+      "sources": [
+        "https://encykorea.aks.ac.kr/Article/E0030898",
+        "https://sillok.history.go.kr/id/ksa_10811024_002"
+      ]
+    },
+    {
+      "lines": "22~36",
+      "topic": "1658 공주집·구휼",
+      "reason": "왕의 공사 답변 뒤 송시열의 불필요한 일 논의, 송준길의 구황 촉구, 원두표의 비축 부족 발언 순서가 유지된다. 서로 다른 화자를 합치지 않고 공사 영구 중단이나 구휼 전용 집행도 단정하지 않는다.",
+      "sources": [
+        "https://sillok.history.go.kr/id/kqa_10909009_001"
+      ]
+    },
+    {
+      "lines": "38~58",
+      "topic": "1682 초빙·입성·퇴장·불응·민정중",
+      "reason": "10월14일 입성, 15일 접대 담당 이현석 관련 갈등, 16일 퇴장, 20일 수원 불응, 11월24일 민정중의 재초빙 제안이 연결된다. 효종과 숙종의 초빙 글, 실록의 퇴장 설명과 민정중의 변호, 왕의 귀환 명령과 실제 불응을 구별한다.",
+      "sources": [
+        "https://sillok.history.go.kr/id/ksa_10810014_002",
+        "https://sillok.history.go.kr/id/ksa_10810015_001",
+        "https://sillok.history.go.kr/id/ksa_10810016_001",
+        "https://sillok.history.go.kr/id/ksa_10810020_002",
+        "https://sillok.history.go.kr/id/ksa_10811024_002"
+      ]
+    },
+    {
+      "lines": "60~80",
+      "topic": "원자 정호와 반대 논리",
+      "reason": "원자와 왕세자 책봉을 구별한다. 왕비의 미래 출산과 후계 우선 고려를 반대한 신하들의 조건부 판단으로 설명한다. 왕자의 어린 나이, 숙종의 조기 결정 논리, 벼슬로 위협하지 말라는 반박은 1월10일 대화에 근거한다.",
+      "sources": [
+        "https://sillok.history.go.kr/id/ksa_11501010_001",
+        "https://contents.history.go.kr/front/kc/printViewPopup.do?levelId=kc_i300300"
+      ]
+    },
+    {
+      "lines": "82~106",
+      "topic": "원자 상소·숙종의 의심·윤빈",
+      "reason": "철종의 열 살과 아버지 병환 조건, 숙종의 빠른 봉호 사례 맞대응, 결정 뒤 발언 시점, 삭출 뒤 고명 의심이 유지된다. 의심을 실제 속셈으로 확정하지 않는다. 윤빈의 용서 청과 그에 대한 국문 명령은 송시열 국문 명령과 구분한다. 30세 첫아들 기대는 숙종의 말로 귀속된다.",
+      "sources": [
+        "https://sillok.history.go.kr/id/ksa_11502001_001"
+      ]
+    },
+    {
+      "lines": "108~118",
+      "topic": "삭출·제주 유배·압송·사사",
+      "reason": "2월1일 삭출에서 사흘 뒤인 4일 제주 위리안치 명령, 4월21일 국문 요구 수용, 압송 중 국문 없는 사사 결정과 정읍에서의 죽음을 구별한다. 명령 날짜를 제주 도착·압송 출발·실제 죽음의 날짜로 바꾸지 않았다.",
+      "sources": [
+        "https://sillok.history.go.kr/id/ksa_11502004_004",
+        "https://sillok.history.go.kr/id/ksa_11504021_001",
+        "https://sillok.history.go.kr/id/ksa_11506003_002"
+      ]
+    },
+    {
+      "lines": "120~136",
+      "topic": "1694 복관·사제와 조사·정죄 청원",
+      "reason": "1694년 정국 교체, 4월6일 복관·사제 명령, 나흘 뒤 10일 처벌 추진자를 살펴 경중에 따라 정죄하라는 청에 대한 숙종의 동의가 맞다. 글의 표현을 여전히 비판하면서 처분을 후회한 숙종의 판단을 보존한다. 개별 책임 조사·정죄가 실제 완료됐다고 서술하지 않는다.",
+      "sources": [
+        "https://contents.history.go.kr/front/kc/printViewPopup.do?levelId=kc_i300300",
+        "https://sillok.history.go.kr/id/ksa_12004006_001",
+        "https://sillok.history.go.kr/id/ksa_12004010_004"
+      ]
+    }
+  ],
+  "preserved_previous_report": {
+    "path": "C:/Users/진실/Downloads/롱폼원고/_검수/송시열_개정검증/사실검토_v8.json",
+    "sha256": "ded6770d8c4ea832c78f1e1a60f7a1d35e6d2471371c9e8305696d9302719c67",
+    "verdict": "fail",
+    "modified": false
+  },
+  "limitations": [
+    "기존 직접 확인 자료에 대한 판본 재대조이며 이번 차수에 사료를 새로 조회했다고 주장하지 않는다.",
+    "pass는 이 원고·지침 해시 조합의 사실축 판정이다. 다른 검토축·최종 제작 승인·사실 정확성의 절대 보장을 뜻하지 않는다."
+  ]
+}

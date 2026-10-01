@@ -1,0 +1,15 @@
+{
+  "File": "대본_시험본.txt",
+  "NoSpaces": 5043,
+  "AllChars": 6701,
+  "CharactersPerMinute": [
+    360,
+    400
+  ],
+  "EstimatedMinutes": [
+    12.6,
+    14.0
+  ],
+  "AudioMeasured": false,
+  "SHA256": "47124EC77D37C8D8C41A9EE20626869A9E8E9AC0110C213A70AAFC63DA0C7B89"
+}

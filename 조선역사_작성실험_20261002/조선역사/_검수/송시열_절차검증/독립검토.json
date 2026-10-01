@@ -1,0 +1,85 @@
+{
+  "draft_sha256": "6a432d72497900efef984cda2e140736633256573b52fe0dd60d5f02d9d83c1f",
+  "guide_sha256": "ce10ab43d5bdb2d8d7713f455b5abb5a188f31a6b0caf7125c8b4b2648da055d",
+  "reviewer": "Aristotle:01a0a840-d284-7103-9d27-d75cd5579aee",
+  "method": "separate_review",
+  "axes": {
+    "facts": {
+      "verdict": "unverified",
+      "reason": "사료 원문·인용·역사적 인과를 재검증하지 않았습니다.",
+      "findings": []
+    },
+    "comprehension": {
+      "verdict": "fail",
+      "reason": "예송의 실제 채택 내용이 불명확하고, 퇴장·재차 물러남의 상태 연결에 빈칸이 있습니다.",
+      "findings": [
+        {
+          "id": "EVENT-01",
+          "severity": "blocking",
+          "quote": "다만 조정이 근거로 삼은 것은 나라의 상복 규정이었습니다.",
+          "reason": "채택된 판단과 채택되지 않은 해석을 구별해야 합니다."
+        },
+        {
+          "id": "ORDER-01",
+          "severity": "warning",
+          "quote": "그런데 그가 조정에서 물러난 뒤에도, 그 의견을 지지하던 관리들은 남아 있었습니다.",
+          "reason": "퇴장 배경보다 의미가 앞섭니다."
+        },
+        {
+          "id": "NAME-01",
+          "severity": "warning",
+          "quote": "이날 사람을 등용하는 문제도 나왔습니다.",
+          "reason": "조연 실명과 새 의제의 기억 부담이 큽니다."
+        },
+        {
+          "id": "LANGUAGE-01",
+          "severity": "warning",
+          "quote": "그 기회는 개인적인 인연에만 기대고 있지도 않았습니다.",
+          "reason": "기회의 의미를 다시 해석해야 합니다."
+        }
+      ]
+    },
+    "engagement": {
+      "verdict": "fail",
+      "reason": "인사 사건이 공사·군사 대비를 끊고, 사건 뒤 반복 해설이 진행을 늦춥니다.",
+      "findings": [
+        {
+          "id": "EVENT-02",
+          "severity": "warning",
+          "quote": "이날 사람을 등용하는 문제도 나왔습니다.",
+          "reason": "사건 단위 제외 또는 별도 입증 기능을 확정해야 합니다."
+        },
+        {
+          "id": "END-01",
+          "severity": "warning",
+          "quote": "그로부터 5년 뒤 숙종은 다시 조정의 주도 세력을 바꾸었습니다.",
+          "reason": "종합 정리 뒤에 새로운 사건이 시작합니다."
+        }
+      ]
+    },
+    "promise": {
+      "verdict": "fail",
+      "reason": "‘왜 말에 힘이 있었나’에 부분적으로 답하지만, 명망·지지가 정치적 영향력으로 이어지는 설명이 부족합니다.",
+      "findings": [
+        {
+          "id": "ANSWER-01",
+          "severity": "blocking",
+          "quote": "송시열도 그중 한 사람이었습니다.",
+          "reason": "명망과 정치적 힘을 잇는 근거가 얇습니다."
+        }
+      ]
+    },
+    "repetition": {
+      "verdict": "fail",
+      "reason": "‘본인이 없어도 지지자가 발언한다’를 74·80·82줄, 112·114·124줄에서 거듭 설명합니다.",
+      "findings": [
+        {
+          "id": "REP-01",
+          "severity": "blocking",
+          "quote": "관직을 떠나는 것과 영향력을 잃는 것이 언제나 같은 일이 아니었던 거죠.",
+          "reason": "사건 뒤 일반론과 재요약이 반복됩니다."
+        }
+      ]
+    }
+  }
+}

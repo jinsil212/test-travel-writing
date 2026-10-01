@@ -1,0 +1,11 @@
+{
+  "purpose": "실제 단계 목적",
+  "benchmark_choice": "작성 전에 선정한 견본",
+  "weakness_to_avoid": "견본의 약점과 비복제 방법",
+  "evidence": [
+    {
+      "file": "실제 견본 경로",
+      "quote": "실제 원문 구절"
+    }
+  ]
+}

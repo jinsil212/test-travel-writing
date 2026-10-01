@@ -1,0 +1,29 @@
+{
+  "from": "C:\\Users\\79420\\Documents\\midform-writing\\테스트\\우주와나_작성실험_20261002",
+  "to": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002",
+  "verified_moved_files": 374,
+  "path_updates": [
+    {
+      "file": ".codex/hooks.json",
+      "before": "eecc5d7350d455cf08f759a8d16ae9f24d66015284b5f87bfa3080157adb0510",
+      "after": "ca4913a71d4b937de6dd17d812c55ec3383970b332537e86cc8ad0ca90734afb"
+    },
+    {
+      "file": ".claude/settings.json",
+      "before": "b1954e4e9735e4756ddd1a874c65136bca4be1e6c97ec7fdf92e698c4ccce05a",
+      "after": "7614c89942c238496f3c897756c6e5f18a27583a1ea40c218f1763864f970415"
+    },
+    {
+      "file": "도구/우주실험_시작.ps1",
+      "before": "e2583faf51c00061f0fdbe3832a62f236a5f1c42a77eb13e09e0ecc759f8d66b",
+      "after": "ef605223e105adbbde49b72e882871776ff4426e7fd0e481e0772f29fd6c6349"
+    },
+    {
+      "file": "README_실험.md",
+      "before": "1942d29fa5a1bc7275cb3f16a3babec5b4ce547b4147897e6f35239afbc466b7",
+      "after": "e0102d4b3e2acb7fb2e5c1cb787d81b693e3223205dbf941e52d01ba0abcacab"
+    }
+  ],
+  "native_hooks": "definition_changed_trust_not_verified",
+  "git": "outside_previous_repository_no_new_repo"
+}

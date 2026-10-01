@@ -1,0 +1,330 @@
+# 참고 영상 영어 자동 자막 (시점 포함) — The Space Race Never Ended
+# 출처: https://www.youtube.com/watch?v=cy_H2BeE_Nk (StarTalk, en-orig 자동 자막, 2026-09-19 yt-dlp)
+# 자동 자막이라 오인식이 있다: Splutnik = Sputnik, 'tyonaut' = taikonaut(중국 우주인), 'Aremis' = Artemis, 'PT' 등. 화면은 시청하지 않음.
+
+[00:00] Let's go back in time, shall we? October
+[00:03] 4th, 1957, the Soviet Union launched a
+[00:07] satellite. The word satellite wasn't
+[00:09] even common at the time. They launched
+[00:12] an artificial moon around Earth. It was
+[00:15] called Splutnik 1.
+[00:18] It was a radio transmitter that sent out
+[00:22] just bleep signals. Bleep.
+[00:25] >> Hearing the actual signals transmitted
+[00:26] by the Earth circling satellite.
+[00:29] What was it launched in? A hollowedout
+[00:32] intercontinental ballistic missile
+[00:34] shell. That's what it was launched with.
+[00:37] So, here in the United States, we
+[00:39] completely freaked out for multiple
+[00:41] reasons. First, they beat us at
+[00:44] something technological that like
+[00:46] they're not supposed to cuz they're like
+[00:48] communists and we are free market
+[00:50] enterprise high techch America. How
+[00:54] could they possibly beat us at something
+[00:56] that required clear advances in science,
+[01:00] technology, engineering, and math? That
+[01:03] spooked us. A B the military is spooked
+[01:06] because if they can send a hollowed out
+[01:09] intercontinental ballistic missile over
+[01:12] our heads, they can send one that
+[01:15] contains a warhead. By the way, your
+[01:18] airspace is sort of a sovereign place.
+[01:20] Other countries can't fly over your
+[01:23] country in your airspace without your
+[01:26] explicit permission to do so. But a
+[01:29] satellite
+[01:30] orbits above the atmosphere.
+[01:33] So it is not technically your airspace.
+[01:37] It's your space space.
+[01:39] But there were no treaties about space
+[01:44] before. Within a year, middle of 1958,
+[01:48] President Eisenhower would sign into law
+[01:50] the National Aeronautics and Space
+[01:52] Administration Act where we reallocated
+[01:56] resources, other smaller agencies, and
+[01:59] together by the first week of October,
+[02:03] the doors of NASA were open for
+[02:05] business. By the way, NASA is a civilian
+[02:07] agency. Yet, practically every astronaut
+[02:10] who was selected and flew was drawn from
+[02:12] the military. either the active military
+[02:14] or on detail from the military or
+[02:18] retired military. All right, we're off
+[02:21] to the races. Literally off to the
+[02:23] races. So, Russia puts up the first
+[02:26] satellite. They put up the first
+[02:28] nonhuman animal like a a dog, a homeless
+[02:32] dog from the streets of Moscow. Never
+[02:34] had plans to bring the dog back alive,
+[02:36] by the way. Burned up on re-entry. They
+[02:38] put up the first human. That was Erie
+[02:40] Gagarin. all of this before we could put
+[02:44] up a human. They did all of that. Okay?
+[02:47] And we're struggling mightily to do
+[02:50] something because we were getting
+[02:52] bested. So John F. Kennedy, May 1961,
+[02:59] 6 weeks after Yuri Gagarin successfully
+[03:02] comes out of orbit, gives a speech to
+[03:05] the joint session of Congress and says,
+[03:08] "If the events of recent weeks are any
+[03:11] indication of the impact of this
+[03:12] adventure on the minds of men
+[03:14] everywhere, then we know need to show
+[03:16] the world the path of freedom over the
+[03:18] path of tyranny." It was a battlecry
+[03:20] against communism. How else are you
+[03:22] going to get Congress to write checks?
+[03:23] There's a lot of stirring language
+[03:25] around that speech and others he gave at
+[03:28] that time that made you think this is an
+[03:30] American thing to do. But at the end of
+[03:32] the day, it got done because we
+[03:36] perceived a threat. Our sworn enemy in
+[03:39] the Cold War was beating us at a highly
+[03:43] visible science and technology activity.
+[03:46] So Kennedy says, "Let's go to the moon."
+[03:50] Well, that would leapfrog all of the
+[03:51] Russian advances. So we target the moon.
+[03:55] Thus was born the Apollo project. We go
+[03:58] from Mercury which hosts one astronaut
+[04:00] per launch to Gemini hosting guess how
+[04:04] many? Of course two Gemini followed by
+[04:07] Apollo three astronauts
+[04:10] to the moon and back. We tell ourselves
+[04:13] we won that race because we declared the
+[04:17] finish line to be the moon. But
+[04:19] practically every other important
+[04:21] benchmark
+[04:23] for access to space, Russia did first.
+[04:26] They put up the first woman in orbit,
+[04:28] the first darkkinned person, a Cuban,
+[04:31] remember Cuba was on their side at the
+[04:33] time, did all this before we did. And we
+[04:35] don't tell ourselves that enough cuz we
+[04:38] we I think justifiably we celebrate the
+[04:41] fact that we got to the moon. And that's
+[04:42] an interesting target for anybody for
+[04:45] our species. And in all fairness to we
+[04:48] as Americans, the plaque that's on the
+[04:51] moon says, "We come in peace for all
+[04:52] mankind." That's what it says. And
+[04:54] there's a picture of the earth, the two
+[04:56] halves of the earth. We didn't say, "We
+[04:58] have conquered the moon and we will
+[04:59] try." Yes, there's an American flag
+[05:01] there cuz that's what people do when you
+[05:04] in a mountaintop and things, but the
+[05:05] plaque that contains the messaging. That
+[05:08] felt honest to me. So when Neil
+[05:11] Armstrong, Buzz Aldrin, and Michael
+[05:13] Collins, the three astronauts on Apollo
+[05:15] 11 returned to Earth, they were received
+[05:19] worldwide. And if you speak to Neil
+[05:21] Armstrong, Buzz Aldrin at the time, what
+[05:23] they would tell you is people would come
+[05:25] up to them and not say, "You did it."
+[05:28] They would say, "We did it. We humans
+[05:32] did it." And I was particularly moved
+[05:35] upon learning that because any triumph
+[05:38] of science and technology is really for
+[05:40] us all because we're humans and these
+[05:42] are triumphs of the human mind and our
+[05:45] ingenuity. So we landed on the moon in
+[05:47] 1969. We stopped going to the moon in
+[05:49] 1972. Russia wasn't there. No longer was
+[05:52] there geopolitical motivation to pursue
+[05:54] that activity. people not knowing why we
+[05:56] were going to the moon watch us go to
+[05:58] the moon and say, "Oh, at this rate, by
+[06:01] by 1980, we'll be on Mars. In the year
+[06:04] 2000, we'll have thousands of people
+[06:06] living and working in space. We only
+[06:09] went to beat the Soviets. That's it. So
+[06:13] 1972, the program gets cancelled."
+[06:16] People want to blame Nixon. No, you
+[06:18] don't blame Yes, he was president, but
+[06:19] you don't blame Nixon for that. you
+[06:21] recognize the geopolitical forces that
+[06:24] make any of this happen to begin with.
+[06:26] We could have stayed on the moon in
+[06:27] 1972. We didn't. Could have gone back in
+[06:30] 1980. We didn't. 1990, 2000, 2010? No.
+[06:35] Is anyone else going to the moon? No.
+[06:38] So, we don't feel the force
+[06:43] operating on our ambitions.
+[06:46] Again, we are reactive as a nation.
+[06:50] way more and way more effectively than
+[06:53] we are proactive. 2004, I'm appointed by
+[06:57] George W. Bush to serve on a White House
+[07:00] commission to study the future of NASA.
+[07:03] What sort of missions should it have? By
+[07:05] the way, there were no geopolitical
+[07:09] forcing on us at the time. It's just
+[07:12] NASA. There's NASA. We got NASA. We went
+[07:15] to the moon back then. What should we do
+[07:16] in the future? I'm on this commission.
+[07:19] It was nicknamed the Moon and Mars
+[07:21] Commission. What we did was lay out a
+[07:24] path
+[07:25] for
+[07:28] us to continue our presence and advance
+[07:31] in space and how to go on to Mars.
+[07:33] Beyond that, we created this plan to use
+[07:36] monies that NASA had been using for the
+[07:39] space shuttle and phase that out and
+[07:42] phase in a plan to return to the moon
+[07:44] and go on to Mars. So, there's no new
+[07:46] money here. it would just be a
+[07:47] readjustment of it. Well, some budget
+[07:50] people got a hold of it and noticed that
+[07:53] it might take a trillion dollars to get
+[07:55] to Mars and it was DOA in peace time.
+[08:00] Spend a trillion. No, NASA's budget was
+[08:03] already $30 billion a year. 30 billion.
+[08:07] So, how long does it take to get to a
+[08:08] trillion at $30 billion a year? It takes
+[08:11] 30 years. We could get to Mars in 30
+[08:15] years with astronauts, of course, I'm
+[08:17] referring to, but that's not the number
+[08:19] that landed heavily on people's
+[08:21] conscience. It was the trillion dollars.
+[08:23] All right. So, fine. But we did the
+[08:25] really good homework for that report.
+[08:28] And there it languishes. We go into the
+[08:30] 201s. 2016, Trump gets elected
+[08:33] president. Okay. You know what's
+[08:35] happening around then? China says they
+[08:39] want to put tyonauts on the moon.
+[08:41] Everything China has said they want to
+[08:43] do in space, they have done in space.
+[08:46] Let's rewind for a moment back when we
+[08:51] stopped going to the moon. We wanted to
+[08:54] do something interesting in space. They
+[08:56] said, "Let's have a space station."
+[08:58] Originally, it was space station
+[08:59] freedom. Then the Soviet Union
+[09:02] collapses. They're a Russian scientist.
+[09:04] We don't want them going to whoever
+[09:05] might be the new enemy. We want to make
+[09:07] friends with them. So we turn the space
+[09:11] station freedom into the international
+[09:12] space station and the principal
+[09:15] international partners is the United
+[09:17] States and Russia. Then Europe joins in
+[09:19] and other countries as well. But that
+[09:22] means they are our friends postcold war
+[09:25] era. We said China
+[09:28] not you. You're not invited because you
+[09:32] have human rights violations that we
+[09:35] will hold against you and prevent you
+[09:37] from participating with the rest of us.
+[09:40] I'm a scientist, not a politician, so I
+[09:43] don't know how
+[09:45] serious, severe, or widespread human
+[09:48] rights violations are around the world
+[09:50] at any given time. But I do know the
+[09:53] consequence of disinviting China. We're
+[09:57] now talking about the 1990s into the
+[09:58] 2000s. They have a rapidly growing
+[10:02] economy. And anytime you have a growing
+[10:04] economy, there's money to spend on
+[10:06] things on whatever you want for whatever
+[10:09] are your purpose is. So, China
+[10:12] births their space program. They said
+[10:15] they're going to put an astronaut in
+[10:17] orbit. A tyonaut is their word for
+[10:19] astronaut. Tyonauts in orbit.
+[10:27] They're going to create a space station.
+[10:29] There it is. Whatever they said they're
+[10:31] going to do, they're going to do. So,
+[10:33] when they said, "We want to put
+[10:34] astronauts on the moon." We sat up
+[10:37] straight. And under Trump, Trump says,
+[10:39] "Let's task NASA to go back to the
+[10:42] moon." And it sounded like, well, where
+[10:44] did this come from? We haven't been
+[10:46] there in 30 years. Why are you saying it
+[10:47] now? So, there were Trump haters that
+[10:49] said, he's just boosting his own ego
+[10:51] here. But there's a geopolitical force
+[10:53] operating. NASA creates a new program
+[10:56] called Artemis. This would be to return
+[10:58] to the moon with a crew. Okay. And and
+[11:02] ultimately pitch tent there, set up a a
+[11:04] base camp, a not a colony so much as a a
+[11:08] research station on the moon. Once
+[11:10] again, we are reacting to a perceived
+[11:13] threat,
+[11:15] be it real or imagined. There's a
+[11:18] handoff from President Trump to
+[11:21] President Biden. And Biden doesn't say,
+[11:24] "Trump, this moon thing you what are
+[11:26] you? That was just a vanity project.
+[11:28] We're going to cancel it." No, it's
+[11:30] sustained. That's what happens when
+[11:32] you're reacting geopolitically rather
+[11:34] than local politically. Geopolitics
+[11:38] rides above it all. Yes, the Aremis
+[11:41] program is still in play. There a bunch
+[11:44] of delays by the way. So is China. Oh.
+[11:47] Anyhow, when China went to the moon,
+[11:49] they made a flag that was stitched out
+[11:52] of basaltt. Basaltt is rock, volcanic
+[11:55] rock. It will never fade. It will never
+[11:59] decompose.
+[12:01] Ultraviolet light has nothing to say to
+[12:03] it.
+[12:05] And so, it's little things like that
+[12:07] that kind of in America, we say we got
+[12:10] to do something. We got to do something
+[12:11] better, something something more
+[12:14] inventive. By the way, none of that's
+[12:16] going to happen if we keep cutting
+[12:17] science budgets and NASA's budget. If we
+[12:20] keep cutting science the way we are,
+[12:22] then other countries that are not
+[12:24] cutting science will rise up past us and
+[12:28] we will stand at the fence wondering how
+[12:30] they did it. But maybe one day we all go
+[12:34] into space together. Actually, that's
+[12:35] the goal of the Artemis Accord. It's a
+[12:38] document of behavior and ethics
+[12:42] for the future of space exploration. For
+[12:44] example, if you go into space and you're
+[12:46] a nation, a sovereign nation, you
+[12:47] conduct an experiment and you learn that
+[12:50] something could put future astronauts at
+[12:52] risk. This commits you to share those
+[12:54] results with other countries so that
+[12:56] their astronauts are not put at risk.
+[12:58] And when you share information, then in
+[13:01] a way, even if you're going into space
+[13:03] separately, if the information is
+[13:04] shared, because that's how science
+[13:05] works, then everyone is effectively
+[13:07] going into space together. Meanwhile,
+[13:11] Russia and China, who have not signed
+[13:14] the Aremis Accords, actually have an
+[13:17] agreement with each other for their
+[13:19] future of establishing base stations on
+[13:23] the moon, not only research on its
+[13:25] surface, but in orbit, and they've
+[13:28] invited other countries to participate
+[13:31] in that pact. So, we'll see how this
+[13:33] plays out in the future. I'd like to
+[13:35] think space is for everybody because
+[13:37] it's vast. It is a little weird when you
+[13:39] think about it. This little speck called
+[13:42] Earth and we've divided up the land
+[13:44] masses as we have and then we go into
+[13:46] space and we want to like divide up
+[13:48] space.
+[13:50] As an astrophysicist, that's freaking
+[13:53] absurd. Okay, just between you and me,
+[13:56] just so you know, this is another what's
+[13:58] up with that. The space race on Star
+[14:01] Talk. Neil deGrasse Tyson bidding you to
+[14:04] keep looking up.
+[14:10] [Music]

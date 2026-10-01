@@ -1,0 +1,41 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .claude/hooks/inject_sample_doc.py 한입교양",
+            "timeout": 20,
+            "statusMessage": "한입교양 견본 규칙 로드"
+          }
+        ]
+      }
+    ],
+    "PreToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .claude/hooks/require_sample_read.py 한입교양",
+            "timeout": 20,
+            "statusMessage": "견본 열람·설계 파일 검사"
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python .claude/hooks/require_content_review.py 한입교양",
+            "timeout": 20,
+            "statusMessage": "대본 내용 검수 여부 확인"
+          }
+        ]
+      }
+    ]
+  }
+}

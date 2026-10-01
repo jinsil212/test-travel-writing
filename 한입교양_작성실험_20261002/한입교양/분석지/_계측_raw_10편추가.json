@@ -1,0 +1,160 @@
+[
+ {
+  "name": "교양만두_국밥",
+  "views": 380,
+  "mins": 6.13,
+  "chars": 2255,
+  "speed": 368,
+  "hook": 8.3,
+  "turn": 47.6,
+  "core": 35.7,
+  "close": 97.1,
+  "gap": 31.5,
+  "sents": 70,
+  "q": 4.3,
+  "avg": 32.2,
+  "end": {
+   "기타": 10,
+   "니다": 44,
+   "죠": 26,
+   "요": 20
+  }
+ },
+ {
+  "name": "교양만두_라면",
+  "views": 440,
+  "mins": 8.72,
+  "chars": 3158,
+  "speed": 362,
+  "hook": 8.9,
+  "turn": 29.9,
+  "core": 34.1,
+  "close": 96.3,
+  "gap": 8.9,
+  "sents": 95,
+  "q": 7.4,
+  "avg": 33.2,
+  "end": {
+   "요": 25,
+   "죠": 18,
+   "기타": 18,
+   "니다": 39
+  }
+ },
+ {
+  "name": "교양만두_삼겹살",
+  "views": 250,
+  "mins": 4.02,
+  "chars": 1243,
+  "speed": 309,
+  "hook": 11.4,
+  "turn": 34.8,
+  "core": 46.5,
+  "close": 96.2,
+  "gap": 14.2
+ },
+ {
+  "name": "교양만두_수라상",
+  "views": 310,
+  "mins": 7.3,
+  "chars": 2325,
+  "speed": 318,
+  "hook": 6.3,
+  "turn": 24.8,
+  "core": 35.2,
+  "close": 93.8,
+  "gap": 15.7
+ },
+ {
+  "name": "지식해적단_숟가락",
+  "views": 172,
+  "mins": 12.2,
+  "chars": 3836,
+  "speed": 314,
+  "hook": 9.3,
+  "turn": 26.4,
+  "core": 68.7,
+  "close": 92.4,
+  "gap": 9.8
+ },
+ {
+  "name": "지식팩토리_유럽화장실",
+  "views": 2.7,
+  "mins": 17.18,
+  "chars": 5417,
+  "speed": 315,
+  "hook": null,
+  "turn": null,
+  "core": null,
+  "close": null,
+  "gap": 4.8,
+  "sents": 202,
+  "q": 6.9,
+  "avg": 26.8,
+  "end": {
+   "니다": 54,
+   "죠": 1,
+   "다": 6,
+   "요": 34,
+   "기타": 4
+  }
+ },
+ {
+  "name": "지식팩토리_뜨거운물",
+  "views": 1.1,
+  "mins": 17.73,
+  "chars": 5571,
+  "speed": 314,
+  "hook": null,
+  "turn": null,
+  "core": null,
+  "close": null,
+  "gap": 10.5,
+  "sents": 234,
+  "q": 8.5,
+  "avg": 23.8,
+  "end": {
+   "니다": 56,
+   "요": 32,
+   "죠": 5,
+   "기타": 5,
+   "다": 2
+  }
+ },
+ {
+  "name": "교양만두_중세음식",
+  "views": 210,
+  "mins": 6.02,
+  "chars": 2167,
+  "speed": 360,
+  "hook": null,
+  "turn": null,
+  "core": null,
+  "close": null,
+  "gap": 37.7
+ },
+ {
+  "name": "지식해적단_닭고기",
+  "views": 110,
+  "mins": 13.4,
+  "chars": 4284,
+  "speed": 320,
+  "hook": null,
+  "turn": null,
+  "core": null,
+  "close": null,
+  "gap": 15.7
+ },
+ {
+  "name": "지식해적단_소금",
+  "views": 150,
+  "mins": 15.12,
+  "chars": 4806,
+  "speed": 318,
+  "hook": null,
+  "turn": null,
+  "core": null,
+  "close": null,
+  "gap": 9.6
+ }
+]

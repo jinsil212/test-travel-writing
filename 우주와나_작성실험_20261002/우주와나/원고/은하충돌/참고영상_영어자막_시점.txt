@@ -1,0 +1,336 @@
+# 영어 자동 자막(시점 포함) — Jost 「The Most Horrifying Distances in Space the Human Brain Can’t Process」 (HTXBAqtedAE)
+# 2026-09-19 yt-dlp로 확보한 자동 생성 자막이다. 문장부호·고유명사 오인식이 있을 수 있다. 영상 화면은 보지 않았다.
+
+[00:04] Most images of the universe show the
+[00:06] same thing.
+[00:07] >> [music]
+[00:07] >> Galaxies, stars, light everywhere.
+[00:11] That is a lie.
+[00:12] Not intentionally, but false
+[00:14] nonetheless.
+[00:16] The universe consists mostly of nothing,
+[00:18] of true absolute void.
+[00:22] According to estimates, visible matter,
+[00:24] everything we could ever see or touch,
+[00:27] makes up less than 5% of the universe.
+[00:30] >> [music]
+[00:30] >> The rest is dark matter and dark energy.
+[00:33] Things we know exist because otherwise,
+[00:35] the physics wouldn't add up.
+[00:38] No one has ever seen them.
+[00:40] >> [music]
+[00:41] >> And even this 5% of visible matter is
+[00:43] not distributed evenly.
+[00:46] It clumps together along the edges of
+[00:48] vast empty bubbles.
+[00:50] What we see when we look at the night
+[00:52] sky,
+[00:53] those points of light, those structures,
+[00:56] is [music] the exception, not the rule.
+[01:00] How vast are these distances?
+[01:02] >> [music]
+[01:02] >> And how deep are these voids, really?
+[01:06] Not in terms of numbers meant merely to
+[01:08] sound impressive,
+[01:09] but in a way that gives true
+[01:11] understanding.
+[01:18] Let's start small, relatively small.
+[01:20] The solar system. Most people realize it
+[01:23] is big, but almost everyone
+[01:25] underestimates just how big.
+[01:28] On average, Pluto is about 6 billion
+[01:30] kilometers away from the sun.
+[01:33] Light takes a good 8 minutes to travel
+[01:35] from the sun to Earth.
+[01:37] To Pluto?
+[01:38] Over 5 hours.
+[01:41] New Horizons, the fastest probe ever
+[01:43] launched, took 9 years to reach Pluto.
+[01:47] 9 years to reach a destination that
+[01:49] still lies within our own solar system.
+[01:51] And when it finally arrived, it had a
+[01:54] mere 30 minutes to gather its most
+[01:56] interesting data before flying onward.
+[01:59] And Pluto isn't even the boundary.
+[02:02] The Oort Cloud, the outermost shell of
+[02:04] the solar system, extends, according to
+[02:07] current estimates, up to a full
+[02:10] light-year away.
+[02:11] We have never observed it directly. We
+[02:14] infer its existence from the orbits of
+[02:16] comets that occasionally drift into the
+[02:18] inner solar system.
+[02:21] Where they come from, the intervals at
+[02:23] which they move, these are models, not
+[02:26] measurements. [music]
+[02:27] Voyager 1, the most distant human-made
+[02:29] probe ever, left Earth in 1977.
+[02:34] Today, it is approximately 23 billion
+[02:37] kilometers away.
+[02:38] To fully traverse the Oort Cloud, it
+[02:41] would take another 30,000 years or so at
+[02:43] its current speed.
+[02:45] Of what lies out there, we have
+[02:47] literally explored nothing.
+[02:54] From here on, we leave behind what we
+[02:56] know.
+[02:57] Proxima Centauri is the closest star to
+[02:59] the Sun, 4.2 light-years away.
+[03:03] But what does that really mean?
+[03:05] A light-year is the distance that light
+[03:08] travels in 1 year,
+[03:10] about 9.5 trillion kilometers. And
+[03:13] Proxima is 4.2 of them away.
+[03:17] With New Horizons, the journey would
+[03:18] take about 70,000 years.
+[03:21] The Roman Empire existed 2,000 years
+[03:24] ago. We would not arrive with anything
+[03:26] we have today.
+[03:28] An interesting fact about Proxima
+[03:30] Centauri, it is part of a triple star
+[03:32] system.
+[03:34] Alpha Centauri A and B orbit each other,
+[03:37] and Proxima is bound to the system at a
+[03:39] great distance.
+[03:41] There is even a planet orbiting Proxima,
+[03:44] Proxima b,
+[03:46] which is located in the habitable zone.
+[03:49] Liquid water would theoretically be
+[03:50] possible, but Proxima is a red dwarf. It
+[03:54] regularly emits strong radiation flares
+[03:57] that would likely sterilize any planet
+[03:59] in its vicinity.
+[04:01] Whether life could ever arise there is
+[04:03] questionable.
+[04:10] When you know how far away the nearest
+[04:12] star is, you can roughly imagine what
+[04:14] comes [music] next.
+[04:16] The Milky Way has about 200 to 400
+[04:19] billion stars.
+[04:21] That sounds dense. It isn't.
+[04:23] The average distance between two stars
+[04:25] in our neighborhood is several
+[04:27] light-years. What this means for
+[04:29] collisions,
+[04:30] even if two galaxies collide,
+[04:33] and that will happen, Andromeda will
+[04:35] collide with the Milky Way in about 4
+[04:37] billion years,
+[04:39] the probability of two stars colliding
+[04:41] directly is astronomically low.
+[04:45] Galaxy collisions are essentially the
+[04:47] flowing together of emptiness.
+[04:49] The Milky Way also has a structure that
+[04:51] one does not [music] intuitively
+[04:53] imagine. It is not a uniform disk. There
+[04:56] is a central bar, spiral arms, a bulge
+[04:59] in the middle, a halo of older stars
+[05:02] surrounding the entire galaxy.
+[05:04] In the center sits a supermassive black
+[05:07] hole, Sagittarius A,
+[05:10] with a mass of about 4 million suns.
+[05:13] We sit at the edge of a spiral arm, not
+[05:15] in the center, not at the absolute edge,
+[05:19] somewhere in the middle of nowhere
+[05:21] within a galaxy that itself consists
+[05:23] mostly of nothing.
+[05:31] The Milky Way is about 100,000
+[05:33] light-years in diameter.
+[05:35] Some newer estimates even say up to
+[05:37] 200,000.
+[05:40] We sit about 26,000 light-years away
+[05:43] from the center.
+[05:45] To cross the galaxy once at the speed of
+[05:48] light would take 100,000 years.
+[05:51] The fastest thing physically possible
+[05:54] according to everything we know about
+[05:56] reality.
+[05:58] It is, however, a bit more complex than
+[06:00] that. Because there is also something
+[06:03] like time dilation, for example.
+[06:05] But that is not the focus for the video
+[06:07] today.
+[06:08] Furthermore, there's another point that
+[06:10] many are not properly aware of.
+[06:14] The speed of light is not a technical
+[06:16] hurdle that we will overcome at some
+[06:18] point. It is a physical limit.
+[06:21] The closer you get to it, the more
+[06:23] energy you need.
+[06:25] To bring an object with mass to the
+[06:27] speed of light would require an infinite
+[06:29] amount of energy.
+[06:34] Andromeda is our nearest large
+[06:36] neighboring galaxy, 2.5 million
+[06:39] light-years away.
+[06:42] When you look at the sky with the naked
+[06:43] eye and search for Andromeda, you can
+[06:46] see it under good conditions.
+[06:49] You are looking 2.5 million years into
+[06:53] the past. The light you see now left
+[06:55] Andromeda when our ancestors were not
+[06:57] yet using tools.
+[07:00] Andromeda is gravitationally bound to
+[07:03] the Milky Way, part of the so-called
+[07:05] local group, about 50 galaxies within a
+[07:08] radius of about 10 million light-years.
+[07:11] Beyond that, emptiness.
+[07:13] The next comparable galaxy cluster,
+[07:15] Virgo, is about 65 million light-years
+[07:19] away.
+[07:20] The space between galaxies is another
+[07:22] category entirely. In the Milky Way,
+[07:25] there are at least stars, rare but
+[07:28] present. In intergalactic space, there
+[07:31] is practically nothing. Perhaps one atom
+[07:34] per cubic meter.
+[07:36] No magnetic field leading anywhere. No
+[07:39] dust clouds, no gas clouds. [music]
+[07:41] Simply vacuum, as complete as you can
+[07:44] hardly imagine.
+[07:46] Even light traveling through space there
+[07:48] hits nothing.
+[07:49] It simply travels onward.
+[07:58] When you zoom out far enough, the
+[08:00] universe no longer looks random.
+[08:02] Galaxies are not evenly distributed.
+[08:06] They hang together in clusters, the
+[08:08] clusters in superclusters, and the
+[08:10] superclusters are part of giant
+[08:12] filaments.
+[08:13] >> [snorts]
+[08:14] >> Thread-like structures millions of
+[08:16] light-years long that stretch through
+[08:18] the universe like a network of threads.
+[08:22] Our galaxy belongs to a supercluster
+[08:24] called Laniakea.
+[08:26] Only defined in 2014, [music]
+[08:29] when we analyzed the motion of thousands
+[08:31] of galaxies and found that they are all
+[08:34] flowing toward the same point. The
+[08:36] so-called Great Attractor. Laniakea is
+[08:40] about 520 million light-years across and
+[08:43] contains around 100,000 galaxies.
+[08:46] From a bird's-eye view, the universe
+[08:49] looks like a foam structure.
+[08:51] Filaments and nodes where many galaxy
+[08:53] clusters converge.
+[08:56] And in between, voids.
+[09:04] Between the filaments lie the voids,
+[09:07] cosmic empty spaces.
+[09:09] The Boötes void is one of the most
+[09:11] famous examples, discovered in 1981.
+[09:15] About 330 million light-years in
+[09:17] diameter.
+[09:19] Inside, a few dozen galaxies where
+[09:22] thousands would be expected based on
+[09:25] average density.
+[09:26] When it was discovered, hardly anyone
+[09:29] could explain how such a void could have
+[09:31] formed.
+[09:33] Voids form because matter is pulled out
+[09:36] of certain regions by gravity and
+[09:38] accumulates in the filaments.
+[09:41] The void expands over time. Voids are
+[09:44] not completely empty.
+[09:46] There are isolated galaxies inside them,
+[09:48] so-called void galaxies.
+[09:51] They develop differently than galaxies
+[09:53] in denser regions.
+[09:55] Fewer neighbors means fewer collisions,
+[09:57] less gas replenishment, a different
+[10:00] speed of development. Loneliness changes
+[10:02] galaxies, too.
+[10:05] The Boötes void is large, but not the
+[10:07] largest known structure.
+[10:09] The Hercules-Corona Borealis Great Wall
+[10:12] is a filament estimated to be 10 billion
+[10:14] light-years long, so large that some
+[10:17] doubt whether it is truly a coherent
+[10:19] structure.
+[10:21] On these scales, the universe should
+[10:23] actually look uniform.
+[10:25] The fact that it doesn't is not yet
+[10:27] fully explained.
+[10:33] Light takes time. Most people know that,
+[10:36] but the consequence is stranger than it
+[10:38] sounds at first.
+[10:39] The most distant galaxies observed by
+[10:42] the James Webb Space Telescope, some
+[10:45] over 13 billion light-years away,
+[10:48] show us the universe when it was less
+[10:50] than a billion years old.
+[10:53] The universe is about 13.8 billion years
+[10:56] old.
+[10:57] If we look far enough, we see galaxies
+[11:00] that formed shortly after the Big Bang,
+[11:03] galaxies that probably look completely
+[11:05] different today
+[11:07] or no longer exist.
+[11:09] We never see the universe as it is. We
+[11:11] only ever see how it was.
+[11:15] This has another consequence, the cosmic
+[11:17] microwave background.
+[11:19] If you look so far that the light has
+[11:21] been traveling for over 13.8 billion
+[11:24] years, you no longer see galaxies. You
+[11:28] see radiation from the time when the
+[11:29] universe was still so hot and dense that
+[11:32] light could not move freely.
+[11:35] That is the limit of what we can
+[11:36] observe.
+[11:38] Behind it lies not darkness. Behind it
+[11:41] lies a physical wall from the past.
+[11:49] The universe is expanding, not into
+[11:51] something. Space itself is expanding.
+[11:55] The further apart two points are, the
+[11:57] faster they move away from each other.
+[12:01] Galaxies are moving away from us faster
+[12:03] than light travels.
+[12:05] This does not violate physics because
+[12:06] the galaxies are not moving through
+[12:08] space. [music]
+[12:10] The space itself between us and them is
+[12:12] growing.
+[12:14] Light sent from there today will never
+[12:16] reach us. These galaxies are forever
+[12:19] beyond our sphere of influence.
+[12:21] Over time,
+[12:22] >> [music]
+[12:22] >> the expansion accelerates, driven by
+[12:24] dark energy. This means [music] the
+[12:27] event horizon moves closer.
+[12:29] Galaxies that we can still see today
+[12:31] will disappear.
+[12:33] Not physically, but drift out of our
+[12:36] observable universe.
+[12:39] In a few trillion years, if you think
+[12:41] that far ahead, all galaxies outside the
+[12:43] local group will have disappeared
+[12:45] [music] behind the horizon.
+[12:47] A civilization existing then would look
+[12:50] into the sky and see what looks like an
+[12:52] isolated universe. No other galaxies, no
+[12:56] evidence that there was ever more.
+[12:59] They would ask the same questions we ask
+[13:01] today and have no way of finding the
+[13:03] answers.
+[13:08] The universe is big. We know that.
+[13:11] It is not big in the sense of many
+[13:13] things. It is big in the sense of almost
+[13:16] nothing over unimaginable distances.
+[13:20] We sit on a planet orbiting a star that
+[13:23] is one of billions in a galaxy that is
+[13:26] one of trillions in the observable
+[13:28] universe.
+[13:29] And yet, or precisely because of that,
+[13:32] the dominant characteristic of the
+[13:34] cosmos is not abundance, but separation.
+[13:38] The stars, the galaxies, the filaments,
+[13:41] all real, all impressive.
+[13:44] But, it is the thin framework around a
+[13:46] vast emptiness.
+[13:48] What lies beyond our event horizon, we
+[13:51] will never know.
+[13:54] I hope you enjoyed the video, and we'll
+[13:56] see you us next time.

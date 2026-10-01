@@ -1,0 +1,1881 @@
+{
+  "schema": 1,
+  "channel": "채널미정",
+  "author": "existing-draft-author",
+  "draft": {
+    "path": "C:\\Users\\진실\\Downloads\\롱폼원고\\채널미정\\원고\\송시열\\최종대본.txt",
+    "sha256": "6a432d72497900efef984cda2e140736633256573b52fe0dd60d5f02d9d83c1f"
+  },
+  "guide": {
+    "path": "C:\\Users\\진실\\Downloads\\롱폼원고\\_대본지침서.md",
+    "sha256": "ce10ab43d5bdb2d8d7713f455b5abb5a188f31a6b0caf7125c8b4b2648da055d"
+  },
+  "rules": [
+    {
+      "id": "7c87b57c62cf1dab",
+      "section": "0-1. 입력물 (기존에 확정한 채널 설정은 이어 쓴다)",
+      "context": "0장. 실행 / 0-1. 입력물 (기존에 확정한 채널 설정은 이어 쓴다)",
+      "line": 23,
+      "stage": "prepare",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "c01095c20aa8a57f",
+      "section": "부자경제 고정 문체 — 제공된 경제해적단·경제학 똑똑 벤치마크 기준",
+      "context": "0장. 실행 / 0-1. 입력물 (기존에 확정한 채널 설정은 이어 쓴다) / 부자경제 고정 문체 — 제공된 경제해적단·경제학 똑똑 벤치마크 기준",
+      "line": 33,
+      "stage": "prepare",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "b24f4f5bca35ad4c",
+      "section": "부자경제 — 바로 집필할 때 적용할 문체·설명 기준",
+      "context": "0장. 실행 / 0-1. 입력물 (기존에 확정한 채널 설정은 이어 쓴다) / 부자경제 — 바로 집필할 때 적용할 문체·설명 기준",
+      "line": 44,
+      "stage": "prepare",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "0d09680bbeef5244",
+      "section": "부자경제 — 19편 대조 후 고정·선택·재검증의 구분",
+      "context": "0장. 실행 / 0-1. 입력물 (기존에 확정한 채널 설정은 이어 쓴다) / 부자경제 — 19편 대조 후 고정·선택·재검증의 구분",
+      "line": 68,
+      "stage": "prepare",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "81b381bf194d2dda",
+      "section": "철학하는밤 — 초기 20분 제작 기준",
+      "context": "0장. 실행 / 0-1. 입력물 (기존에 확정한 채널 설정은 이어 쓴다) / 철학하는밤 — 초기 20분 제작 기준",
+      "line": 87,
+      "stage": "prepare",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "9b3b0bde068a522d",
+      "section": "채널미정 — 역사 채널 초기 제작 기준",
+      "context": "0장. 실행 / 0-1. 입력물 (기존에 확정한 채널 설정은 이어 쓴다) / 채널미정 — 역사 채널 초기 제작 기준",
+      "line": 123,
+      "stage": "prepare",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "6e2bf1c60488bbc6",
+      "section": "따뜻한심리학 — 초기 제작 기준과 재개 지점",
+      "context": "0장. 실행 / 0-1. 입력물 (기존에 확정한 채널 설정은 이어 쓴다) / 따뜻한심리학 — 초기 제작 기준과 재개 지점",
+      "line": 159,
+      "stage": "prepare",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "95956139530bc92e",
+      "section": "0-2. 작업 순서 — 이 순서를 바꾸지 않는다",
+      "context": "0장. 실행 / 0-2. 작업 순서 — 이 순서를 바꾸지 않는다",
+      "line": 196,
+      "stage": "prepare",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "9d3748a3124ba850",
+      "section": "0-3. 벤치마크 원고를 쓰는 법 — 모양이 아니라 엔진을 가져온다",
+      "context": "0장. 실행 / 0-3. 벤치마크 원고를 쓰는 법 — 모양이 아니라 엔진을 가져온다",
+      "line": 205,
+      "stage": "prepare",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "56e610de86148113",
+      "section": "최종 확정본 전달·등록 — 2026-09-14 사장님 요청",
+      "context": "0장. 실행 / 0-3. 벤치마크 원고를 쓰는 법 — 모양이 아니라 엔진을 가져온다 / 최종 확정본 전달·등록 — 2026-09-14 사장님 요청",
+      "line": 206,
+      "stage": "prepare",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "fa66072f2804358a",
+      "section": "0-4. 실행형 검수 — 체크했다고 말하지 말고, 근거와 판본을 남긴다 (2026-09-16)",
+      "context": "0장. 실행 / 0-4. 실행형 검수 — 체크했다고 말하지 말고, 근거와 판본을 남긴다 (2026-09-16)",
+      "line": 229,
+      "stage": "prepare",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "b1daf6aea80d0396",
+      "section": "P1. 기획은 4단계다. 한 번에 다 묻지 않는다",
+      "context": "P장. 기획 / P1. 기획은 4단계다. 한 번에 다 묻지 않는다",
+      "line": 259,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "25c7370b232e4eb8",
+      "section": "P1-1. 도입부 다음에는 ‘큰 흐름’을 먼저 승인받는다 — 전 채널 공통",
+      "context": "P장. 기획 / P1. 기획은 4단계다. 한 번에 다 묻지 않는다 / P1-1. 도입부 다음에는 ‘큰 흐름’을 먼저 승인받는다 — 전 채널 공통",
+      "line": 275,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "04f4c9540f55fc0c",
+      "section": "P2. 0단계 — 팩트 브리핑을 먼저 낸다. 여기서 앵글을 제안하지 않는다",
+      "context": "P장. 기획 / P2. 0단계 — 팩트 브리핑을 먼저 낸다. 여기서 앵글을 제안하지 않는다",
+      "line": 317,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "977a66f436810c72",
+      "section": "P3. 팩트 한 문장 — 제목·썸네일·첫 문장이 전부 여기서 나온다",
+      "context": "P장. 기획 / P3. 팩트 한 문장 — 제목·썸네일·첫 문장이 전부 여기서 나온다",
+      "line": 326,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "febb3fda5991a5cd",
+      "section": "P4. 클릭 이유 한 줄 — 없으면 기획 미완성이다",
+      "context": "P장. 기획 / P4. 클릭 이유 한 줄 — 없으면 기획 미완성이다",
+      "line": 333,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "cc53a15699b743e8",
+      "section": "P5. 안마다 6줄 고정 양식 — 제목만 나열하면 취향 투표가 된다",
+      "context": "P장. 기획 / P5. 안마다 6줄 고정 양식 — 제목만 나열하면 취향 투표가 된다",
+      "line": 341,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "fad074e748fefca5",
+      "section": "P6. 3안은 흐름이 실제로 달라야 한다",
+      "context": "P장. 기획 / P6. 3안은 흐름이 실제로 달라야 한다",
+      "line": 352,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "17bd842c0643398c",
+      "section": "부자경제 구조 탐색 — 주제가 요구하는 답으로 고른다",
+      "context": "P장. 기획 / P6. 3안은 흐름이 실제로 달라야 한다 / 부자경제 구조 탐색 — 주제가 요구하는 답으로 고른다",
+      "line": 363,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "26c214eafc4d3c07",
+      "section": "P7. 추천 1개 + 이유 3개는 서로 다른 축에서 + 불확실한 점",
+      "context": "P장. 기획 / P7. 추천 1개 + 이유 3개는 서로 다른 축에서 + 불확실한 점",
+      "line": 382,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "5efd154dc3caff2d",
+      "section": "P8. 콘셉트는 벤치마크에서 확인한 시청자 관심과 새 소재의 사실을 연결해 잡는다",
+      "context": "P장. 기획 / P8. 콘셉트는 벤치마크에서 확인한 시청자 관심과 새 소재의 사실을 연결해 잡는다",
+      "line": 389,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "2371b03b33871e42",
+      "section": "P8-1. 세 종류의 근거를 섞지 않는다",
+      "context": "P장. 기획 / P8. 콘셉트는 벤치마크에서 확인한 시청자 관심과 새 소재의 사실을 연결해 잡는다 / P8-1. 세 종류의 근거를 섞지 않는다",
+      "line": 395,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "87bf0025c29ed182",
+      "section": "P8-2. 관심을 새 소재로 옮기는 대조표",
+      "context": "P장. 기획 / P8. 콘셉트는 벤치마크에서 확인한 시청자 관심과 새 소재의 사실을 연결해 잡는다 / P8-2. 관심을 새 소재로 옮기는 대조표",
+      "line": 405,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "a15c6402a7ca8e7e",
+      "section": "P8-3. 이번 벤치마크 대조가 보여준 경계",
+      "context": "P장. 기획 / P8. 콘셉트는 벤치마크에서 확인한 시청자 관심과 새 소재의 사실을 연결해 잡는다 / P8-3. 이번 벤치마크 대조가 보여준 경계",
+      "line": 419,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "09e773239e8b03f4",
+      "section": "P9. 도입부에서 지목한 결핍은 본문이 풀어야 한다",
+      "context": "P장. 기획 / P9. 도입부에서 지목한 결핍은 본문이 풀어야 한다",
+      "line": 429,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "a1e6e093736e598c",
+      "section": "P10. 주제는 고정이다",
+      "context": "P장. 기획 / P10. 주제는 고정이다",
+      "line": 434,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "863c1bfdcc31540a",
+      "section": "P11. 주제가 약해도 탈락 통보로 끝내지 않는다 — 살리는 각도 3개",
+      "context": "P장. 기획 / P11. 주제가 약해도 탈락 통보로 끝내지 않는다 — 살리는 각도 3개",
+      "line": 440,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "bf124587a1e6e7bd",
+      "section": "P12. 이미 다룬 대상을 다시 다룰 때 — 다섯이 전부 달라야 한다",
+      "context": "P장. 기획 / P12. 이미 다룬 대상을 다시 다룰 때 — 다섯이 전부 달라야 한다",
+      "line": 448,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "dc8e4398641892a9",
+      "section": "P13. 기획 언어 ↔ 대본 언어 대조표를 기획 문서 맨 위에 만든다",
+      "context": "P장. 기획 / P13. 기획 언어 ↔ 대본 언어 대조표를 기획 문서 맨 위에 만든다",
+      "line": 462,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "107cbbe1c89245fc",
+      "section": "P14. 장면을 지어내지 않는다. 시청자의 자기의심은 추측하지 말고 실측한다",
+      "context": "P장. 기획 / P14. 장면을 지어내지 않는다. 시청자의 자기의심은 추측하지 말고 실측한다",
+      "line": 467,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "15acf13f8f6e051d",
+      "section": "P15. 매너리즘 대조표를 기획안에 붙인다",
+      "context": "P장. 기획 / P15. 매너리즘 대조표를 기획안에 붙인다",
+      "line": 472,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "af6e05352a940f24",
+      "section": "P16. 대조표 — 기획안보다 먼저 만든다",
+      "context": "P장. 기획 / P16. 대조표 — 기획안보다 먼저 만든다",
+      "line": 477,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "683d12be0e8d560f",
+      "section": "대조표 맨 위에 반드시 오는 네 줄",
+      "context": "P장. 기획 / P16. 대조표 — 기획안보다 먼저 만든다 / 대조표 맨 위에 반드시 오는 네 줄",
+      "line": 488,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "12e1a535cc4601b8",
+      "section": "P17. 기획안 제출 순서를 고정한다 — 항목 목록만 있으면 매번 축약된다",
+      "context": "P장. 기획 / P17. 기획안 제출 순서를 고정한다 — 항목 목록만 있으면 매번 축약된다",
+      "line": 505,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "44d710cccecfa5ad",
+      "section": "P18. 완성본 맨 앞에 「이렇게 썼습니다」를 30초 분량으로",
+      "context": "P장. 기획 / P18. 완성본 맨 앞에 「이렇게 썼습니다」를 30초 분량으로",
+      "line": 527,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "1aaf5ab1f8590682",
+      "section": "T1. 팩트 한 문장에서 다섯이 갈라진다",
+      "context": "T장. 제목 · 썸네일 / T1. 팩트 한 문장에서 다섯이 갈라진다",
+      "line": 543,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "90919398720ed13c",
+      "section": "T2. 정합 판정 5단계 — 확정 직전에 반드시 돌린다",
+      "context": "T장. 제목 · 썸네일 / T2. 정합 판정 5단계 — 확정 직전에 반드시 돌린다",
+      "line": 559,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "ce8bdfcb198e6e56",
+      "section": "T3. 두 종류의 「뭐지?」를 구분한다",
+      "context": "T장. 제목 · 썸네일 / T3. 두 종류의 「뭐지?」를 구분한다",
+      "line": 572,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "760b8422ae3926f9",
+      "section": "T4. 출발점은 「대중이 이미 그 소재에 붙여 둔 말」이다",
+      "context": "T장. 제목 · 썸네일 / T4. 출발점은 「대중이 이미 그 소재에 붙여 둔 말」이다",
+      "line": 582,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "8dcb9e9310e57332",
+      "section": "T5. 벤치마크 문구의 구조를 베끼지 않는다",
+      "context": "T장. 제목 · 썸네일 / T5. 벤치마크 문구의 구조를 베끼지 않는다",
+      "line": 590,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "a5d3e014f16d94cf",
+      "section": "T6. 제목 후보 10개 이상 — 노림수가 서로 달라야 한다",
+      "context": "T장. 제목 · 썸네일 / T6. 제목 후보 10개 이상 — 노림수가 서로 달라야 한다",
+      "line": 596,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "f8a1bc9ed59a8e93",
+      "section": "T7. 제목 게이트 7개 — 통과한 것만 후보가 된다",
+      "context": "T장. 제목 · 썸네일 / T7. 제목 게이트 7개 — 통과한 것만 후보가 된다",
+      "line": 603,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "4d11fdaa61b189db",
+      "section": "T8. 통념과 원문이 어긋나면 — 그것이 각도다",
+      "context": "T장. 제목 · 썸네일 / T8. 통념과 원문이 어긋나면 — 그것이 각도다",
+      "line": 619,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "7388eecd344c9ff5",
+      "section": "T9. 앞머리만 떼어 읽어 클릭 이유가 되는지 본다",
+      "context": "T장. 제목 · 썸네일 / T9. 앞머리만 떼어 읽어 클릭 이유가 되는지 본다",
+      "line": 627,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "9613113579d6dce2",
+      "section": "T10. 자가 점검 넷",
+      "context": "T장. 제목 · 썸네일 / T10. 자가 점검 넷",
+      "line": 633,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "849c1d8ae1e979d1",
+      "section": "T11. 제목의 명사가 본문 구조를 정한다",
+      "context": "T장. 제목 · 썸네일 / T11. 제목의 명사가 본문 구조를 정한다",
+      "line": 640,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "6fdc8f9839d36da2",
+      "section": "T12. 제목을 압축할 때 동사를 바꾸지 않는다",
+      "context": "T장. 제목 · 썸네일 / T12. 제목을 압축할 때 동사를 바꾸지 않는다",
+      "line": 652,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "ab2ca7f21c6fe5d9",
+      "section": "T13. 썸네일 문구 후보 10개 이상 — 하한이다. 줄이지 않는다",
+      "context": "T장. 제목 · 썸네일 / T13. 썸네일 문구 후보 10개 이상 — 하한이다. 줄이지 않는다",
+      "line": 658,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "8986c8960f173e6e",
+      "section": "T14. ⛔ 선행 조건 — 이번 편 유형의 벤치마크 썸네일을 전부 열어본 뒤에 만든다",
+      "context": "T장. 제목 · 썸네일 / T14. ⛔ 선행 조건 — 이번 편 유형의 벤치마크 썸네일을 전부 열어본 뒤에 만든다",
+      "line": 662,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "2dc43786d96ddfa3",
+      "section": "T15. 2줄 형식 — 1줄이 「사실 제시」면 후보가 아니다",
+      "context": "T장. 제목 · 썸네일 / T15. 2줄 형식 — 1줄이 「사실 제시」면 후보가 아니다",
+      "line": 666,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "e74477e2d0b7ccd8",
+      "section": "T16. 10개는 유형이 서로 달라야 한다",
+      "context": "T장. 제목 · 썸네일 / T16. 10개는 유형이 서로 달라야 한다",
+      "line": 677,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "9805e60b510a393f",
+      "section": "T17. 심리 체인 ③까지 안 이어지면 탈락이다",
+      "context": "T장. 제목 · 썸네일 / T17. 심리 체인 ③까지 안 이어지면 탈락이다",
+      "line": 685,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "9ccb3679315ff0fe",
+      "section": "T18. 말한 것과 감춘 것을 분리해서 적는다",
+      "context": "T장. 제목 · 썸네일 / T18. 말한 것과 감춘 것을 분리해서 적는다",
+      "line": 696,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "226cfc8187b61b24",
+      "section": "T19. 2개 이상 확정할 때 — 볼 것은 「서로 얼마나 다른가」가 아니다",
+      "context": "T장. 제목 · 썸네일 / T19. 2개 이상 확정할 때 — 볼 것은 「서로 얼마나 다른가」가 아니다",
+      "line": 700,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "819196628149b6d9",
+      "section": "T20. 확정 문구마다 전용 이미지를 짝지어 낸다",
+      "context": "T장. 제목 · 썸네일 / T20. 확정 문구마다 전용 이미지를 짝지어 낸다",
+      "line": 709,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "c576d5c789eefe39",
+      "section": "T21. 문구를 가리고 그림만 봤을 때 이 편이 무슨 이야기인지 짐작되는가",
+      "context": "T장. 제목 · 썸네일 / T21. 문구를 가리고 그림만 봤을 때 이 편이 무슨 이야기인지 짐작되는가",
+      "line": 715,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "a28b0ad802e9ce29",
+      "section": "T22. 스타일을 프롬프트 문장 안에 직접 쓰고, 금지 스타일까지 명시한다",
+      "context": "T장. 제목 · 썸네일 / T22. 스타일을 프롬프트 문장 안에 직접 쓰고, 금지 스타일까지 명시한다",
+      "line": 722,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "5b20983f29278a03",
+      "section": "T23. 매 편 반복되는 장치는 프롬프트에서 뺀다",
+      "context": "T장. 제목 · 썸네일 / T23. 매 편 반복되는 장치는 프롬프트에서 뺀다",
+      "line": 726,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "9ef5589ebadd9adb",
+      "section": "T24. 후보는 실측 근거를 달고 나온다",
+      "context": "T장. 제목 · 썸네일 / T24. 후보는 실측 근거를 달고 나온다",
+      "line": 732,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "4ece5f3ef55eaceb",
+      "section": "H1. 쓰기 전 양식을 채운다 — 이건 채워야 쓸 수 있다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H1. 쓰기 전 양식을 채운다 — 이건 채워야 쓸 수 있다",
+      "line": 742,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "6b0bf22fe77bfed1",
+      "section": "H2. 첫 문장 후보 3개 — 각각 다른 충격 유형에서",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H2. 첫 문장 후보 3개 — 각각 다른 충격 유형에서",
+      "line": 755,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "9e881f0f0c3c803d",
+      "section": "H3. 첫 문장은 설명·나열 금지, 무조건 임팩트",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H3. 첫 문장은 설명·나열 금지, 무조건 임팩트",
+      "line": 761,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "bc8dbf702fb2bf45",
+      "section": "H4. 기준은 「재미있는가」가 아니라 「클릭한 이유를 키우는가」다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H4. 기준은 「재미있는가」가 아니라 「클릭한 이유를 키우는가」다",
+      "line": 767,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "d5beae396b959919",
+      "section": "H5. 쓴 뒤 「모르는 사람」 눈으로 문장마다 셋을 던진다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H5. 쓴 뒤 「모르는 사람」 눈으로 문장마다 셋을 던진다",
+      "line": 776,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "a3dcf64055d0c223",
+      "section": "H6. 훅의 사실은 하나의 질문으로 수렴해야 한다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H6. 훅의 사실은 하나의 질문으로 수렴해야 한다",
+      "line": 788,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "303ff878d842ab23",
+      "section": "H7. 결론+수치를 훅에서 다 주지 않는다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H7. 결론+수치를 훅에서 다 주지 않는다",
+      "line": 797,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "d2b58393c349f3bc",
+      "section": "H8. 통념 나열 → 반문형이면 반문이 있어야 한다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H8. 통념 나열 → 반문형이면 반문이 있어야 한다",
+      "line": 802,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "c4072d44fa1d2b6f",
+      "section": "H9. 훅이 챕터의 요약본이면 안 된다 — 훅엔 질문 하나",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H9. 훅이 챕터의 요약본이면 안 된다 — 훅엔 질문 하나",
+      "line": 806,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "032c875e81efab4e",
+      "section": "H10. 훅에 넣은 사실이 어느 챕터의 핵심 재료인지 표시해 본다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H10. 훅에 넣은 사실이 어느 챕터의 핵심 재료인지 표시해 본다",
+      "line": 811,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "7763f74642d29de3",
+      "section": "H11. 리서치 노트를 훅으로 옮기지 않는다 — 최적화 방향이 정반대다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H11. 리서치 노트를 훅으로 옮기지 않는다 — 최적화 방향이 정반대다",
+      "line": 815,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "1e6c760d94428f6a",
+      "section": "H12. 당연한 일을 미스터리라고 말하지 않는다 — 「원래대로라면」을 먼저 세운다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H12. 당연한 일을 미스터리라고 말하지 않는다 — 「원래대로라면」을 먼저 세운다",
+      "line": 826,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "2c8141880ad44824",
+      "section": "H13. 아직 없는 것을 있는 것처럼 말하지 않는다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H13. 아직 없는 것을 있는 것처럼 말하지 않는다",
+      "line": 837,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "e871008aeb7c7851",
+      "section": "H14. 사례로 열고 주제로 넘어갈 때 연결의 실질을 한 문장으로 댄다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H14. 사례로 열고 주제로 넘어갈 때 연결의 실질을 한 문장으로 댄다",
+      "line": 842,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "9dddc15cc87702b1",
+      "section": "H15. 훅에서 사료 이야기를 하지 않는다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H15. 훅에서 사료 이야기를 하지 않는다",
+      "line": 847,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "668d6768365f77a3",
+      "section": "H16. 훅에 넣은 요소는 일을 하거나, 회수되거나, 빠진다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H16. 훅에 넣은 요소는 일을 하거나, 회수되거나, 빠진다",
+      "line": 854,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "354ecf6a40ea8eef",
+      "section": "H17. 반전은 바로 뒤집지 않고 한 박자를 넣는다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H17. 반전은 바로 뒤집지 않고 한 박자를 넣는다",
+      "line": 859,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "8b4b5d4f7d7f4b34",
+      "section": "H18. 카메라 위치를 문장마다 고정한다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H18. 카메라 위치를 문장마다 고정한다",
+      "line": 865,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "395ba18f96a86ee5",
+      "section": "H19. 대상의 이름은 훅에서 밝히고, 순서는 정체 → 이름 → 기능 → 연대 → 미해결",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H19. 대상의 이름은 훅에서 밝히고, 순서는 정체 → 이름 → 기능 → 연대 → 미해결",
+      "line": 869,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "b44296078154afff",
+      "section": "H20. 조연·증인의 이름은 훅에 넣지 않는다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H20. 조연·증인의 이름은 훅에 넣지 않는다",
+      "line": 875,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "3274138932079cc9",
+      "section": "H21. 상태 서술 나열이 아니라 사건의 흐름으로",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H21. 상태 서술 나열이 아니라 사건의 흐름으로",
+      "line": 881,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "ec0629d75ceca2d5",
+      "section": "H22. 밋밋한 초반 금지",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H22. 밋밋한 초반 금지",
+      "line": 887,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "cbdf83a456d918e4",
+      "section": "H23. 사실만 놓고 끝내지 말고 의아함을 붙인다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H23. 사실만 놓고 끝내지 말고 의아함을 붙인다",
+      "line": 893,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "7d0865fa3cb71af3",
+      "section": "H24. 진입 선언 넷",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H24. 진입 선언 넷",
+      "line": 899,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "48c1f79e3cd81f15",
+      "section": "H25. 사장님이 지적·피드백에서 쓴 표현은 그대로 채택한다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H25. 사장님이 지적·피드백에서 쓴 표현은 그대로 채택한다",
+      "line": 909,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "78275717e5e495b9",
+      "section": "H26. 지적을 받으면 층위부터 판정한다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H26. 지적을 받으면 층위부터 판정한다",
+      "line": 913,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "8f89f7f5dcfd2cdd",
+      "section": "H27. 도입부 분량은 벤치마크의 훅 구간을 따로 재서 정한다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H27. 도입부 분량은 벤치마크의 훅 구간을 따로 재서 정한다",
+      "line": 919,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "ae4187fe7570fd1e",
+      "section": "H28. 도입부 확정은 본문을 다 쓴 뒤 한 번 더 검수한다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H28. 도입부 확정은 본문을 다 쓴 뒤 한 번 더 검수한다",
+      "line": 924,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "69260c6eac0da9d2",
+      "section": "H29. 훅 최종 목표",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H29. 훅 최종 목표",
+      "line": 928,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "579ab7a0e6d69bc7",
+      "section": "H30. 실제 사건의 긴장을 살리고, 사료 문구·조사 목차로 약화시키지 않는다",
+      "context": "H장. 도입부(훅) — 가장 많이 반려된 자리 / H30. 실제 사건의 긴장을 살리고, 사료 문구·조사 목차로 약화시키지 않는다",
+      "line": 932,
+      "stage": "plan",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "d3d01bae11299f1b",
+      "section": "B1. 원고는 사건과 사람으로 굴러야 한다",
+      "context": "B장. 원고 (본문 · 클로징) / B1. 원고는 사건과 사람으로 굴러야 한다",
+      "line": 958,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "6926b6f3a4f2ed8c",
+      "section": "B2. 챕터는 설명 단위가 아니라 반전 단위다",
+      "context": "B장. 원고 (본문 · 클로징) / B2. 챕터는 설명 단위가 아니라 반전 단위다",
+      "line": 969,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "fc1de1cf4e0996db",
+      "section": "B3. 「넣었는가」를 세는 하한 항목 — 금지 검사만으로는 지루함이 안 잡힌다",
+      "context": "B장. 원고 (본문 · 클로징) / B3. 「넣었는가」를 세는 하한 항목 — 금지 검사만으로는 지루함이 안 잡힌다",
+      "line": 976,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "e1d28cfaf53353a9",
+      "section": "B4. 벤치마크 원문을 통째로 읽는다 — 발췌로는 중간이 안 잡힌다",
+      "context": "B장. 원고 (본문 · 클로징) / B4. 벤치마크 원문을 통째로 읽는다 — 발췌로는 중간이 안 잡힌다",
+      "line": 992,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "be87ba343dc9aaba",
+      "section": "B5. 한 번에 통째로 쓰지 않는다",
+      "context": "B장. 원고 (본문 · 클로징) / B5. 한 번에 통째로 쓰지 않는다",
+      "line": 998,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "9fb409d87d8c5add",
+      "section": "B5-1. 흡입력은 표현을 세게 고치기 전에 전개에서 만든다",
+      "context": "B장. 원고 (본문 · 클로징) / B5. 한 번에 통째로 쓰지 않는다 / B5-1. 흡입력은 표현을 세게 고치기 전에 전개에서 만든다",
+      "line": 1003,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "5d88d8a0f6c4d9e0",
+      "section": "B6. 분량 조절은 문장이 아니라 사건 개수로 한다",
+      "context": "B장. 원고 (본문 · 클로징) / B6. 분량 조절은 문장이 아니라 사건 개수로 한다",
+      "line": 1013,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "ddb0dd9877346c00",
+      "section": "B7. 뺄 수 있는 국면 / 뺄 수 없는 국면",
+      "context": "B장. 원고 (본문 · 클로징) / B7. 뺄 수 있는 국면 / 뺄 수 없는 국면",
+      "line": 1026,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "0bfa8e38cf394179",
+      "section": "B7-1. 클릭 약속을 다 설명하기 전에 곁가지가 본론을 차지하면 절대 반려",
+      "context": "B장. 원고 (본문 · 클로징) / B7. 뺄 수 있는 국면 / 뺄 수 없는 국면 / B7-1. 클릭 약속을 다 설명하기 전에 곁가지가 본론을 차지하면 절대 반려",
+      "line": 1037,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "26f4611f6270d0c0",
+      "section": "B8. 분량 초과는 집필이 아니라 설계에서 막는다",
+      "context": "B장. 원고 (본문 · 클로징) / B8. 분량 초과는 집필이 아니라 설계에서 막는다",
+      "line": 1049,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "5a2369705118668b",
+      "section": "B9. 한 사건을 오래 붙든다",
+      "context": "B장. 원고 (본문 · 클로징) / B9. 한 사건을 오래 붙든다",
+      "line": 1054,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "183ad454d7d6dd08",
+      "section": "B10. 숫자 틀에 억지로 껴맞추지 않는다",
+      "context": "B장. 원고 (본문 · 클로징) / B10. 숫자 틀에 억지로 껴맞추지 않는다",
+      "line": 1059,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "701e41f3d2392eb5",
+      "section": "B11. 연도·숫자는 필요한 만큼만, 표기는 아라비아 숫자로 — 배치까지 본다",
+      "context": "B장. 원고 (본문 · 클로징) / B11. 연도·숫자는 필요한 만큼만, 표기는 아라비아 숫자로 — 배치까지 본다",
+      "line": 1065,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "7720072e78e3196a",
+      "section": "B12. 숫자 벽 금지 — 나열에 판단을 얹는다",
+      "context": "B장. 원고 (본문 · 클로징) / B12. 숫자 벽 금지 — 나열에 판단을 얹는다",
+      "line": 1074,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "8535d47362346b5d",
+      "section": "B13. 회수는 질문이 아니라 회수로 — 새 정보를 얹어서",
+      "context": "B장. 원고 (본문 · 클로징) / B13. 회수는 질문이 아니라 회수로 — 새 정보를 얹어서",
+      "line": 1084,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "8b3318ef7562089c",
+      "section": "B14. 챕터 오프닝 형식을 반복하지 않는다",
+      "context": "B장. 원고 (본문 · 클로징) / B14. 챕터 오프닝 형식을 반복하지 않는다",
+      "line": 1091,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "8b144634f2fe21a1",
+      "section": "B15. 있어 보이는 멘트는 3초 안에 설명 못 하면 뺀다",
+      "context": "B장. 원고 (본문 · 클로징) / B15. 있어 보이는 멘트는 3초 안에 설명 못 하면 뺀다",
+      "line": 1097,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "d1ac0a27f217322e",
+      "section": "B16. 오정보 정정 화법 — 시청자가 알던 것을 부정하되 무안하지 않게",
+      "context": "B장. 원고 (본문 · 클로징) / B16. 오정보 정정 화법 — 시청자가 알던 것을 부정하되 무안하지 않게",
+      "line": 1099,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "1624e2602256f2de",
+      "section": "B17. TTS 표기",
+      "context": "B장. 원고 (본문 · 클로징) / B17. TTS 표기",
+      "line": 1105,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "1858d151178ed434",
+      "section": "B18. 플랫폼 수익화 기준을 원고 단계에서 지킨다",
+      "context": "B장. 원고 (본문 · 클로징) / B18. 플랫폼 수익화 기준을 원고 단계에서 지킨다",
+      "line": 1110,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "11a7f05f15097aa7",
+      "section": "B-클로징",
+      "context": "B장. 원고 (본문 · 클로징) / B-클로징",
+      "line": 1128,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "6c9f2a46dd87484d",
+      "section": "B19. 클로징은 요약하는 자리가 아니라 깔때기다",
+      "context": "B장. 원고 (본문 · 클로징) / B19. 클로징은 요약하는 자리가 아니라 깔때기다",
+      "line": 1130,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "204a30742e6a67be",
+      "section": "B20. 미해결은 「시청자가 가져갈 것」을 준 다음에 온다",
+      "context": "B장. 원고 (본문 · 클로징) / B20. 미해결은 「시청자가 가져갈 것」을 준 다음에 온다",
+      "line": 1144,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "a24477493e3fa925",
+      "section": "B21. 제목이 주장을 했으면 클로징이 그 주장에 답한다",
+      "context": "B장. 원고 (본문 · 클로징) / B21. 제목이 주장을 했으면 클로징이 그 주장에 답한다",
+      "line": 1157,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "63573740d765e643",
+      "section": "B22. 2인칭 호칭으로 훈계·축원하지 않는다",
+      "context": "B장. 원고 (본문 · 클로징) / B22. 2인칭 호칭으로 훈계·축원하지 않는다",
+      "line": 1162,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "56ff27dbdc6c1261",
+      "section": "B23. 재진술 반복 금지 — 클로징에서 같은 말을 네 번 하기 쉽다",
+      "context": "B장. 원고 (본문 · 클로징) / B23. 재진술 반복 금지 — 클로징에서 같은 말을 네 번 하기 쉽다",
+      "line": 1168,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "5606a901ec68c6a3",
+      "section": "B24. 추상 선언 대신 구체 장면으로 바로 간다",
+      "context": "B장. 원고 (본문 · 클로징) / B24. 추상 선언 대신 구체 장면으로 바로 간다",
+      "line": 1174,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "50679882fdb28bf7",
+      "section": "B25. 클로징 분량 비중은 참고값이다 — PASS/FAIL로 쓰지 않는다",
+      "context": "B장. 원고 (본문 · 클로징) / B25. 클로징 분량 비중은 참고값이다 — PASS/FAIL로 쓰지 않는다",
+      "line": 1180,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "0aba05d4c462edb4",
+      "section": "S1. 기준은 언제나 「처음 듣는 사람」이다 — 방향은 양쪽이다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S1. 기준은 언제나 「처음 듣는 사람」이다 — 방향은 양쪽이다",
+      "line": 1192,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "6c1e37bf28e5f017",
+      "section": "S1-1. 낯선 명사·용어는 설명 먼저, 단어 나중",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S1. 기준은 언제나 「처음 듣는 사람」이다 — 방향은 양쪽이다 / S1-1. 낯선 명사·용어는 설명 먼저, 단어 나중",
+      "line": 1203,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "1de8d5d6ee8f7f5b",
+      "section": "S1-2. 반대로, 시청자가 아는 말은 설명하지 않는다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S1. 기준은 언제나 「처음 듣는 사람」이다 — 방향은 양쪽이다 / S1-2. 반대로, 시청자가 아는 말은 설명하지 않는다",
+      "line": 1219,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "c93a0082784a9925",
+      "section": "S1-3. 지칭 없는 「그들」 금지 — 처음엔 명명한다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S1. 기준은 언제나 「처음 듣는 사람」이다 — 방향은 양쪽이다 / S1-3. 지칭 없는 「그들」 금지 — 처음엔 명명한다",
+      "line": 1224,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "dd940f38b6ee2856",
+      "section": "S1-4. 「우리」는 시청자와 실제로 공유하는 것에만 쓴다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S1. 기준은 언제나 「처음 듣는 사람」이다 — 방향은 양쪽이다 / S1-4. 「우리」는 시청자와 실제로 공유하는 것에만 쓴다",
+      "line": 1228,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "827a426801bc37ea",
+      "section": "S1-5. 번역투 연어 금지",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S1. 기준은 언제나 「처음 듣는 사람」이다 — 방향은 양쪽이다 / S1-5. 번역투 연어 금지",
+      "line": 1243,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "848522a104ba0a7c",
+      "section": "S1-6. 문장의 주어가 정확한가",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S1. 기준은 언제나 「처음 듣는 사람」이다 — 방향은 양쪽이다 / S1-6. 문장의 주어가 정확한가",
+      "line": 1251,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "443cd6a63db20b53",
+      "section": "S1-7. 이름만 주지 않는다 — 지금 필요한 역할·관계를 함께 준다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S1. 기준은 언제나 「처음 듣는 사람」이다 — 방향은 양쪽이다 / S1-7. 이름만 주지 않는다 — 지금 필요한 역할·관계를 함께 준다",
+      "line": 1256,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "15c915af4295eec5",
+      "section": "S1-8. 역할 설명 전에 이름의 필요성부터 검사한다 — 조연 암기 금지",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S1. 기준은 언제나 「처음 듣는 사람」이다 — 방향은 양쪽이다 / S1-8. 역할 설명 전에 이름의 필요성부터 검사한다 — 조연 암기 금지",
+      "line": 1267,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "8823b6d026a12868",
+      "section": "S2. 모호함·추상 표현 절대 금지 — 알맹이가 있는가로 판정한다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S2. 모호함·추상 표현 절대 금지 — 알맹이가 있는가로 판정한다",
+      "line": 1278,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "e1656429ae001486",
+      "section": "S2-1. 뒤집은 대구 — 사장님이 「절대 금지」로 못박은 형태",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S2. 모호함·추상 표현 절대 금지 — 알맹이가 있는가로 판정한다 / S2-1. 뒤집은 대구 — 사장님이 「절대 금지」로 못박은 형태",
+      "line": 1295,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "113e4e78a0b37b24",
+      "section": "S2-2. 해독시키기 금지 — 「나중에 이해되게 하기」와 정반대다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S2. 모호함·추상 표현 절대 금지 — 알맹이가 있는가로 판정한다 / S2-2. 해독시키기 금지 — 「나중에 이해되게 하기」와 정반대다",
+      "line": 1300,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "f504bf3448fde2ad",
+      "section": "S2-3. 순서 규칙 — 사실 → 논평",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S2. 모호함·추상 표현 절대 금지 — 알맹이가 있는가로 판정한다 / S2-3. 순서 규칙 — 사실 → 논평",
+      "line": 1313,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "97fc259b7aafc959",
+      "section": "S2-4. 구제 절차",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S2. 모호함·추상 표현 절대 금지 — 알맹이가 있는가로 판정한다 / S2-4. 구제 절차",
+      "line": 1317,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "e284156dd3f81e6f",
+      "section": "S3. 중복 금지 — 어휘를 바꿔도 반복이다. 네 층 전부 본다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S3. 중복 금지 — 어휘를 바꿔도 반복이다. 네 층 전부 본다",
+      "line": 1325,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "90e20f8fc0bd1468",
+      "section": "S3-1. 문장 층",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S3. 중복 금지 — 어휘를 바꿔도 반복이다. 네 층 전부 본다 / S3-1. 문장 층",
+      "line": 1338,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "f964f11c90b3755b",
+      "section": "S3-2. 원고 전체 층 — 어휘를 바꿔도 반복이다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S3. 중복 금지 — 어휘를 바꿔도 반복이다. 네 층 전부 본다 / S3-2. 원고 전체 층 — 어휘를 바꿔도 반복이다",
+      "line": 1342,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "30871c5a7d017b93",
+      "section": "S3-3. 분량을 맞추려고 같은 말을 한 번 더 넣지 않는다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S3. 중복 금지 — 어휘를 바꿔도 반복이다. 네 층 전부 본다 / S3-3. 분량을 맞추려고 같은 말을 한 번 더 넣지 않는다",
+      "line": 1350,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "7a9be81f494eba5b",
+      "section": "S3-4. 분량이 빈 자리를 새 사실·새 수치로 채우지 않는다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S3. 중복 금지 — 어휘를 바꿔도 반복이다. 네 층 전부 본다 / S3-4. 분량이 빈 자리를 새 사실·새 수치로 채우지 않는다",
+      "line": 1354,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "aa06df4a1a5e800b",
+      "section": "S3-5. 같은 궁금증을 말만 바꿔 다시 묻지 않는다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S3. 중복 금지 — 어휘를 바꿔도 반복이다. 네 층 전부 본다 / S3-5. 같은 궁금증을 말만 바꿔 다시 묻지 않는다",
+      "line": 1360,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "78894317fee39362",
+      "section": "S4. 흐름과 연결 — 「갑자기」 등장 금지",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S4. 흐름과 연결 — 「갑자기」 등장 금지",
+      "line": 1369,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "8fc4c84c9b395d6d",
+      "section": "S4-1. 튀는 소재 앞엔 이어 주는 한 줄",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S4. 흐름과 연결 — 「갑자기」 등장 금지 / S4-1. 튀는 소재 앞엔 이어 주는 한 줄",
+      "line": 1373,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "54b602d59312c83e",
+      "section": "S4-2. 전환은 다음에 올 것을 그 자리에서 말한다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S4. 흐름과 연결 — 「갑자기」 등장 금지 / S4-2. 전환은 다음에 올 것을 그 자리에서 말한다",
+      "line": 1378,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "d5cedb8e1f214ed2",
+      "section": "S4-3. 지시어(「그 ~」)는 받을 말 바로 옆에 — 안 되면 이름을 다시 부른다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S4. 흐름과 연결 — 「갑자기」 등장 금지 / S4-3. 지시어(「그 ~」)는 받을 말 바로 옆에 — 안 되면 이름을 다시 부른다",
+      "line": 1382,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "3504353a160f14b4",
+      "section": "S4-4. 챕터 사이는 문장이 아니라 방향이 이어져야 한다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S4. 흐름과 연결 — 「갑자기」 등장 금지 / S4-4. 챕터 사이는 문장이 아니라 방향이 이어져야 한다",
+      "line": 1388,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "a6ddffbce97abcd8",
+      "section": "S4-5. 시간순은 이유가 되지 못한다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S4. 흐름과 연결 — 「갑자기」 등장 금지 / S4-5. 시간순은 이유가 되지 못한다",
+      "line": 1394,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "fa8d3de46686e33a",
+      "section": "S4-6. 좋은 문장이라서 넣고 싶은 문단이 흐름을 깬다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S4. 흐름과 연결 — 「갑자기」 등장 금지 / S4-6. 좋은 문장이라서 넣고 싶은 문단이 흐름을 깬다",
+      "line": 1397,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "d59bad1d4be0f997",
+      "section": "S4-7. 판정을 묻고 넘기지 않는다 — 답 → 근거 → 다음 이야기",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S4. 흐름과 연결 — 「갑자기」 등장 금지 / S4-7. 판정을 묻고 넘기지 않는다 — 답 → 근거 → 다음 이야기",
+      "line": 1400,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "5d130acc6e60be43",
+      "section": "S4-8. 사건을 추린 뒤 연결한다 — 해설로 순서의 빈칸을 덮지 않는다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S4. 흐름과 연결 — 「갑자기」 등장 금지 / S4-8. 사건을 추린 뒤 연결한다 — 해설로 순서의 빈칸을 덮지 않는다",
+      "line": 1411,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "6c2ed5240c8d6358",
+      "section": "S5. 이름을 붙인 뒤엔 그 명칭으로",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S5. 이름을 붙인 뒤엔 그 명칭으로",
+      "line": 1422,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "a4a4d3a4e5a28677",
+      "section": "S6. 과장 금지 — 사실의 임팩트를 믿어라",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S6. 과장 금지 — 사실의 임팩트를 믿어라",
+      "line": 1429,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "e1323fd8f554d805",
+      "section": "S7. 말이 되는 문장 — 근거·이유·일관성이 앞에 있어야",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S7. 말이 되는 문장 — 근거·이유·일관성이 앞에 있어야",
+      "line": 1435,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "bfa256dcd3363e7b",
+      "section": "S8. 압축하지 않는다 — 귀로 듣는 매체다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S8. 압축하지 않는다 — 귀로 듣는 매체다",
+      "line": 1447,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "65a7e060e0df0456",
+      "section": "S9. 문장 하나짜리 정확성 검사 셋",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S9. 문장 하나짜리 정확성 검사 셋",
+      "line": 1458,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "6a5b933b480e3657",
+      "section": "S10. 한 장면 안에서 시점이 튀지 않게 한다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S10. 한 장면 안에서 시점이 튀지 않게 한다",
+      "line": 1466,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "8c7adb1c78a23858",
+      "section": "S11. 사실 나열은 재미없다 — 나열에 판단·의미·반전을 얹어라",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S11. 사실 나열은 재미없다 — 나열에 판단·의미·반전을 얹어라",
+      "line": 1475,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "55212475ad9a7448",
+      "section": "S12. 매너리즘 방지 — 여섯 자리",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S12. 매너리즘 방지 — 여섯 자리",
+      "line": 1481,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "c8a74327ee8dc225",
+      "section": "S13. 시청자와의 연결은 주제 안에서 한다",
+      "context": "S장. 문체 · 표현 · 문장 · 맥락 / S13. 시청자와의 연결은 주제 안에서 한다",
+      "line": 1496,
+      "stage": "draft",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "a14d74b0fd6962ff",
+      "section": "G1. 원칙",
+      "context": "G장. 자가검수 — 사장님에게 보여주기 전에 / G1. 원칙",
+      "line": 1510,
+      "stage": "review",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "5fe28524a802276c",
+      "section": "G2. 계측 — 조립 직후",
+      "context": "G장. 자가검수 — 사장님에게 보여주기 전에 / G2. 계측 — 조립 직후",
+      "line": 1517,
+      "stage": "review",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "5bdb39ab84f97463",
+      "section": "G3. 하한 — 「넣었는가」를 금지 항목과 같은 무게로 센다",
+      "context": "G장. 자가검수 — 사장님에게 보여주기 전에 / G3. 하한 — 「넣었는가」를 금지 항목과 같은 무게로 센다",
+      "line": 1534,
+      "stage": "review",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "d58369551e2b1a42",
+      "section": "G4. 통독 — 조립한 전체를 소리 내어 읽듯이 한 번",
+      "context": "G장. 자가검수 — 사장님에게 보여주기 전에 / G4. 통독 — 조립한 전체를 소리 내어 읽듯이 한 번",
+      "line": 1541,
+      "stage": "review",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "46874b80eabdbb56",
+      "section": "G4-1. 첫 제출 전 이해 검사 — 실제 문장 대조 없이는 완료 처리 금지",
+      "context": "G장. 자가검수 — 사장님에게 보여주기 전에 / G4. 통독 — 조립한 전체를 소리 내어 읽듯이 한 번 / G4-1. 첫 제출 전 이해 검사 — 실제 문장 대조 없이는 완료 처리 금지",
+      "line": 1554,
+      "stage": "review",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "8d5f265d4850e3d7",
+      "section": "G5. 정합 — 제출 직전",
+      "context": "G장. 자가검수 — 사장님에게 보여주기 전에 / G5. 정합 — 제출 직전",
+      "line": 1568,
+      "stage": "review",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "b32f4a3607dcdf76",
+      "section": "G6. 고칠 때 — 지적은 한 곳으로 받지만 고치는 것은 전수다",
+      "context": "G장. 자가검수 — 사장님에게 보여주기 전에 / G6. 고칠 때 — 지적은 한 곳으로 받지만 고치는 것은 전수다",
+      "line": 1578,
+      "stage": "review",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "ef7b903512afc7e9",
+      "section": "G7. 이 게이트를 통과했다고 품질이 보장되지는 않는다",
+      "context": "G장. 자가검수 — 사장님에게 보여주기 전에 / G7. 이 게이트를 통과했다고 품질이 보장되지는 않는다",
+      "line": 1591,
+      "stage": "review",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "6bb36401dc37ec2a",
+      "section": "G8. 채널별로 달라지는 검증 — 집필 전에 설계하고 제출 전에 다시 확인한다",
+      "context": "G장. 자가검수 — 사장님에게 보여주기 전에 / G8. 채널별로 달라지는 검증 — 집필 전에 설계하고 제출 전에 다시 확인한다",
+      "line": 1596,
+      "stage": "review",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "afade7e109583d67",
+      "section": "부자경제의 실전 기록 양식",
+      "context": "G장. 자가검수 — 사장님에게 보여주기 전에 / G8. 채널별로 달라지는 검증 — 집필 전에 설계하고 제출 전에 다시 확인한다 / 부자경제의 실전 기록 양식",
+      "line": 1608,
+      "stage": "review",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "7115407318c71360",
+      "section": "수치·구조 규칙을 채널에 적용할 때",
+      "context": "G장. 자가검수 — 사장님에게 보여주기 전에 / G8. 채널별로 달라지는 검증 — 집필 전에 설계하고 제출 전에 다시 확인한다 / 수치·구조 규칙을 채널에 적용할 때",
+      "line": 1617,
+      "stage": "review",
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    }
+  ],
+  "candidates": [
+    {
+      "id": "ABSTRACT_BRIDGE:1486",
+      "code": "ABSTRACT_BRIDGE",
+      "quote": "개인적인 인연에만 기대고 있지도 않았습니다.",
+      "offset": 1486,
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "ABSTRACT_RESULT:1426",
+      "code": "ABSTRACT_RESULT",
+      "quote": "왕을 대신해 명령하는 자리가 아니라, 왕이 하려는 일을 놓고 직접 따질 수 있는 기회였습니다.",
+      "offset": 1426,
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "NEGATIVE_TRANSITION:1943",
+      "code": "NEGATIVE_TRANSITION",
+      "quote": "이번에는 군대도 공사도 아니었습니다.",
+      "offset": 1943,
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "NEW_AGENDA:1096",
+      "code": "NEW_AGENDA",
+      "quote": "이날 사람을 등용하는 문제도 나왔습니다.",
+      "offset": 1096,
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    },
+    {
+      "id": "RETIREMENT_ORDER:1711",
+      "code": "RETIREMENT_ORDER",
+      "quote": "벼슬을 그만둔다고 그 관계가 끝나는 것은 아니었습니다.",
+      "offset": 1711,
+      "status": "pending",
+      "reason": "",
+      "evidence": []
+    }
+  ],
+  "inputs": [],
+  "plan_approval": null,
+  "reviews": [
+    {
+      "draft_sha256": "6a432d72497900efef984cda2e140736633256573b52fe0dd60d5f02d9d83c1f",
+      "guide_sha256": "ce10ab43d5bdb2d8d7713f455b5abb5a188f31a6b0caf7125c8b4b2648da055d",
+      "reviewer": "Aristotle:01a0a840-d284-7103-9d27-d75cd5579aee",
+      "method": "separate_review",
+      "axis": "facts",
+      "verdict": "unverified",
+      "report": {
+        "path": "C:\\Users\\진실\\Downloads\\롱폼원고\\_검수\\송시열_절차검증\\독립검토.json",
+        "sha256": "3f0cc726c35debf0b8a670328547840c4e685a7486c992c727ad9c78457da681"
+      },
+      "evidence": [
+        {
+          "path": "C:\\Users\\진실\\Downloads\\롱폼원고\\_검수\\송시열_절차검증\\독립검토.json",
+          "sha256": "3f0cc726c35debf0b8a670328547840c4e685a7486c992c727ad9c78457da681",
+          "quote": "사료 원문·인용·역사적 인과를 재검증하지 않았습니다."
+        }
+      ]
+    },
+    {
+      "draft_sha256": "6a432d72497900efef984cda2e140736633256573b52fe0dd60d5f02d9d83c1f",
+      "guide_sha256": "ce10ab43d5bdb2d8d7713f455b5abb5a188f31a6b0caf7125c8b4b2648da055d",
+      "reviewer": "Aristotle:01a0a840-d284-7103-9d27-d75cd5579aee",
+      "method": "separate_review",
+      "axis": "comprehension",
+      "verdict": "fail",
+      "report": {
+        "path": "C:\\Users\\진실\\Downloads\\롱폼원고\\_검수\\송시열_절차검증\\독립검토.json",
+        "sha256": "3f0cc726c35debf0b8a670328547840c4e685a7486c992c727ad9c78457da681"
+      },
+      "evidence": [
+        {
+          "path": "C:\\Users\\진실\\Downloads\\롱폼원고\\_검수\\송시열_절차검증\\독립검토.json",
+          "sha256": "3f0cc726c35debf0b8a670328547840c4e685a7486c992c727ad9c78457da681",
+          "quote": "예송의 실제 채택 내용이 불명확하고, 퇴장·재차 물러남의 상태 연결에 빈칸이 있습니다."
+        }
+      ]
+    },
+    {
+      "draft_sha256": "6a432d72497900efef984cda2e140736633256573b52fe0dd60d5f02d9d83c1f",
+      "guide_sha256": "ce10ab43d5bdb2d8d7713f455b5abb5a188f31a6b0caf7125c8b4b2648da055d",
+      "reviewer": "Aristotle:01a0a840-d284-7103-9d27-d75cd5579aee",
+      "method": "separate_review",
+      "axis": "engagement",
+      "verdict": "fail",
+      "report": {
+        "path": "C:\\Users\\진실\\Downloads\\롱폼원고\\_검수\\송시열_절차검증\\독립검토.json",
+        "sha256": "3f0cc726c35debf0b8a670328547840c4e685a7486c992c727ad9c78457da681"
+      },
+      "evidence": [
+        {
+          "path": "C:\\Users\\진실\\Downloads\\롱폼원고\\_검수\\송시열_절차검증\\독립검토.json",
+          "sha256": "3f0cc726c35debf0b8a670328547840c4e685a7486c992c727ad9c78457da681",
+          "quote": "인사 사건이 공사·군사 대비를 끊고, 사건 뒤 반복 해설이 진행을 늦춥니다."
+        }
+      ]
+    },
+    {
+      "draft_sha256": "6a432d72497900efef984cda2e140736633256573b52fe0dd60d5f02d9d83c1f",
+      "guide_sha256": "ce10ab43d5bdb2d8d7713f455b5abb5a188f31a6b0caf7125c8b4b2648da055d",
+      "reviewer": "Aristotle:01a0a840-d284-7103-9d27-d75cd5579aee",
+      "method": "separate_review",
+      "axis": "promise",
+      "verdict": "fail",
+      "report": {
+        "path": "C:\\Users\\진실\\Downloads\\롱폼원고\\_검수\\송시열_절차검증\\독립검토.json",
+        "sha256": "3f0cc726c35debf0b8a670328547840c4e685a7486c992c727ad9c78457da681"
+      },
+      "evidence": [
+        {
+          "path": "C:\\Users\\진실\\Downloads\\롱폼원고\\_검수\\송시열_절차검증\\독립검토.json",
+          "sha256": "3f0cc726c35debf0b8a670328547840c4e685a7486c992c727ad9c78457da681",
+          "quote": "‘왜 말에 힘이 있었나’에 부분적으로 답하지만, 명망·지지가 정치적 영향력으로 이어지는 설명이 부족합니다."
+        }
+      ]
+    },
+    {
+      "draft_sha256": "6a432d72497900efef984cda2e140736633256573b52fe0dd60d5f02d9d83c1f",
+      "guide_sha256": "ce10ab43d5bdb2d8d7713f455b5abb5a188f31a6b0caf7125c8b4b2648da055d",
+      "reviewer": "Aristotle:01a0a840-d284-7103-9d27-d75cd5579aee",
+      "method": "separate_review",
+      "axis": "repetition",
+      "verdict": "fail",
+      "report": {
+        "path": "C:\\Users\\진실\\Downloads\\롱폼원고\\_검수\\송시열_절차검증\\독립검토.json",
+        "sha256": "3f0cc726c35debf0b8a670328547840c4e685a7486c992c727ad9c78457da681"
+      },
+      "evidence": [
+        {
+          "path": "C:\\Users\\진실\\Downloads\\롱폼원고\\_검수\\송시열_절차검증\\독립검토.json",
+          "sha256": "3f0cc726c35debf0b8a670328547840c4e685a7486c992c727ad9c78457da681",
+          "quote": "‘본인이 없어도 지지자가 발언한다’를 74·80·82줄, 112·114·124줄에서 거듭 설명합니다."
+        }
+      ]
+    }
+  ],
+  "findings": [
+    {
+      "id": "EVENT-01",
+      "severity": "blocking",
+      "quote": "다만 조정이 근거로 삼은 것은 나라의 상복 규정이었습니다.",
+      "reason": "채택된 판단과 채택되지 않은 해석을 구별해야 합니다.",
+      "status": "open"
+    },
+    {
+      "id": "ORDER-01",
+      "severity": "warning",
+      "quote": "그런데 그가 조정에서 물러난 뒤에도, 그 의견을 지지하던 관리들은 남아 있었습니다.",
+      "reason": "퇴장 배경보다 의미가 앞섭니다.",
+      "status": "open"
+    },
+    {
+      "id": "NAME-01",
+      "severity": "warning",
+      "quote": "이날 사람을 등용하는 문제도 나왔습니다.",
+      "reason": "조연 실명과 새 의제의 기억 부담이 큽니다.",
+      "status": "open"
+    },
+    {
+      "id": "LANGUAGE-01",
+      "severity": "warning",
+      "quote": "그 기회는 개인적인 인연에만 기대고 있지도 않았습니다.",
+      "reason": "기회의 의미를 다시 해석해야 합니다.",
+      "status": "open"
+    },
+    {
+      "id": "EVENT-02",
+      "severity": "warning",
+      "quote": "이날 사람을 등용하는 문제도 나왔습니다.",
+      "reason": "사건 단위 제외 또는 별도 입증 기능을 확정해야 합니다.",
+      "status": "open"
+    },
+    {
+      "id": "END-01",
+      "severity": "warning",
+      "quote": "그로부터 5년 뒤 숙종은 다시 조정의 주도 세력을 바꾸었습니다.",
+      "reason": "종합 정리 뒤에 새로운 사건이 시작합니다.",
+      "status": "open"
+    },
+    {
+      "id": "ANSWER-01",
+      "severity": "blocking",
+      "quote": "송시열도 그중 한 사람이었습니다.",
+      "reason": "명망과 정치적 힘을 잇는 근거가 얇습니다.",
+      "status": "open"
+    },
+    {
+      "id": "REP-01",
+      "severity": "blocking",
+      "quote": "관직을 떠나는 것과 영향력을 잃는 것이 언제나 같은 일이 아니었던 거죠.",
+      "reason": "사건 뒤 일반론과 재요약이 반복됩니다.",
+      "status": "open"
+    }
+  ],
+  "final_approval": null,
+  "limits": "근거 형식·판본·누락만 기계 검사. 의미·사실·흥미 합격의 자동 증명이 아님."
+}

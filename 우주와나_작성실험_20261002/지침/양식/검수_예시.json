@@ -1,0 +1,26 @@
+{
+  "artifact_sha256": "읽은 대상의 실제 SHA256",
+  "verdict": "FAIL",
+  "unresolved": [
+    "각 단계의 실제 검수 전: 빈 템플릿"
+  ],
+  "selection": {
+    "source": "user",
+    "quote": "실제 사용자 결정 발언",
+    "reason": "선택/위임의 범위",
+    "decision_sha256": "해당 단계 선택 기록의 SHA256"
+  },
+  "checks": {
+    "단계별_필수키로_교체": {
+      "status": "FAIL",
+      "reason": "실제 판정 이유",
+      "evidence": [
+        {
+          "file": "검토 대상 경로",
+          "quote": "실제 검토 구절",
+          "sha256": "읽은 파일 실제 SHA256"
+        }
+      ]
+    }
+  }
+}
