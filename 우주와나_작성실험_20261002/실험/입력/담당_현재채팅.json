@@ -1,0 +1,11 @@
+{
+  "coordinator": "/root",
+  "research": "/root/space_research",
+  "plan": "/root/space_plan",
+  "package": "/root/space_package",
+  "opening": "/root/space_opening",
+  "body": "/root/space_body",
+  "review": "/root/space_flow_review",
+  "flow_review": "/root/space_flow_review",
+  "fact_review": "/root/space_fact_review"
+}

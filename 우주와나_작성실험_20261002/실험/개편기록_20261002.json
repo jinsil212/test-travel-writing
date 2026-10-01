@@ -76,8 +76,9 @@
     {
       "file": "AGENTS.md",
       "before": null,
-      "after": "a2c780e8c72600b1f3a2bf4d2e6aaf38fb9d7c1ea28fcb81660d68c7eb60fa65",
-      "backup": null
+      "after": "9f8d074978149180be145c75897261c0131455c0321583f7caadcbf2b0717046",
+      "backup": null,
+      "before_agents_registration": "a2c780e8c72600b1f3a2bf4d2e6aaf38fb9d7c1ea28fcb81660d68c7eb60fa65"
     },
     {
       "file": "CLAUDE.md",
@@ -100,8 +101,9 @@
     {
       "file": ".codex/config.toml",
       "before": null,
-      "after": "489823a3f687251cbaacdd7f26ba4ef9aacb55804d02fdef15b85838f9e8b148",
-      "backup": null
+      "after": "1f91949620ce8c6529cd2136c51df87bada016893bf96326bdd7b04371688171",
+      "backup": null,
+      "before_agents_registration": "489823a3f687251cbaacdd7f26ba4ef9aacb55804d02fdef15b85838f9e8b148"
     },
     {
       "file": ".claude/settings.json",
@@ -174,6 +176,48 @@
       "before": null,
       "after": "5d63dbdfea7657301b68c810622a93a54e472df4cd096d308069c27809c48f27",
       "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_research.toml",
+      "before": null,
+      "after": "6205005a4036afefb73f21171960488f2794f6c07fb86cd1f9781d9200a51706",
+      "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_plan.toml",
+      "before": null,
+      "after": "cad3038d4e658bf08ac5a2b2045f9fa364e294407cd4e52010ac8d5dffae75fe",
+      "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_package.toml",
+      "before": null,
+      "after": "fa0cf86384c26a2fe5c3f0bf286a6c6351d887a2bcf3c640e0f78875862f1bed",
+      "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_opening.toml",
+      "before": null,
+      "after": "029e5550e6eeae9a9964d4b7c74379c936045bee9d774b9a6c1b28dabdef0854",
+      "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_body.toml",
+      "before": null,
+      "after": "355d1982122f1e726f8a968fa0683660b3d6a21b4fbf5b8af6f0f84d917c3406",
+      "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_fact_review.toml",
+      "before": null,
+      "after": "ee80fd9c29dd1f3a7941b662e0985a48e3f1cbb72a95fba43e0dc229ca5a358c",
+      "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_flow_review.toml",
+      "before": null,
+      "after": "cc293b6bd1d38022d951c0dedc344bca297f7664ad4339518515c4b8b614a127",
+      "backup": null
     }
   ],
   "native_hooks": "configured_not_verified_active",
@@ -212,5 +256,10 @@
     ],
     "native_hooks": "definition_changed_trust_not_verified",
     "git": "outside_previous_repository_no_new_repo"
+  },
+  "agents_registration": {
+    "definitions": 7,
+    "live_readiness_sessions": 7,
+    "manuscript": "not_started"
   }
 }
