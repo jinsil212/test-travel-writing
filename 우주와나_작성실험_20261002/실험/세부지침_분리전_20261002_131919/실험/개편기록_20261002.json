@@ -1,0 +1,265 @@
+{
+  "scope": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002",
+  "files": [
+    {
+      "file": "도구/pipeline.py",
+      "before": null,
+      "after": "f00485bf3b2acdc7aed38218a3cc3cc713962e75c4cf7e0a7568e8e52b98fbbb",
+      "backup": null
+    },
+    {
+      "file": "도구/hook.py",
+      "before": null,
+      "after": "9ff487d048b6a69f36b2c84b1b3a9c9ef84d0a469a63d038cfb47bb7970d99a0",
+      "backup": null
+    },
+    {
+      "file": "도구/test_pipeline.py",
+      "before": null,
+      "after": "8ae9a131e5ff56011b7621b97b02502b12a4c47ada95bab481c28d4aee9bd1e5",
+      "backup": null
+    },
+    {
+      "file": "도구/사용법.md",
+      "before": null,
+      "after": "7bdf5380eef7168f0b4fcff27463a38a805fd6b76c48e6d803b26c31bae045f5",
+      "backup": null
+    },
+    {
+      "file": "지침/운영.md",
+      "before": null,
+      "after": "88e36ef99ea0b9e9e6bc60f184dfbcd47b38b332d30d3b79c6c3a7ae4e86d858",
+      "backup": null
+    },
+    {
+      "file": "지침/에이전트/00_총괄.md",
+      "before": null,
+      "after": "460ffcdd6b2fdea045918f37105e838f6bee17b4fb3a6b37eecc3befe99802ef",
+      "backup": null
+    },
+    {
+      "file": "지침/에이전트/01_조사.md",
+      "before": null,
+      "after": "f2092e4e143f959bf790d3a056142588c52f777c185e656f3191963e88ad7883",
+      "backup": null
+    },
+    {
+      "file": "지침/에이전트/02_기획.md",
+      "before": null,
+      "after": "f1bb06c08dbed51bcfc87bb11ca3044dcf0f834ace8998eefa60f0ad8d4ad231",
+      "backup": null
+    },
+    {
+      "file": "지침/에이전트/03_제목썸네일.md",
+      "before": null,
+      "after": "62dd0ce20c38ff86f4680b7d8895101e45b0d4b9ba8100d15dc6dba3edaa07e9",
+      "backup": null
+    },
+    {
+      "file": "지침/에이전트/04_도입.md",
+      "before": null,
+      "after": "ba0b6065bd2f703ac1f39a55d5844d1414ff68cf1c48aa78aae75b070f438186",
+      "backup": null
+    },
+    {
+      "file": "지침/에이전트/05_본문클로징.md",
+      "before": null,
+      "after": "837361bdfc76455a450957ab2436f49aa5fc1af2237706e553b2cc3b20f587a7",
+      "backup": null
+    },
+    {
+      "file": "지침/에이전트/06_독립검수.md",
+      "before": null,
+      "after": "e33f57d1a8115739ea87c03cdbfec067b9c1df4cb0dcd255b49f858a66eecc59",
+      "backup": null
+    },
+    {
+      "file": "AGENTS.md",
+      "before": null,
+      "after": "9f8d074978149180be145c75897261c0131455c0321583f7caadcbf2b0717046",
+      "backup": null,
+      "before_agents_registration": "a2c780e8c72600b1f3a2bf4d2e6aaf38fb9d7c1ea28fcb81660d68c7eb60fa65"
+    },
+    {
+      "file": "CLAUDE.md",
+      "before": null,
+      "after": "c8e7dec33ec41ce6b9954b88764460afef17981ee02a092935399bcd1c1f6956",
+      "backup": null
+    },
+    {
+      "file": "도구/runtime.json",
+      "before": null,
+      "after": "1a4d23cf6f122324d5bdf1c2c626719c27a9860044c31e653983366dced4ab90",
+      "backup": null
+    },
+    {
+      "file": ".codex/hooks.json",
+      "before": null,
+      "after": "ca4913a71d4b937de6dd17d812c55ec3383970b332537e86cc8ad0ca90734afb",
+      "backup": null
+    },
+    {
+      "file": ".codex/config.toml",
+      "before": null,
+      "after": "1f91949620ce8c6529cd2136c51df87bada016893bf96326bdd7b04371688171",
+      "backup": null,
+      "before_agents_registration": "489823a3f687251cbaacdd7f26ba4ef9aacb55804d02fdef15b85838f9e8b148"
+    },
+    {
+      "file": ".claude/settings.json",
+      "before": null,
+      "after": "7614c89942c238496f3c897756c6e5f18a27583a1ea40c218f1763864f970415",
+      "backup": null
+    },
+    {
+      "file": "도구/우주실험_시작.ps1",
+      "before": null,
+      "after": "ef605223e105adbbde49b72e882871776ff4426e7fd0e481e0772f29fd6c6349",
+      "backup": null
+    },
+    {
+      "file": "_대본지침서.md",
+      "before": "fc9c8c924bf3c35504a7269d064f75e2ddafafdb6b19fc505b11cb9ff3303b6f",
+      "after": "daa401ec7b60c19584c9433581f58860b9f57417179b93f4c1c7ff167939dce4",
+      "backup": "실험\\개편전_20261002\\_대본지침서.md"
+    },
+    {
+      "file": "우주와나/채널설정.md",
+      "before": "ed248080e91e56f5ed64bd9316e7ef21dfd23a9ed7633a2b6a7cbd363882005a",
+      "after": "1ce6065eb4b9c9f99a4db260f4be291acc5e537ca972546d0a43fff350bc5ac5",
+      "backup": "실험\\개편전_20261002\\우주와나\\채널설정.md"
+    },
+    {
+      "file": "우주와나/분석지/_원고쓰는법.md",
+      "before": "807b47b18b906b542fb8e36fe6ab1a2c99fd93a1defba7a15ae1ddabcaedead0",
+      "after": "cc6ec4a9f317e809a4b64c77ee60c7d4a2bb7add69e9e87e5349861567c84d74",
+      "backup": "실험\\개편전_20261002\\우주와나\\분석지\\_원고쓰는법.md"
+    },
+    {
+      "file": "우주와나/분석지/_검수기준서.md",
+      "before": "67050c7e9425b00039068c3975b0ac83d65f0248ed0c8890ff12450448153c10",
+      "after": "e36660e12c796d1734ecd1a786193b11654eec3d5d0be777e846e653e12df85d",
+      "backup": "실험\\개편전_20261002\\우주와나\\분석지\\_검수기준서.md"
+    },
+    {
+      "file": "README_실험.md",
+      "before": "b5d86e13df8821bfb3dd28a3cd7201359af1bce55ace5c86e6b36a045a1cf505",
+      "after": "e0102d4b3e2acb7fb2e5c1cb787d81b693e3223205dbf941e52d01ba0abcacab",
+      "backup": "실험\\개편전_20261002\\README_실험.md"
+    },
+    {
+      "file": "우주와나/진행상태_실험.md",
+      "before": null,
+      "after": "0dd810c6eb42c360967da6bf0b3af3049470df62c5235d158084a1d500ccfa2e",
+      "backup": null
+    },
+    {
+      "file": "지침/양식/담당_예시.json",
+      "before": null,
+      "after": "792571bc3e932cc0e9cdf3b2d9b2766c66c184ba6ff0410cb317bc30db32d049",
+      "backup": null
+    },
+    {
+      "file": "지침/양식/열람_예시.json",
+      "before": null,
+      "after": "1a6ebb9b4e51b8b666eab221e91576cf2fb78a7992adb29228ca1b49732b71f2",
+      "backup": null
+    },
+    {
+      "file": "지침/양식/사전준비_예시.json",
+      "before": null,
+      "after": "3fae96ecd2a4bf9502f91b2b1de47912d9da52a37f70bff7f0a7495d8b0a6e54",
+      "backup": null
+    },
+    {
+      "file": "지침/양식/검수_예시.json",
+      "before": null,
+      "after": "5d63dbdfea7657301b68c810622a93a54e472df4cd096d308069c27809c48f27",
+      "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_research.toml",
+      "before": null,
+      "after": "6205005a4036afefb73f21171960488f2794f6c07fb86cd1f9781d9200a51706",
+      "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_plan.toml",
+      "before": null,
+      "after": "cad3038d4e658bf08ac5a2b2045f9fa364e294407cd4e52010ac8d5dffae75fe",
+      "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_package.toml",
+      "before": null,
+      "after": "fa0cf86384c26a2fe5c3f0bf286a6c6351d887a2bcf3c640e0f78875862f1bed",
+      "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_opening.toml",
+      "before": null,
+      "after": "029e5550e6eeae9a9964d4b7c74379c936045bee9d774b9a6c1b28dabdef0854",
+      "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_body.toml",
+      "before": null,
+      "after": "355d1982122f1e726f8a968fa0683660b3d6a21b4fbf5b8af6f0f84d917c3406",
+      "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_fact_review.toml",
+      "before": null,
+      "after": "ee80fd9c29dd1f3a7941b662e0985a48e3f1cbb72a95fba43e0dc229ca5a358c",
+      "backup": null
+    },
+    {
+      "file": ".codex\\agents\\space_flow_review.toml",
+      "before": null,
+      "after": "cc293b6bd1d38022d951c0dedc344bca297f7664ad4339518515c4b8b614a127",
+      "backup": null
+    }
+  ],
+  "native_hooks": "configured_not_verified_active",
+  "manuscript": "not_started",
+  "notes": [
+    "사용자 최신 지시 테스트 우주와나만 적용",
+    "기존 지침 원본은 범위 안에 백업",
+    "상위/전역 설정 수정 없음"
+  ],
+  "previous_scope": "C:\\Users\\79420\\Documents\\midform-writing\\테스트\\우주와나_작성실험_20261002",
+  "relocation": {
+    "from": "C:\\Users\\79420\\Documents\\midform-writing\\테스트\\우주와나_작성실험_20261002",
+    "to": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002",
+    "verified_moved_files": 374,
+    "path_updates": [
+      {
+        "file": ".codex/hooks.json",
+        "before": "eecc5d7350d455cf08f759a8d16ae9f24d66015284b5f87bfa3080157adb0510",
+        "after": "ca4913a71d4b937de6dd17d812c55ec3383970b332537e86cc8ad0ca90734afb"
+      },
+      {
+        "file": ".claude/settings.json",
+        "before": "b1954e4e9735e4756ddd1a874c65136bca4be1e6c97ec7fdf92e698c4ccce05a",
+        "after": "7614c89942c238496f3c897756c6e5f18a27583a1ea40c218f1763864f970415"
+      },
+      {
+        "file": "도구/우주실험_시작.ps1",
+        "before": "e2583faf51c00061f0fdbe3832a62f236a5f1c42a77eb13e09e0ecc759f8d66b",
+        "after": "ef605223e105adbbde49b72e882871776ff4426e7fd0e481e0772f29fd6c6349"
+      },
+      {
+        "file": "README_실험.md",
+        "before": "1942d29fa5a1bc7275cb3f16a3babec5b4ce547b4147897e6f35239afbc466b7",
+        "after": "e0102d4b3e2acb7fb2e5c1cb787d81b693e3223205dbf941e52d01ba0abcacab"
+      }
+    ],
+    "native_hooks": "definition_changed_trust_not_verified",
+    "git": "outside_previous_repository_no_new_repo"
+  },
+  "agents_registration": {
+    "definitions": 7,
+    "live_readiness_sessions": 7,
+    "manuscript": "not_started"
+  }
+}

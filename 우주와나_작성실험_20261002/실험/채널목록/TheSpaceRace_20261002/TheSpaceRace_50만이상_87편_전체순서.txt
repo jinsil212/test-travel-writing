@@ -1,0 +1,533 @@
+﻿The Space Race 조회수 50만 이상 전체 제작 순서
+확인일: 2026-10-02, 확인 완료 14:55:54 한국시간. 각 편은 수집 중 서로 다른 시각에 확인했습니다.
+범위: 제공된 동영상 탭 467개, 회원 전용 17개 제외, 공개 450개. 50만 인접 후보 89개를 정수 조회수로 재확인한 결과 대상 87개.
+정렬: 확인 당시 조회수 내림차순. 이후 조회수 변동으로 순위가 바뀔 수 있습니다.
+한국어 소재명은 원제의 내용을 구별하기 위한 뜻풀이입니다. 검증된 사실·최종 기획·업로드 제목으로 표시하지 않습니다.
+모든 대상 영상은 보존했습니다. 같은 제목의 다른 영상도 영상 ID가 다르면 별도 편입니다.
+기존 작업 폴더 5건은 원고 폴더 내 관련 정보·기획·진행상태 URL의 ID 일치로 확인했습니다. 기존 파일 보존 및 확정 문구 보호 여부를 편별로 확인합니다.
+현재 완료: 전체 목록 및 조회수 검증. 새 기획·대본 0/87. 기존 초안은 새 독립 검수 완료본으로 세지 않습니다.
+현재 확인 대기: 1순위 목성 편의 기존 확정 제목·도입을 이어 최소 수정할지, 새 시리즈로 별도 기획할지.
+
+전체 순서
+
+01. 목성은 우리가 생각하는 행성과 어떻게 다른가
+조회수 7,039,717회 | 원제: Jupiter Is Not What You Think
+원본: https://www.youtube.com/watch?v=FXF-nD4U5zk
+업로드일: 2025-11-15 | 원본 길이: 13:30
+기존 작업: 우주와나\원고\목성속
+
+02. 우주를 바라보는 관점을 바꿀 물체
+조회수 6,382,326회 | 원제: The Object That Will Change Your View of Space Forever
+원본: https://www.youtube.com/watch?v=b2_M-1YqnNI
+업로드일: 2025-08-16 | 원본 길이: 19:59
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+03. NASA가 명왕성에서 발견한 것
+조회수 6,065,302회 | 원제: What NASA Found on Pluto
+원본: https://www.youtube.com/watch?v=1ozN_0gYTBk
+업로드일: 2025-08-23 | 원본 길이: 15:29
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+04. NASA가 목성의 위성 이오에서 발견한 것
+조회수 5,319,780회 | 원제: What NASA Found on Io
+원본: https://www.youtube.com/watch?v=s0mNlXGd2Bc
+업로드일: 2026-02-14 | 원본 길이: 12:04
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+05. 스페이스X의 화성 도시 건설 구상
+조회수 4,236,070회 | 원제: How SpaceX Will Build a City on Mars
+원본: https://www.youtube.com/watch?v=-_L5ZN-VnD0
+업로드일: 2026-01-10 | 원본 길이: 16:32
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+06. 3I/ATLAS에서 실제로 벌어지는 일
+조회수 4,226,270회 | 원제: What Is Actually Happening With 3I Atlas
+원본: https://www.youtube.com/watch?v=BNfIPVjQwEA
+업로드일: 2025-10-26 | 원본 길이: 22:25
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+07. 소련의 금성 탐사 성과
+조회수 4,028,047회 | 원제: What The Soviets Found On Venus
+원본: https://www.youtube.com/watch?v=4_iTuvomj0Y
+업로드일: 2025-12-06 | 원본 길이: 16:55
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+08. NASA의 달 도시 건설 구상
+조회수 3,982,924회 | 원제: How NASA Will Build A City On The Moon
+원본: https://www.youtube.com/watch?v=ATgwz_hS3Qg
+업로드일: 2025-09-06 | 원본 길이: 14:41
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+09. 미국의 우주 핵실험과 그 결과
+조회수 3,963,811회 | 원제: What Happened When The USA Nuked Space (declassified)
+원본: https://www.youtube.com/watch?v=EgCZFumiIec
+업로드일: 2024-07-28 | 원본 길이: 15:31
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+10. NASA의 아르테미스 달 기지 구상
+조회수 3,870,623회 | 원제: How NASA Will Build The Artemis Moon Base
+원본: https://www.youtube.com/watch?v=zNv7o8wEJdc
+업로드일: 2026-04-04 | 원본 길이: 14:02
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+11. 중국의 달 탐사 성과
+조회수 3,801,227회 | 원제: What China Found on The Moon
+원본: https://www.youtube.com/watch?v=TY9dnrbQano
+업로드일: 2025-05-17 | 원본 길이: 15:11
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+12. 스타십 안에서의 생활 구상, 2025년 영상
+조회수 3,726,331회 | 원제: What Life Inside The SpaceX Starship Will Be Like!
+원본: https://www.youtube.com/watch?v=XC3dwEVxYEM
+업로드일: 2025-05-31 | 원본 길이: 13:24
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+13. 소련이 금성 탐사에 집착한 이유
+조회수 3,681,042회 | 원제: The Soviet Obsession With Venus Revealed
+원본: https://www.youtube.com/watch?v=ydibFhTuimY
+업로드일: 2024-05-11 | 원본 길이: 16:14
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+14. 보잉 스타라이너 실패의 원인
+조회수 3,294,719회 | 원제: The Real Reason The Boeing Starliner Failed
+원본: https://www.youtube.com/watch?v=5ejHYVamyiw
+업로드일: 2024-09-07 | 원본 길이: 28:30
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+15. 아르테미스 2호에서 일어난 일
+조회수 3,198,936회 | 원제: What Exactly Happened on Artemis 2
+원본: https://www.youtube.com/watch?v=4N3GJnDiqCU
+업로드일: 2026-04-11 | 원본 길이: 17:51
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+16. 3I/ATLAS에 관한 보도에서 빠진 내용
+조회수 3,174,442회 | 원제: What The News Should Have Told You About 3I Atlas
+원본: https://www.youtube.com/watch?v=jCcWlecjv4k
+업로드일: 2025-09-13 | 원본 길이: 13:25
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+17. 스타십 안에서의 생활 구상, 2023년 영상
+조회수 3,171,083회 | 원제: What Life Inside The SpaceX Starship Will Be Like!
+원본: https://www.youtube.com/watch?v=yPWv4fDxYIk
+업로드일: 2023-01-14 | 원본 길이: 11:29
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+18. 아르테미스 2호에서 벌어지는 일
+조회수 2,898,922회 | 원제: What is Actually Happening on Artemis 2
+원본: https://www.youtube.com/watch?v=LV3pAQXVciE
+업로드일: 2026-03-28 | 원본 길이: 21:06
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+19. 스페이스X의 로켓 엔진 개발
+조회수 2,825,440회 | 원제: How SpaceX Reinvented The Rocket Engine!
+원본: https://www.youtube.com/watch?v=nP9OaYUjvdE
+업로드일: 2024-05-04 | 원본 길이: 15:22
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+20. 스페이스X의 화성 착륙 구상
+조회수 2,397,983회 | 원제: How SpaceX Will Land On Mars
+원본: https://www.youtube.com/watch?v=pUK0KIZAa9E
+업로드일: 2024-01-01 | 원본 길이: 16:44
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+21. 달에서 실제로 일어난 일
+조회수 2,388,032회 | 원제: What Actually Happened on The Moon
+원본: https://www.youtube.com/watch?v=DvM5zrDbLXo
+업로드일: 2025-06-28 | 원본 길이: 14:46
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+22. 3I/ATLAS에서 벌어지는 이상한 현상
+조회수 2,223,127회 | 원제: Something Weird is Happening With 3I Atlas
+원본: https://www.youtube.com/watch?v=W9p_TBzxFBs
+업로드일: 2025-10-04 | 원본 길이: 11:16
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+23. 화성으로 가는 여정
+조회수 2,123,431회 | 원제: What The Journey To Mars Will Be Like!
+원본: https://www.youtube.com/watch?v=WEwa0hbobew
+업로드일: 2023-04-15 | 원본 길이: 11:15
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+24. 토성의 극한 환경
+조회수 1,986,799회 | 원제: Saturn Is The Scariest Planet In Our Solar System
+원본: https://www.youtube.com/watch?v=PMFE_I6xseA
+업로드일: 2026-02-21 | 원본 길이: 13:23
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+25. 중국의 화성 탐사 성과
+조회수 1,912,956회 | 원제: What China Found on Mars
+원본: https://www.youtube.com/watch?v=OtLvAly7lD8
+업로드일: 2025-07-19 | 원본 길이: 13:15
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+26. 스페이스X의 로켓 개발 방식
+조회수 1,889,213회 | 원제: How SpaceX Reinvented The Rocket!
+원본: https://www.youtube.com/watch?v=7vE95eBX6M0
+업로드일: 2023-08-26 | 원본 길이: 21:01
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+27. 스타링크의 작동 원리
+조회수 1,744,830회 | 원제: How Starlink Actually Works
+원본: https://www.youtube.com/watch?v=DW-aL_MiUz4
+업로드일: 2026-09-12 | 원본 길이: 18:35
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+28. 중국의 우주정거장 개발
+조회수 1,668,267회 | 원제: How China Reinvented The Space Station!
+원본: https://www.youtube.com/watch?v=2eaZLYiRHuY
+업로드일: 2023-10-21 | 원본 길이: 17:00
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+29. NASA가 해왕성에서 발견한 것
+조회수 1,667,349회 | 원제: What NASA Found on Neptune
+원본: https://www.youtube.com/watch?v=yjnLNzqTWng
+업로드일: 2026-03-14 | 원본 길이: 13:01
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+30. 목성의 위성 유로파에서 나타나는 현상
+조회수 1,542,658회 | 원제: Something Weird Is Happening On Europa
+원본: https://www.youtube.com/watch?v=ASEchqxT_5I
+업로드일: 2026-09-26 | 원본 길이: 14:51
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+31. 스페이스X의 달 도시 건설 구상
+조회수 1,538,922회 | 원제: How SpaceX Will Build a City on The Moon
+원본: https://www.youtube.com/watch?v=5fEFuo5wuZo
+업로드일: 2026-03-07 | 원본 길이: 13:42
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+32. 달에서 벌어지는 이상한 현상
+조회수 1,490,710회 | 원제: Something Weird Is Happening On The Moon..
+원본: https://www.youtube.com/watch?v=L5r9kxBrok8
+업로드일: 2023-09-30 | 원본 길이: 11:50
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+33. 아르테미스 3호의 임무 구상
+조회수 1,480,094회 | 원제: What Will Actually Happen on Artemis 3
+원본: https://www.youtube.com/watch?v=OqpFjr8au2E
+업로드일: 2026-04-18 | 원본 길이: 12:57
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+34. NASA가 토성의 위성 타이탄에서 발견한 것
+조회수 1,475,476회 | 원제: What NASA Found on Titan
+원본: https://www.youtube.com/watch?v=iltPgUQiPtw
+업로드일: 2025-10-11 | 원본 길이: 16:17
+기존 작업: 우주와나\원고\타이탄강바닥
+
+35. 우주에 가는 비용이 큰 이유
+조회수 1,405,547회 | 원제: Why Going To Space Costs So Much
+원본: https://www.youtube.com/watch?v=bhxn_emGHjA
+업로드일: 2025-04-12 | 원본 길이: 20:05
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+36. 스페이스X의 팰컨 9 개발 이유
+조회수 1,397,680회 | 원제: The Real Reason SpaceX Developed The Falcon 9!
+원본: https://www.youtube.com/watch?v=LmK18kPfMjA
+업로드일: 2024-01-13 | 원본 길이: 17:46
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+37. 스페이스X가 루이지애나를 선택한 이유
+조회수 1,379,223회 | 원제: The Real Reason SpaceX Chose Louisiana
+원본: https://www.youtube.com/watch?v=eYhqBVXOVz0
+업로드일: 2026-09-05 | 원본 길이: 14:31
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+38. 소련의 화성 착륙 시도
+조회수 1,378,482회 | 원제: The Soviet's Secret Mars Landing (declassified)
+원본: https://www.youtube.com/watch?v=xltW2G60GCs
+업로드일: 2024-04-06 | 원본 길이: 13:52
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+39. 제임스 웹 우주망원경의 발견 총정리
+조회수 1,279,511회 | 원제: Everything Discovered By The James Webb Space Telescope (since launch)
+원본: https://www.youtube.com/watch?v=1Ul2tR7qxqM
+업로드일: 2025-01-04 | 원본 길이: 21:23
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+40. 아르테미스 임무 8개 설명
+조회수 1,120,391회 | 원제: All 8 Artemis Mission's Explained
+원본: https://www.youtube.com/watch?v=aw9ENIAqkA8
+업로드일: 2026-08-22 | 원본 길이: 24:41
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+41. 화성에 도착하는 방법
+조회수 1,094,554회 | 원제: This Is How We Get To Mars
+원본: https://www.youtube.com/watch?v=nOieMPrmans
+업로드일: 2024-10-19 | 원본 길이: 13:20
+기존 작업: 우주와나\원고\화성가는길
+
+42. 소련이 우주로 쏘아 올린 거대한 거울
+조회수 1,083,250회 | 원제: What Happened When The Soviets Launched A Giant Mirror Into Space
+원본: https://www.youtube.com/watch?v=ujWnpB5Wm5E
+업로드일: 2024-09-15 | 원본 길이: 10:40
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+43. 태양계의 아홉 번째 행성 후보
+조회수 1,076,941회 | 원제: There Is Another Planet In Our Solar System
+원본: https://www.youtube.com/watch?v=yemQjpTIU1k
+업로드일: 2025-12-21 | 원본 길이: 11:41
+기존 작업: 우주와나\원고\행성9
+
+44. 스타십의 궤도 발사 소식, 당시 영상
+조회수 1,075,605회 | 원제: The SpaceX Starship Orbital Launch Update Is Here!
+원본: https://www.youtube.com/watch?v=Fgxd4phK8eY
+업로드일: 2023-04-26 | 원본 길이: 13:52
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+45. 우주의 끝
+조회수 1,053,191회 | 원제: The Edge Of The Universe Is Insane
+원본: https://www.youtube.com/watch?v=ZLP1Voyf8aE
+업로드일: 2026-01-03 | 원본 길이: 15:00
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+46. 달 거주지에서의 생활 구상
+조회수 1,005,958회 | 원제: What Life In a Lunar Colony Will Be Like
+원본: https://www.youtube.com/watch?v=w9G1nz4UlyU
+업로드일: 2022-02-26 | 원본 길이: 12:34
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+47. 로켓 엔진의 발전 과정
+조회수 997,700회 | 원제: The Evolution of The Rocket Engine
+원본: https://www.youtube.com/watch?v=xTq5nrHfdZc
+업로드일: 2025-03-01 | 원본 길이: 21:59
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+48. 스타십 14차 시험 비행
+조회수 996,745회 | 원제: What Exactly Happened On SpaceX's FOURTEENTH Starship Test Flight!
+원본: https://www.youtube.com/watch?v=G6TJ14AKhME
+업로드일: 2026-09-29 | 원본 길이: 14:38
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+49. 스페이스X의 30억 달러 스타팩토리
+조회수 954,065회 | 원제: Inside SpaceX's $3 Billion Starfactory
+원본: https://www.youtube.com/watch?v=RIh2UZH7hYA
+업로드일: 2026-08-01 | 원본 길이: 17:49
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+50. 소련이 우주 경쟁에서 패한 이유
+조회수 940,400회 | 원제: The Real Reason The Soviets Lost The Space Race!
+원본: https://www.youtube.com/watch?v=esi9K_JKs3k
+업로드일: 2024-11-17 | 원본 길이: 23:31
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+51. 천왕성의 특징
+조회수 903,365회 | 원제: We Need to Talk About Uranus
+원본: https://www.youtube.com/watch?v=0lnQW47gFtI
+업로드일: 2026-07-04 | 원본 길이: 16:21
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+52. 우주여행을 바꿀 새 엔진 구상
+조회수 890,944회 | 원제: This Engine Will Reinvent Space Travel
+원본: https://www.youtube.com/watch?v=4K8zt8NzlVo
+업로드일: 2026-05-16 | 원본 길이: 15:44
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+53. NASA의 화성 핵추진 로켓 구상
+조회수 889,530회 | 원제: NASA is Launching a Nuclear Rocket to Mars
+원본: https://www.youtube.com/watch?v=orzOG0KoCwE
+업로드일: 2026-04-26 | 원본 길이: 15:01
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+54. NASA의 타이탄 착륙 구상
+조회수 884,052회 | 원제: How NASA Will Land On Titan!
+원본: https://www.youtube.com/watch?v=qqndbveA3Tw
+업로드일: 2024-12-28 | 원본 길이: 15:38
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+55. 국제우주정거장 안에서의 생활
+조회수 876,977회 | 원제: What Life Inside The International Space Station is Like
+원본: https://www.youtube.com/watch?v=OBIxbULqDxY
+업로드일: 2025-06-14 | 원본 길이: 13:30
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+56. NASA의 3I/ATLAS 설명에서 빠진 내용
+조회수 844,391회 | 원제: What NASA Should Have Told You About 3I Atlas
+원본: https://www.youtube.com/watch?v=oCILDWN95GI
+업로드일: 2025-11-22 | 원본 길이: 15:48
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+57. 중국 우주정거장 톈궁 안에서의 생활
+조회수 833,817회 | 원제: Life Inside China's New Space Station! (Tiangong)
+원본: https://www.youtube.com/watch?v=oBhrq6TuSa0
+업로드일: 2022-12-10 | 원본 길이: 10:45
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+58. 인도의 우주 개발
+조회수 832,834회 | 원제: Why India Is About To Take Over Space!
+원본: https://www.youtube.com/watch?v=kh5VIF6Pghk
+업로드일: 2022-08-13 | 원본 길이: 13:46
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+59. 스페이스X 드래곤 캡슐 안에서의 생활
+조회수 827,017회 | 원제: Life Inside The SpaceX Dragon Capsule!
+원본: https://www.youtube.com/watch?v=1QcVa71FWQA
+업로드일: 2023-09-09 | 원본 길이: 16:24
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+60. NASA의 첫 달 기지 건설 구상
+조회수 811,310회 | 원제: How NASA Plans To Build The First Moon Base!
+원본: https://www.youtube.com/watch?v=ajP0AlYxhug
+업로드일: 2023-03-12 | 원본 길이: 10:37
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+61. 소행성 채굴을 둘러싼 오해
+조회수 803,777회 | 원제: Everyone is Wrong About Asteroid Mining
+원본: https://www.youtube.com/watch?v=p3hlnL2JN8E
+업로드일: 2025-02-22 | 원본 길이: 14:39
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+62. 스타십 11차 시험 비행
+조회수 783,027회 | 원제: What Exactly Happened On SpaceX's ELEVENTH Starship Test Flight!
+원본: https://www.youtube.com/watch?v=lZ_WIvCfll8
+업로드일: 2025-10-15 | 원본 길이: 9:17
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+63. 스페이스X의 스타십 개발 이유
+조회수 776,057회 | 원제: The Real Reason SpaceX Is Building The Starship
+원본: https://www.youtube.com/watch?v=WU0Es4XICOs
+업로드일: 2026-09-19 | 원본 길이: 15:42
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+64. NASA가 포기한 화성 거주 구상
+조회수 742,514회 | 원제: NASA's Abandoned Plan To Colonize Mars (declassified)
+원본: https://www.youtube.com/watch?v=qnnY_7piaro
+업로드일: 2023-09-24 | 원본 길이: 20:25
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+65. 스페이스X의 첫 달 기지 건설 구상
+조회수 732,622회 | 원제: How SpaceX Will Build The First Moon Base
+원본: https://www.youtube.com/watch?v=cl_kfWNazLg
+업로드일: 2024-04-21 | 원본 길이: 12:10
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+66. 재사용 로켓의 작동 원리
+조회수 725,949회 | 원제: How Reusable Rockets Work
+원본: https://www.youtube.com/watch?v=rpdX6kOXprM
+업로드일: 2025-06-07 | 원본 길이: 14:47
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+67. 달에서 반복되는 이상한 현상
+조회수 716,593회 | 원제: Something Weird Keeps Happening on The Moon
+원본: https://www.youtube.com/watch?v=ozcLN6obs_0
+업로드일: 2025-07-26 | 원본 길이: 12:08
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+68. 중국의 달 자원 개발 구상과 가치 추산
+조회수 707,742회 | 원제: China's 66 Trillion Dollar Plan For The Moon!
+원본: https://www.youtube.com/watch?v=ish_ycyS4JU
+업로드일: 2024-12-07 | 원본 길이: 14:41
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+69. 스페이스X의 팰컨 헤비 개발 이유
+조회수 702,016회 | 원제: The Real Reason SpaceX Developed The Falcon Heavy Rocket!
+원본: https://www.youtube.com/watch?v=-6fmZ_Dt56o
+업로드일: 2023-04-22 | 원본 길이: 15:16
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+70. 스타십 5차 시험 비행
+조회수 678,440회 | 원제: What Exactly Happened On SpaceX's FIFTH Starship Test Flight!
+원본: https://www.youtube.com/watch?v=vypjY9EU04g
+업로드일: 2024-10-16 | 원본 길이: 16:06
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+71. 소련과 러시아의 로켓 총정리
+조회수 673,823회 | 원제: Every Single Soviet and Russian Rocket Explained
+원본: https://www.youtube.com/watch?v=MmO0Syp6jRk
+업로드일: 2025-08-02 | 원본 길이: 26:36
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+72. 중국의 달 탐사 임무 총정리
+조회수 668,474회 | 원제: Everything You Need To Know About China's Moon Missions
+원본: https://www.youtube.com/watch?v=-yrO_bD9YXo
+업로드일: 2024-07-07 | 원본 길이: 22:21
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+73. 스타십 4차 시험 비행
+조회수 660,082회 | 원제: What Exactly Happened On SpaceX's FOURTH Starship Test Flight!
+원본: https://www.youtube.com/watch?v=HzjOzj_eueM
+업로드일: 2024-06-12 | 원본 길이: 18:45
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+74. 스타십 12차 시험 비행
+조회수 645,403회 | 원제: What Exactly Happened On SpaceX's TWELFTH Starship Test Flight!
+원본: https://www.youtube.com/watch?v=QLM7vme6NWk
+업로드일: 2026-05-23 | 원본 길이: 16:10
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+75. 화성 거주지용 팽창식 건물
+조회수 615,558회 | 원제: Why Inflatable Habitats Are The Key To A Mars Colony!
+원본: https://www.youtube.com/watch?v=Od_E2O-YHN8
+업로드일: 2023-06-17 | 원본 길이: 14:01
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+76. 소련의 오래된 달 기지 구상
+조회수 610,743회 | 원제: The Soviet's 70 Year Old Abandoned Moon Base Plan
+원본: https://www.youtube.com/watch?v=mhzyCt__d_4
+업로드일: 2023-12-02 | 원본 길이: 17:34
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+77. NASA의 달 탐사에서 알려지지 않은 내용
+조회수 593,941회 | 원제: NASA Isn't Telling Us Something About The Moon
+원본: https://www.youtube.com/watch?v=eJ3dsXP839U
+업로드일: 2024-05-25 | 원본 길이: 15:14
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+78. 지구가 평평하다는 주장 검증
+조회수 567,168회 | 원제: The Truth About The Flat Earth Theory..
+원본: https://www.youtube.com/watch?v=usrQukyvEtI
+업로드일: 2023-01-28 | 원본 길이: 12:01
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+79. 새 우주정거장 개발 중 폭발 사고
+조회수 564,536회 | 원제: This Is NASA's New Space Station...And it just exploded
+원본: https://www.youtube.com/watch?v=ngACavNijMY
+업로드일: 2024-02-03 | 원본 길이: 13:21
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+80. 스페이스X의 발사대 개발
+조회수 545,369회 | 원제: How SpaceX Reinvented The Launch Pad!
+원본: https://www.youtube.com/watch?v=DwzmznJi3KU
+업로드일: 2023-12-16 | 원본 길이: 17:42
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+81. 아폴로 11호와 같은 시기의 다른 달 탐사
+조회수 539,446회 | 원제: Apollo 11 Wasn't Alone on the Moon...
+원본: https://www.youtube.com/watch?v=z_z8lvZ76Yw
+업로드일: 2026-08-15 | 원본 길이: 24:58
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+82. 인도의 달 탐사 성과
+조회수 539,064회 | 원제: What India Found on The Moon
+원본: https://www.youtube.com/watch?v=BR2ZZXjpeqQ
+업로드일: 2026-01-31 | 원본 길이: 13:19
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+83. 스페이스X 스타스테이션 안에서의 생활 구상
+조회수 533,938회 | 원제: What Life Inside the SpaceX Star Station Will Be Like
+원본: https://www.youtube.com/watch?v=Vrn5KEfXHW8
+업로드일: 2026-05-02 | 원본 길이: 13:17
+기존 작업: 우주와나\원고\스타십정거장
+
+84. NASA와 액시엄의 새 우주정거장 구상
+조회수 527,024회 | 원제: The Truth About NASA's New Space Station! (Axiom)
+원본: https://www.youtube.com/watch?v=qqJBLP07o7A
+업로드일: 2023-07-29 | 원본 길이: 11:22
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+85. 소련 우주왕복선의 결말
+조회수 523,215회 | 원제: What Actually Happened to the Soviet Space Shuttle
+원본: https://www.youtube.com/watch?v=nSuxE98EnpE
+업로드일: 2025-08-30 | 원본 길이: 12:47
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+86. 스타십을 우주정거장으로 쓰는 구상
+조회수 521,978회 | 원제: The SpaceX Starship SPACE STATION Is Coming!
+원본: https://www.youtube.com/watch?v=F9YVmf61KWY
+업로드일: 2023-07-15 | 원본 길이: 10:44
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음
+
+87. 60년이 지나도 사용되는 로켓
+조회수 505,691회 | 원제: This Rocket Is 60 Years Old.. and it's still flying
+원본: https://www.youtube.com/watch?v=MK_SyGn84C4
+업로드일: 2024-02-10 | 원본 길이: 17:01
+기존 작업: 관련 정보 파일에서 같은 원본 ID 일치 없음

@@ -1,0 +1,86 @@
+[
+  {
+    "file": "_대본지침서.md",
+    "sha256": "daa401ec7b60c19584c9433581f58860b9f57417179b93f4c1c7ff167939dce4"
+  },
+  {
+    "file": "우주와나/채널설정.md",
+    "sha256": "1ce6065eb4b9c9f99a4db260f4be291acc5e537ca972546d0a43fff350bc5ac5"
+  },
+  {
+    "file": "우주와나/수정·선택 사례.md",
+    "sha256": "7957fc1c03abb217a2665b62c791e9007dd19a76c9dee0a10247da6a3fe09827"
+  },
+  {
+    "file": "우주와나/분석지/_원고쓰는법.md",
+    "sha256": "cc6ec4a9f317e809a4b64c77ee60c7d4a2bb7add69e9e87e5349861567c84d74"
+  },
+  {
+    "file": "우주와나/분석지/_검수기준서.md",
+    "sha256": "e36660e12c796d1734ecd1a786193b11654eec3d5d0be777e846e653e12df85d"
+  },
+  {
+    "file": "지침/운영.md",
+    "sha256": "fba988aff41fb951a820a9f7c97a2a470b8f4f1bed7f4a5d0feef1166960d4c7"
+  },
+  {
+    "file": "지침/에이전트/02_기획.md",
+    "sha256": "10929bfad28b13822bc1213cf6b3dc74a227fe0b9532f8532e55ad154fdc2095"
+  },
+  {
+    "file": "지침/세부지침/공통_원문.md",
+    "sha256": "72fd9415e96e62ae639565a4710bad80a2da723bb65966d9b14954eeb8eb9647"
+  },
+  {
+    "file": "지침/세부지침/02_기획_원문.md",
+    "sha256": "e050242d4753ff99a2256b25878e463da64de0ba6c49229b123b1cbf242e29e4"
+  },
+  {
+    "file": "우주와나/분석지/_색인.md",
+    "sha256": "5640cd2fb367d997536473d547253b86e655e2f04125f455acdca208b2e9bbe7"
+  },
+  {
+    "file": "AGENTS.md",
+    "sha256": "3acc007e1608cc1c37532e39ad46e6cf1eeb9f1ffbe269eedb14bdb8ce3256f2"
+  },
+  {
+    "file": "지침/에이전트_배정.md",
+    "sha256": "78ce25f3d36f2b7ad100736cc435b8bbacb971c15185514a9cdaf2bb887ff414"
+  },
+  {
+    "file": "지침/세부지침/분리_안내.md",
+    "sha256": "4bb48191822f6da8ea778fdcfb5244d0ff38dd49e3e5728001a2e0f3913c620c"
+  },
+  {
+    "file": "우주와나/_합격원고/_색인.md",
+    "sha256": "20ffa9521ee4ec42c4bbb4df8b8c99a1b0590dfbd8bac7fc7545606ca184b573"
+  },
+  {
+    "file": "우주와나/_합격원고/보이저49년/01_대본.txt",
+    "sha256": "ff2c46c1853df9226a595ab8d7c9d2fb777ce21716f8ac6fa0e0b8ffbaa1701d"
+  },
+  {
+    "file": "우주와나/분석지/011_파피루스/원문.txt",
+    "sha256": "e2e9480168d9729973913da55f886b3b194897603713fc77b9f926e9faccbd54"
+  },
+  {
+    "file": "우주와나/분석지/011_파피루스/분석지.md",
+    "sha256": "08c363d40dc6a9beffd9a3996f55edf2047e4df6bf476b2e91c8f81c20d586f3"
+  },
+  {
+    "file": "우주와나/분석지/016_노벨물리/원문.txt",
+    "sha256": "1b5b3a91ac6a932a287d1ec9d08f1f73bb8b9c28eb77cecb72948816fd99d89c"
+  },
+  {
+    "file": "우주와나/분석지/016_노벨물리/분석지.md",
+    "sha256": "512895bbf8a5eefea671198da040cb01b5dd30f014f31936f99b1cff1673cfa0"
+  },
+  {
+    "file": "우주와나/분석지/017_암세포/원문.txt",
+    "sha256": "bd7107e8f1f56d9276164532ce23f01de617c168b886ea334ac97e3fd2429c22"
+  },
+  {
+    "file": "우주와나/분석지/017_암세포/분석지.md",
+    "sha256": "a06b5f6aef095a2545b38c5efcdb1f1602af29f24c52bafb224ec1467be00b49"
+  }
+]

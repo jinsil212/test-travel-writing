@@ -1,0 +1,358 @@
+{
+  "verdict": "PASS",
+  "unresolved": [],
+  "artifact_sha256": "<검토한 final.txt SHA256>",
+  "fact_review_reference": {
+    "actor": "<사실 담당 실제 ID>",
+    "artifact_sha256": "<같은 final.txt SHA256>",
+    "receipt_sha256": "<현재 review_final_fact.json SHA256>",
+    "checks": [
+      "claims_sources",
+      "numbers_conditions",
+      "future_hypothesis"
+    ]
+  },
+  "checks": {
+    "promise_chain": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "beginner": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "no_tangents_repetition": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "natural_language": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "latest_requests": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "length": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_01": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_02": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_03": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_04": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_05": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_06": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_07": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_08": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_09": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_10": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_11": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_12": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_13": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_14": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_15": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_16": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_17": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_18": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_19": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_20": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_21": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_22": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_23": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_24": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    },
+    "criterion_25": {
+      "status": "PASS",
+      "reason": "<실제 구절·위치와 판단 이유>",
+      "evidence": [
+        {
+          "file": "실험/에피소드/<편>/final.txt",
+          "quote": "<실제 구절>",
+          "sha256": "<자료 SHA256>"
+        }
+      ]
+    }
+  }
+}

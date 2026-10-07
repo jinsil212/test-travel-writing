@@ -1,0 +1,16 @@
+제목: NASA가 목성의 화산 위성을 들여다봤습니다 | 태양에서 먼데 왜 계속 뜨거울까?
+썸네일:
+목성 곁 불타는 작은 위성
+열은 어디서 올까? 🌋
+핵심 질문: 먼 태양 대신 무엇이 이오의 지속적인 화산 활동에 열을 공급하는가?
+원본 소재: https://www.youtube.com/watch?v=s0mNlXGd2Bc
+원본 대사 번역이 아니라 같은 소재로 독립 작성. 기존 목성자기장 원고의 방사선 고장 질문과 다른 이오의 조석 가열·관측 이야기.
+초안 상태: 독립 검수 미실시. 최신 사용자 지정에 따라 일괄 초안 방식 사용. 기존 운영 파일 변경 없음.
+확인 자료:
+https://science.nasa.gov/jupiter/jupiter-moons/io/facts/
+https://www.nasa.gov/missions/juno/nasas-juno-mission-uncovers-heart-of-jovian-moons-volcanic-rage/
+https://www.nasa.gov/missions/juno/nasas-juno-gets-a-close-up-look-at-lava-lakes-on-jupiters-moon-io/
+https://www.nasa.gov/missions/juno/nasas-juno-takes-temperature-of-jupiters-fiery-moon-io/
+https://www.nasa.gov/solar-system/nasa-juno-mission-spots-most-powerful-volcanic-activity-on-io-to-date/
+https://www.nasa.gov/missions/juno/nasas-juno-gives-aerial-views-of-mountain-lava-lake-on-io/
+주요 구분: 이오 전체가 액체라는 주장 없음. 2024년 연구의 얕은 전지구적 마그마 바다 불지지와 지역 저장 공간 해석 구분. 2026년 온도 관측은 얕은 지하에 한정. 로키 파테라 상상영상과 실사 구분. 관측 날짜와 발표 날짜 구분.

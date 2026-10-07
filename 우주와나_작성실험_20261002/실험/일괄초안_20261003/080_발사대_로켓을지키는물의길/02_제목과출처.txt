@@ -1,0 +1,21 @@
+제목: 스타십 발사대에는 왜 그렇게 많은 물을 쏟을까?
+썸네일 1줄: 불을 끄는 물이 아닌
+썸네일 2줄: 로켓을 지키는 물입니다
+원 소재: How SpaceX Reinvented The Launch Pad!
+원 URL: https://www.youtube.com/watch?v=DwzmznJi3KU
+한국판: 가스·열·압력·물 흐름을 관리하는 발사대의 역할. 70번 회수탑/74번V3첫조합과 구분.
+
+1차 출처,2026-10-03 KST 확인:
+FAA, November2023 Written Re-evaluation of2022PEA, PDF1–4쪽. 2023-04-20콘크리트 손상→두꺼운 기초·추가 piles·강철판·물냉각. 판 냉각 deluge와 별도 detonation suppression 체계 구분. 문서의 제안/예측을 이후 완전 성공으로 서술하지 않음.
+https://www.faa.gov/media/72816
+NASA, Pad39B Water Flow Test Comes Through Loud and Clear,2019. 물 체계의 음향 에너지/압력파 저감 및 발사전 물 흐름 시험.
+https://www.nasa.gov/centers-and-facilities/kennedy/pad-39b-water-flow-test-comes-through-loud-and-clear/
+NASA, Water Deluge Test a Success at LaunchPad39B,2018. 고열·음향 환경으로부터 로켓·시설 보호와 밸브/배관의 시험.
+https://www.nasa.gov/humans-in-space/water-deluge-test-a-success-at-launch-pad-39b/
+NASA, Simulations Improve ArtemisII Launch Environment,2026-03-20(갱신6/22). ArtemisI2022자료 기반LAVA: 물이 음향압력 줄이나 가스가 물을 밀어 특정영역압력 증가. SLS분석값을 Starship실측처럼 옮기지 않음. LAVA현재배포상태 불포함.
+https://www.nasa.gov/aeronautics/artemis-sls-launch-sim/
+FAA,2024 Written Re-evaluation,물이 기화/지표흐름/수집 및 방출경로 문서.
+https://www.faa.gov/media/85696
+
+한계: 물 냉각/상변화·소리압력·일반 운영점검 설명은 공학 해설. SpaceX가 물원리를 처음 발명했다는 주장/몇분재발사보장/환경무영향/허가완료 주장 없음. Starship기본강철판 변화는2023자료 기준이고 최신발사대세부설계로 일반화 안 함. 수증기 구름과 센서 압력 분리, 관련 법률 조언 없음.
+독립검수 전 초안. 원영상 전체 번역 아님.3분은 작성 목표이며 낭독 길이 아님. 원지침 파일 변경 없음.

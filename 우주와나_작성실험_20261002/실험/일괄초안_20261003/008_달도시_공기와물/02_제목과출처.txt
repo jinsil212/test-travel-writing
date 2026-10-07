@@ -1,0 +1,15 @@
+제목: NASA가 달의 집을 준비합니다 | 공기와 물은 어디서 계속 가져올까?
+썸네일:
+달에 집만 지으면 끝일까
+숨과 물은 어떻게? 💧
+소재: https://www.youtube.com/watch?v=ATgwz_hS3Qg
+핵심: 달 장기 거주의 생명유지 물질 흐름. 기존 달남극구덩이의 햇빛·얼음 인접 입지 질문과 다른 회수·관리 질문.
+확인한 공식자료:
+https://www.nasa.gov/reference/environmental-control-and-life-support-systems-eclss/
+https://www.nasa.gov/missions/station/iss-research/nasa-achieves-water-recovery-milestone-on-international-space-station/
+https://www.nasa.gov/reference/jsc-life-support-subsystems/
+https://www.nasa.gov/lunar-surface-technology/
+https://www.nasa.gov/general/nasa-outlines-lunar-surface-sustainability-concept/
+https://www.nasa.gov/moonbase/
+https://www.nasa.gov/wp-content/uploads/2023/07/eclss-technical-brief-ochmo.pdf
+상태: 독립 검수 전 초안. 소재 차용·독립 작성, 원본 영상 전문 번역 아님. 98%는2023 ISS 특정 물 회수 성과이며 달 실증/전체자립/100%회수로 확대하지 않음.100→98/2 및100→90/10은 설명용 단순 계산. 확정 완공시기·인구 없음. ISS 미중력 시스템을 달 중력에서도 검증완료인 것으로 쓰지 않음.

@@ -1,0 +1,11 @@
+{
+  "coordinator": "실제생성된에이전트ID_coordinator",
+  "research": "실제생성된에이전트ID_research",
+  "plan": "실제생성된에이전트ID_plan",
+  "package": "실제생성된에이전트ID_package",
+  "opening": "실제생성된에이전트ID_opening",
+  "body": "실제생성된에이전트ID_body",
+  "review": "실제생성된에이전트ID_review",
+  "fact_review": "실제생성된에이전트ID_fact_review",
+  "flow_review": "실제생성된에이전트ID_flow_review"
+}

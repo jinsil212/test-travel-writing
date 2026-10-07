@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-02",
+  "definitions": [
+    {
+      "name": "space_research",
+      "role": "조사",
+      "config": ".codex\\agents\\space_research.toml",
+      "guide": "지침/에이전트/01_조사.md",
+      "sha256": "6205005a4036afefb73f21171960488f2794f6c07fb86cd1f9781d9200a51706",
+      "status": "definition_saved"
+    },
+    {
+      "name": "space_plan",
+      "role": "기획",
+      "config": ".codex\\agents\\space_plan.toml",
+      "guide": "지침/에이전트/02_기획.md",
+      "sha256": "cad3038d4e658bf08ac5a2b2045f9fa364e294407cd4e52010ac8d5dffae75fe",
+      "status": "definition_saved"
+    },
+    {
+      "name": "space_package",
+      "role": "제목·썸네일",
+      "config": ".codex\\agents\\space_package.toml",
+      "guide": "지침/에이전트/03_제목썸네일.md",
+      "sha256": "fa0cf86384c26a2fe5c3f0bf286a6c6351d887a2bcf3c640e0f78875862f1bed",
+      "status": "definition_saved"
+    },
+    {
+      "name": "space_opening",
+      "role": "도입",
+      "config": ".codex\\agents\\space_opening.toml",
+      "guide": "지침/에이전트/04_도입.md",
+      "sha256": "029e5550e6eeae9a9964d4b7c74379c936045bee9d774b9a6c1b28dabdef0854",
+      "status": "definition_saved"
+    },
+    {
+      "name": "space_body",
+      "role": "본문·클로징",
+      "config": ".codex\\agents\\space_body.toml",
+      "guide": "지침/에이전트/05_본문클로징.md",
+      "sha256": "355d1982122f1e726f8a968fa0683660b3d6a21b4fbf5b8af6f0f84d917c3406",
+      "status": "definition_saved"
+    },
+    {
+      "name": "space_fact_review",
+      "role": "독립 사실 검수",
+      "config": ".codex\\agents\\space_fact_review.toml",
+      "guide": "지침/에이전트/06_독립검수.md",
+      "sha256": "ee80fd9c29dd1f3a7941b662e0985a48e3f1cbb72a95fba43e0dc229ca5a358c",
+      "status": "definition_saved"
+    },
+    {
+      "name": "space_flow_review",
+      "role": "독립 흐름 검수",
+      "config": ".codex\\agents\\space_flow_review.toml",
+      "guide": "지침/에이전트/06_독립검수.md",
+      "sha256": "cc293b6bd1d38022d951c0dedc344bca297f7664ad4339518515c4b8b614a127",
+      "status": "definition_saved"
+    }
+  ],
+  "definition_count": 7,
+  "source": "https://learn.chatgpt.com/docs/agent-configuration/subagents",
+  "model": "inherit_parent",
+  "main_coordinator": "/root",
+  "native_definition_discovery": "not_verified_in_current_projectless_chat",
+  "live_sessions": {
+    "space_research": {
+      "agent_id": "/root/space_research",
+      "status": "role_preparation_completed",
+      "evidence_file": "지침/에이전트/01_조사.md",
+      "quote": "주제 원본은 사실 재료, 벤치마크는 표현·구성 견본이다.",
+      "source": "collaboration.spawn_agent + agent returned readiness report",
+      "scope": "role preparation only; manuscript stage gates not passed"
+    },
+    "space_plan": {
+      "agent_id": "/root/space_plan",
+      "status": "role_preparation_completed",
+      "evidence_file": "지침/에이전트/02_기획.md",
+      "quote": "내부에서 서로 다른 질문·전개·마지막 답을 검토한 뒤 유효한 3안을 남긴다.",
+      "source": "collaboration.spawn_agent + agent returned readiness report",
+      "scope": "role preparation only; manuscript stage gates not passed"
+    },
+    "space_package": {
+      "agent_id": "/root/space_package",
+      "status": "role_preparation_completed",
+      "evidence_file": "지침/에이전트/03_제목썸네일.md",
+      "quote": "확정 기획의 질문·답과 후킹 사실에서 제목과 썸네일을 한 조합으로 만든다.",
+      "source": "collaboration.spawn_agent + agent returned readiness report",
+      "scope": "role preparation only; manuscript stage gates not passed"
+    },
+    "space_opening": {
+      "agent_id": "/root/space_opening",
+      "status": "role_preparation_completed",
+      "evidence_file": "지침/운영.md",
+      "quote": "도입 담당과 본문 담당은 이 내용을 바꾸지 않는다.",
+      "source": "collaboration.spawn_agent + agent returned readiness report",
+      "scope": "role preparation only; manuscript stage gates not passed"
+    },
+    "space_body": {
+      "agent_id": "/root/space_body",
+      "status": "role_preparation_completed",
+      "evidence_file": "지침/에이전트/05_본문클로징.md",
+      "quote": "클릭 질문에 구체적인 마지막 답을 준다.",
+      "source": "collaboration.spawn_agent + agent returned readiness report",
+      "scope": "role preparation only; manuscript stage gates not passed"
+    },
+    "space_fact_review": {
+      "agent_id": "/root/space_fact_review",
+      "status": "role_preparation_completed",
+      "evidence_file": "지침/에이전트/06_독립검수.md",
+      "quote": "사실 담당은 핵심 주장·출처·숫자·범위·가정과 관측 구분을 판정한다.",
+      "source": "collaboration.spawn_agent + agent returned readiness report",
+      "scope": "role preparation only; manuscript stage gates not passed"
+    },
+    "space_flow_review": {
+      "agent_id": "/root/space_flow_review",
+      "status": "role_preparation_completed",
+      "evidence_file": "지침/에이전트/06_독립검수.md",
+      "quote": "강하지만 사실인 표현은 살리고",
+      "source": "collaboration.spawn_agent + agent returned readiness report",
+      "scope": "role preparation only; manuscript stage gates not passed"
+    }
+  },
+  "manuscript_execution": "not_started_topic_and_mode_not_selected",
+  "live_session_count": 7,
+  "readiness": "7 roles created and role preparation confirmed in current conversation",
+  "native_definition_syntax": "7 TOML definitions parsed and embedded guides verified"
+}

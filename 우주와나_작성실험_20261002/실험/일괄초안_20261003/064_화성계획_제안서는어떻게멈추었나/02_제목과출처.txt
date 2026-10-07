@@ -1,0 +1,20 @@
+제목: 달에 간 뒤 화성을 계획했는데, 왜 실행되지 않았을까?
+썸네일 1줄: 1969년 화성 계획
+썸네일 2줄: 왜 출발하지 못했나
+원소재: NASA's Abandoned Plan To Colonize Mars (declassified)
+원영상: https://www.youtube.com/watch?v=qnnY_7piaro
+공식 확인일: 2026-10-03 KST
+기획: 원제의 식민지·기밀해제·영구포기를 확정하지 않고, 공식 1969 Space Task Group의 장기 유인탐사 제안/선택안/예산·정책 결정과 실제 실행의 차이로 정직하게 조정. 현재 화성 목표와 과거 개별안 미실행 구분. 기존 왕복 연료·착륙·달복귀 동기 대본과 구분.
+1. NASA 공개 원문 The Post-Apollo Space Program(1969): 목표≠immediate program commitment 명시; 선행 장기비행 생명유지/전력/추진/로봇탐사 필요; 기존활용·지구달공간운영·외부유인탐사 단계; budget별 OptionI/II/III. 역사적 판단의 실현 보장·현재 생명가능성 사실로 사용 안 함.
+https://www.nasa.gov/history/the-post-apollo-space-program-directions-for-the-future/
+2. NASA 역사 2024-09-16: 1969-02 태스크그룹, 1969-09-15 대통령 제출, 09-17 공개 기자회견; 권고≠승인; 닉슨이 큰/비싼 계획으로 판단해 권고에 따르지 않음; 아폴로 후속 일부 취소와 SaturnV 사용 맥락. 모든 취소를 예산 하나로 뭉뚱그리지 않음.
+https://www.nasa.gov/history/55-years-ago-space-task-group-proposes-post-apollo-plan-to-president-nixon/
+3. NASA 1972 우주왕복선 결정 역사: 1972-01-05 승인 발표; 유인화성/달기지/정거장 제안 전체≠실제 선택한 왕복선개발. 모든 기반 개념이 영구소멸했다고 단정 안 함.
+https://www.nasa.gov/history/50-years-ago-president-nixon-directs-nasa-to-build-the-space-shuttle/
+4. NASA 현재 Moon to Mars strategy/objectives: 장기 유인과학 탐사 및 안전한귀환 목표, 연례 구조 발전. 구체적 화성 발사 일정 확정 아님.
+https://www.nasa.gov/moontomarsarchitecture-strategyandobjectives/
+https://www.nasa.gov/moontomarsarchitecture/
+5. NASA 구조 정의: architecture는 임무/manifest/요구사항 단일집합이 아닌 장기 필요한요소 틀.
+https://www.nasa.gov/news-release/nasa-shares-first-moon-to-mars-architecture-concept-review-results/
+한계: 원영상이 어떤 역사적안을 상세재현했는지 전사 원문 확인은 없음. 이번 한국판은 기관 원문 확인 가능한 STG1969에 범위 명시. vonBraun개별설계 PDF fetch불가라 인원/정밀도착연도/핵추진구성/예산 숫자 미삽입. 'declassified' 최초폭로라 주장하지 않고 당시 공개 사실 사용. 유인탐사≠자립식민도시. 현재 NASA 화성유인 정확발사일·완성도 미확인 생략.
+전체영상 번역 아닌 독립 한국판 순수 낭독 초안. 독립 사실·흐름 검수 전. 3분은 작성 목표이며 음성 길이/목표달성 보장 아님.

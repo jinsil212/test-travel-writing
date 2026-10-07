@@ -1,0 +1,19 @@
+제목: 우주정거장 구조를 왜 일부러 터뜨렸을까?
+썸네일 1줄: 사고가 아니었습니다
+썸네일 2줄: 터질 때까지 압력을 올렸죠
+원 소재: This Is NASA's New Space Station...And it just exploded
+원 URL: https://www.youtube.com/watch?v=ngACavNijMY
+한국판 질문: 지상 개발 구조를 의도적으로 파열시켜 얻는 구조 한계와 여유. 원영상 촬영 장면의 정확 일자를 확인한 것으로 쓰지 않고 공식 공개 시험들을 특정.
+
+1차 출처, 2026-10-03 KST 확인:
+Sierra Space, Advances its Revolutionary Commercial Space Station Technology, 2024-01-22. 첫 full-scale 시험은2023-12, Marshall 지상 시설. restraint layer 구조 검증,77psi파열/운용15.2psi×4=권고60.8psi, 기준27%초과는 회사 발표. 재료 전체 인증 완료로 확대하지 않음.
+https://www.sierraspace.com/press-releases/sierra-space-advances-its-revolutionary-commercial-space-station-technology/
+NASA, Supports Burst Test for Orbital Reef Commercial Space Station, 2024-07-25. 두 번째 full-scale 시험, 창문 개념 blanking plate, 시험은 certification을 위한 primary structural requirement 하나, 운영 중 정거장 사고 아님. NASA 시설·지원과 완제품 운용 승인 구분.
+https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-supports-burst-test-for-orbital-reef-commercial-space-station/
+NASA NTRS, Inflatable Habitat Testing Capabilities at MSFC,2024. 압력센서·열측정·고속영상·변형 측정 시설 범위.
+https://ntrs.nasa.gov/api/citations/20240004018/downloads/Test_Lab_iHab_Test_Cap_Poster_041524.pdf
+NASA NTRS, Habitation overview for NASEM,2023. 부품/축소/실규모 파열 및 creep시험 등 certification 지침의 여러 시험 필요.
+https://ntrs.nasa.gov/api/citations/20230010776/downloads/habitationoverviewforNASEMv3.pdf
+
+한계: 본문77psi는2023-12첫 시험 값,2024두번째 값으로 섞지 않음. NASA 권고 기준을 절대 모든 구조에 동일한 법정 규칙으로 쓰지 않음. 구조 파열 성과≠전시설/생명유지/방사선/수명 검증. 미래 계획 발사일/현재 완공 주장 없음. 자동차·가방은 비유. 실제 파열 원점/센서 기록을 공개 확인한 듯 재구성하지 않음. 선택 실사 Sierra Space 크레딧 및 이용조건 확인 필요. 75번 운반 부피 질문과 구분.
+독립검수 전 초안, 전체 원영상 번역 아님. 3분은 작성 목표이고 음성 시간 아님. 원지침 변경 없음.

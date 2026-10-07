@@ -1,0 +1,100 @@
+{
+  "artifact_sha256": "5cdceee8d372d74b75e8e11e6bb0dfe3a3ee2736c6c7bd414e29d2aea9a6e07b",
+  "verdict": "PASS",
+  "unresolved": [],
+  "checks": {
+    "sources": {
+      "status": "PASS",
+      "reason": "내용 원본의 자동 자막·메타데이터와 사건의 공식 결과·일반 궤도 원리 근거를 구분했다. 주장 C01~C12는 원자료 위치와 사용 조건에 연결되어 있다. 보존 원자료 5개는 manifest 해시와 일치하며 앞서 읽은 자막·공식 결과·player 버전도 동일하다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/스타십14_20261002/research.md",
+          "quote": "영상 전체 시청·영상 장면의 픽셀 검토는 하지 않음. 내용 원본이며 과학적 사실의 독립 근거는 아님.",
+          "sha256": "5cdceee8d372d74b75e8e11e6bb0dfe3a3ee2736c6c7bd414e29d2aea9a6e07b"
+        },
+        {
+          "file": "실험/에피소드/스타십14_20261002/research.md",
+          "quote": "S01은 현상과 운영 결정을 확인하고, 엔진이 멈춘 근본 원인을 설명하지 않습니다.",
+          "sha256": "5cdceee8d372d74b75e8e11e6bb0dfe3a3ee2736c6c7bd414e29d2aea9a6e07b"
+        },
+        {
+          "file": "실험/입력/스타십14_20261002/sources/spacex_flight14.json",
+          "quote": "Starship still achieved its planned, passively safe suborbital trajectory by burning its remaining five engines for longer than planned",
+          "sha256": "232460784b1cb8aa8498c8f3d052a4a5ee8731d5803a3b0dcd96678f22efeef0"
+        },
+        {
+          "file": "실험/입력/스타십14_20261002/sources/nasa_orbits.txt",
+          "quote": "because it's moving sideways fast enough, it never hits the planet",
+          "sha256": "79fbf55a81df81a8bf233417e67f94ea8b1183202b0294cf2b7e48335ede7b3c"
+        }
+      ]
+    },
+    "uncertainty": {
+      "status": "PASS",
+      "reason": "계획 시각과 실제 임무시간, 모든 위성 통신과 서비스 개시, 엔진 현상과 고장 원인을 구별했다. 결정 번복·재난 과장·탑재 질량·성능·미래 일정·착수 폭발 평가를 미확인 또는 제외로 처리하여 자막의 극적 해설을 확정 사건으로 옮기지 않았다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/스타십14_20261002/research.md",
+          "quote": "타이밍표의 약 9시간 50분은 계획이며 실제 임무 시간으로 읽지 않습니다.",
+          "sha256": "5cdceee8d372d74b75e8e11e6bb0dfe3a3ee2736c6c7bd414e29d2aea9a6e07b"
+        },
+        {
+          "file": "실험/에피소드/스타십14_20261002/research.md",
+          "quote": "독립 공식 확인 전 ",
+          "sha256": "5cdceee8d372d74b75e8e11e6bb0dfe3a3ee2736c6c7bd414e29d2aea9a6e07b"
+        },
+        {
+          "file": "실험/에피소드/스타십14_20261002/research.md",
+          "quote": "10월2일 서비스 개시 여부는 추가 확인하지 않았으므로 ",
+          "sha256": "5cdceee8d372d74b75e8e11e6bb0dfe3a3ee2736c6c7bd414e29d2aea9a6e07b"
+        },
+        {
+          "file": "실험/입력/스타십14_20261002/sources/spacex_flight14.json",
+          "quote": "the three sea-level Raptors engines needed for subsequent burns were healthy",
+          "sha256": "232460784b1cb8aa8498c8f3d052a4a5ee8731d5803a3b0dcd96678f22efeef0"
+        },
+        {
+          "file": "실험/입력/스타십14_20261002/sources/spacex_flight14.json",
+          "quote": "conduct on-orbit checkouts and raise their orbits before they begin serving customers",
+          "sha256": "232460784b1cb8aa8498c8f3d052a4a5ee8731d5803a3b0dcd96678f22efeef0"
+        },
+        {
+          "file": "실험/입력/스타십14_20261002/sources/captions_en.txt",
+          "quote": "[0457.20] So, the decision was changed and",
+          "sha256": "945582f2dc0da729ada660dfdf042e49afd7e2276348b0cab34c27954c81f09a"
+        }
+      ]
+    },
+    "briefing": {
+      "status": "PASS",
+      "reason": "쉬운 한 줄과 실제 대비, 필요한 궤도 배경, 오해 방지 및 확보 한계를 분리했다. 상승 중 한 엔진 정지→남은 다섯 엔진 보완→후속 엔진 상태 검사→단일 재점화 궤도 진입→위성 배치→엔진 문제를 고려한 조기 귀환의 관계가 공식 결과와 일치한다. 기획 선정과 원고 집필을 미리 수행하지 않았다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/스타십14_20261002/research.md",
+          "quote": "우주선의 엔진 하나가 멈췄지만 남은 다섯 개를 더 오래 작동시켜 당초 정해 놓은 안전한 비행 경로에 도달했습니다.",
+          "sha256": "5cdceee8d372d74b75e8e11e6bb0dfe3a3ee2736c6c7bd414e29d2aea9a6e07b"
+        },
+        {
+          "file": "실험/에피소드/스타십14_20261002/research.md",
+          "quote": "위성 배치를 마친 뒤 엔진 문제를 고려해 우주에 머무는 시간을 줄였습니다.",
+          "sha256": "5cdceee8d372d74b75e8e11e6bb0dfe3a3ee2736c6c7bd414e29d2aea9a6e07b"
+        },
+        {
+          "file": "실험/에피소드/스타십14_20261002/research.md",
+          "quote": "앵글·기획3안은 본 조사에서 선정하지 않습니다.",
+          "sha256": "5cdceee8d372d74b75e8e11e6bb0dfe3a3ee2736c6c7bd414e29d2aea9a6e07b"
+        },
+        {
+          "file": "실험/입력/스타십14_20261002/sources/spacex_flight14.json",
+          "quote": "given the engine issue experienced during ascent",
+          "sha256": "232460784b1cb8aa8498c8f3d052a4a5ee8731d5803a3b0dcd96678f22efeef0"
+        },
+        {
+          "file": "실험/입력/스타십14_20261002/sources/spacex_flight14.json",
+          "quote": "limit the duration spent on orbit",
+          "sha256": "232460784b1cb8aa8498c8f3d052a4a5ee8731d5803a3b0dcd96678f22efeef0"
+        }
+      ]
+    }
+  }
+}

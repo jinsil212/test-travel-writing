@@ -1,0 +1,22 @@
+제목: 웹이 읽은 작은 빛의 차이 | 외계 행성의 공기와 첫 은하는 어떻게 알았을까?
+썸네일:
+사진 뒤에 숨은 기록
+빛을 나누자 드러났습니다
+
+원소재: https://www.youtube.com/watch?v=1Ul2tR7qxqM
+원제: Everything Discovered By The James Webb Space Telescope (since launch)
+기획: 전체 발견을 모두 망라했다고 주장하지 않고 대표적인 분광 관측을 설명합니다. WASP-39b 대기, 2024년 초기 은하의 적색편 확인, 2025년 예상 밖 수소 방출이라는 세 질문을 연결합니다. 기존 해왕성·유로파 편의 발견을 다시 길게 쓰지 않습니다.
+1차 출처:
+https://science.nasa.gov/missions/webb/nasas-webb-detects-carbon-dioxide-in-exoplanet-atmosphere/
+2022년 WASP-39b 이산화탄소, 통과 관측 및 파장별 대기 흡수. 생명 확인이 아닙니다.
+https://science.nasa.gov/missions/webb/nasas-webb-reveals-an-exoplanet-atmosphere-as-never-seen-before/
+이산화황과 광화학, 여러 관측 방식, 기체 목록과 구름의 모델 해석.
+https://science.nasa.gov/blogs/webb/2024/05/30/nasas-james-webb-space-telescope-finds-most-distant-known-galaxy/
+JADES-GS-z14-0 후보 의심→필터 영상→분광 확인, 초기 밝은 은하가 성장 모델에 제기한 문제. 사진 색의 파장 배정.
+https://science.nasa.gov/missions/webb/nasas-webb-sees-galaxy-mysteriously-clearing-fog-of-early-universe/
+2025년 JADES-GS-z13-1의 강한 라이먼알파 방출, 약 3억3천만 년 시대, 중성 수소 환경과 재이온화의 질문.
+https://science.nasa.gov/mission/webb/early-universe/
+현재 개요에서 거리 기록이 이후 갱신되었음을 확인. 본문은 2024년 은하를 오늘의 최원거리라고 부르지 않습니다.
+
+한정·제작 메모: 빅뱅 반증이나 생명체 발견으로 확대하지 않습니다. WASP-39b 그림은 관측 기반 상상도이며 근접 실사 사진이 아닙니다. 적외선 사진의 색은 파장 배정을 함께 표시하고 원본 NASA/ESA/CSA/STScI 및 연구자 크레딧을 보존합니다. 현재 최원거리 기록 순위를 단정하지 않습니다. 본문에 은하의 산소 조성 등 범위 밖 주장 추가하지 않았습니다.
+상태: 독립 검수 전 순차 초안. 전체 해외 영상 번역이 아닌 한국어 독립 구성입니다. 3분은 작성 목표이며 낭독 시간이 아닙니다. 작성 시간은 진행목록 실측 기록입니다.

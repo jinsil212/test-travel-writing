@@ -1,0 +1,14 @@
+제목: 하늘에서 인터넷이 생길까? | 스타링크 데이터가 집까지 오는 길
+썸네일 2줄:
+위성만 많으면 될까?
+인터넷이 돌아오는 길
+원소재: https://www.youtube.com/watch?v=DW-aL_MiUz4 / How Starlink Actually Works
+독립 한국판 순수 낭독 초안. 전체 번역 아님. 독립검수 전, 실사 미확보.
+1. Starlink 기술 소개 https://starlink.com/technology — 낮은 궤도, 위상 배열, 위성 사이 광학 통신. 검색 공식 본문 확인. 변화하는 위성 개수·고도·버전 숫자를 본문에서 배제.
+2. 운영사 경로·지연 보고서 https://starlink.com/public-files/StarlinkLatency.pdf — 단말/위성/지상 관문/인터넷 접속 지점 구조, 혼잡·지상 경로 조건에 따라 레이저 경로의 추가 지연 가능. 해당 구절 확인.
+3. 공식 도움말 https://starlink.com/au/support/article/d79d6c7f-b871-78fb-8083-a11f41b45eeb — 빠르게 지나가는 위성과 전환, 단말 장애물 지도.
+4. 공식 한국 도움말 https://starlink.com/en-kr/support/article/64009737-3768-0003-2838-4786c5a850ea — 장애물 확인 및 설치 장소 안내.
+5. ESA 2019 사건 https://www.esa.int/Space_Safety/ESA_spacecraft_dodges_large_constellation — Aeolus와 Starlink44의 접근 위험 회피, 충돌 발생 아님.
+6. ESA 자동화 연구 https://www.esa.int/Space_Safety/Space_Debris/CREAM_avoiding_collisions_in_space_through_automation — 궤도 물체 증가 속 충돌 회피 운영 자동화. 숫자·확정 위험 예측 배제.
+한정: 일반 단말 기반 서비스 구조이며 휴대전화 직접 연결 별도 기술과 혼합 안 함. 모든 요청이 레이저 경로 이용 또는 모든 곳에서 동일 지연이라고 주장 안 함. 광학 통신을 집으로 쏘는 레이저로 묘사 안 함. 상품 추천·가입 가격·한국 서비스 상태 주장 없음. 전자 방향 조절은 일반 위상 배열 원리, 기종별 기계 구동 유무 확정 안 함.
+시간: 집필 3분 목표 실측은 진행목록에 기록. 낭독·TTS 미측정, 음성 3분을 뜻하지 않음.

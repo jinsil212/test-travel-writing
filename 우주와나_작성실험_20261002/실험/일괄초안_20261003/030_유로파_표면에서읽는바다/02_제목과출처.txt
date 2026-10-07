@@ -1,0 +1,15 @@
+제목: 얼음만 봤는데 바다의 탄소를 말하는 이유 | 유로파 표면이 남긴 단서
+썸네일 2줄:
+탄소를 찾았다
+생명이 아닌 바다의 단서
+원소재: https://www.youtube.com/watch?v=ASEchqxT_5I / Something Weird Is Happening On Europa
+독립 한국판 초안, 전체 번역 아님. 독립검수 전, 실사 미확보.
+1. NASA Webb 2023 연구 발표 https://science.nasa.gov/missions/webb/nasas-webb-finds-carbon-source-on-surface-of-jupiters-moon-europa/ — 본문 직접 확인. Tara Regio 집중·젊은 지형·바다 기원 가능성, 분출 미검출 한정. 페이지갱신 날짜와 원 연구 날짜 구분.
+2. 연구자 원논문 초록 https://arxiv.org/abs/2309.11684 — 이산화탄소 분포가 내부 탄소원을 시사. 성분 검출과 출처 추론 구분.
+3. NASA 허블 2019 소금 연구 https://science.nasa.gov/missions/hubble/table-salt-compound-spotted-on-europa/ — Tara Regio 염화나트륨 단서와 실험실 방사선 비교. 검색 기관 설명 확인. 바다 조성 전체가 지구와 같다는 결론 아님.
+4. NASA Juno 2026-01-27 https://www.nasa.gov/missions/juno/nasas-juno-measures-thickness-of-europas-ice-shell/ — 본문 직접 확인.2022 통과 자료, 관측 지역 약29km 추정, 차갑고 단단한 순수 얼음 바깥층 모델, 따뜻한 아래층·염분 조건. 작은 산란 구조는 바다 연결 통로 확정 아님.
+5. NASA Europa 기본 https://europa.nasa.gov/in-depth/ — 아래 바다와 거주 적합성의 기본 증거 맥락. 탄소 자체가 생명 증거 아님.
+6. ESA/Webb 성분 지도 https://esawebb.org/images/weic2323c/ — 파장으로 읽은 분포를 색 표시, 원래 육안 색 아님.
+한정: 현재 분출 확정·생명 발견·바다 직접 채수 주장 없음.29km를 전 지역 전체 껍질 고정값으로 제시 안 함. 발사·도착 일정 배제. 지질학적 최근을 당일 활동으로 소개하지 않음. 표면에서 발견한 물질의 출처는 모델과 지형에 기댄 가능성.
+제작: JunoCam 사진은 해당 원본 NASA/JPL-Caltech/SwRI/MSSS + Björn Jónsson(CC BY3.0) 표시, 얼음 단면은 artist concept 표시. Webb 지도는 NASA/ESA/CSA 및 연구자/영상 처리자 원본 크레딧 유지, 사용 조건 확인.
+시간: 집필3분 목표 실측은 진행목록. 낭독·TTS 미측정, 음성3분 아님.

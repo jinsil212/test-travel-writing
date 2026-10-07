@@ -1,0 +1,51 @@
+{
+  "episode": "TSR_002_오우무아무아_20261002_v2",
+  "nonspace_chars": 4511,
+  "estimated_minutes": [
+    11.3,
+    15.0
+  ],
+  "tts_measured": false,
+  "final_sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+  "status": {
+    "stages": [
+      {
+        "stage": "research",
+        "status": "PASS"
+      },
+      {
+        "stage": "plan",
+        "status": "PASS"
+      },
+      {
+        "stage": "package",
+        "status": "PASS"
+      },
+      {
+        "stage": "opening",
+        "status": "PASS"
+      },
+      {
+        "stage": "part_01",
+        "status": "PASS"
+      },
+      {
+        "stage": "part_02",
+        "status": "PASS"
+      },
+      {
+        "stage": "part_03",
+        "status": "PASS"
+      },
+      {
+        "stage": "closing",
+        "status": "PASS"
+      },
+      {
+        "stage": "final",
+        "status": "PASS"
+      }
+    ],
+    "complete": true
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "targets": [
+    {
+      "file": ".codex/agents/space_body.toml",
+      "before": "355d1982122f1e726f8a968fa0683660b3d6a21b4fbf5b8af6f0f84d917c3406",
+      "after": "7f5e860928f379dd4f3248bce8a161bfbb202de44f1a3fcec54deed6af32b149",
+      "backup": "실험/세부지침_분리전_20261002_131919/.codex/agents/space_body.toml"
+    },
+    {
+      "file": ".codex/agents/space_fact_review.toml",
+      "before": "ee80fd9c29dd1f3a7941b662e0985a48e3f1cbb72a95fba43e0dc229ca5a358c",
+      "after": "9daea57dfbf48667db98aa17b6c4d44fb22f360d5d0a6c6ada01289a435aa255",
+      "backup": "실험/세부지침_분리전_20261002_131919/.codex/agents/space_fact_review.toml"
+    },
+    {
+      "file": ".codex/agents/space_flow_review.toml",
+      "before": "cc293b6bd1d38022d951c0dedc344bca297f7664ad4339518515c4b8b614a127",
+      "after": "678d18a73cd52b775f9e52cf0fb56ace6e1a92a928b0da12e28657a91141c0a5",
+      "backup": "실험/세부지침_분리전_20261002_131919/.codex/agents/space_flow_review.toml"
+    },
+    {
+      "file": ".codex/agents/space_opening.toml",
+      "before": "029e5550e6eeae9a9964d4b7c74379c936045bee9d774b9a6c1b28dabdef0854",
+      "after": "cf470a11e7f3db1c233a74979edf5a84b76b046baba69bb0db0bb0d10092abe6",
+      "backup": "실험/세부지침_분리전_20261002_131919/.codex/agents/space_opening.toml"
+    },
+    {
+      "file": ".codex/agents/space_package.toml",
+      "before": "fa0cf86384c26a2fe5c3f0bf286a6c6351d887a2bcf3c640e0f78875862f1bed",
+      "after": "356e96585e15d0d6eddcf23d863868b62890f45f646b5e5b9b5976f73cfeff91",
+      "backup": "실험/세부지침_분리전_20261002_131919/.codex/agents/space_package.toml"
+    },
+    {
+      "file": ".codex/agents/space_plan.toml",
+      "before": "cad3038d4e658bf08ac5a2b2045f9fa364e294407cd4e52010ac8d5dffae75fe",
+      "after": "756f15534cd8cf599a61cfc1ed0bfd6fff1937bb716a89719a36b9d94fd984c7",
+      "backup": "실험/세부지침_분리전_20261002_131919/.codex/agents/space_plan.toml"
+    },
+    {
+      "file": ".codex/agents/space_research.toml",
+      "before": "6205005a4036afefb73f21171960488f2794f6c07fb86cd1f9781d9200a51706",
+      "after": "8efd4f83902320c715386aff4b17334484cbd9cbcc883c5a478cf449865e0490",
+      "backup": "실험/세부지침_분리전_20261002_131919/.codex/agents/space_research.toml"
+    },
+    {
+      "file": "AGENTS.md",
+      "before": "9f8d074978149180be145c75897261c0131455c0321583f7caadcbf2b0717046",
+      "after": "0e8721d7b582021367a3c4c4e56d4ad29c664d7f288ba8a8ea2d2c068d9a4644",
+      "backup": "실험/세부지침_분리전_20261002_131919/AGENTS.md"
+    },
+    {
+      "file": "도구/pipeline.py",
+      "before": "f00485bf3b2acdc7aed38218a3cc3cc713962e75c4cf7e0a7568e8e52b98fbbb",
+      "after": "adcc062baa4fc5b0f5b5de722c65cd24100f8e3fdae84ac7c8d989c3d3d34793",
+      "backup": "실험/세부지침_분리전_20261002_131919/도구/pipeline.py"
+    },
+    {
+      "file": "도구/test_pipeline.py",
+      "before": "8ae9a131e5ff56011b7621b97b02502b12a4c47ada95bab481c28d4aee9bd1e5",
+      "after": "4e681cdcdbe6755ade43ba492789196c3e7ebb36a436dc5652355696c2443d8a",
+      "backup": "실험/세부지침_분리전_20261002_131919/도구/test_pipeline.py"
+    },
+    {
+      "file": "도구/사용법.md",
+      "before": "7bdf5380eef7168f0b4fcff27463a38a805fd6b76c48e6d803b26c31bae045f5",
+      "after": "e4be06248ccbe1c1bf556c47680dfda6226c2833bc06e97e41c4385427058998",
+      "backup": "실험/세부지침_분리전_20261002_131919/도구/사용법.md"
+    },
+    {
+      "file": "도구/지침_분리.py",
+      "before": null,
+      "after": "2ce6adaa029b13acb09f3e6dbaf090d9d69a1636eb183604bd18259265a94af0",
+      "backup": null
+    },
+    {
+      "file": "지침/세부지침/00_총괄_원문.md",
+      "before": null,
+      "after": "9a842433aaa85c51e7e988b6bc49e94607a3b96539ac63b52e1c93e5db4941bb",
+      "backup": null
+    },
+    {
+      "file": "지침/세부지침/01_조사_원문.md",
+      "before": null,
+      "after": "9f036339b9505b73788ec96179a8ea90e9832f598aa919430988197eeff48107",
+      "backup": null
+    },
+    {
+      "file": "지침/세부지침/02_기획_원문.md",
+      "before": null,
+      "after": "886e9bbe70a01291c868b33dcd85c1669fbb292b6804a387b6fde5234407b541",
+      "backup": null
+    },
+    {
+      "file": "지침/세부지침/03_제목썸네일_원문.md",
+      "before": null,
+      "after": "21ea3ac04cf5ac0bb512c0d530890886f21f4a7af75e48164d6c703feb2fab18",
+      "backup": null
+    },
+    {
+      "file": "지침/세부지침/04_도입_원문.md",
+      "before": null,
+      "after": "2f01e0b786b04c37af6655c2a7414ef45a2db544e4c38db43d111c250bb427f9",
+      "backup": null
+    },
+    {
+      "file": "지침/세부지침/05_본문클로징_원문.md",
+      "before": null,
+      "after": "70ec859d41e48757b4a5cfe7865a6858dfbf6acf75cefa28649e103fed28a797",
+      "backup": null
+    },
+    {
+      "file": "지침/세부지침/07_사실검수_원문.md",
+      "before": null,
+      "after": "1b56ff0b690084b7a9ccb0c4e31f119dcc0119461428c985775d46a9d532fe32",
+      "backup": null
+    },
+    {
+      "file": "지침/세부지침/08_흐름검수_원문.md",
+      "before": null,
+      "after": "06b8ae23cfd518823935ccc6ac9ccd7671bbde6940d8c61e360a6bed10b68488",
+      "backup": null
+    },
+    {
+      "file": "지침/세부지침/공통_원문.md",
+      "before": null,
+      "after": "8b7ea3db4c6e8fb70558b92ecca6972c2d1e9289930ba52411ec359b3725543b",
+      "backup": null
+    },
+    {
+      "file": "지침/세부지침/배정규칙.json",
+      "before": null,
+      "after": "1a4f370a519e727e8b0173ce7c854b437d177177b1949b688aa624dfc3d855c6",
+      "backup": null
+    },
+    {
+      "file": "지침/세부지침/분리_안내.md",
+      "before": null,
+      "after": "6d5a43f880e12b394d43bee112d9fc28144edcc0b53df4ce80564d586f7ef522",
+      "backup": null
+    },
+    {
+      "file": "지침/세부지침/원문_배정표.json",
+      "before": null,
+      "after": "628540732708ccbec7df3fdcfe8ff7a66f63c78e1317b1a0de4618cf75b1a06a",
+      "backup": null
+    },
+    {
+      "file": "지침/양식/최종흐름검수_예시.json",
+      "before": null,
+      "after": "8a6a0e41b86abd8d37b0e65940afc672754d7c8ab55732ee887f20c15390654d",
+      "backup": null
+    },
+    {
+      "file": "지침/에이전트/00_총괄.md",
+      "before": "460ffcdd6b2fdea045918f37105e838f6bee17b4fb3a6b37eecc3befe99802ef",
+      "after": "113c7f2501dc7b21a668fa5e92fcb810d57062903dba2043660d3814ba2fe9f8",
+      "backup": "실험/세부지침_분리전_20261002_131919/지침/에이전트/00_총괄.md"
+    },
+    {
+      "file": "지침/에이전트/01_조사.md",
+      "before": "f2092e4e143f959bf790d3a056142588c52f777c185e656f3191963e88ad7883",
+      "after": "9851c7e3b0f5ff28324363cc3a09572cbe118a330380895363a6ff13dccd01ad",
+      "backup": "실험/세부지침_분리전_20261002_131919/지침/에이전트/01_조사.md"
+    },
+    {
+      "file": "지침/에이전트/02_기획.md",
+      "before": "f1bb06c08dbed51bcfc87bb11ca3044dcf0f834ace8998eefa60f0ad8d4ad231",
+      "after": "66a86f573a2ac30dd245c48b7ee354aee0e1e52d1909d71e607afdb4910298f9",
+      "backup": "실험/세부지침_분리전_20261002_131919/지침/에이전트/02_기획.md"
+    },
+    {
+      "file": "지침/에이전트/03_제목썸네일.md",
+      "before": "62dd0ce20c38ff86f4680b7d8895101e45b0d4b9ba8100d15dc6dba3edaa07e9",
+      "after": "d0abda3d2eacb649fe63c0888ec505c28225059cbf08083b519743fa37409a5b",
+      "backup": "실험/세부지침_분리전_20261002_131919/지침/에이전트/03_제목썸네일.md"
+    },
+    {
+      "file": "지침/에이전트/04_도입.md",
+      "before": "ba0b6065bd2f703ac1f39a55d5844d1414ff68cf1c48aa78aae75b070f438186",
+      "after": "ed61b72ab41ecfc2c927d7485a7662f57477ff734f8e95c734962dd6a1757e60",
+      "backup": "실험/세부지침_분리전_20261002_131919/지침/에이전트/04_도입.md"
+    },
+    {
+      "file": "지침/에이전트/05_본문클로징.md",
+      "before": "837361bdfc76455a450957ab2436f49aa5fc1af2237706e553b2cc3b20f587a7",
+      "after": "46b6420c4d968ca3430b58f23be42d024e7adbac7b6b88aca3df8c12de60c1fb",
+      "backup": "실험/세부지침_분리전_20261002_131919/지침/에이전트/05_본문클로징.md"
+    },
+    {
+      "file": "지침/에이전트/06_독립검수.md",
+      "before": "e33f57d1a8115739ea87c03cdbfec067b9c1df4cb0dcd255b49f858a66eecc59",
+      "after": "382766891b19164d16665b648d54a9b7fe4ce7c01326af14a5b13e7528320326",
+      "backup": "실험/세부지침_분리전_20261002_131919/지침/에이전트/06_독립검수.md"
+    },
+    {
+      "file": "지침/에이전트/07_사실검수.md",
+      "before": null,
+      "after": "2a9e247001f15e8a311fcfe76cea11593301e42cfd30d70e5255c37886acb782",
+      "backup": null
+    },
+    {
+      "file": "지침/에이전트/08_흐름검수.md",
+      "before": null,
+      "after": "4110e0551e1c171929d7d75861cb9aebcd6c9c0b030b97da30d2f8849ab6e222",
+      "backup": null
+    },
+    {
+      "file": "지침/에이전트_배정.md",
+      "before": "aeb86e1ca91180e53a65a7b93fe8f98a752f4e56927982d78838fcac68f69c3d",
+      "after": "bc63344b4b3952f67438d74916bb811723833fc175104211abdbc6723ecffcda",
+      "backup": "실험/세부지침_분리전_20261002_131919/지침/에이전트_배정.md"
+    },
+    {
+      "file": "지침/운영.md",
+      "before": "88e36ef99ea0b9e9e6bc60f184dfbcd47b38b332d30d3b79c6c3a7ae4e86d858",
+      "after": "75e29e5dac19d775e48fd3196aa4cd824b08571528a0c0c227aa9825ade9f853",
+      "backup": "실험/세부지침_분리전_20261002_131919/지침/운영.md"
+    }
+  ],
+  "source_sha256": {
+    "_대본지침서.md": "daa401ec7b60c19584c9433581f58860b9f57417179b93f4c1c7ff167939dce4",
+    "우주와나/채널설정.md": "1ce6065eb4b9c9f99a4db260f4be291acc5e537ca972546d0a43fff350bc5ac5",
+    "우주와나/수정·선택 사례.md": "7957fc1c03abb217a2665b62c791e9007dd19a76c9dee0a10247da6a3fe09827",
+    "우주와나/분석지/_원고쓰는법.md": "cc6ec4a9f317e809a4b64c77ee60c7d4a2bb7add69e9e87e5349861567c84d74",
+    "우주와나/분석지/_검수기준서.md": "e36660e12c796d1734ecd1a786193b11654eec3d5d0be777e846e653e12df85d"
+  },
+  "coverage": {
+    "source_blocks": 363,
+    "assigned_blocks": 360,
+    "excluded_other_channel_blocks": 3,
+    "unassigned_applicable_blocks": 0
+  },
+  "unit_tests": 25,
+  "metadata_backup": "실험/세부지침_분리전_20261002_131919",
+  "installed_snapshot_files": 26
+}

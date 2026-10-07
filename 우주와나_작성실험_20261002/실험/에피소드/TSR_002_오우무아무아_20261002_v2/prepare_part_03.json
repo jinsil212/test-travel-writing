@@ -1,0 +1,53 @@
+{
+  "purpose": "가스방출모습을찾았나에 실제미검출로답하고 없는것의증명과구별. 이어 반사광과열관측을구별해Spitzer2017Nov미검출이모형크기범위를줄였으나유일정체확정은아님을구체적으로이해시킨다.",
+  "benchmark_choice": "동일버전 직접 전문읽은014의조건회수/기준→차이와 합격관측마지막시대의관측가능성풀이만사용한다.",
+  "weakness_to_avoid": "못봤다=아무것도알지못했다 선언과 단순미해결끝맺음, 새로운천체/가스가설목록/출발별/미래임무추가없음. 세크기값을실측길이로제시하지않는다.",
+  "design": {
+    "outline": [
+      "눈에띄는가스먼지미검출",
+      "미검출과모든가스없음구별,자연설명가능성/직접확정범위",
+      "반사광의크기성질조건에서자체열의다른관측목적",
+      "2017Nov Spitzer적외선미검출",
+      "온도/거리같은조건에서큰물체발열과검출한도비교",
+      "모형가정별너무큰크기범위제한과단일정체의차이"
+    ],
+    "claims": [
+      "C07",
+      "C08"
+    ],
+    "boundary": "앞가스찾았나→눈에띄는방출미검출. 끝범위제한은성과→클로징왜정체못고른이유와처음빛점에구체회수.",
+    "length": "약1150~1250자참고,전체4000이상여유확인. 실제이해공백만."
+  },
+  "evidence": [
+    {
+      "file": "우주와나/분석지/014_보이저/원문.txt",
+      "quote": "게다가 보이저 1호는 지구에서부터 244억 km 떨어져 있습니다.",
+      "sha256": "dc6ee67dce375f40d482e6161ac8fcc095bb1c3f3dca047f74caa8c6a6584dd7"
+    },
+    {
+      "file": "우주와나/분석지/014_보이저/분석지.md",
+      "quote": "고장이 어떻게 됐는지 끝내 안 알려준다.",
+      "sha256": "d391eebcde1472923bfe44a6ccef1181fb8cf799d43edfb9da40a2eca050e695"
+    },
+    {
+      "file": "우주와나/_합격원고/관측마지막시대/01_대본.txt",
+      "quote": "그 별들은 지금도 멀쩡히 빛나고 있어요.",
+      "sha256": "a88583648efadea2c39df6a1d4d2d1ab55449be3f0a11aea00c3f63bc77e78ee"
+    }
+  ],
+  "dependencies": {
+    "research.md": "63c7a4ecf1cc553685b5239aa98e057c5bffd359b95829e1dee8b99528a6094d",
+    "review_research.json": "1dc8b8d96d643c65a7c97b340361807f7db1d5b8d028fb8db9b81f1d6f0ac348",
+    "plan.md": "0f84e52a0959f69f3bfd96cf1decb8f3f09aaf3e86bb60b40f300dadfe4fe4a8",
+    "review_plan.json": "f4846db9c4728dfa5286e3ab88c30a7e2d465cbd7c15c0032aa5771efcebfe20",
+    "package.md": "f17d6a99839073e16b7ae8469f902001308d90646380001d14041e428eca5b4c",
+    "review_package.json": "184c955678e7c86c67bb7301bb82d0b29480cbda78bb8d7f6b09fb36e511608a",
+    "opening.txt": "823a0a9f7511319d4932b40762c57805433f65fda214213d2a4cdae5fa9abd60",
+    "review_opening.json": "5477025293b557122f4295b507d2f5c03ae54367293eaefc6973367bc58aec12",
+    "part_01.txt": "39d0c554de7e4f2ee800cccb4c8b76eeb052e22376cf09931311267fe3a51014",
+    "review_part_01.json": "c94c37381f2979354142213a7c127949b6b48deb182b493790daa66b0bb0ce62",
+    "part_02.txt": "0042175b3cc985fba5122959fe566f428dfa84f7b5b2acb094c4c56c8b6f9480",
+    "review_part_02.json": "95f19147b34084aa0736d01ea29b1cd010d1866ac369b4e685eec82f8ef1c335"
+  },
+  "read_sha256": "2665a53ad05f8b07451d78a7d36128d4e8de7d970c08cedc34d2c3adfa21245a"
+}

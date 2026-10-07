@@ -1,0 +1,15 @@
+제목: 중국은 달 뒷면과 어떻게 연락했을까? 사진과 흙이 돌아오는 길
+썸네일:
+달이 신호를 가리는데
+사진은 어떻게 왔나?
+원 소재: Everything You Need To Know About China's Moon Missions
+원 영상: https://www.youtube.com/watch?v=-yrO_bD9YXo
+한국판 질문: 창어4/6 뒷면 임무의 중계·지상국·물질 귀환 연결. 모든 중국 임무 카탈로그를 완성했다고 주장하지 않음. 11창어5 젊은현무암/68헬륨3과 구별. 전체 번역 아님.
+출처 확인: 2026-10-03 KST
+CNSA 2019 착륙 https://www.cnsa.gov.cn/english/n6465652/n6465653/c6805049/content.html — 2019-01-03 실제착륙과 relay 사진 전송.
+CAS/CNSA 설명 2019-01-07 https://english.cas.cn/newsroom/news/201901/t20190107_203642.shtml — 2018 먼저췌차오 발사, EarthMoonL2 halo, 둘과 통신, 데이터 중계. 지상편지 전달 비유는 해설. 고정점/반중력으로 설명하지 않음.
+CAS/CNSA 2024-06-25 https://english.cas.cn/newsroom/news--archives/2024/cas-in-media/202406/t20240625_1129633.shtml — 4요소구성·췌차오2·6/2달착륙·6/4이륙·6/6궤도도킹/시료전달·궤도대기·귀환선분리·지구실제귀환. 정밀시간/정확시료무게 불필요생략.
+ESA 2024-07-20 https://www.esa.int/Enabling_Support/Operations/ESA_Ground_Stations/ESA_stations_support_three_Moon_missions_in_2024 — Kourou 첫신호/궤도추적, 6/25뒷면시료귀환 확인. 일반 지상국/자전 추적 조건은 기본 해설.
+ESA 2024 https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/First_detection_of_negative_ions_on_the_Moon — ESA지상지원/초기궤도확인. 과학결과 나열 대신 연결에 집중.
+해설/한계: 지구직접시야 차폐와 햇빛받는 면은 구분. 근본 통신 원리/빛의시간/실험실시료비교는 해설. 췌차오1과2를 같은 궤도/같은 기체라고 말하지 않음. 현재중계상태/새임무일정/전달속도/중국의속내 단정 없음. 역사귀환 완료와 향후 계획 구분.
+상태: 4000자 이상 초안, 독립검수 전. 원 지침 변경 없음. 3분은 작성 목표이고 음성길이 아님.

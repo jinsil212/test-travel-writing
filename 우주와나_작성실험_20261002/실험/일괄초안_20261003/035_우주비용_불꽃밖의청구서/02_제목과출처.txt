@@ -1,0 +1,15 @@
+제목: 로켓 연료값만 보면 우주 비용을 틀리게 봅니다 | 불꽃 밖의 청구서
+썸네일 2줄:
+몇 분의 불꽃
+그 밖의 비용은?
+원소재: https://www.youtube.com/watch?v=bhxn_emGHjA / Why Going To Space Costs So Much
+독립 한국판 초안, 전체 번역 아님. 독립검수 전, 실사 미확보.
+1. NASA NTRS 운송 경제성 https://ntrs.nasa.gov/citations/20140011200 — 고객의 발사 구매가격과 시스템 개발·초기비용·비행횟수 질문의 구분.
+2. NASA NTRS 수명주기 비용 https://ntrs.nasa.gov/citations/20140010506 — 개발·제작·발사·비행빈도 관계. 작은발사체 과거연구이며 그때 목표가격을 현재가격으로 채택 안 함.
+3. NASA 발사 통합 https://science.nasa.gov/learn/basics-of-space-flight/chapter14-1/ — 계약 뒤 통합 준비 과정. 기계·전기·분리 조건은 일반 운송공학 설명.
+4. NASA 환경시험 역량 https://etd.gsfc.nasa.gov/capabilities/capabilities-listing/environmental-test-engineering-and-integration/ — 구성요소·기체·환경의 검증 및 인력. https://standards.nasa.gov/standard/NASA/NASA-STD-7001 — 진동·음향 시험범위. 특정임무의 모든검사 의무로 확대 안 함.
+5. NASA 재사용비용 연구 https://ntrs.nasa.gov/citations/20170000588 — 회수/정비와 새 하드웨어 취득 비용 비교.
+6. GAO2023 https://www.gao.gov/products/gao-23-105609 — SLS 생산 및 장기 운영 비용의 투명성 질문. 보고시점과 현재상태 구분, 금액·현재정책평가 배제.
+한정: 연료비의 고정 비율·최신 발사 가격·개인 여행가격·우월 기업 투자 결론 없음. 고정비 배분 예시는 명시적 가상 설명. 비용과 고객가격·개발/반복/임무전체비 구분. 저궤도 수송량을 전 목적지 단가로 환산 안 함. 지연비용은 조건부 일반설명.
+제작: 비용 도표를 만들면 항목 범위·연도·추정/실제 상태 표시. 임의 실제 금액 제작 금지. 본문 직접 사진 지시 없음.
+시간: 집필3분 목표 실측은 진행목록. 낭독·TTS 미측정, 음성3분 아님.

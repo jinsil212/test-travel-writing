@@ -1,0 +1,20 @@
+제목: 3I 아틀라스 사진의 밝은 덩어리｜그걸 재면 본체 크기가 나올까?
+썸네일 1줄: 이 덩어리 전체가
+썸네일 2줄: 혜성 본체가 아니다
+원순위56 / What NASA Should Have Told You About 3I Atlas
+소재: https://www.youtube.com/watch?v=oCILDWN95GI
+확인2026-10-03 KST. NASA은폐/누락 음모 아님. 앞선6성분/16가시성/22밝기변화와 달리 핵·코마신호분리/영상측정 방법중심.
+1 NASA2025Hubble발표: July21사진 코마/꼬리, 당시 핵직접불분리/크기제한, 배경별추적줄/각도축척 설명.
+https://science.nasa.gov/missions/hubble/as-nasa-missions-study-interstellar-comet-hubble-makes-size-estimate/
+2 NASA 화성관측: MRO Oct2대략30km/pixel는 코마 모습, MAVEN수소자외선영상/화성·행성간·혜성신호별구분. 최근접이라고핵지도아님.
+https://www.nasa.gov/solar-system/planets/mars/nasas-mars-spacecraft-capture-images-of-comet-3i-atlas/
+3 Hui etal2026 원연구: Dec2025-Jan2026Hubble 핵추출, 코마모델/장비PSF 고려, 반사율0.04가정유효반지름1.3±0.2km. 본문은약1.3km반지름만사용,가정명시. 밝기회전vs활동복수가능성/회전기간측정불충분.
+https://arxiv.org/abs/2601.21569
+https://arxiv.org/html/2601.21569v1
+4 NASA현FAQ: 과거Aug20크기범위는관측시점조건 있는 값이며 이후논문결과와시간구분, 핵·코마정의. 페이지의일부거리단위오타/가시성문장은그대로전파하지않음.
+https://science.nasa.gov/solar-system/comets/3i-atlas/3i-atlas-facts-and-faqs/
+5 Jewitt etal2025Hubble원논문: 초기공간해상도·핵상한·코마간섭/반사성질 추정의 과거단계.
+https://assets.science.nasa.gov/content/dam/science/missions/hubble/releases/2025/08/STScI-01K20JKY8RVNWTQKQNAJAV84VK.pdf
+6 STScI HST점확산함수문서: 광원이검출기에퍼지는장비반응/파장과검출기, 본문은일반원리만. ACS세부값을3I관측WFC3값이라고옮기지않음.
+https://hst-docs.stsci.edu/acsihb/chapter-5-imaging/5-6-acs-point-spread-functions
+반지름/지름 구별, 후속논문의모델추출을근접표면사진이라고부르지않음. 사진사용선택시 원링크크레딧/가시광·자외선·시각화명시. 표면illustration을실측지형으로사용금지. 독립한국판초안/독립검수전,3분은집필목표/음성실측아님.

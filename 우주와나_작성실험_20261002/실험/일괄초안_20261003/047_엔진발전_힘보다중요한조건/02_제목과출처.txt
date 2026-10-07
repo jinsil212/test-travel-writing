@@ -1,0 +1,24 @@
+제목: 로켓 엔진은 정말 강해지기만 했을까? | 작은 로켓에서 긴 우주 비행까지
+썸네일:
+힘의 순위가 아닙니다
+엔진이 풀어 온 문제
+
+원소재: https://www.youtube.com/watch?v=xTq5nrHfdZc
+원제: The Evolution of The Rocket Engine
+기획: 1926년 공급·제어→F-1 연소 안정→RS-25 운용 환경·제작→Dawn 장기 이온 추진으로 발전의 조건을 설명합니다. 기존 랩터 내부 흐름과 재사용 로켓 전체 편을 반복하지 않습니다.
+1차 출처:
+https://www.nasa.gov/history/95-years-ago-goddards-first-liquid-fueled-rocket/
+1926년3월16일 고다드의 첫 액체 추진제 비행, 휘발유·액체산소 및 이후 기술.
+https://www.nasa.gov/centers-and-facilities/goddard/from-cabbages-to-craters-nasa-marks-one-century-of-modern-rocketry/
+2026년100주년 기관 설명. 현재 원리를 과거 경험과 연결하는 배경.
+https://www.nasa.gov/history/solving-combustion-instability-and-saving-americas-first-trips-to-the-moon/
+F-1 연소 불안정, 분사판 배플, 교란 회복 시험과 새턴5. 과거 기사말미의 오래된 미래 달 일정은 사용하지 않았습니다.
+https://www.nasa.gov/reference/space-launch-system-rs-25-core-stage-engine/
+왕복선 RS-25의 설계 개선, SLS용 제어·단열·시험·제작 개선. 기사 안의 미래 Artemis 임무별 생산 일정은 현재 확정처럼 쓰지 않았습니다.
+https://www.nasa.gov/wp-content/uploads/2022/03/sls-reference-guide-2022-v2-508-0.pdf
+SLS 엔진 회수하지 않는 구성의 설명. 기존 엔진 재사용 이력과 이번 임무의 회수 여부를 나눕니다.
+https://science.nasa.gov/mission/dawn/technology/ion-propulsion/
+제논 이온 가속, 작은 추력·긴 시간, 베스타와 세레스 임무, 방향 조절·세 엔진 한 번에 하나 사용.
+
+한정·제작 메모: 이온 추진은 추진제 없는 기술이나 지상 발사용 화학 로켓 대체라고 하지 않습니다. 추력·효율·총 속도 변화와 사용 시간은 다른 지표입니다. F-1 교란 시험의 세부 제작법은 설명하지 않았습니다. 회사별 엔진 순위나 모든 엔진의 전 역사를 망라하지 않습니다. 후속 핵추진 소재는 여기서 추가하지 않습니다. 엔진 실사와 내부 흐름 애니메이션은 구분하고 기관 원본 크레딧을 표시합니다.
+상태: 독립 검수 전 순차 초안. 원영상 전체 번역이 아닌 한국어 독립 구성.3분은 작성 목표이며 낭독 길이가 아닙니다. 실측 작성 시간은 진행목록 기록입니다.

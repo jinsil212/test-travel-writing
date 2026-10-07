@@ -1,0 +1,21 @@
+제목: ISS에 붙인 방은 어떻게 새로운 정거장이 될까?
+썸네일 1줄: 방만 떼어내면 끝?
+썸네일 2줄: 독립엔 다른 능력이 필요하죠
+원 소재: The Truth About NASA's New Space Station! (Axiom)
+원 URL: https://www.youtube.com/watch?v=qqJBLP07o7A
+한국판: ISS부착→지원기능인계→독립운영,전력열모듈을먼저보내는조립순서의의미.79파열시험/55정거장일상과구분.
+
+1차 출처,2026-10-03 KST 검색·확인:
+NASA, NASA,Axiom Space Change Assembly Order,2024-12-19.2020계약,Hab1먼저→PPTM먼저변경,ISS의존줄임과2030이후전환목표.발표당시as earlyas2028는목표로만.
+https://www.nasa.gov/humans-in-space/commercial-space/leo-economy/nasa-axiom-space-change-assembly-order-of-commercial-space-station/
+AxiomSpace,2025YearinReview:두모듈free-flying NET2028목표,첫모듈최종용접완료/압력용기시험진행,더뒤확인없는완료추정없음.
+https://axiomspace.com/news/year-in-review-2025
+AxiomStation현재공식페이지: PPTM은ISS부착후분리,Hab1은분리후PPTM연결,그다음airlock/Hab2/researchmanufacturing구상.가구·인원·세부발사일불포함.
+https://axiomspace.com/axiom-station
+NASA,CommercialSpaceStations:상업개발지원과이후서비스조달관계.
+https://www.nasa.gov/humans-in-space/commercial-space/commercial-space-stations/
+NASA,PrivateAstronautMissions:방문임무와새정거장개발구분만사용.
+https://www.nasa.gov/humans-in-space/private-astronaut-missions/
+
+최신 확인 한계:공식페이지/2025정리/2026검색에서더새확정발사완료나변경일을확인하지못함.본문각발표시점명시,2028목표보장/현시점모듈궤도완공주장없음.오래된2026Hab1우선목표는현재로쓰지않음.전력저장·열배출·압력/통신/제어/방문선은독립시설에필요한일반기능의설명이며Axiom비공개설계상세나실증결과아님.공식render는구상그림으로구분하고임무실사처럼사용하지않음.
+독립검수 전초안.원영상전체번역아님.3분집필목표,음성시간아님.원지침변경없음.

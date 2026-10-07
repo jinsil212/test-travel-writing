@@ -1,0 +1,6 @@
+{
+  "coordinator": "/root",
+  "research": "/root/catalog_research",
+  "review": "/root/flow_review",
+  "flow_review": "/root/flow_review"
+}

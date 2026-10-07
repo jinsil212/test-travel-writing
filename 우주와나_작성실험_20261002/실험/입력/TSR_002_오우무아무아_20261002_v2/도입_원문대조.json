@@ -1,0 +1,1720 @@
+[
+  {
+    "packet": "공통_원문.md",
+    "blocks": [
+      {
+        "id": "COMMON-001",
+        "source": "_대본지침서.md",
+        "start": 1,
+        "end": 4,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-002",
+        "source": "_대본지침서.md",
+        "start": 5,
+        "end": 23,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-003",
+        "source": "_대본지침서.md",
+        "start": 24,
+        "end": 25,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-004",
+        "source": "_대본지침서.md",
+        "start": 26,
+        "end": 34,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-005",
+        "source": "_대본지침서.md",
+        "start": 35,
+        "end": 42,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-006",
+        "source": "_대본지침서.md",
+        "start": 43,
+        "end": 51,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-012",
+        "source": "_대본지침서.md",
+        "start": 115,
+        "end": 124,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-014",
+        "source": "_대본지침서.md",
+        "start": 129,
+        "end": 136,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-015",
+        "source": "_대본지침서.md",
+        "start": 137,
+        "end": 142,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-016",
+        "source": "_대본지침서.md",
+        "start": 143,
+        "end": 152,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-017",
+        "source": "_대본지침서.md",
+        "start": 153,
+        "end": 173,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-018",
+        "source": "_대본지침서.md",
+        "start": 174,
+        "end": 177,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-019",
+        "source": "_대본지침서.md",
+        "start": 178,
+        "end": 183,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-020",
+        "source": "_대본지침서.md",
+        "start": 184,
+        "end": 194,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-021",
+        "source": "_대본지침서.md",
+        "start": 195,
+        "end": 203,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-022",
+        "source": "_대본지침서.md",
+        "start": 204,
+        "end": 209,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-023",
+        "source": "_대본지침서.md",
+        "start": 210,
+        "end": 224,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-024",
+        "source": "_대본지침서.md",
+        "start": 225,
+        "end": 228,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-037",
+        "source": "_대본지침서.md",
+        "start": 329,
+        "end": 336,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-056",
+        "source": "_대본지침서.md",
+        "start": 494,
+        "end": 499,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-125",
+        "source": "_대본지침서.md",
+        "start": 1100,
+        "end": 1103,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-126",
+        "source": "_대본지침서.md",
+        "start": 1104,
+        "end": 1109,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-148",
+        "source": "_대본지침서.md",
+        "start": 1259,
+        "end": 1276,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-157",
+        "source": "_대본지침서.md",
+        "start": 1337,
+        "end": 1340,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-158",
+        "source": "_대본지침서.md",
+        "start": 1341,
+        "end": 1351,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-159",
+        "source": "_대본지침서.md",
+        "start": 1352,
+        "end": 1367,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-160",
+        "source": "_대본지침서.md",
+        "start": 1368,
+        "end": 1372,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-161",
+        "source": "_대본지침서.md",
+        "start": 1373,
+        "end": 1376,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-162",
+        "source": "_대본지침서.md",
+        "start": 1377,
+        "end": 1391,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-163",
+        "source": "_대본지침서.md",
+        "start": 1392,
+        "end": 1397,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-164",
+        "source": "_대본지침서.md",
+        "start": 1398,
+        "end": 1406,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-165",
+        "source": "_대본지침서.md",
+        "start": 1407,
+        "end": 1411,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-166",
+        "source": "_대본지침서.md",
+        "start": 1412,
+        "end": 1421,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-167",
+        "source": "_대본지침서.md",
+        "start": 1422,
+        "end": 1438,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-168",
+        "source": "_대본지침서.md",
+        "start": 1439,
+        "end": 1443,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-169",
+        "source": "_대본지침서.md",
+        "start": 1444,
+        "end": 1456,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-170",
+        "source": "_대본지침서.md",
+        "start": 1457,
+        "end": 1460,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-171",
+        "source": "_대본지침서.md",
+        "start": 1461,
+        "end": 1468,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-172",
+        "source": "_대본지침서.md",
+        "start": 1469,
+        "end": 1470,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-173",
+        "source": "_대본지침서.md",
+        "start": 1471,
+        "end": 1489,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-174",
+        "source": "_대본지침서.md",
+        "start": 1490,
+        "end": 1493,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-175",
+        "source": "_대본지침서.md",
+        "start": 1494,
+        "end": 1501,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-176",
+        "source": "_대본지침서.md",
+        "start": 1502,
+        "end": 1505,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-177",
+        "source": "_대본지침서.md",
+        "start": 1506,
+        "end": 1511,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-178",
+        "source": "_대본지침서.md",
+        "start": 1512,
+        "end": 1515,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-179",
+        "source": "_대본지침서.md",
+        "start": 1516,
+        "end": 1520,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-180",
+        "source": "_대본지침서.md",
+        "start": 1521,
+        "end": 1524,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-181",
+        "source": "_대본지침서.md",
+        "start": 1525,
+        "end": 1530,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-182",
+        "source": "_대본지침서.md",
+        "start": 1531,
+        "end": 1536,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-183",
+        "source": "_대본지침서.md",
+        "start": 1537,
+        "end": 1539,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-184",
+        "source": "_대본지침서.md",
+        "start": 1540,
+        "end": 1542,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-185",
+        "source": "_대본지침서.md",
+        "start": 1543,
+        "end": 1552,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-186",
+        "source": "_대본지침서.md",
+        "start": 1553,
+        "end": 1559,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-187",
+        "source": "_대본지침서.md",
+        "start": 1560,
+        "end": 1565,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-188",
+        "source": "_대본지침서.md",
+        "start": 1566,
+        "end": 1577,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-189",
+        "source": "_대본지침서.md",
+        "start": 1578,
+        "end": 1588,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-190",
+        "source": "_대본지침서.md",
+        "start": 1589,
+        "end": 1596,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-191",
+        "source": "_대본지침서.md",
+        "start": 1597,
+        "end": 1605,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-192",
+        "source": "_대본지침서.md",
+        "start": 1606,
+        "end": 1618,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-193",
+        "source": "_대본지침서.md",
+        "start": 1619,
+        "end": 1633,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-194",
+        "source": "_대본지침서.md",
+        "start": 1634,
+        "end": 1645,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-195",
+        "source": "_대본지침서.md",
+        "start": 1646,
+        "end": 1661,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-196",
+        "source": "_대본지침서.md",
+        "start": 1662,
+        "end": 1665,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-197",
+        "source": "_대본지침서.md",
+        "start": 1666,
+        "end": 1671,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-198",
+        "source": "_대본지침서.md",
+        "start": 1672,
+        "end": 1686,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-204",
+        "source": "_대본지침서.md",
+        "start": 1749,
+        "end": 1760,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-205",
+        "source": "_대본지침서.md",
+        "start": 1761,
+        "end": 1779,
+        "same_text": true
+      },
+      {
+        "id": "CHANNEL-001",
+        "source": "우주와나/채널설정.md",
+        "start": 1,
+        "end": 4,
+        "same_text": true
+      },
+      {
+        "id": "CHANNEL-002",
+        "source": "우주와나/채널설정.md",
+        "start": 5,
+        "end": 13,
+        "same_text": true
+      },
+      {
+        "id": "CHANNEL-003",
+        "source": "우주와나/채널설정.md",
+        "start": 14,
+        "end": 27,
+        "same_text": true
+      },
+      {
+        "id": "CHANNEL-004",
+        "source": "우주와나/채널설정.md",
+        "start": 28,
+        "end": 43,
+        "same_text": true
+      },
+      {
+        "id": "CHANNEL-012",
+        "source": "우주와나/채널설정.md",
+        "start": 131,
+        "end": 132,
+        "same_text": true
+      },
+      {
+        "id": "CHANNEL-013",
+        "source": "우주와나/채널설정.md",
+        "start": 133,
+        "end": 143,
+        "same_text": true
+      },
+      {
+        "id": "CHANNEL-014",
+        "source": "우주와나/채널설정.md",
+        "start": 144,
+        "end": 151,
+        "same_text": true
+      },
+      {
+        "id": "CHANNEL-016",
+        "source": "우주와나/채널설정.md",
+        "start": 162,
+        "end": 164,
+        "same_text": true
+      },
+      {
+        "id": "CASES-001",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 1,
+        "end": 8,
+        "same_text": true
+      },
+      {
+        "id": "CASES-002",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 9,
+        "end": 10,
+        "same_text": true
+      },
+      {
+        "id": "CASES-010",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 59,
+        "end": 73,
+        "same_text": true
+      },
+      {
+        "id": "CASES-012",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 86,
+        "end": 93,
+        "same_text": true
+      },
+      {
+        "id": "CASES-015",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 104,
+        "end": 112,
+        "same_text": true
+      },
+      {
+        "id": "CASES-017",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 122,
+        "end": 134,
+        "same_text": true
+      },
+      {
+        "id": "CASES-020",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 149,
+        "end": 155,
+        "same_text": true
+      },
+      {
+        "id": "CASES-025",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 186,
+        "end": 190,
+        "same_text": true
+      },
+      {
+        "id": "CASES-029",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 208,
+        "end": 212,
+        "same_text": true
+      },
+      {
+        "id": "CASES-032",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 224,
+        "end": 232,
+        "same_text": true
+      },
+      {
+        "id": "CASES-037",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 246,
+        "end": 262,
+        "same_text": true
+      },
+      {
+        "id": "CASES-039",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 272,
+        "end": 364,
+        "same_text": true
+      },
+      {
+        "id": "CASES-040",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 365,
+        "end": 399,
+        "same_text": true
+      },
+      {
+        "id": "CASES-042",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 404,
+        "end": 410,
+        "same_text": true
+      },
+      {
+        "id": "CASES-043",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 411,
+        "end": 419,
+        "same_text": true
+      },
+      {
+        "id": "CASES-044",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 420,
+        "end": 431,
+        "same_text": true
+      },
+      {
+        "id": "CASES-047",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 450,
+        "end": 473,
+        "same_text": true
+      },
+      {
+        "id": "CASES-059",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 560,
+        "end": 570,
+        "same_text": true
+      },
+      {
+        "id": "CASES-061",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 577,
+        "end": 585,
+        "same_text": true
+      },
+      {
+        "id": "CASES-062",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 586,
+        "end": 592,
+        "same_text": true
+      },
+      {
+        "id": "CASES-063",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 593,
+        "end": 601,
+        "same_text": true
+      },
+      {
+        "id": "CASES-064",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 602,
+        "end": 610,
+        "same_text": true
+      },
+      {
+        "id": "CASES-065",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 611,
+        "end": 618,
+        "same_text": true
+      },
+      {
+        "id": "CASES-066",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 619,
+        "end": 625,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-001",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 1,
+        "end": 4,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-002",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 5,
+        "end": 12,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-003",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 13,
+        "end": 44,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-024",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 240,
+        "end": 266,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-027",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 329,
+        "end": 338,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-001",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 1,
+        "end": 6,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-003",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 16,
+        "end": 17,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-004",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 18,
+        "end": 27,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-005",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 28,
+        "end": 35,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-006",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 36,
+        "end": 50,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-031",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 200,
+        "end": 202,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-046",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 304,
+        "end": 322,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-050",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 356,
+        "end": 366,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-051",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 367,
+        "end": 376,
+        "same_text": true
+      }
+    ]
+  },
+  {
+    "packet": "04_도입_원문.md",
+    "blocks": [
+      {
+        "id": "COMMON-007",
+        "source": "_대본지침서.md",
+        "start": 52,
+        "end": 59,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-030",
+        "source": "_대본지침서.md",
+        "start": 275,
+        "end": 278,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-044",
+        "source": "_대본지침서.md",
+        "start": 377,
+        "end": 399,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-048",
+        "source": "_대본지침서.md",
+        "start": 422,
+        "end": 428,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-049",
+        "source": "_대본지침서.md",
+        "start": 429,
+        "end": 436,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-054",
+        "source": "_대본지침서.md",
+        "start": 477,
+        "end": 488,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-055",
+        "source": "_대본지침서.md",
+        "start": 489,
+        "end": 493,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-058",
+        "source": "_대본지침서.md",
+        "start": 510,
+        "end": 523,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-059",
+        "source": "_대본지침서.md",
+        "start": 524,
+        "end": 528,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-060",
+        "source": "_대본지침서.md",
+        "start": 529,
+        "end": 536,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-061",
+        "source": "_대본지침서.md",
+        "start": 537,
+        "end": 541,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-062",
+        "source": "_대본지침서.md",
+        "start": 542,
+        "end": 552,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-063",
+        "source": "_대본지침서.md",
+        "start": 553,
+        "end": 569,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-064",
+        "source": "_대본지침서.md",
+        "start": 570,
+        "end": 586,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-068",
+        "source": "_대본지침서.md",
+        "start": 615,
+        "end": 630,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-069",
+        "source": "_대본지침서.md",
+        "start": 631,
+        "end": 643,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-070",
+        "source": "_대본지침서.md",
+        "start": 644,
+        "end": 664,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-071",
+        "source": "_대본지침서.md",
+        "start": 665,
+        "end": 674,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-072",
+        "source": "_대본지침서.md",
+        "start": 675,
+        "end": 682,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-079",
+        "source": "_대본지침서.md",
+        "start": 733,
+        "end": 744,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-086",
+        "source": "_대본지침서.md",
+        "start": 790,
+        "end": 800,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-087",
+        "source": "_대본지침서.md",
+        "start": 801,
+        "end": 804,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-094",
+        "source": "_대본지침서.md",
+        "start": 851,
+        "end": 852,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-095",
+        "source": "_대본지침서.md",
+        "start": 853,
+        "end": 865,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-096",
+        "source": "_대본지침서.md",
+        "start": 866,
+        "end": 876,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-097",
+        "source": "_대본지침서.md",
+        "start": 877,
+        "end": 888,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-098",
+        "source": "_대본지침서.md",
+        "start": 889,
+        "end": 899,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-099",
+        "source": "_대본지침서.md",
+        "start": 900,
+        "end": 907,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-100",
+        "source": "_대본지침서.md",
+        "start": 908,
+        "end": 919,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-101",
+        "source": "_대본지침서.md",
+        "start": 920,
+        "end": 928,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-102",
+        "source": "_대본지침서.md",
+        "start": 929,
+        "end": 938,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-103",
+        "source": "_대본지침서.md",
+        "start": 939,
+        "end": 957,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-104",
+        "source": "_대본지침서.md",
+        "start": 958,
+        "end": 967,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-105",
+        "source": "_대본지침서.md",
+        "start": 968,
+        "end": 976,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-106",
+        "source": "_대본지침서.md",
+        "start": 977,
+        "end": 981,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-107",
+        "source": "_대본지침서.md",
+        "start": 982,
+        "end": 985,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-108",
+        "source": "_대본지침서.md",
+        "start": 986,
+        "end": 990,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-109",
+        "source": "_대본지침서.md",
+        "start": 991,
+        "end": 996,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-110",
+        "source": "_대본지침서.md",
+        "start": 997,
+        "end": 1007,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-111",
+        "source": "_대본지침서.md",
+        "start": 1008,
+        "end": 1018,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-112",
+        "source": "_대본지침서.md",
+        "start": 1019,
+        "end": 1023,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-113",
+        "source": "_대본지침서.md",
+        "start": 1024,
+        "end": 1028,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-114",
+        "source": "_대본지침서.md",
+        "start": 1029,
+        "end": 1035,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-115",
+        "source": "_대본지침서.md",
+        "start": 1036,
+        "end": 1040,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-116",
+        "source": "_대본지침서.md",
+        "start": 1041,
+        "end": 1046,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-117",
+        "source": "_대본지침서.md",
+        "start": 1047,
+        "end": 1052,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-118",
+        "source": "_대본지침서.md",
+        "start": 1053,
+        "end": 1058,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-119",
+        "source": "_대본지침서.md",
+        "start": 1059,
+        "end": 1064,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-120",
+        "source": "_대본지침서.md",
+        "start": 1065,
+        "end": 1070,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-121",
+        "source": "_대본지침서.md",
+        "start": 1071,
+        "end": 1076,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-122",
+        "source": "_대본지침서.md",
+        "start": 1077,
+        "end": 1082,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-123",
+        "source": "_대본지침서.md",
+        "start": 1083,
+        "end": 1092,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-124",
+        "source": "_대본지침서.md",
+        "start": 1093,
+        "end": 1099,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-127",
+        "source": "_대본지침서.md",
+        "start": 1110,
+        "end": 1113,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-128",
+        "source": "_대본지침서.md",
+        "start": 1114,
+        "end": 1117,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-129",
+        "source": "_대본지침서.md",
+        "start": 1118,
+        "end": 1123,
+        "same_text": true
+      },
+      {
+        "id": "COMMON-143",
+        "source": "_대본지침서.md",
+        "start": 1233,
+        "end": 1239,
+        "same_text": true
+      },
+      {
+        "id": "CHANNEL-005",
+        "source": "우주와나/채널설정.md",
+        "start": 44,
+        "end": 61,
+        "same_text": true
+      },
+      {
+        "id": "CHANNEL-006",
+        "source": "우주와나/채널설정.md",
+        "start": 62,
+        "end": 79,
+        "same_text": true
+      },
+      {
+        "id": "CHANNEL-007",
+        "source": "우주와나/채널설정.md",
+        "start": 80,
+        "end": 81,
+        "same_text": true
+      },
+      {
+        "id": "CHANNEL-008",
+        "source": "우주와나/채널설정.md",
+        "start": 82,
+        "end": 90,
+        "same_text": true
+      },
+      {
+        "id": "CHANNEL-009",
+        "source": "우주와나/채널설정.md",
+        "start": 91,
+        "end": 109,
+        "same_text": true
+      },
+      {
+        "id": "CASES-006",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 31,
+        "end": 42,
+        "same_text": true
+      },
+      {
+        "id": "CASES-007",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 43,
+        "end": 48,
+        "same_text": true
+      },
+      {
+        "id": "CASES-013",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 94,
+        "end": 98,
+        "same_text": true
+      },
+      {
+        "id": "CASES-014",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 99,
+        "end": 103,
+        "same_text": true
+      },
+      {
+        "id": "CASES-016",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 113,
+        "end": 121,
+        "same_text": true
+      },
+      {
+        "id": "CASES-018",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 135,
+        "end": 141,
+        "same_text": true
+      },
+      {
+        "id": "CASES-019",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 142,
+        "end": 148,
+        "same_text": true
+      },
+      {
+        "id": "CASES-021",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 156,
+        "end": 164,
+        "same_text": true
+      },
+      {
+        "id": "CASES-022",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 165,
+        "end": 171,
+        "same_text": true
+      },
+      {
+        "id": "CASES-024",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 177,
+        "end": 185,
+        "same_text": true
+      },
+      {
+        "id": "CASES-026",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 191,
+        "end": 195,
+        "same_text": true
+      },
+      {
+        "id": "CASES-028",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 201,
+        "end": 207,
+        "same_text": true
+      },
+      {
+        "id": "CASES-030",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 213,
+        "end": 216,
+        "same_text": true
+      },
+      {
+        "id": "CASES-031",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 217,
+        "end": 223,
+        "same_text": true
+      },
+      {
+        "id": "CASES-035",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 239,
+        "end": 241,
+        "same_text": true
+      },
+      {
+        "id": "CASES-036",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 242,
+        "end": 245,
+        "same_text": true
+      },
+      {
+        "id": "CASES-038",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 263,
+        "end": 271,
+        "same_text": true
+      },
+      {
+        "id": "CASES-041",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 400,
+        "end": 403,
+        "same_text": true
+      },
+      {
+        "id": "CASES-046",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 442,
+        "end": 449,
+        "same_text": true
+      },
+      {
+        "id": "CASES-048",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 474,
+        "end": 477,
+        "same_text": true
+      },
+      {
+        "id": "CASES-049",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 478,
+        "end": 485,
+        "same_text": true
+      },
+      {
+        "id": "CASES-050",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 486,
+        "end": 495,
+        "same_text": true
+      },
+      {
+        "id": "CASES-052",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 505,
+        "end": 511,
+        "same_text": true
+      },
+      {
+        "id": "CASES-053",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 512,
+        "end": 518,
+        "same_text": true
+      },
+      {
+        "id": "CASES-054",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 519,
+        "end": 526,
+        "same_text": true
+      },
+      {
+        "id": "CASES-055",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 527,
+        "end": 535,
+        "same_text": true
+      },
+      {
+        "id": "CASES-056",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 536,
+        "end": 543,
+        "same_text": true
+      },
+      {
+        "id": "CASES-057",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 544,
+        "end": 554,
+        "same_text": true
+      },
+      {
+        "id": "CASES-058",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 555,
+        "end": 559,
+        "same_text": true
+      },
+      {
+        "id": "CASES-060",
+        "source": "우주와나/수정·선택 사례.md",
+        "start": 571,
+        "end": 576,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-004",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 45,
+        "end": 85,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-007",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 95,
+        "end": 103,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-009",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 114,
+        "end": 115,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-010",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 116,
+        "end": 134,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-011",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 135,
+        "end": 142,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-012",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 143,
+        "end": 151,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-013",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 152,
+        "end": 163,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-014",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 164,
+        "end": 170,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-020",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 214,
+        "end": 222,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-025",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 267,
+        "end": 285,
+        "same_text": true
+      },
+      {
+        "id": "WRITING-026",
+        "source": "우주와나/분석지/_원고쓰는법.md",
+        "start": 286,
+        "end": 328,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-009",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 66,
+        "end": 81,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-013",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 116,
+        "end": 117,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-014",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 118,
+        "end": 123,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-015",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 124,
+        "end": 128,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-016",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 129,
+        "end": 133,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-020",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 154,
+        "end": 157,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-021",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 158,
+        "end": 159,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-022",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 160,
+        "end": 163,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-023",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 164,
+        "end": 167,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-026",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 176,
+        "end": 180,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-027",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 181,
+        "end": 185,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-028",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 186,
+        "end": 189,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-029",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 190,
+        "end": 191,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-030",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 192,
+        "end": 199,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-032",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 203,
+        "end": 206,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-033",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 207,
+        "end": 212,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-034",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 213,
+        "end": 216,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-035",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 217,
+        "end": 220,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-036",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 221,
+        "end": 225,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-037",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 226,
+        "end": 229,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-038",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 230,
+        "end": 234,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-039",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 235,
+        "end": 238,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-040",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 239,
+        "end": 244,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-041",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 245,
+        "end": 248,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-042",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 249,
+        "end": 260,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-043",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 261,
+        "end": 274,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-044",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 275,
+        "end": 288,
+        "same_text": true
+      },
+      {
+        "id": "REVIEW-045",
+        "source": "우주와나/분석지/_검수기준서.md",
+        "start": 289,
+        "end": 303,
+        "same_text": true
+      }
+    ]
+  }
+]

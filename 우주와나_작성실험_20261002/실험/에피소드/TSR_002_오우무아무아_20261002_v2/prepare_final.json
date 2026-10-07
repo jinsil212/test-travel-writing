@@ -1,0 +1,41 @@
+{
+  "purpose": "독립 검수를 통과한 도입·본문3파트·클로징의 현재 원문을 순서대로 조립하고, 같은 버전으로 최종 사실·흐름 검수에 넘긴다.",
+  "benchmark_choice": "014 보이저의 관측 조건 회수와 관측마지막시대 합격원고의 쉬운 설명 수준을 적용한 현재 통과 원문을 유지한다.",
+  "weakness_to_avoid": "정체 미확정의 이유를 추상적 질문 차이로 바꾸거나 끝을 미해결 선언으로 끝내지 않는다. 조립에서 새 사실·화면 지시·주석을 넣지 않는다.",
+  "evidence": [
+    {
+      "file": "지침/에이전트/00_총괄.md",
+      "quote": "최종 낭독문은 화면 지시 없이 문단과 빈 줄로 정리한다.",
+      "sha256": "9b44b6f8db7efa9cfbf4e270051827d4c7b923344c66a14e5a5a177dee62d580"
+    },
+    {
+      "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/opening.txt",
+      "quote": "오우무아무아, 태양계 밖에서 온 이 물체를 발견하고도 망원경으로는 작은 빛점밖에 볼 수 없었습니다.",
+      "sha256": "823a0a9f7511319d4932b40762c57805433f65fda214213d2a4cdae5fa9abd60"
+    },
+    {
+      "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/closing.txt",
+      "quote": "그 점에서 얻은 자료만으로는 실제 모양과 성분을 하나로 좁힐 수 없었기 때문입니다.",
+      "sha256": "fb72b424d55218d348354aa02693c5a4981e021a8fb9f73e95505a7e421902b8"
+    }
+  ],
+  "dependencies": {
+    "research.md": "63c7a4ecf1cc553685b5239aa98e057c5bffd359b95829e1dee8b99528a6094d",
+    "review_research.json": "1dc8b8d96d643c65a7c97b340361807f7db1d5b8d028fb8db9b81f1d6f0ac348",
+    "plan.md": "0f84e52a0959f69f3bfd96cf1decb8f3f09aaf3e86bb60b40f300dadfe4fe4a8",
+    "review_plan.json": "f4846db9c4728dfa5286e3ab88c30a7e2d465cbd7c15c0032aa5771efcebfe20",
+    "package.md": "f17d6a99839073e16b7ae8469f902001308d90646380001d14041e428eca5b4c",
+    "review_package.json": "184c955678e7c86c67bb7301bb82d0b29480cbda78bb8d7f6b09fb36e511608a",
+    "opening.txt": "823a0a9f7511319d4932b40762c57805433f65fda214213d2a4cdae5fa9abd60",
+    "review_opening.json": "5477025293b557122f4295b507d2f5c03ae54367293eaefc6973367bc58aec12",
+    "part_01.txt": "39d0c554de7e4f2ee800cccb4c8b76eeb052e22376cf09931311267fe3a51014",
+    "review_part_01.json": "c94c37381f2979354142213a7c127949b6b48deb182b493790daa66b0bb0ce62",
+    "part_02.txt": "0042175b3cc985fba5122959fe566f428dfa84f7b5b2acb094c4c56c8b6f9480",
+    "review_part_02.json": "95f19147b34084aa0736d01ea29b1cd010d1866ac369b4e685eec82f8ef1c335",
+    "part_03.txt": "706663ea956fffa88e12c944bc567cc0f816e66583715a7f0bdb3305fbd4f9a7",
+    "review_part_03.json": "3a54704777943c09ad191bfdf53cceaa18ca5193f9951b4fcb599ac553a8d097",
+    "closing.txt": "fb72b424d55218d348354aa02693c5a4981e021a8fb9f73e95505a7e421902b8",
+    "review_closing.json": "d84a974f05457d4be4b0db0fd1eb5fcbc86446ecf1bc49861852fc127a90b0da"
+  },
+  "read_sha256": "a01fbdfee3cdc1930cc9291b6b0c021650ac0e4ebf5a8f748b148ee6d2d86bca"
+}

@@ -1,0 +1,15 @@
+제목: 랩터 엔진은 불꽃 뒤를 바꿉니다 | 더 크게 태우는 것만으로는 안 되는 이유
+썸네일:
+스타십의 거대한 불꽃
+그 뒤에 숨은 흐름 🔥
+소재: https://www.youtube.com/watch?v=nP9OaYUjvdE
+핵심: 흐름·펌프·단계연소·냉각·노즐·출력조절·시험/재사용. 엔진제작절차/설계수치 제공아님.
+2026-10-03 KST 공식확인:
+https://new.spacex.com/vehicles/starship
+https://www.spacex.com/updates/reusability
+https://www.nasa.gov/news-release/new-rocket-engine-combustion-cycle-technology-testing-reaches-100-power-level/
+https://www.nasa.gov/rocket-engine-test-facility-conducting-a-test/
+https://ntrs.nasa.gov/citations/20120014546
+https://www.nasa.gov/blogs/missions/2023/09/14/spacex-completes-engine-tests-for-nasas-artemis-iii-moon-lander/
+Raptor full-flow 관련 SpaceX 공식2015 의회제출 설명 보강: https://www.govinfo.gov/content/pkg/CHRG-114hhrg95320/pdf/CHRG-114hhrg95320.pdf 검색구절 확인만,전문열람주장없음.
+단계연소·메탄산소·재점화는기업공개. NASA일반냉각연구≠Raptor내부통로확정. fullflow발명최초/무조건세계최고/재사용무검사/누적초=단일엔진수명 단정없음. 최신형출력/개수변경 숫자생략. 엔진사진미확보. 독립검수전초안/원본번역아님. 시간진행목록실측.

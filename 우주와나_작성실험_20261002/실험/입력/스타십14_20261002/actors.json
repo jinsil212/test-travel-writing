@@ -1,0 +1,11 @@
+{
+  "coordinator": "/root",
+  "research": "/root/research",
+  "plan": "/root/plan",
+  "package": "/root/package",
+  "opening": "/root/opening",
+  "body": "/root/body",
+  "review": "/root/flow_review",
+  "fact_review": "/root/fact_review",
+  "flow_review": "/root/flow_review"
+}

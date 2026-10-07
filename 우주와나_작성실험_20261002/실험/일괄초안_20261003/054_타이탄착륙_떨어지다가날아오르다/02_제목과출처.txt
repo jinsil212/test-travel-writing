@@ -1,0 +1,17 @@
+제목: NASA 탐사선은 타이탄에 닿기 전에 날아야 합니다｜낙하에서 비행으로 바뀌는 순간
+썸네일 1줄: 착륙하기 전에
+썸네일 2줄: 먼저 날아야 한다
+원순위54 / How NASA Will Land On Titan!
+소재: https://www.youtube.com/watch?v=qqndbveA3Tw
+확인2026-10-03 KST. 2028여름발사/2034말도착은 최신공식 목표, 현재착륙성과아님.
+1 NASA spacecraft/instruments: 조밀한대기·낮은중력의이점, 캡슐/열차폐→작은낙하산→주낙하산→분리→라이다안내자체비행, MMRTG/배터리, 표본과과학장비.
+https://science.nasa.gov/mission/dragonfly/spacecraft-and-instruments/
+2 NASA2026-09-02: 전기하네스 실제설치, 단열/내부온도설계, 일정최신확인, 사구/셀크충돌지형액체물가능성. 확정생명체아님.
+https://science.nasa.gov/blogs/dragonfly/2026/09/02/nasas-dragonfly-gets-wired-up-while-titan-landing-area-is-named/
+3 NASA2026-04-23: 2026Feb11실물규모2낙하산시험, 본체검증, DraMS레이저/가열분리표본분석검증. 후속예정시험을완료로쓰지않음.
+https://science.nasa.gov/blogs/dragonfly/2026/04/23/nasas-dragonfly-rotorcraft-gets-decked-out-tested/
+4 APL2023-10-23: 4쌍동축로터, 풍동기체밀도조절/지구시험차이모델검증, 낙하→동력비행전환과전진비행시험.
+https://www.jhuapl.edu/news/news-releases/231023-dragonfly-wind-tunnel
+5 APL2026-07-09: 발사/진입/착륙하중을견디는구조진동/밀봉시험 완료 확인.
+https://www.jhuapl.edu/news/news-releases/260709-dragonfly-clears-key-tests-as-assembly-comes-together
+MMRTG는 방사성붕괴열 전원이며 핵분열원자로추진아님. 실시간지구조종아닌센서/제어 필요는 먼거리 신호지연의 설명. 착륙애니메이션은 미래계획 시각화로표시. 원영상 전체번역아닌독립한국판 초안. 독립검수전,3분은집필목표/음성실측아님.

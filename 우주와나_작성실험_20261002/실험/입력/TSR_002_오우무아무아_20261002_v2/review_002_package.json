@@ -1,0 +1,149 @@
+{
+  "artifact_sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba",
+  "verdict": "FAIL",
+  "unresolved": [
+    {
+      "id": "PKG-003-PHOTO",
+      "priority": "필수",
+      "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+      "quote": "선명한 사진보다 결정적이었던 이동 경로",
+      "location": "후보3 제목첫구절",
+      "criterion": "T7-1 사실/T15-1단독이해/승인06적용조건/C04",
+      "reason": "보다 비교문은 실제선명한사진을얻은것을전제로 읽힌다. 설명을가린제목만에서는 사진이없었다는조건을알수없고, 뒤의미확정이유가그전제를지우지못한다. 연구C04는점광원만얻었으며 실제형상사진은없었다. 현재후보3가상사진성과를기정사실화하는위험은필수사실문제.",
+      "direction": "같은승인06·성과강도를유지하여 ‘선명한 사진 없이도 알아낸 이동 경로 | 태양계 밖 물체를 발견하고도 정체는 못 밝힌 이유’로 최소수정. 관련설명/T7/T2제목역요약도새문구와정합갱신.",
+      "return_role": "package",
+      "status": "미해결"
+    }
+  ],
+  "selection": {
+    "source": "worker",
+    "reason": "AUTO후보1선정은작업자추천이며사용자합격아님.선정후보가유효해도세후보중필수문제남으면단계PASS불가."
+  },
+  "checks": {
+    "user_examples": {
+      "status": "PASS",
+      "reason": "독립검수자가사용자사례실제선택과작업해석구별·014원문/분석지전문·합격문전문및이미지픽셀열람후대조. 사례의정체보상/이유보상구별과관측상황대비기능사용. 과거과학수치·세모CG성운3줄형식복제없음;22개원본실측주장없음.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "이번 답은 이유이므로 목성식 이중 부정과 ‘이것이 진짜 정체’ 구조는 적용하지 않았다.",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "총 3줄 원형은 이번의 정확히 2줄 요구로 옮기지 않는다.",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        }
+      ]
+    },
+    "candidate_coverage": {
+      "status": "FAIL",
+      "reason": "3후보서로다른승인ID·제목2구절·정확2줄존재확인.08동일대상발견/미확정대비,04중력계산예상/실제작은차이,06별도성과재정의조건은자료에있으나3제목의선명사진비교전제오류가남아3전부유효조건미충족.PKG-003-PHOTO수정후재검수필요.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "1 승인 08, 2 승인 04, 3 승인 06.",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "선명한 사진보다 결정적이었던 이동 경로",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        }
+      ]
+    },
+    "same_promise": {
+      "status": "FAIL",
+      "reason": "1/2는같은이유질문·C03~C08관측성과/한계와정합;2예상은중력계산이며속도지속증가/외계항법아님.3의본문해설은뜻을제한하지만현재제목만은실제없는선명사진을비교자료로약속하므로C04공개범위와충돌.본문해설만으로제목전제면제불가.PKG-003-PHOTO.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "이번 한 편의 질문: 태양계 밖에서 온 물체를 발견했는데도, 왜 실제 모양과 성분은 확정하지 못했을까?",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "‘사진보다 결정적’은 밖에서 왔는지를 판별하는 근거의 역할을 비교한 말이며",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        }
+      ]
+    },
+    "standalone": {
+      "status": "FAIL",
+      "reason": "3썸네일각2줄대상/상황/궁금증자체는해설없이읽힘.1제목도처음방문자발견/정체미확정,2추적경로차이/정체미확정이읽힘.3제목은선명사진실제획득전제를막지못하며사진없이기원판별성과가단독으로드러나지않는다.확정해설을뒤에붙여초보의잘못된그림을수정하게만들면안됨.PKG-003-PHOTO.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "태양계 밖 물체를 찾았는데",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "태양계 밖 물체, 예상과 다른 길",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "태양계 밖 기원은 알아냈는데",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "선명한 사진보다 결정적이었던 이동 경로",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        }
+      ]
+    },
+    "image_prompts": {
+      "status": "PASS",
+      "reason": "9프롬프트전부직접읽음.1wide장비/관측자어깨너머/광학근접,2상부desk/side망원경/low노트,3전경돔/접안부근접/인물뒤로서로시점구도차이있음.사진질감자연조명및illustration/cartoon/fantasyCG금지각명시.글자화살표후편집·2작은차이확대표기/직각선회금지·목표상상형상배제·실제S8사진과개념도분리.실제이미지생성/축소검증완료주장없음.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "1A: Photo-like wide shot",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "1B: Photo-like over-the-shoulder view",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "1C: Photo-like close-up",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "2A: Photo-like observatory control desk viewed from above",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "2B: Photo-like side view",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "2C: Photo-like close-up of a plain blank research notebook",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "3A: Photo-like full view",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "3B: Photo-like close view",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        },
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/package.md",
+          "quote": "3C: Photo-like rear view",
+          "sha256": "d84a8dc0c920f0d7eb6af4ddc4ef42e96339e13d7e657508190abde5f6f521ba"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "parts": 3,
+  "mode": "AUTO",
+  "max_minutes": null,
+  "actors": {
+    "coordinator": "/root",
+    "research": "/root/catalog_research",
+    "review": "/root/flow_review",
+    "flow_review": "/root/flow_review"
+  },
+  "rules": {
+    "_대본지침서.md": "5379888a06293f2ccf0900cee280e4762f3f12f80a48410aef51005950b11299",
+    "우주와나\\채널설정.md": "468bdf938c4785b4b2e9532cb28827d97aa3758104b760365bc66f711e4a8a4b",
+    "우주와나\\수정·선택 사례.md": "fb3803cfd405444a68b2333ad4edc070459dc77895b02c7749b3f421cb240254",
+    "우주와나\\분석지\\_원고쓰는법.md": "502baf4ae93b01cd232ca24f60deb6c848ef2f1f4c962e491f9cf390e3f9401d",
+    "우주와나\\분석지\\_검수기준서.md": "f118fe3644b0fd24fc798dd1c55c7ae35d4ef8535212ef3735c4ccc0c55b0fea",
+    "지침\\운영.md": "eef21c05277ebe550e9f61578d5250c49a0f2465289c61b8d3a5c731b61f3c73",
+    "지침\\에이전트\\00_총괄.md": "9b44b6f8db7efa9cfbf4e270051827d4c7b923344c66a14e5a5a177dee62d580",
+    "지침\\에이전트\\01_조사.md": "4614f9ef992b599ab8a2666bfc2889e6dde1a9aeb58c94edd5f0573ad0f0baed",
+    "지침\\에이전트\\02_기획.md": "cb7aff1ed10f44fe00e9ec6394cf661b313c70d5aa95d0c256dafeb7aaf7eb89",
+    "지침\\에이전트\\03_제목썸네일.md": "9a9e42483cda7593cda70dbcd1daf652ec509a491b66b85973a77b07eb71d34b",
+    "지침\\에이전트\\04_도입.md": "27a01da06c8f59334d971c62dfcbbd73eea8ccc3f27dac5bf513afa7d5e888a4",
+    "지침\\에이전트\\05_본문클로징.md": "7297c5ba9dff8d56fc3440429cce818e27a6380c4039ed7f39d31b5c490e3689",
+    "지침\\에이전트\\06_독립검수.md": "011e08fbe0d43346483ccc79952c4d365fa9ac638146217eb1077e9abb8f6b3c",
+    "지침\\에이전트\\07_사실검수.md": "5c4837b8bb4b3ff03cdfdca8e9970fa0b9aca343850763fd67a53d57be6088d7",
+    "지침\\에이전트\\08_흐름검수.md": "f9d6125fa66f1043732ff667c31901fc68e490abdc4a7d312d3c789b19509633",
+    "지침\\세부지침\\00_총괄_원문.md": "f8589e5593392a2ccf786f7b2139e53456a213c0775b0c6dbae3c51182e99682",
+    "지침\\세부지침\\01_조사_원문.md": "80656add5c77e08c7172e6d8d5657e84852143b511fc0ab03659e243354c2341",
+    "지침\\세부지침\\02_기획_원문.md": "b139e16a5413284db8486aac51b16a9a6514922da942601a69c6fe6e0c49a67d",
+    "지침\\세부지침\\03_제목썸네일_원문.md": "8df5ca9b429829f549266006521955b52417d39f7cb0daee1b34e9c0d5c5cd35",
+    "지침\\세부지침\\04_도입_원문.md": "f144ea0b5065e8e82c8b5f6221458acb78875ee69181449a127fb1bfb3ab136d",
+    "지침\\세부지침\\05_본문클로징_원문.md": "1ceec141bf2f2b3c3edcec4dd02d11c7ce565c7f3f5cc9520ac8f09fe1f20c34",
+    "지침\\세부지침\\07_사실검수_원문.md": "06867c7f560f37798c8d81979d545494e1cf10cc9b1fd5faa206ed5b30761419",
+    "지침\\세부지침\\08_흐름검수_원문.md": "9bed3f86bc631a838ddf422fcb5662cdc102cc156e391dff9e040d6b964e50d7",
+    "지침\\세부지침\\공통_원문.md": "243c829a2a1b39d9591731fe36db5ccccd6b0ff32ede159f8900607ddff0723b",
+    "지침\\세부지침\\배정규칙.json": "f1a14393aeb584d888e28421c2fa5943d701d57f2c6867f8c0c6eeb517adfe94",
+    "지침\\세부지침\\원문_배정표.json": "9e0eb0d5835a6fdaf8a3b69115b3bbda614ae3797947d0be4eacc358e648ed7a"
+  },
+  "request_sha256": "2e6375f88261473c76280eb7d61f0faf8c598495746be27c461f61690871532c"
+}

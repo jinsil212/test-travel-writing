@@ -1,0 +1,17 @@
+제목: 달에 집을 보내면 기지가 될까? NASA가 먼저 연결하려는 것들
+썸네일 1줄: 집 한 채만 보내면
+썸네일 2줄: 달 기지가 될까요?
+원소재: How NASA Plans To Build The First Moon Base!
+원영상: https://www.youtube.com/watch?v=ajP0AlYxhug
+기획: 최신 NASA 단계별 기능 확보를 중심으로 접근·실증→공유 연결 기반→장기 운영이 다른 과제임을 설명합니다. 31번 도시 운송·건설, 46번 일상 거주, 10번 전력 단독 문제와 구분합니다.
+공식 확인일: 2026-10-03 KST
+1. NASA Moon Base Phases (2026-08-24 갱신): 2029까지 1단계, 2029–2032 2단계, 2032이후 3단계는 계획. 착륙 분출 관측, 먼지 측정, 레이저 지도 작성, 표면 이동 구상. 예정 장비가 이미 착륙했다고 쓰지 않음.
+https://www.nasa.gov/moonbase-phases/
+2. NASA Moon Base Systems (2026-06-11): 통신·시간/위치·LunaNet 호환 기준, 초기 단독전력에서 공유전력으로 발전, 전선 배치·연결부·충전 실증, 초기 거주/확장 모듈·후기 핵분열전력·화물연결 기능. 모두 단계별 예상 계획으로 서술. 차량의 28일/30일 기관페이지 차이가 있어 정확 체류일·속도 숫자는 쓰지 않음.
+https://www.nasa.gov/moonbase-systems/
+3. NASA 2026-08-04 화물착륙선·실증 업데이트: 지구 열진공 등 검증, HALO 전력/항공전자 하드웨어를 표면 임무에 재활용, 여러 날 그림자 생존·공유전력 시험 계획. 달에서 완료한 실험이 아님.
+https://www.nasa.gov/missions/moon-base/nasa-provides-updates-on-moon-base-cargo-landers-tech-demonstrations/
+4. NASA 2026-08-11 LEMS: 개발·시험 완료, 임무 배정 전 Goddard 보관, 달진동/운석충돌 장기 지진계 관측 목표. 현재 달에 설치되었다고 쓰지 않음.
+https://science.nasa.gov/missions/artemis/nasa-completes-astronaut-deployed-science-instrument-for-lunar-surface/
+한계: 공식 계획의 연도는 달성 보장이 아님. 최신 특정 착륙선 발사일·예산·실제 조립 완료·입주 완료 숫자를 임의 확정하지 않음. 구상도는 실제 건설 사진과 구분하여 사용할 것. 본문 기능 간 연결 설명은 위 계획을 이해하기 위한 해설이며 특정 미발생 사고/성과를 생성하지 않음.
+전체 원영상 번역이 아닌 독립 한국판 초안. 독립 사실·흐름 검수 전. 3분은 작성 목표이며 음성 길이·시간 달성 보장 아님.

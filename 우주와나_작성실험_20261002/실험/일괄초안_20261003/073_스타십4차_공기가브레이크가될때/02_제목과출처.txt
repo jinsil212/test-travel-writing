@@ -1,0 +1,15 @@
+제목: 스타십 4차 시험, 돌아오는 로켓은 무엇을 견뎌야 했을까?
+썸네일:
+공기가 브레이크라면
+왜 열보호가 필요할까?
+원 소재: What Exactly Happened On SpaceX's FOURTH Starship Test Flight!
+원 영상: https://www.youtube.com/watch?v=HzjOzj_eueM
+한국판: 양단 제어착수 역사 성과를 출발점으로 대기의 감속·가열/열보호와 자세제어 연결 설명. 70번 탑포획 대신 대기의 상반된 역할. 전체 영상 번역 아님.
+확인일: 2026-10-03 KST
+NASA HLS 기술논문 2025, PDF4쪽 https://ntrs.nasa.gov/api/citations/20240012719/downloads/HLS%20Update%20Kent%20Chojnacki%20IEEE%20Aero%202025%20v2.pdf?attachment=true — 2024-06-06 4차 비행/슈퍼헤비 boostback/양단 controlledsea landings. 본문은 이 역사성과만 사용, 논문의 당시 Artemis일정과 번호는 지금계획으로 재현하지 않음.
+NASA OIG 2026-03 PDF11 https://oig.nasa.gov/wp-content/uploads/2026/03/final-report-ig-26-004-nasas-management-of-the-human-landing-system-contracts.pdf — 4차첫제어착수와 5차포획 구별.
+NASA Ames entry systems https://www.nasa.gov/ames/core-area-of-expertise-entry-systems/ — 재진입 기체압축의가열/재료시험. 정밀 최고온도를 스타십의 실측값으로 적용하지 않음.
+NASA SC12 https://nas.nasa.gov/SC12/demos/demo2.html — 공력가열예측/TPS선택/시험·모형 범위. 설명은 기초원리로 구성.
+SpaceX updates 공식 검색본 https://www.spacex.com/updates/reusability — 4차 return/reuse 목표, 최근 전반열보호실험. 개별4차손상이나타일실험값은 동적본문에 실제추적확인되지 않아 이번본문에서 제외.
+한계: 원래 구상했던 4차 손상정도/특정 flap고장원인/누가구해냈는지같은해석은기관일차자료로확정못해넣지않음. 공식 SpaceX 4차임무동적페이지 https://www.spacex.com/launches/mission/?missionId=starship-flight-4 는0줄로열려 NASA역사보고에범위한정. 말판/엔진의일반 역할은 원리설명이고 정밀알고리즘·엔진수순·당일내부온도창작없음. 전미션카탈로그/최신상태아님. 낙하와제어착수/회수와재사용/무인과유인준비구별.
+상태: 4000자 이상 초안, 독립검수 전. 원 지침 변경 없음. 3분은 집필 목표이며 음성 길이 아님. 공식 상세 자료 접근 지연 포함 실측 초과.

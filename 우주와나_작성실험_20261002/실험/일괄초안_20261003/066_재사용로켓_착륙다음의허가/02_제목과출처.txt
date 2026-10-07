@@ -1,0 +1,14 @@
+제목: 착륙한 로켓은 왜 바로 다시 날지 않을까?
+썸네일:
+살아 돌아온 로켓
+다음 출발은 별개
+원 소재: How Reusable Rockets Work
+원 영상: https://www.youtube.com/watch?v=rpdX6kOXprM
+한국판 핵심 질문: 착륙 성공 뒤 재비행을 결정하는 기록·실물 점검·시험·임무 준비의 관계. 원 영상 전체 번역 아님.
+출처 확인: 2026-10-03 KST
+1 NASA SVS, 2021-04-19 https://svs.gsfc.nasa.gov/13835/ — Crew-2 첫 재사용 유인선/부스터, Demo-2 캡슐 및 Crew-1 부스터 이력. 당시 준비 발표를 역사 사례로 사용.
+2 NASA, 2021-04-17 https://www.nasa.gov/blogs/commercialcrew/2021/04/17/spacex-completes-falcon-9-static-fire-test-ahead-of-nasas-spacex-crew-2-mission/ — 발사대에서 9개 엔진 7초 정지 연소. 본문은 짧은 시험으로만 표현, 당시 예고 발사일을 결과로 쓰지 않음.
+3 NASA, 2025-03-11 https://www.nasa.gov/blogs/commercialcrew/2025/03/11/nasas-spacex-crew-10-go-for-launch-following-review/ — 다른 Starlink 부스터 착륙 후 연료 누출/엔진 화재, Crew-10 정지연소 자료·엔진베이·누출 확인, 화재 원인 조사 중이지만 근거 충분 판단. 드래건 추진기 재사용 코팅 시험은 로켓 점검과 별개임. 역사 사례이며 현재 전 기체 상태를 주장하지 않음.
+4 SpaceX Falcon 9 https://www.spacex.com/vehicles/falcon-9/fairing — 2단 로켓/재비행. 공식 검색 본문 확인. 일반 원리와 점검 질문은 해설이며 사내 비공개 정비 작업표를 재현하지 않음.
+한계: 현재 최다 재사용 기록·정비 소요일·비용 절감률·모든 기체의 교체 주기를 단정하지 않음. 상태 점검 일반 해설과 실제 NASA 사례 구분. 엔진의 내부 열·압력 설명은 기초 원리.
+상태: 공백 제외 4000자 이상 속도 초안, 독립 사실/흐름 검수 전. 원 지침 변경 없음. 3분은 집필 목표이며 음성 길이가 아님. 맥락 압축 시간이 실제 측정에 포함되어 3분 초과.

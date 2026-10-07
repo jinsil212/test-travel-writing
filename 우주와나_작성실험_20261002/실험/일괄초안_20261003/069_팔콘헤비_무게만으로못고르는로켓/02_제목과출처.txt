@@ -1,0 +1,16 @@
+제목: 팔콘 헤비가 필요한 이유, 짐의 무게만이 아닙니다
+썸네일:
+같은 무게의 탐사선
+출발은 왜 다를까?
+원 소재: The Real Reason SpaceX Developed The Falcon Heavy Rocket!
+원 영상: https://www.youtube.com/watch?v=-6fmZ_Dt56o
+한국판: 운반 질량+궤도 에너지/출발 조건, Psyche 회수와 Europa Clipper 소모 구성. CEO 내심을 추측하지 않으며 36번 Falcon9 사업선택/66번 정비와 구별. 전체 번역 아님.
+확인일: 2026-10-03 KST
+SpaceX https://new.spacex.com/vehicles/falcon-heavy — 3개 Falcon9 계열 코어·27멀린 공식 설명, 공식 검색 본문. 현존 최강/가격/정확 운반 톤수를 주장하지 않음.
+NASA Psyche 2023-10 기록 https://science.nasa.gov/blogs/psyche/2023/10/ — 실제 발사 및 양측 부스터 지상 회수. 가운데 코어 회수로 확대하지 않음.
+NASA Europa Clipper 2024-10-14 https://science.nasa.gov/blogs/europa-clipper/2024/10/14/nasa-launch-manager-gives-go-for-launch/ — 행성간 출발 에너지 때문에 fairing 제외 소모 구성.
+JPL Europa Clipper mission https://www.jpl.nasa.gov/press-kits/europa-clipper/mission/ — 경로/질량/소모 구성/태양 기준 중력도움 개념. 발사 전 자료의 예고 날짜는 결과로 쓰지 않음.
+NASA 현재 임무 타임라인 https://science.nasa.gov/mission/europa-clipper/mission-timeline/ — 2024-10-14발사, 2025-03-01화성실제통과, 2026-12지구통과 미래 예정. 본문은 지구 경로가 계획됨이라고만 표현, 미래 사건 성공으로 조작하지 않음.
+NASA 2025 실제 화성 통과 후 https://www.nasa.gov/missions/europa-clipper/nasas-europa-clipper-captures-mars-in-infrared/ — Mars 중력 활용 완료 확인.
+해설/미확정: 궤도·힘/속도·추진제·임무 조건은 기초 원리. 개별 발사의 비공개 연료 예산/경제성/개발자의 속마음 추정 없음. 먼 탐사 임무라는 이유만으로 전부 소모 구성이 필요하다고 일반화하지 않음.
+상태: 4000자 이상 순차 속도 초안, 독립검수 전. 원 지침 변경 없음. 3분은 작성 목표이며 음성 길이가 아님.

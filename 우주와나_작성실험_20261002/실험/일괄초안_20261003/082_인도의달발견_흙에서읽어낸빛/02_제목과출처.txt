@@ -1,0 +1,19 @@
+제목: 인도 탐사차는 달의 흙에서 어떻게 황을 찾았을까?
+썸네일 1줄: 회색 흙에 쏜 레이저
+썸네일 2줄: 빛에서 황을 읽었습니다
+원 소재: What India Found on The Moon
+원 URL: https://www.youtube.com/watch?v=BR2ZZXjpeqQ
+한국판 핵심: LIBS/ APXS의 다른 여기 방식·특징 신호/원소vs광물/지역현장측정vs달전체. 58편의 온도/우주개발 단계와 구분.
+
+1차 출처,2026-10-03 KST 확인:
+ISRO,LIBS confirms Sulphur,2023-08-28. 강레이저→국소플라스마→특징파장분석,현장황확인. 수소는당시연구중으로현재결과단정안함.
+https://www.isro.gov.in/LIBSResults.html
+ISRO,APXS on-board Ch-3 rover detects minor elements,2023-08-30. 알파입자/엑스선→시료특징엑스선·에너지및강도→원소/함량,황검출과LIBS확인비교.
+https://new1.isro.gov.in/ISRO_EN/APXS.html
+ISRO,Chandrayaan3Details:탐사차2장비와착륙주변원소조사목적.
+https://www.isro.gov.in/ISRO_EN/Chandrayaan3_Details.html
+ISRO,APXSresults2024-08-21:실제착륙2023-08-23/남위69.37도. 본문정확극점아님남고위도구분만사용,최근맨틀물질해석은범위에서제외.
+https://www.isro.gov.in/media_isro/pdf/APXS_CH3.pdf
+
+한계:2023발표는당시결과로서술. 황이달전체에서인류최초발견/순수황덩어리/광물확정/생명/채굴수익으로확대안함. 산소원소≠호흡기체. 정량관계/거리·각도/시료의형성해석은일반분석조건해설이며실제비공개보정값이나확정기원을제시하지않음. 두장비동일측정점/동일값이라고단정안함. 분광사진은실제달표면색사진아님.
+독립검수 전순수낭독초안. 원영상전체번역아님.3분은집필목표,음성시간아님.원지침변경없음.

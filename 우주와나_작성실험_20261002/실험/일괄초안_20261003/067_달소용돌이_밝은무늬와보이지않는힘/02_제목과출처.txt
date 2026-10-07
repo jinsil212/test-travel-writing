@@ -1,0 +1,14 @@
+제목: 달에 그려진 하얀 소용돌이, 왜 저곳만 밝을까?
+썸네일:
+달의 하얀 소용돌이
+빛 뒤에 숨은 자기장
+원 소재: Something Weird Keeps Happening on The Moon
+원 영상: https://www.youtube.com/watch?v=ozcLN6obs_0
+한국판 핵심: 라이너 감마 밝기-국소 자기장-태양풍 관계와 여러 측정의 설계. 원제의 불특정 사건을 단정하지 않고 확인된 현상으로 좁힘. 32번 달 수축/지진과 별개.
+확인일: 2026-10-03 KST. 원 영상 전체 번역 아님.
+NASA 2019 연구 소개 https://www.nasa.gov/solar-system/nasa-mission-reveals-origins-of-moons-sunburn/ — 전역 자기장 없는 달의 국소 자화암석, 태양풍 경로와 밝기 연결 설명, 사람 보호에 불충분. THEMIS-ARTEMIS와 유인 Artemis를 구분. 무늬 설명은 연구가 지지하는 설명으로 서술.
+NASA 2018 모형 소개 https://science.nasa.gov/solar-system/moon/lunar-swirl-features-reproduced-by-modeling-solar-wind-standoff/ — 자기장 이상/무늬의 비대칭 관계, 3D 계산과 위성 관측 비교, 다른 가설. 모형 재현을 유일 원인 확정으로 취급하지 않음.
+NASA Lunar Vertex 인터뷰 https://www.nasa.gov/podcasts/houston-we-have-a-podcast/lunar-vertex/ — 장비 구성·착륙선/탐사차 측정 차이·현미경·착륙분사 영향 밖으로 이동·자체 자기장 분리·태양각에 따른 반사 측정. 구상의 연구 목적을 소개하며 현재 착륙/성과/일정 주장 없음. 지도 겹치기는 설명용 비유.
+NASA LRO 이미지 https://science.nasa.gov/resource/lunar-swirl-reiner-gamma/ — 어두운 Oceanus Procellarum의 밝은 라이너 감마 실제 영상. 충돌 방사무늬와 다른 형태라는 배경과 반사광 설명은 일반 원리.
+한계: 국소 자기장의 생성 원인을 완전 확정하지 않음. Lunar Vertex 역사적 설계 소개에 최신 발사일/완료 상태를 붙이지 않음. 밝기 지도-자기장-입자 지도를 겹치는 부분은 연구 방법 해설이며 실측 지도 결과를 창작하지 않음.
+초안 상태: 공백 제외 4000자 이상, 독립검수 전. 원 지침 변경 없음. 3분은 집필 목표, 음성 길이 아님.

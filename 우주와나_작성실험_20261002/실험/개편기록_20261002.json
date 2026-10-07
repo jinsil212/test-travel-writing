@@ -4,8 +4,9 @@
     {
       "file": "도구/pipeline.py",
       "before": null,
-      "after": "f00485bf3b2acdc7aed38218a3cc3cc713962e75c4cf7e0a7568e8e52b98fbbb",
-      "backup": null
+      "after": "adcc062baa4fc5b0f5b5de722c65cd24100f8e3fdae84ac7c8d989c3d3d34793",
+      "backup": null,
+      "before_details_revision": "f00485bf3b2acdc7aed38218a3cc3cc713962e75c4cf7e0a7568e8e52b98fbbb"
     },
     {
       "file": "도구/hook.py",
@@ -16,75 +17,97 @@
     {
       "file": "도구/test_pipeline.py",
       "before": null,
-      "after": "8ae9a131e5ff56011b7621b97b02502b12a4c47ada95bab481c28d4aee9bd1e5",
-      "backup": null
+      "after": "4e681cdcdbe6755ade43ba492789196c3e7ebb36a436dc5652355696c2443d8a",
+      "backup": null,
+      "before_details_revision": "8ae9a131e5ff56011b7621b97b02502b12a4c47ada95bab481c28d4aee9bd1e5"
     },
     {
       "file": "도구/사용법.md",
       "before": null,
-      "after": "7bdf5380eef7168f0b4fcff27463a38a805fd6b76c48e6d803b26c31bae045f5",
-      "backup": null
+      "after": "3725ee3d049bef20506b00ec5f144e8adee5debc8730d6416f37cdffb5e12087",
+      "backup": null,
+      "before_details_revision": "7bdf5380eef7168f0b4fcff27463a38a805fd6b76c48e6d803b26c31bae045f5",
+      "before_overlap_audit": "e4be06248ccbe1c1bf556c47680dfda6226c2833bc06e97e41c4385427058998"
     },
     {
       "file": "지침/운영.md",
       "before": null,
-      "after": "88e36ef99ea0b9e9e6bc60f184dfbcd47b38b332d30d3b79c6c3a7ae4e86d858",
-      "backup": null
+      "after": "fba988aff41fb951a820a9f7c97a2a470b8f4f1bed7f4a5d0feef1166960d4c7",
+      "backup": null,
+      "before_details_revision": "88e36ef99ea0b9e9e6bc60f184dfbcd47b38b332d30d3b79c6c3a7ae4e86d858",
+      "before_overlap_audit": "75e29e5dac19d775e48fd3196aa4cd824b08571528a0c0c227aa9825ade9f853"
     },
     {
       "file": "지침/에이전트/00_총괄.md",
       "before": null,
-      "after": "460ffcdd6b2fdea045918f37105e838f6bee17b4fb3a6b37eecc3befe99802ef",
-      "backup": null
+      "after": "4bb94cb3c0a00db2ac85abb3b561edc65067aa3f108d4e2ad00627e50212b50f",
+      "backup": null,
+      "before_details_revision": "460ffcdd6b2fdea045918f37105e838f6bee17b4fb3a6b37eecc3befe99802ef",
+      "before_overlap_audit": "113c7f2501dc7b21a668fa5e92fcb810d57062903dba2043660d3814ba2fe9f8"
     },
     {
       "file": "지침/에이전트/01_조사.md",
       "before": null,
-      "after": "f2092e4e143f959bf790d3a056142588c52f777c185e656f3191963e88ad7883",
-      "backup": null
+      "after": "6aa2388050fcc7e38d7ebf66dba53a615f33c2fa83a4e594aba250459091b525",
+      "backup": null,
+      "before_details_revision": "f2092e4e143f959bf790d3a056142588c52f777c185e656f3191963e88ad7883",
+      "before_overlap_audit": "9851c7e3b0f5ff28324363cc3a09572cbe118a330380895363a6ff13dccd01ad"
     },
     {
       "file": "지침/에이전트/02_기획.md",
       "before": null,
-      "after": "f1bb06c08dbed51bcfc87bb11ca3044dcf0f834ace8998eefa60f0ad8d4ad231",
-      "backup": null
+      "after": "10929bfad28b13822bc1213cf6b3dc74a227fe0b9532f8532e55ad154fdc2095",
+      "backup": null,
+      "before_details_revision": "f1bb06c08dbed51bcfc87bb11ca3044dcf0f834ace8998eefa60f0ad8d4ad231",
+      "before_overlap_audit": "66a86f573a2ac30dd245c48b7ee354aee0e1e52d1909d71e607afdb4910298f9"
     },
     {
       "file": "지침/에이전트/03_제목썸네일.md",
       "before": null,
-      "after": "62dd0ce20c38ff86f4680b7d8895101e45b0d4b9ba8100d15dc6dba3edaa07e9",
-      "backup": null
+      "after": "e4ba58934a55bbb9a59b213ce4a9a9099694e6ea5f43efa46977895371afe49b",
+      "backup": null,
+      "before_details_revision": "62dd0ce20c38ff86f4680b7d8895101e45b0d4b9ba8100d15dc6dba3edaa07e9",
+      "before_overlap_audit": "d0abda3d2eacb649fe63c0888ec505c28225059cbf08083b519743fa37409a5b"
     },
     {
       "file": "지침/에이전트/04_도입.md",
       "before": null,
-      "after": "ba0b6065bd2f703ac1f39a55d5844d1414ff68cf1c48aa78aae75b070f438186",
-      "backup": null
+      "after": "dd6370b8030f095d9150750d542622c2033e9bb5a118080497471775e44ca8be",
+      "backup": null,
+      "before_details_revision": "ba0b6065bd2f703ac1f39a55d5844d1414ff68cf1c48aa78aae75b070f438186",
+      "before_overlap_audit": "ed61b72ab41ecfc2c927d7485a7662f57477ff734f8e95c734962dd6a1757e60"
     },
     {
       "file": "지침/에이전트/05_본문클로징.md",
       "before": null,
-      "after": "837361bdfc76455a450957ab2436f49aa5fc1af2237706e553b2cc3b20f587a7",
-      "backup": null
+      "after": "05e95da839e7c172254c6a3b6822d7cadbb3823c3ff7c8b40aacdfbfb01f3cb3",
+      "backup": null,
+      "before_details_revision": "837361bdfc76455a450957ab2436f49aa5fc1af2237706e553b2cc3b20f587a7",
+      "before_overlap_audit": "46b6420c4d968ca3430b58f23be42d024e7adbac7b6b88aca3df8c12de60c1fb"
     },
     {
       "file": "지침/에이전트/06_독립검수.md",
       "before": null,
-      "after": "e33f57d1a8115739ea87c03cdbfec067b9c1df4cb0dcd255b49f858a66eecc59",
-      "backup": null
+      "after": "011e08fbe0d43346483ccc79952c4d365fa9ac638146217eb1077e9abb8f6b3c",
+      "backup": null,
+      "before_details_revision": "e33f57d1a8115739ea87c03cdbfec067b9c1df4cb0dcd255b49f858a66eecc59",
+      "before_overlap_audit": "382766891b19164d16665b648d54a9b7fe4ce7c01326af14a5b13e7528320326"
     },
     {
       "file": "AGENTS.md",
       "before": null,
-      "after": "9f8d074978149180be145c75897261c0131455c0321583f7caadcbf2b0717046",
+      "after": "3acc007e1608cc1c37532e39ad46e6cf1eeb9f1ffbe269eedb14bdb8ce3256f2",
       "backup": null,
-      "before_agents_registration": "a2c780e8c72600b1f3a2bf4d2e6aaf38fb9d7c1ea28fcb81660d68c7eb60fa65"
+      "before_agents_registration": "a2c780e8c72600b1f3a2bf4d2e6aaf38fb9d7c1ea28fcb81660d68c7eb60fa65",
+      "before_details_revision": "9f8d074978149180be145c75897261c0131455c0321583f7caadcbf2b0717046",
+      "before_overlap_audit": "0e8721d7b582021367a3c4c4e56d4ad29c664d7f288ba8a8ea2d2c068d9a4644"
     },
     {
       "file": "CLAUDE.md",
       "before": null,
-      "after": "c8e7dec33ec41ce6b9954b88764460afef17981ee02a092935399bcd1c1f6956",
-      "backup": null
+      "after": "fa97078a3c6fb637f06fc4f696af99d5a8460aec711e793ff01cbbdb0119d9c4",
+      "backup": null,
+      "before_overlap_audit": "c8e7dec33ec41ce6b9954b88764460afef17981ee02a092935399bcd1c1f6956"
     },
     {
       "file": "도구/runtime.json",
@@ -144,8 +167,9 @@
     {
       "file": "README_실험.md",
       "before": "b5d86e13df8821bfb3dd28a3cd7201359af1bce55ace5c86e6b36a045a1cf505",
-      "after": "e0102d4b3e2acb7fb2e5c1cb787d81b693e3223205dbf941e52d01ba0abcacab",
-      "backup": "실험\\개편전_20261002\\README_실험.md"
+      "after": "3865f095b2edb35ccbc26566660c1c0be3c94941cb1952da72d3d61ccd5860f1",
+      "backup": "실험\\개편전_20261002\\README_실험.md",
+      "before_overlap_audit": "e0102d4b3e2acb7fb2e5c1cb787d81b693e3223205dbf941e52d01ba0abcacab"
     },
     {
       "file": "우주와나/진행상태_실험.md",
@@ -156,8 +180,9 @@
     {
       "file": "지침/양식/담당_예시.json",
       "before": null,
-      "after": "792571bc3e932cc0e9cdf3b2d9b2766c66c184ba6ff0410cb317bc30db32d049",
-      "backup": null
+      "after": "c738935874217635b9f423ca4d7462b48629c0fa27b526ede2d957d4a75fe70d",
+      "backup": null,
+      "before_overlap_audit": "792571bc3e932cc0e9cdf3b2d9b2766c66c184ba6ff0410cb317bc30db32d049"
     },
     {
       "file": "지침/양식/열람_예시.json",
@@ -178,45 +203,188 @@
       "backup": null
     },
     {
-      "file": ".codex\\agents\\space_research.toml",
+      "file": ".codex/agents/space_research.toml",
       "before": null,
-      "after": "6205005a4036afefb73f21171960488f2794f6c07fb86cd1f9781d9200a51706",
+      "after": "0ceffc64fbed2a90a58b2a013c392e5f4d4eb75919d8c63b28d2eb122fb30168",
+      "backup": null,
+      "before_details_revision": "6205005a4036afefb73f21171960488f2794f6c07fb86cd1f9781d9200a51706",
+      "before_overlap_audit": "8efd4f83902320c715386aff4b17334484cbd9cbcc883c5a478cf449865e0490"
+    },
+    {
+      "file": ".codex/agents/space_plan.toml",
+      "before": null,
+      "after": "9406d9c422b679a558fb33d5a92d5943379311729772b8bf9660b5fc2a20ff77",
+      "backup": null,
+      "before_details_revision": "cad3038d4e658bf08ac5a2b2045f9fa364e294407cd4e52010ac8d5dffae75fe",
+      "before_overlap_audit": "756f15534cd8cf599a61cfc1ed0bfd6fff1937bb716a89719a36b9d94fd984c7"
+    },
+    {
+      "file": ".codex/agents/space_package.toml",
+      "before": null,
+      "after": "2e1d05f34b5b12de24a97be3beced1ba7ef6e821acd4d121ba11380b735aad4c",
+      "backup": null,
+      "before_details_revision": "fa0cf86384c26a2fe5c3f0bf286a6c6351d887a2bcf3c640e0f78875862f1bed",
+      "before_overlap_audit": "356e96585e15d0d6eddcf23d863868b62890f45f646b5e5b9b5976f73cfeff91"
+    },
+    {
+      "file": ".codex/agents/space_opening.toml",
+      "before": null,
+      "after": "200adad1bea7e63e0d9603029f2a5c6c13da01eacfedf6d011ea2001a0a077cb",
+      "backup": null,
+      "before_details_revision": "029e5550e6eeae9a9964d4b7c74379c936045bee9d774b9a6c1b28dabdef0854",
+      "before_overlap_audit": "cf470a11e7f3db1c233a74979edf5a84b76b046baba69bb0db0bb0d10092abe6"
+    },
+    {
+      "file": ".codex/agents/space_body.toml",
+      "before": null,
+      "after": "705b611327bcfea6ebf24ae54c31e72a3f5f1b71a4c5745d932d760e4a7d79a4",
+      "backup": null,
+      "before_details_revision": "355d1982122f1e726f8a968fa0683660b3d6a21b4fbf5b8af6f0f84d917c3406",
+      "before_overlap_audit": "7f5e860928f379dd4f3248bce8a161bfbb202de44f1a3fcec54deed6af32b149"
+    },
+    {
+      "file": ".codex/agents/space_fact_review.toml",
+      "before": null,
+      "after": "d21874e0e04ab060166d8a424fd5ca0e43ac1808ff8c763b6b4efc67f71678b0",
+      "backup": null,
+      "before_details_revision": "ee80fd9c29dd1f3a7941b662e0985a48e3f1cbb72a95fba43e0dc229ca5a358c",
+      "before_overlap_audit": "9daea57dfbf48667db98aa17b6c4d44fb22f360d5d0a6c6ada01289a435aa255"
+    },
+    {
+      "file": ".codex/agents/space_flow_review.toml",
+      "before": null,
+      "after": "cd151c47800d61f816f948e803778788ed2e36abbc3424af5bf251a9762d2d95",
+      "backup": null,
+      "before_details_revision": "cc293b6bd1d38022d951c0dedc344bca297f7664ad4339518515c4b8b614a127",
+      "before_overlap_audit": "678d18a73cd52b775f9e52cf0fb56ace6e1a92a928b0da12e28657a91141c0a5"
+    },
+    {
+      "file": "도구/지침_분리.py",
+      "before": null,
+      "after": "72bdc9ce4cf60f4d5d4f46f6de8340414471741d09743fa03739f86df4f54b3e",
+      "backup": null,
+      "before_overlap_audit": "2ce6adaa029b13acb09f3e6dbaf090d9d69a1636eb183604bd18259265a94af0"
+    },
+    {
+      "file": "지침/세부지침/00_총괄_원문.md",
+      "before": null,
+      "after": "1374dcf32585407c67f509b7ed63ad23f26fd028f0285367967a7c65401685b5",
+      "backup": null,
+      "before_overlap_audit": "9a842433aaa85c51e7e988b6bc49e94607a3b96539ac63b52e1c93e5db4941bb"
+    },
+    {
+      "file": "지침/세부지침/01_조사_원문.md",
+      "before": null,
+      "after": "9aa5ad6a48a504c8423d35da51cd1ad86258af755b286e96ef91d5619e52e23c",
+      "backup": null,
+      "before_overlap_audit": "9f036339b9505b73788ec96179a8ea90e9832f598aa919430988197eeff48107"
+    },
+    {
+      "file": "지침/세부지침/02_기획_원문.md",
+      "before": null,
+      "after": "e050242d4753ff99a2256b25878e463da64de0ba6c49229b123b1cbf242e29e4",
+      "backup": null,
+      "before_overlap_audit": "886e9bbe70a01291c868b33dcd85c1669fbb292b6804a387b6fde5234407b541"
+    },
+    {
+      "file": "지침/세부지침/03_제목썸네일_원문.md",
+      "before": null,
+      "after": "23f9783f4a0cbc88e6a972aa223c69ae972c38e48511efad731ed7be1a6d3ab8",
+      "backup": null,
+      "before_overlap_audit": "21ea3ac04cf5ac0bb512c0d530890886f21f4a7af75e48164d6c703feb2fab18"
+    },
+    {
+      "file": "지침/세부지침/04_도입_원문.md",
+      "before": null,
+      "after": "74650d30437288fb5f58c6efc7b5b6654ab2d4f344d428718a891107801b111a",
+      "backup": null,
+      "before_overlap_audit": "2f01e0b786b04c37af6655c2a7414ef45a2db544e4c38db43d111c250bb427f9"
+    },
+    {
+      "file": "지침/세부지침/05_본문클로징_원문.md",
+      "before": null,
+      "after": "39332b50999da8cbe4d9ff40d20cad2d86f395d9c206cd0d48845925ac015a08",
+      "backup": null,
+      "before_overlap_audit": "70ec859d41e48757b4a5cfe7865a6858dfbf6acf75cefa28649e103fed28a797"
+    },
+    {
+      "file": "지침/세부지침/07_사실검수_원문.md",
+      "before": null,
+      "after": "2f1f3e1ccfe2935bfb0c50b65b8b8a40a33703ed5019fea10e1e95a0419fec86",
+      "backup": null,
+      "before_overlap_audit": "1b56ff0b690084b7a9ccb0c4e31f119dcc0119461428c985775d46a9d532fe32"
+    },
+    {
+      "file": "지침/세부지침/08_흐름검수_원문.md",
+      "before": null,
+      "after": "401f26130922aa21bd80f08e2039b81f3e676f3b9454a2406731e0fddda3ca27",
+      "backup": null,
+      "before_overlap_audit": "06b8ae23cfd518823935ccc6ac9ccd7671bbde6940d8c61e360a6bed10b68488"
+    },
+    {
+      "file": "지침/세부지침/공통_원문.md",
+      "before": null,
+      "after": "72fd9415e96e62ae639565a4710bad80a2da723bb65966d9b14954eeb8eb9647",
+      "backup": null,
+      "before_overlap_audit": "8b7ea3db4c6e8fb70558b92ecca6972c2d1e9289930ba52411ec359b3725543b"
+    },
+    {
+      "file": "지침/세부지침/배정규칙.json",
+      "before": null,
+      "after": "1a4f370a519e727e8b0173ce7c854b437d177177b1949b688aa624dfc3d855c6",
       "backup": null
     },
     {
-      "file": ".codex\\agents\\space_plan.toml",
+      "file": "지침/세부지침/분리_안내.md",
       "before": null,
-      "after": "cad3038d4e658bf08ac5a2b2045f9fa364e294407cd4e52010ac8d5dffae75fe",
+      "after": "4bb48191822f6da8ea778fdcfb5244d0ff38dd49e3e5728001a2e0f3913c620c",
+      "backup": null,
+      "before_overlap_audit": "6d5a43f880e12b394d43bee112d9fc28144edcc0b53df4ce80564d586f7ef522"
+    },
+    {
+      "file": "지침/세부지침/원문_배정표.json",
+      "before": null,
+      "after": "5eb8bcd971e46eb2861f052139ce5e182c6750a57e254ab3cb5cd79a6825c085",
+      "backup": null,
+      "before_overlap_audit": "628540732708ccbec7df3fdcfe8ff7a66f63c78e1317b1a0de4618cf75b1a06a"
+    },
+    {
+      "file": "지침/양식/최종흐름검수_예시.json",
+      "before": null,
+      "after": "8a6a0e41b86abd8d37b0e65940afc672754d7c8ab55732ee887f20c15390654d",
       "backup": null
     },
     {
-      "file": ".codex\\agents\\space_package.toml",
+      "file": "지침/에이전트/07_사실검수.md",
       "before": null,
-      "after": "fa0cf86384c26a2fe5c3f0bf286a6c6351d887a2bcf3c640e0f78875862f1bed",
-      "backup": null
+      "after": "5c4837b8bb4b3ff03cdfdca8e9970fa0b9aca343850763fd67a53d57be6088d7",
+      "backup": null,
+      "before_overlap_audit": "2a9e247001f15e8a311fcfe76cea11593301e42cfd30d70e5255c37886acb782"
     },
     {
-      "file": ".codex\\agents\\space_opening.toml",
+      "file": "지침/에이전트/08_흐름검수.md",
       "before": null,
-      "after": "029e5550e6eeae9a9964d4b7c74379c936045bee9d774b9a6c1b28dabdef0854",
-      "backup": null
+      "after": "f9d6125fa66f1043732ff667c31901fc68e490abdc4a7d312d3c789b19509633",
+      "backup": null,
+      "before_overlap_audit": "4110e0551e1c171929d7d75861cb9aebcd6c9c0b030b97da30d2f8849ab6e222"
     },
     {
-      "file": ".codex\\agents\\space_body.toml",
-      "before": null,
-      "after": "355d1982122f1e726f8a968fa0683660b3d6a21b4fbf5b8af6f0f84d917c3406",
-      "backup": null
+      "file": "지침/에이전트_배정.md",
+      "before": "aeb86e1ca91180e53a65a7b93fe8f98a752f4e56927982d78838fcac68f69c3d",
+      "after": "78ce25f3d36f2b7ad100736cc435b8bbacb971c15185514a9cdaf2bb887ff414",
+      "backup": "실험/세부지침_분리전_20261002_131919/지침/에이전트_배정.md",
+      "before_overlap_audit": "bc63344b4b3952f67438d74916bb811723833fc175104211abdbc6723ecffcda"
     },
     {
-      "file": ".codex\\agents\\space_fact_review.toml",
-      "before": null,
-      "after": "ee80fd9c29dd1f3a7941b662e0985a48e3f1cbb72a95fba43e0dc229ca5a358c",
-      "backup": null
+      "file": "실험/지침분리_확인.md",
+      "before": "513d22b31cd4bf1454d2465e202289150c7c880f1838ceb4831117879614243e",
+      "after": "e79748e0b4bff54d8d01c4b48dacb497d15bca9d1b412854a17f88011f65197e",
+      "backup": "실험/중복정리전_20261002_135223/실험/지침분리_확인.md"
     },
     {
-      "file": ".codex\\agents\\space_flow_review.toml",
+      "file": "실험/중복점검_20261002.md",
       "before": null,
-      "after": "cc293b6bd1d38022d951c0dedc344bca297f7664ad4339518515c4b8b614a127",
+      "after": "2122931db5aa6bf2a6f46f5443ba86d25e0fc8b005c4152b7501f60778d9a9d2",
       "backup": null
     }
   ],
@@ -261,5 +429,24 @@
     "definitions": 7,
     "live_readiness_sessions": 7,
     "manuscript": "not_started"
+  },
+  "details_revision": {
+    "date": "2026-10-02",
+    "targets": 36,
+    "source_blocks": 363,
+    "assigned_blocks": 360,
+    "excluded_other_channel_blocks": 3,
+    "backup": "실험/세부지침_분리전_20261002_131919",
+    "unit_tests": 25,
+    "manuscript": "not_started"
+  },
+  "overlap_audit": {
+    "date": "2026-10-02",
+    "backup": "실험/중복정리전_20261002_135223",
+    "changed_active_files": 35,
+    "source_files_preserved": 5,
+    "assigned_blocks_preserved": 360,
+    "common_own_overlap": 0,
+    "guide_storage": "path_reference"
   }
 }

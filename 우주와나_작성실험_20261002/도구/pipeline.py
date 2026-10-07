@@ -11,8 +11,15 @@ ROOT = Path(__file__).resolve().parents[1]
 BASE = ROOT / '실험' / '에피소드'
 GUIDES = ROOT / '지침' / '에이전트'
 ROLES = {'research': '01_조사.md', 'plan': '02_기획.md', 'package': '03_제목썸네일.md',
-         'opening': '04_도입.md', 'body': '05_본문클로징.md', 'review': '06_독립검수.md',
-         'fact_review': '06_독립검수.md', 'flow_review': '06_독립검수.md', 'coordinator': '00_총괄.md'}
+         'opening': '04_도입.md', 'body': '05_본문클로징.md', 'review': '08_흐름검수.md',
+         'fact_review': '07_사실검수.md', 'flow_review': '08_흐름검수.md', 'coordinator': '00_총괄.md'}
+DETAILS = {'coordinator': '지침/세부지침/00_총괄_원문.md', 'research': '지침/세부지침/01_조사_원문.md', 'plan': '지침/세부지침/02_기획_원문.md', 'package': '지침/세부지침/03_제목썸네일_원문.md', 'opening': '지침/세부지침/04_도입_원문.md', 'body': '지침/세부지침/05_본문클로징_원문.md', 'fact_review': '지침/세부지침/07_사실검수_원문.md', 'flow_review': '지침/세부지침/08_흐름검수_원문.md'}
+DETAILS['review'] = DETAILS['flow_review']
+COMMON_DETAIL = '지침/세부지침/공통_원문.md'
+DETAIL_INDEX = '지침/세부지침/원문_배정표.json'
+DETAIL_ROUTING = '지침/세부지침/배정규칙.json'
+SOURCE_FILES = ['_대본지침서.md', '우주와나/채널설정.md', '우주와나/수정·선택 사례.md', '우주와나/분석지/_원고쓰는법.md', '우주와나/분석지/_검수기준서.md']
+
 VALIDATED = set()
 CHECKS = {
  'research': ['sources', 'uncertainty', 'briefing'],
@@ -24,6 +31,8 @@ CHECKS = {
  'final_fact': ['claims_sources', 'numbers_conditions', 'future_hypothesis', 'image_sources'],
  'final_flow': ['promise_chain', 'beginner', 'no_tangents_repetition', 'natural_language', 'latest_requests', 'length'],
 }
+
+CHECKS['final_flow'] += [f'criterion_{i:02d}' for i in range(1, 26)]
 
 class GateError(ValueError): pass
 
@@ -49,12 +58,38 @@ def episode(name):
     require(bool(re.fullmatch(r'[\w가-힣-]{1,80}', name)), '편 이름은 문자·숫자·밑줄·하이픈만')
     return inside(BASE, name)
 
+def required_readings(role, stage=None):
+    paths = [f'지침/에이전트/{ROLES[role]}', '지침/운영.md', *SOURCE_FILES,
+             COMMON_DETAIL, DETAILS[role]]
+    if role in ('review', 'fact_review', 'flow_review'):
+        paths.append('지침/에이전트/06_독립검수.md')
+    if role == 'review' and stage and stage != 'final':
+        writing_role = writer(stage)
+        paths += [DETAILS[writing_role], '지침/에이전트/' + ROLES[writing_role]]
+    return list(dict.fromkeys(paths))
+
+def validate_detail_sources():
+    index_path = ROOT / DETAIL_INDEX
+    require(index_path.is_file(), '역할별 세부 지침 배정표 누락')
+    detail = load(index_path)
+    require(set(detail['source_sha256']) == set(SOURCE_FILES), '원문 기준 배정 누락')
+    for relative, expected in detail['source_sha256'].items():
+        require(sha(inside(ROOT, relative)) == expected, '지침 변경: 역할별 원문 묶음 갱신 필요: ' + relative)
+    require(detail['routing_sha256'] == sha(ROOT / DETAIL_ROUTING), '지침 변경: 배정 규칙 갱신 필요')
+    expected_packets = set(DETAILS.values()) | {COMMON_DETAIL}
+    require(set(detail['packets']) == expected_packets, '담당 세부 원문 묶음 누락')
+    for relative, expected in detail['packets'].items():
+        path = inside(ROOT, relative)
+        require(path.is_file() and sha(path) == expected, '지침 변경: 세부 원문 묶음 불일치: ' + relative)
+
 def rule_snapshot():
+    validate_detail_sources()
     files = [ROOT / '_대본지침서.md', ROOT / '우주와나' / '채널설정.md',
              ROOT / '우주와나' / '수정·선택 사례.md',
              ROOT / '우주와나' / '분석지' / '_원고쓰는법.md',
              ROOT / '우주와나' / '분석지' / '_검수기준서.md', ROOT / '지침' / '운영.md']
-    files += [GUIDES / name for name in sorted(set(ROLES.values()))]
+    files += [GUIDES / name for name in sorted(set(ROLES.values()) | {'06_독립검수.md'})]
+    files += [ROOT / name for name in sorted(set(DETAILS.values()) | {COMMON_DETAIL, DETAIL_INDEX, DETAIL_ROUTING})]
     require(all(p.is_file() for p in files) and len(files) >= 12, '역할 지침 또는 원문 기준 누락')
     return {str(p.relative_to(ROOT)): sha(p) for p in files}
 
@@ -69,9 +104,17 @@ def file_for(stage): return stage + ('.txt' if stage.startswith('part_') or stag
 def receipts(stage): return ['final_fact', 'final_flow'] if stage == 'final' else [stage]
 def criteria(stage): return CHECKS['part' if stage.startswith('part_') else stage]
 
+def validate_roster(roster):
+    require('coordinator' in roster, '총괄 담당 누락')
+    require(all(isinstance(v, str) and v.strip() for v in roster.values()), '실제 에이전트 ID 누락')
+    require(not (roster.get('fact_review') and roster.get('flow_review')) or roster['fact_review'] != roster['flow_review'], '최종 사실·흐름 검수 담당은 서로 달라야 함')
+    for role in ('research', 'plan', 'package', 'opening', 'body', 'coordinator'):
+        require(role not in roster or roster[role] not in [roster[r] for r in ('review', 'fact_review', 'flow_review') if r in roster], '작성자 자기 검수 금지: 작성/총괄 담당과 독립 검수 담당 겹침')
+
 def state_for(ep):
     VALIDATED.clear()
     state = load(ep / 'state.json')
+    validate_roster(state['actors'])
     require(state['rules'] == rule_snapshot(), '지침 변경: 기존 통과 기록 재사용 금지. 새 실행 폴더에서 재검토')
     require(state['request_sha256'] == sha(ep / 'request.md'), '최신 요청 변경: 기존 통과 기록 재사용 금지. 새 실행으로 재검토')
     require(state['mode'] in ('ASK', 'AUTO'), '잘못된 진행 모드')
@@ -88,12 +131,12 @@ def deps(ep, state, stage):
 def actor(state, role, actor_id):
     require(role in ROLES and state['actors'].get(role) == actor_id, '등록된 담당 에이전트와 일치하지 않음')
 
-def reading(ep, state, role):
+def reading(ep, state, role, stage=None):
     path = ep / ('read_' + role + '.json')
     require(path.is_file(), f'{role}: 원문 열람 근거가 없음')
     record = load(path)
     actor(state, role, record['actor'])
-    required = [f'지침/에이전트/{ROLES[role]}', '지침/운영.md', '우주와나/채널설정.md', '우주와나/수정·선택 사례.md', '_대본지침서.md']
+    required = required_readings(role, stage)
     require(all(p in record['files'] for p in required), f'{role}: 필수 역할·공통 원문 열람 기록 누락')
     for relative, item in record['files'].items():
         path = inside(ROOT, relative)
@@ -106,7 +149,7 @@ def validate_receipt(ep, state, stage, key, item):
     role = 'fact_review' if key == 'final_fact' else 'flow_review' if key == 'final_flow' else 'review'
     actor(state, role, item.get('actor'))
     require(item['actor'] != state['actors'][writer(stage)], '작성자 자기 검수 통과 금지')
-    reading(ep, state, role)
+    reading(ep, state, role, stage)
     require(item.get('verdict') == 'PASS', '검수 미통과: ' + key)
     require(item.get('unresolved') == [], '미해결 필수 문제 존재')
     target = ep / file_for(stage)
@@ -135,12 +178,23 @@ def validate_receipt(ep, state, stage, key, item):
             path = inside(ROOT, ev.get('file', ''))
             require(path.is_file() and ev.get('quote', '').strip() and ev['quote'] in read(path), name + ': 근거 구절 불일치')
             require(ev.get('sha256') == sha(path), name + ': 근거 자료 변경')
+    if key == 'final_flow':
+        fact_path = ep / 'review_final_fact.json'
+        require(fact_path.is_file(), '독립 사실 판정 등록 후 최종 흐름 판정 등록')
+        fact = load(fact_path)
+        validate_receipt(ep, state, stage, 'final_fact', fact)
+        reference = item.get('fact_review_reference', {})
+        require(reference.get('actor') == fact['actor'] and
+                reference.get('artifact_sha256') == sha(target) and
+                reference.get('receipt_sha256') == sha(fact_path) and
+                {'claims_sources', 'numbers_conditions', 'future_hypothesis'}.issubset(reference.get('checks', [])),
+                '검사표17/20: 같은 최종 버전의 독립 사실 판정 참조 누락/변경')
     if stage in ('plan', 'package', 'opening'):
         selection = item.get('selection', {})
-        expected_source = 'user' if state['mode'] == 'ASK' else 'worker'
+        expected_source = 'user' if state['mode'] == 'ASK' and stage != 'package' else 'worker'
         require(selection.get('source') == expected_source, '선택 주체 불일치. ASK는 실제 사용자 선택 필요')
         require(selection.get('reason', '').strip(), '선택 근거 누락')
-        if state['mode'] == 'ASK':
+        if state['mode'] == 'ASK' and stage != 'package':
             path = ep / ('decision_' + stage + '.md')
             require(path.is_file() and selection.get('quote', '').strip() and selection['quote'] in read(path), '실제 사용자 발언 기록 없음')
             require(selection.get('decision_sha256') == sha(path), '사용자 선택 기록 변경')
@@ -168,22 +222,29 @@ def run(args):
     if args.action == 'init':
         require(not ep.exists(), '기존 실행을 덮어쓰지 않음. 새 편/실행 이름 사용')
         roster = load(inside(ROOT, args.actors))
-        require(set(ROLES).issubset(roster), '담당 역할 누락')
-        require(all(isinstance(v, str) and v.strip() for v in roster.values()), '실제 에이전트 ID 누락')
-        require(roster['fact_review'] != roster['flow_review'], '최종 사실·흐름 검수 담당은 서로 달라야 함')
-        for role in ('research', 'plan', 'package', 'opening', 'body', 'coordinator'):
-            require(roster[role] not in (roster['review'], roster['fact_review'], roster['flow_review']), '작성/총괄 담당과 독립 검수 담당 겹침')
+        validate_roster(roster)
         require(1 <= args.parts <= 15, '파트 수는 1~15')
         request = inside(ROOT, args.request)
         require(request.is_file() and read(request).strip(), '실제 요청 원문 없음')
+        rules = rule_snapshot()
         ep.mkdir(parents=True)
         (ep / 'request.md').write_text(read(request), encoding='utf-8')
         save(ep / 'state.json', {'version': 1, 'parts': args.parts, 'mode': args.mode,
-            'max_minutes': args.max_minutes, 'actors': roster, 'rules': rule_snapshot(),
+            'max_minutes': args.max_minutes, 'actors': roster, 'rules': rules,
             'request_sha256': sha(ep / 'request.md')})
         save(ROOT / '실험' / 'active_episode.json', {'episode': args.episode})
         return {'initialized': str(ep), 'mode': args.mode, 'note': 'ID/사용자 발언의 진위는 총괄이 확인하는 기록이며 암호학적 인증이 아님'}
     state = state_for(ep)
+    if args.action == 'roster':
+        actor(state, 'coordinator', args.actor)
+        addition = load(inside(ROOT, args.actors))
+        require(set(addition).issubset(ROLES), '알 수 없는 담당 역할')
+        for role, identity in addition.items():
+            require(role not in state['actors'] or state['actors'][role] == identity, '기존 담당 변경은 새 실행 필요')
+        state['actors'].update(addition)
+        validate_roster(state['actors'])
+        save(ep / 'state.json', state)
+        return {'registered_roles': sorted(addition)}
     if args.action == 'decision':
         require(state['mode'] == 'ASK' and args.stage in ('plan', 'package', 'opening'), 'ASK의 선택 단계만 기록')
         actor(state, 'coordinator', args.actor)
@@ -256,7 +317,7 @@ def run(args):
             for ev in check.get('evidence', []):
                 path = inside(ROOT, ev['file'])
                 require(ev.get('sha256') == sha(path), '검수자가 읽은 근거 자료 해시를 명시해야 함')
-        if state['mode'] == 'ASK' and args.stage in ('plan', 'package', 'opening'):
+        if state['mode'] == 'ASK' and args.stage in ('plan', 'opening'):
             require(payload.get('selection', {}).get('decision_sha256') == sha(ep / ('decision_' + args.stage + '.md')), '선택 기록 해시 필요')
         # FAIL 보고도 보관하지만 다음 단계는 PASS만 허용한다.
         if payload.get('verdict') == 'PASS': validate_receipt(ep, state, args.stage, key, payload)
@@ -277,7 +338,7 @@ def run(args):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('action', choices=['init', 'decision', 'read-record', 'check', 'prepare', 'write', 'review', 'assemble', 'status'])
+    parser.add_argument('action', choices=['init', 'decision', 'read-record', 'check', 'prepare', 'write', 'review', 'assemble', 'status', 'roster'])
     parser.add_argument('--episode', required=True)
     parser.add_argument('--stage')
     parser.add_argument('--role')

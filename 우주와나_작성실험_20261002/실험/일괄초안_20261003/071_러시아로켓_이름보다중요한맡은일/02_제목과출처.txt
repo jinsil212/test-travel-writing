@@ -1,0 +1,16 @@
+제목: 소유스와 프로톤은 왜 따로 필요했을까? 러시아 로켓을 읽는 방법
+썸네일:
+복잡한 로켓 이름
+맡은 일은 다릅니다
+원 소재: Every Single Soviet and Russian Rocket Explained
+원 영상: https://www.youtube.com/watch?v=MmO0Syp6jRk
+한국판: Soyuz/Proton/Rockot 대표 사례의 임무·상단·우주선 구별. 전체 명칭 카탈로그를 완성했다고 주장하지 않음. 87번 장수 발사체 개량과 구별. 전체 번역 아님.
+확인일: 2026-10-03 KST
+ESA 2017 Soyuz launch sequence https://blogs.esa.int/VITAmission/en/2017/07/28/soyuz-launch-sequence/ — 4부스터와 중앙부 분리 순서. 본문은 중력 영향이 사라진다는 원문의 부정확한 표현을 재현하지 않음.
+ESA VenusExpress https://www.esa.int/Science_Exploration/Space_Science/Venus_Express/The_launcher — Soyuz-Fregat, 두 점화 임시궤도/행성간 경로 실제 사례. 현재 누적 성공률/계약이 유지된다고 주장하지 않음.
+ESA Galileo https://www.esa.int/Applications/Satellite_navigation/Galileo/Galileo_s_launchers — Soyuz-ST/Fregat-MT 구성 역사 역할. 현재 유럽의 Soyuz 발사를 예고하지 않음.
+NASA ISS20th history https://www.nasa.gov/history/iss20th-high-flying-construction/ — 자랴 Proton 실제 발사. NASA/JPL rockets lesson https://www.jpl.nasa.gov/edu/resources/lesson-plan/rockets-by-size/ — Proton/소유스 임무 차이.
+ESA 2016 Proton/BreezeM https://blogs.esa.int/rocketscience/2016/03/13/why-exomars-ride-to-space-takes-the-time-it-does/ — 다중점화/긴 궤도 대기/추가 빈 탱크 분리 계획. 정밀 시간은 예고본문에 내부차이가 있어 쓰지 않음, 발사결과/ExoMars착륙성공을 창작하지 않음.
+ESA Rockot https://www.esa.int/Applications/Observing_the_Earth/FutureEO/SMOS/Launcher — SS19하단+BreezeKM, 과거 GOCE/Kompsat2 관측발사 확인, SMOS준비자료. 원문 소요 성공률/최신 운영 상태 생략.
+해설/제약: 기초 다단 원리/짐과 경로 역할. 전 소련/러시아 로켓 목록 대신 대표3계열을 범위로 정직하게 한정. 특정 최첨단·위협·개인 의도·현재 제재 관계를 추측하지 않음. Angara/N1은 이 원고에 억지 추가하지 않음.
+상태: 4000자 이상 초안, 독립검수 전. 원 지침 변경 없음. 3분은 작성 목표, 음성길이 아님.

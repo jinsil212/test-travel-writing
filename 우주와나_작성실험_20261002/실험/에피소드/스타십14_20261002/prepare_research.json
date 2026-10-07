@@ -1,0 +1,24 @@
+{
+  "purpose": "참고 영상의 실제 소재를 확인하고 기획에 쓸 핵심 사실·조건·미확인 범위를 원자료로 넘긴다. 기획 선정이나 대본 집필은 수행하지 않는다.",
+  "benchmark_choice": "이번 연구의 내용 원본=The Space Race의 Starship Flight14 영어 자동자막 전문. 독립 사실원본=SpaceX 공식 임무 결과9문단. 표현 견본은 연구에서 채택하지 않음; 색인에서014/016/017 후보만 넘기고 기획 담당이 전문 읽기 뒤 선정.",
+  "weakness_to_avoid": "원본의 global catastrophe, debris99%, always one piece 등 일반화와 무근거 미래일정을 재현하지 않는다. 공식결과에 없는50t·277km·위성성능은 확인 전 제외한다. 26기와 교신했다고 서비스개시·완전재사용·유인임무준비 완료로 확대하지 않는다.",
+  "evidence": [
+    {
+      "file": "실험/입력/스타십14_20261002/sources/captions_en.txt",
+      "quote": "[0807.44] that's historic milestone number three",
+      "sha256": "945582f2dc0da729ada660dfdf042e49afd7e2276348b0cab34c27954c81f09a"
+    },
+    {
+      "file": "실험/입력/스타십14_20261002/sources/spacex_flight14.json",
+      "quote": "the flight control team assessed Starship’s systems and determined the three sea-level Raptors engines needed for subsequent burns were healthy",
+      "sha256": "232460784b1cb8aa8498c8f3d052a4a5ee8731d5803a3b0dcd96678f22efeef0"
+    },
+    {
+      "file": "실험/입력/스타십14_20261002/sources/spacex_flight14.json",
+      "quote": "The satellites will now conduct on-orbit checkouts and raise their orbits before they begin serving customers.",
+      "sha256": "232460784b1cb8aa8498c8f3d052a4a5ee8731d5803a3b0dcd96678f22efeef0"
+    }
+  ],
+  "dependencies": {},
+  "read_sha256": "2fadccb7205fa970a055784f6243a00bc0e3be1cf41072ad67e1d0aeb54e7bae"
+}

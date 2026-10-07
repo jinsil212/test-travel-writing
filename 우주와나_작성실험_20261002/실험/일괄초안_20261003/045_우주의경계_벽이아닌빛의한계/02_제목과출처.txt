@@ -1,0 +1,24 @@
+제목: 우주 끝까지 가면 벽에 닿을까? | 우리가 볼 수 있는 끝의 진짜 의미
+썸네일:
+우주 끝에 벽이 있을까
+빛의 경계는 다릅니다
+
+원소재: https://www.youtube.com/watch?v=ZLP1Voyf8aE
+원제: The Edge Of The Universe Is Insane
+기획: 관측 범위·현재 거리·빛의 이동 시간·CMB의 관측 시대를 차례로 나누고 전체 크기의 미확정을 설명합니다. 지난 Webb 편의 개별 발견이 아니라 경계 개념이 중심입니다.
+1차 출처:
+https://www.nasa.gov/science-research/astrophysics/how-big-is-space-we-asked-a-nasa-expert-episode-61/
+2025년 설명의 관측 우주 약920억광년 규모 및 전체 크기 미상, 빛 이동 시간과 현재 거리의 차이.920억은 반지름이 아닌 가로 규모.
+https://supernova.eso.org/exhibition/1117/?lang=en
+유한 나이·빛 속도에 따른 관측 지평선, 서로 다른 관측자의 관측 범위. 보이는 범위와 우주 전체 중심의 구분.
+https://science.nasa.gov/mission/webb/big-bang-q-and-a/
+빅뱅은 한 위치의 폭죽 폭발과 다른 공간 팽창이며 원시 복사의 관측 시대는 약38만년.
+https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_and_the_cosmic_microwave_background
+약38만년의 CMB, 이후 파장 변화, 하늘 여러 방향의 복사. 초기 불투명 상태와 원자 형성 후 투명해진 조건.
+https://www.esa.int/Science_Exploration/Space_Science/Planck/Planck_science_highlights
+배경복사의 작은 온도 차이, 우주 나이약138억년, 초기 구조 정보.
+https://www.esa.int/Science_Exploration/Space_Science/Is_the_Universe_finite_or_infinite_An_interview_with_Joseph_Silk
+오래된 인터뷰는 기하·유한/무한 개념 구분에만 사용. 당시 미래 Planck 일정은 현시점 일정으로 사용하지 않습니다.
+
+한정·제작 메모: 관측 지평선·CMB·우주 전체 크기를 같은 물질 벽으로 그리지 않습니다. 정확한 우주 지름 확정·무한 증명·바깥 촬영 주장을 하지 않습니다. 팽창 비유는 거리 관계를 보여 주며 실제 종이·풍선 바깥 공간을 주장하지 않습니다. 사건 지평선과 관측 지평선의 상세 수치를 섞지 않았습니다. 플랑크 지도의 색은 작은 차이 표현으로 표시하고 ESA/Planck Collaboration 크레딧을 유지합니다.
+상태: 독립 검수 전 순차 초안. 해외 영상 전체 번역이 아닌 독립 한국어 구성. 3분은 작성 목표이며 낭독 실측 길이가 아닙니다. 실제 작성 시간은 진행목록에 기록합니다.

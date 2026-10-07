@@ -1,0 +1,16 @@
+제목: 큰 스타십이 내려도 달 도시는 바로 생기지 않습니다 | 착륙 뒤 남은 작업
+썸네일 2줄:
+달에 짐은 왔는데
+도시까지 남은 길
+원소재: https://www.youtube.com/watch?v=5fEFuo5wuZo / How SpaceX Will Build a City on The Moon
+독립 한국판 초안, 전체 번역 아님. 독립검수 전, 실사 미확보.
+기획: 달 도시 확대의 화물 하역·지상 운송·분출 피해·현지 건설의 연결. 정치적 귀환 이유·남극 얼음·거주 생활 편과 구분. SpaceX 확정 도시계획 주장은 채택하지 않음.
+1. NASA 큰 화물 착륙선 개발 https://www.nasa.gov/humans-in-space/work-underway-on-large-cargo-landers-for-nasas-artemis-moon-missions/ — SpaceX/Blue Origin 설계 기반 개발. 일정·수송량 숫자 제외, 성공 완료 아닌 개발.
+2. NASA 하역 크레인 https://www.nasa.gov/centers-and-facilities/langley/lightweight-crane-technology-could-find-a-home-on-the-moon/ 및 LANDO 공식 연구 초록 https://ntrs.nasa.gov/citations/20230004222 — 기울어진 갑판 하역·안전 감지 연구. 달 실증 완료 주장 안 함.
+3. NASA 물류 연구 https://www.nasa.gov/general/nextstep-r-lunar-logistics-and-mobility-studies/ — 착륙 뒤 화물 이동 체계. https://www.nasa.gov/general/nasa-seeks-innovative-artemis-lunar-logistics-mobility-solutions/ — 음식·물·공기·예비 부품 수요.
+4. NASA 분출과 지면 계산 https://nas.nasa.gov/SC22/research/project12.html — 시야·오염·입자·분화구 위험과 낮은 압력 모사 시험 검증. 폭발·시설 사고가 실제 발생했다고 주장 안 함.
+5. NASA 건설 연구 https://www.nasa.gov/directorates/stmd/nasa-enables-construction-technology-for-moon-and-mars-exploration/ — MMPACT 로봇 건설·현지 재료 활용.
+6. ESA PAVER 지구 모사 시험 https://www.esa.int/ESA_Multimedia/Images/2023/10/Paved_surfaces_around_a_Moon_base 및 https://www.esa.int/ESA_Multimedia/Videos/2023/10/One_small_step_on_the_way_to_lunar_roads/%28lang%29 — 레이저 모사 흙 가공, 달의 집광 구상. 실제 달 도로 완성 아님.
+한정: 시간표·인구·가격·특정 도시의 확정 배치 배제. 공급→하역→이동→설치의 연결과 초기 시설이 후속 작업을 돕는 설명은 물류·공학적 추론. 모든 달 착륙에 반드시 완성 착륙장이 사전 필요하다는 주장 없음. 현지 재료는 가공·에너지 필요, 무중력이라고 표현 안 함.
+제작: 미래 도시·설비 영상은 구상 표시. 시험은 지구 모사 환경 표시, ESA 자료 원본 크레딧·사용 조건 확인. 본문 직접 사진 지시 없음.
+시간: 집필3분 목표 실측은 진행목록. 낭독·TTS 미측정, 음성3분 아님.

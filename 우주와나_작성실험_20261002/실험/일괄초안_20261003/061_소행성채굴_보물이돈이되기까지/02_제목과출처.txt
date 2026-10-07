@@ -1,0 +1,22 @@
+제목: 소행성에 보물이 있어도 바로 돈이 되지 않는 이유
+썸네일 1줄: 우주에 보물이 있다면
+썸네일 2줄: 가져오기만 하면 될까?
+원소재: Everyone is Wrong About Asteroid Mining
+원영상: https://www.youtube.com/watch?v=p3hlnL2JN8E
+기획: 재료가 존재함→접근/접촉→추출→저장/수송→실제 사용의 서로 다른 문제. 과학 시료 반환과 상업 광산의 규모·목적 차이를 베누 사례로 설명. 모든 사람이 틀렸다는 원제 주장을 사실로 사용하지 않음.
+공식 확인일: 2026-10-03 KST
+1. NASA 2024-02-15 bulk sample: 2023-09-24 귀환, 121.6g 확정, 2020 접촉 수집. 과학 반환이지 상업 생산 실증 아님.
+https://science.nasa.gov/blogs/osiris-rex/2024/02/15/nasa-announces-osiris-rex-bulk-sample-mass/
+2. NASA 베누 표면 저항 2022 분석: 느슨한 입자, 예상보다 깊이 들어간 채집 장치, 물러나는 추진기가 없으면 가라앉았을 판단. 모든 소행성으로 일반화 안 함.
+https://www.nasa.gov/missions/surprise-again-asteroid-bennu-reveals-its-surface-is-like-a-plastic-ball-pit/
+3. NASA 베누 거친 표면: 원격 예측과 가까이 본 큰 바위/드문 평탄 패치의 차이. 채굴용 입지의 성분·접근성 차이로 해설.
+https://science.nasa.gov/missions/osiris-rex/asteroid-bennus-rugged-surface-baffled-nasa-we-finally-know-why/
+4. NASA 2013 소행성 자원 설명: 물을 우주에서 사용하는 구상, 수소/산소 추진제 활용 가능성, 금속 추정값과 임무 비용 별개. 오래된 비용 숫자를 현재 비용으로 쓰지 않음. 물 포함 광물은 실제 시료/관측 NASA 자료에서도 확인되며 수도꼭지/액체 저수지로 표현하지 않음.
+https://www.nasa.gov/solar-system/new-nasa-mission-to-help-us-learn-how-to-mine-asteroids/
+5. NASA 경제 발표: 잠재 매출≠이익, 추출/채굴/수송/자본·위험 함께 고려. 미래 수익 확정/투자 추천 없음.
+https://ntrs.nasa.gov/api/citations/20160000928/downloads/20160000928.pdf?attachment=true
+6. ESA BioRock/BioAsteroid: 중력 조건별 미생물 추출 연구와 ISS 소행성 유사재료 실험. 실제 소행성 상업 광산 가동으로 표현하지 않음.
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Building_an_extra-terrestrial_habitat_one_microbe_at_a_time
+https://www.esa.int/ESA_Multimedia/Images/2021/01/Asteroids_vs._microbes
+한계: 소행성 전체 금속 가치 숫자·상업 수익률·현재 업체 상태·생산 개시 일정 미확인으로 추가하지 않음. 생산·유지·수요·수송의 관계 설명은 공학/경제적 조건 해설이며 특정 채굴 사업이 실패/성공했다는 주장이 아님.
+전체 번역이 아닌 독립 한국판 순수 낭독 초안. 독립 사실·흐름 검수 전. 3분은 작성 목표이며 음성 길이 또는 시간 달성 보장 아님.

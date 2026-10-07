@@ -1,0 +1,14 @@
+제목: 소련은 왜 금성에 탐사선을 계속 보냈을까? | 실패 다음에 바꾼 설계
+썸네일:
+금성에서 끊어진 신호
+소련은 다시 보냈습니다 🚀
+소재: https://www.youtube.com/watch?v=ydibFhTuimY
+중심: 임무 연속성과 실패 지점→환경 측정→설계/관측방법 개선. rank7 고온고압/표면사진 원고와 구분. 정치심리/비밀계획을 추정 사실로 쓰지 않음.
+2026-10-03 KST 1차자료 확인:
+https://science.nasa.gov/venus/exploration/
+https://www.nasa.gov/history/55-years-ago-mariner-5-explores-venus/
+https://www.jpl.nasa.gov/news/venus-air-pressure/
+https://www.nasa.gov/history/45-years-ago-mariner-10-off-to-venus-and-mercury/
+https://www.nasa.gov/history/40-years-ago-pioneers-encounter-venus/
+https://nssdc.gsfc.nasa.gov/planetary/venera.html
+Venera4 대기하강 데이터≠표면착륙;1967 다른관측 대조/1970 Venera7 표면데이터/1975 9·10 사진 구별. 후기15·16 레이더와Vega 대기풍선은 NASA 임무 연표 기준. 상세 고장/작동시간/숫자 논쟁은 생략. 개선 원리는 임무별 조건 설명이며 구체 설계자의 결정·대사를 창작하지 않음. '매번 모든 실패가 확실한 개선으로 이어졌다'고 단정하지 않음. 독립검수 미실시 초안, 원본 번역 아님. 시간은 진행목록 실측, 3분 목표 보장 없음.

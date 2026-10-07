@@ -1,0 +1,389 @@
+{
+  "artifact_sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+  "verdict": "PASS",
+  "unresolved": [],
+  "checks": {
+    "promise_chain": {
+      "status": "PASS",
+      "reason": "선정08 제목과 두 줄은 발견했는데 왜 정체 미확정인가. 첫 문장의 발견/빛점, 도입의 왜 질문, 복수 형상과 반사 조건, 가스 미검출, 열의 모형 범위 제한, 끝의 단일 정체 못 고른 원인이 같은 이유형 약속을 지급한다. AUTO 작업자 선정이며 사용자 직접 합격이 아니다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "태양계 밖에서 온 이 물체를 발견하고도",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 0.16
+        }
+      ]
+    },
+    "beginner": {
+      "status": "PASS",
+      "reason": "전문 낭독감 통독. H4-2의 대상 정체 누락/뜻없는 이름/작용 없는 용어/늦게 주는 조건/비유 해독/일반론 강의를 점검했다. 중력과 적외선은 작용 뒤 명명, 혜성과 스피처는 정체를 함께 밝힌다. 위치/외곽과 밝기/크기의 차이를 실제 과정으로 설명한다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "연구진은 태양과 행성이 물체를 끌어당기는 힘도 계산에 넣습니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 9.53
+        }
+      ]
+    },
+    "no_tangents_repetition": {
+      "status": "PASS",
+      "reason": "37문단 각각 삭제하면 잃는 이해를 대조했다. 경로 계산은 기원, 닫힌/열린 길은 판별 기준, 날짜는 관측 기회, 회전/반사는 형상 복수성, 작은 잔차는 힘과 원인 구별, 열 감도는 크기 제한에 의존한다. 3I·별·물성 가설 목록 없음. 모든 경계 앞뒤2문단 연결 확인. 미검출 두 사례는 존재 판단과 크기 제한의 다른 역할이다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "온도와 거리 같은 조건을 같게 놓고 비교하면",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 84.99
+        }
+      ]
+    },
+    "natural_language": {
+      "status": "PASS",
+      "reason": "제작 지시 문구가 실제 관측 판단으로 바뀌었고 첫 결말 인과도 자료 부족으로 바로잡혔다. 주어/지시어/동사/비유를 문장·문단·전체로 다시 읽었다. 한국어 존댓말로 실제 행동을 설명하며 그림 제작 지시/추상 감탄/시청자 훈계가 낭독문에 없다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "가스가 나왔다고 단정할 수는 없지만",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 72.58
+        }
+      ]
+    },
+    "latest_requests": {
+      "status": "PASS",
+      "reason": "요청의 기존 작업 제외 후 선택된 b2_M-1YqnNI 한 편이다. 승인22의 서로 다른08/04/06 후보3쌍과 정확2줄, AUTO선정08→같은 질문의 도입→3파트 순차 검수→끝 구조를 확인했다. 새 편 집필/제작은 하지 않았고 원본 번역 복사 구조가 아니다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "오우무아무아, 태양계 밖에서 온 이 물체",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 0.0
+        }
+      ]
+    },
+    "length": {
+      "status": "PASS",
+      "reason": "final.txt 실제 공백제외4511자 측정. 분당400자11.2775분,300자15.0367분은 추정이며 실제 음성 미제작. 최소4000자 조건 통과와 별개로 관측→추론→조건이라는 필요한 재료로 길이를 채웠고 반복 모른다/느린 낭독으로 채우지 않았다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "처음에는 그저 작은 빛점으로 보였습니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 97.47
+        }
+      ]
+    },
+    "criterion_01": {
+      "status": "PASS",
+      "reason": "제목·썸네일·첫문장·도입질문·마지막이 모두 같은 발견 대비 미확정 이유이다. 뒤에서 단일 형태와 성분을 못 고른 원인을 준다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "정체는 왜 밝혀내지 못했을까요?",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 3.97
+        }
+      ]
+    },
+    "criterion_02": {
+      "status": "PASS",
+      "reason": "제목의 왜 정체를 못 밝혔는가를 같은 말로 받고 도입 마지막 위치 기록은 그 질문을 푸는 첫 행동이다. 새 질문으로 교체하지 않는다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "정체는 왜 밝혀내지 못했을까요?",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 3.97
+        }
+      ]
+    },
+    "criterion_03": {
+      "status": "PASS",
+      "reason": "도입은 발견과 빛점/미확정 결과를 주고, 왜 단일 형상·성분을 못 골랐는지의 과정과 조건은 본문에 남긴다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "길쭉한지 납작한지, 무엇으로 만들어졌는지도 확정하지 못했습니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 2.64
+        }
+      ]
+    },
+    "criterion_04": {
+      "status": "PASS",
+      "reason": "경로 성과→외곽 미분해→밝기 복수 설명→힘의 원인 구별→열 범위 제한으로 정체 질문을 실제 이해로 계속 붙든다. 단어 간격만으로 안내문을 추가하지 않는다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "밝기를 이용해 크기를 계산하려면 반사하는 성질에 대한 가정을 함께 넣어야 합니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 50.57
+        }
+      ]
+    },
+    "criterion_05": {
+      "status": "PASS",
+      "reason": "출발별은 기원 성과의 짧은 범위 제한이며 별 이야기로 확장하지 않는다. 모든 관측과 필요한 원리가 클릭 질문에 직접 연결되어 곁가지 문단0.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "어느 별 곁에서 만들어졌는지까지 알아낸 것은 아니에요.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 19.26
+        }
+      ]
+    },
+    "criterion_06": {
+      "status": "PASS",
+      "reason": "썸네일 정체는 왜 모를까는 복수 형상/표면 가정과 원인 직접 증거 부족, 떠나는 관측 조건으로 풀리고 끝에서 직접 이유를 회수한다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "그 점에서 얻은 자료만으로는 실제 모양과 성분을 하나로 좁힐 수 없었기 때문입니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 94.66
+        }
+      ]
+    },
+    "criterion_07": {
+      "status": "PASS",
+      "reason": "처음의 못 본 빛점을 위치의 기원 증거와 빛 양의 형상 제한 자료로 새롭게 해석한다. 목차 재요약이나 빈 미해결 칭송 아님.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "그 점의 위치가 외부에서 온 물체라는 증거가 되고",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 97.94
+        }
+      ]
+    },
+    "criterion_08": {
+      "status": "PASS",
+      "reason": "뜻밖의 발견/못 본 모습의 대비가 첫 문장에 있어 앞의 일반 우주 강의가 없다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "발견하고도 망원경으로는 작은 빛점밖에 볼 수 없었습니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 0.4
+        }
+      ]
+    },
+    "criterion_09": {
+      "status": "PASS",
+      "reason": "도입268/전체4511=5.94%. 길이 진단 외에도 대상·뜻밖 사실·질문·첫 관측 행동에만 집중한다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "그 작은 점이 태양을 향해 어디서 들어와, 어디로 떠났는지부터요.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 5.32
+        }
+      ]
+    },
+    "criterion_10": {
+      "status": "PASS",
+      "reason": "밝기로 확정할 수 없다는 기준 뒤 새 운동 자료로 전환하며, 열 미검출도 정보가 된다는 후반 전환이 있다. 시작의 열린 경로 대비가 이른 것은 과정 이해의 필요이며 진단값만으로 탈락하지 않는다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "움직임의 기록에서도 새 단서가 나왔습니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 54.33
+        }
+      ]
+    },
+    "criterion_11": {
+      "status": "PASS",
+      "reason": "밝기10배가 크기 증가인가를 바로 제한하고, 가스 못 찾음=모든 부재인가와 적외선 못 봄=성과 없음인가에 즉시 답한다. 반박 수량을 채우지 않는다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "물체가 갑자기 10배 커진 게 아니에요.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 33.74
+        }
+      ]
+    },
+    "criterion_12": {
+      "status": "PASS",
+      "reason": "도입 이름·2017발견·빛점·모양과성분·기원을 본문과 끝에서 각각 회수한다.40일은 떠나는 조건,10배는 형상 추정, 스피처는 미검출 성과로 바로 거둔다. 남은 예고 없다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "발견했을 때 이미 떠나는 중이어서",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 96.7
+        }
+      ]
+    },
+    "criterion_13": {
+      "status": "PASS",
+      "reason": "끌어당기는 힘 설명 뒤 중력, 열의 눈에 보이지 않는 빛 뒤 적외선으로 명명한다. 닫힌/열린 길도 일반적인 움직임 대비를 먼저 주어 수학 용어가 없다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "바로 중력이죠.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 10.15
+        }
+      ]
+    },
+    "criterion_14": {
+      "status": "PASS",
+      "reason": "날짜 두 개를 익숙한40일 달력 차이로 바꾸고10배는 밝을때/어두울때 빛 양 비교로 제한한다. 대단한 물성 숫자 목록과 새 비교 수치 없음.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "40일 동안 지켜봤다는 말이 아니라",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 24.23
+        }
+      ]
+    },
+    "criterion_15": {
+      "status": "PASS",
+      "reason": "각 관측 뒤 기원 판별/복수 모형/원인 미확정/범위 제한의 실제 의미를 준다. 동사·지시 대상·비유 제거3검사를 전문에서 적용했으며 꾸민 추상 표현 없음.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "새 관측은 기존 추정을 모두 없애는 대신, 가능한 범위를 더 좁히는 데 쓰였습니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 93.48
+        }
+      ]
+    },
+    "criterion_16": {
+      "status": "PASS",
+      "reason": "쉬운 합니다/해요/죠 존댓말만 사용한다. 선언하는 반말 평서나 장황한 명사형 강의가 없다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "계산할 수 있어요.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 8.73
+        }
+      ]
+    },
+    "criterion_17": {
+      "status": "PASS",
+      "reason": "가스 방출은 가능성, 외곽은 추정, 열은 미검출로 유지. 힘 효과를 엔진/급가속/절대 속도 증가로 확대하지 않는다. 독립 사실 검수의 claims_sources/future_hypothesis 현재해시 PASS를 연결해야 최종 확정 가능. 실제 review_final_fact.json의 같은 final 해시 PASS와 해당3검사 및 확인 범위를 직접 읽고 연결 완료.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "가능성이 제시됐습니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 67.68
+        }
+      ]
+    },
+    "criterion_18": {
+      "status": "PASS",
+      "reason": "회전하는 대상, 지구에서 보는 면, 반사광과 열의 원인, 온도/거리 고정 조건을 해당 문장에 붙여 과정을 따라갈 수 있다. 빈 이것/다르다 평가 아님.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "태양빛을 잘 반사하는 표면은 더 밝게 보일 수 있어요.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 47.28
+        }
+      ]
+    },
+    "criterion_19": {
+      "status": "PASS",
+      "reason": "설명 필요하다고만 예고하지 않고 계산의 변수와 비교를 준다. 끝 가스 질문은 바로 다음 관측 결과로 답하며 독립 감탄 문장으로 늘리지 않는다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "따라서 연구진은 크기를 바꾸어 가며 얼마나 많은 적외선이 망원경에 들어와야 하는지 계산할 수 있습니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 85.86
+        }
+      ]
+    },
+    "criterion_20": {
+      "status": "PASS",
+      "reason": "밝기10배의 양·비교대상·초기 시점,40일의 두 날짜 차이, 운동의 중력만 계산한 예상 기준, 열의 온도/거리 고정을 같은 자리에서 밝혔다. 독립 사실 검수 numbers_conditions 현재해시 PASS 연결 필요. 같은 final 해시의 독립 numbers_conditions PASS 실제 receipt 연결 완료.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "초기 관측에서 밝을 때와 어두울 때를 비교하니, 들어오는 빛의 양이 약 10배나 달랐습니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 32.88
+        }
+      ]
+    },
+    "criterion_21": {
+      "status": "PASS",
+      "reason": "37문단의 다음 이유를 각각 역요약하고 모든 파트 경계 앞뒤2문단을 이어 읽었다. 위치→밝기→운동 원인→가스 결과→크기의 다른 관측→끝 질문 회수가 실제 설명으로 연결된다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "이 때문에 들어오는 빛의 양을 정확하게 재더라도 실제 크기를 바로 정할 수는 없습니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 48.77
+        }
+      ]
+    },
+    "criterion_22": {
+      "status": "PASS",
+      "reason": "제목의 태양계 밖 물체와 정체를 본문에서도 유지한다. 정체는 모양/성분으로 초기에 구체화하며 엔진/외계인 찾기 같은 다른 목표로 이름을 바꾸지 않는다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "태양계 밖에서 들어온 경로를 알 수 있었어요.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 95.63
+        }
+      ]
+    },
+    "criterion_23": {
+      "status": "PASS",
+      "reason": "오우무아무아는 첫 문장에 태양계 밖 물체와 함께, 스피처는 우주망원경 정체와 함께, 혜성은 얼음이 있는 천체로 등장한다. 이름만 먼저 놓지 않는다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "적외선을 찾는 우주망원경 스피처였습니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 79.67
+        }
+      ]
+    },
+    "criterion_24": {
+      "status": "PASS",
+      "reason": "빛점 재등장은 위치/외곽 구별, 그림은 추정/실측 구별, 열은 크기 제한으로 새 역할. 가스와 적외선 미검출은 다른 판별 과정이다. 결말은 단일 원인과 처음 장면의 새 의미로 짧게 회수하여 같은 질문 반복하지 않는다.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "스피처 관측은 여기에 열이라는 다른 조건을 더한 겁니다.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 92.06
+        }
+      ]
+    },
+    "criterion_25": {
+      "status": "PASS",
+      "reason": "주어와 서술어, 지시어의 직전 대상, 정보량과 조사/어미를 전문 낭독감으로 확인했다. 제작 금지 문구와 결말 추상 인과는 수정되어 실제 과학 판단으로 읽힌다. 장황한 피동/번역투/쉼표 연결 강의 없음.",
+      "evidence": [
+        {
+          "file": "실험/에피소드/TSR_002_오우무아무아_20261002_v2/final.txt",
+          "quote": "가스 방출이 없었다고 확정할 수도 없는 거죠.",
+          "sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+          "position_pct": 73.15
+        }
+      ]
+    }
+  },
+  "fact_review_reference": {
+    "artifact_sha256": "f4bc482472a6e38103030122fee3fa526ff752bfd9ba2de5b4e3a356c89fcd54",
+    "receipt_sha256": "bd1021b211a6db04d70940ddca46b0c9ff7fe3bf393a16ed8ed233d004d6bf1b",
+    "checks": [
+      "claims_sources",
+      "numbers_conditions",
+      "future_hypothesis"
+    ],
+    "actor": "/root/space_fact_002"
+  }
+}

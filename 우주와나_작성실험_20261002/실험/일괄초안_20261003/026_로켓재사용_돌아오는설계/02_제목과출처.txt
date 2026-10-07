@@ -1,0 +1,15 @@
+제목: 착륙 다리만 붙이면 될까? | 스페이스X가 로켓 전체를 바꾼 이유
+썸네일 2줄:
+돌아오는 로켓
+출발 전부터 달라집니다
+원소재: https://www.youtube.com/watch?v=7vE95eBX6M0 / How SpaceX Reinvented The Rocket!
+독립 한국판 순수 낭독 초안. 원본 전체 번역 아님. 독립검수 전. 실사 미확보.
+기획: 회수 기능이 상승·분리·귀환·제어·지상 과정을 묶는 설계 문제. 랩터 내부 흐름, 발사 가격, 재비행 세부 제약 중심 편과 구분.
+1. SpaceX Falcon9 공식 소개 https://www.spacex.com/vehicles/falcon-9/fairing — 2단 로켓·1단 재사용·격자날개·다리. 검색에 노출된 공식 본문 확인, 열기에서는 본문 비어 있음. 세부 숫자 배제.
+2. NASA 2014-02-25 https://blogs.nasa.gov/spacex/2014/02/25/an-unusual-first-stage-photo/ — 재사용용 다리, 이전 우주왕복선 부스터 회수 설명.
+3. FAA 2014 자료 https://www.faa.gov/about/office_org/headquarters_offices/ast/media/faa_annual_compendium_2014.pdf — Grasshopper 및 Falcon9R 재사용 기술 시험. 확인된 검색 본문 범위, 시험 높이·날짜 숫자 배제.
+4. NASA Crew1 2020-11-15 https://blogs.nasa.gov/commercialcrew/2020/11/15/stage-1-successfully-lands-on-drone-ship-2/ — 실제 무인선 착륙.
+5. NASA Crew10 2025-03-14 https://www.nasa.gov/blogs/commercialcrew/2025/03/14/falcon-9-booster-lands-successfully/ — 실제 육지 착륙. 임무별 복귀 장소 예시.
+6. NASA NTRS https://ntrs.nasa.gov/citations/20170000606 — 회수·비행 재인증의 시스템 과정. 복귀에 연료 몫 필요, 상태 추정과 제어, 서로 연결된 질량·경로는 일반 물리 설명.
+한정: 재사용 사고 자체의 최초 발명 주장 없음. Falcon9 전체 회수 주장 없음. 최신 재사용 횟수·가격·다음 일정 안 씀. Starship 완전 재사용은 목표, 모든 부분 상용 운영 완료 주장 없음. 실측 영상이 아닌 제작 도식은 표시 필요.
+시간: 집필 3분 목표의 실측은 진행목록. 음성 3분을 의미하지 않음. 낭독·TTS 미측정.

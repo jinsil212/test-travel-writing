@@ -1,0 +1,25 @@
+제목: 달을 다녀온 뒤 지구에서 다시 시험하는 이유 | 아르테미스 번호를 읽는 법
+썸네일:
+3호는 달에 안 갑니다
+번호보다 중요한 단계
+
+원소재: https://www.youtube.com/watch?v=aw9ENIAqkA8
+원제: All 8 Artemis Mission's Explained
+기획: 오래된 8편 일정표를 현재 사실로 복제하지 않고 2026년 개편된 임무 단계와 검증의 관계를 설명합니다. 기존 15·18·33편의 승무원 경험·관측·구체적 도킹 시연과 달리 전체 임무의 기능 교대와 완료/목표 구분이 중심입니다.
+확인 기준일: 2026-10-03 한국 날짜.
+1차 출처:
+https://www.nasa.gov/mission/artemis-i/
+2022년 무인 통합 비행 및 현재 후속 구성.
+https://science.nasa.gov/missions/artemis/artemis-2/nasas-artemis-ii-moon-mission-research-continues-on-earth/
+2026년 4월10일 미국 현지 착수 뒤 진행 중인 자료 연구.
+https://www.nasa.gov/directorates/esdmd/nasa-strengthens-artemis-adds-mission-refines-overall-architecture/
+2026년 개편: III 지구 저궤도 시험, IV 첫 착륙 2028년 초 목표, V 2028년 말 목표 및 연간 반복·기지 건설 시작 기대. 착륙선 준비 상태에 따른 제공자 판단.
+https://www.nasa.gov/mission/artemis-iv/
+달 궤도→두 명 표면 활동 약 일주일→재합류→지구 귀환의 계획, 우주복 역할.
+https://www.nasa.gov/event/artemis-v/
+표준화 구성, 2028년 말 목표, 후속 약 연간 주기와 기지 건설 시작 계획.
+https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/
+III 시연의 계획 상태. 앞선 33편에서 직접 읽은 동일 공식 자료를 재사용했습니다.
+
+한정·제작 메모: II는 이미 수행했고 III·IV·V는 미래 목표입니다. IV 목표를 완료된 착륙이나 확정 날짜로 쓰지 않습니다. VI~VIII에 고정 체류일·장비·역할을 임의 배정하지 않습니다. 새 원제는 '8개 임무의 모든 확정 세부'를 약속하지 않습니다. 기관 예술가의 달 활동 그림은 계획 상상도로 표시합니다. 달 기지 상세 단계와 거주 장비는 후속 별도 소재이므로 여기서는 확장하지 않습니다.
+상태: 독립 검수 전 순차 초안. 원소재 차용 한국어 독립 구성으로 전체 영상 번역이 아닙니다. 3분은 작성 목표이며 음성 실측 시간이 아닙니다. 실측 작성 시간은 진행목록에 기록합니다.

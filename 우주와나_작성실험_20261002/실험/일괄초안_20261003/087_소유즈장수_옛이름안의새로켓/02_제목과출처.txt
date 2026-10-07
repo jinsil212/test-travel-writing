@@ -1,0 +1,21 @@
+제목: 60년 이름의 소유즈는 정말 옛날 로켓 그대로일까?
+썸네일 1줄: 이름은 60년 됐지만
+썸네일 2줄: 안에서는 달라졌습니다
+원 소재: This Rocket Is 60 Years Old.. and it's still flying
+원 URL: https://www.youtube.com/watch?v=MK_SyGn84C4
+한국판:계열나이/버전나이/개별기체이력구분,제어및상단엔진현대화.71편의러시아로켓종류·역할열거와구분.
+
+1차 기관 출처,2026-10-03 KST 확인:
+ESA,Soyuz2-1a,2004-11:발사로켓디지털제어·임무유연성/큰fairing관련현대화.우주선TMA-M디지털설명과혼동안함.
+https://www.esa.int/ESA_Multimedia/Images/2004/11/Soyuz_2-1a
+ESA Bulletin132,2007,PDF2·4:2-1a2004첫비행,2-1b상단RD0124·2006-12-27COROT첫비행.모든소유즈버전엔진같다고서술안함.
+https://www.esa.int/esapub/bulletin/bulletin132/bul132h_arend.pdf
+ESA,FactsaboutSoyuz:동일이름우주선vs발사로켓구분및R7/Vostok계열유래.본문소유즈TMA컴퓨터를로켓컴퓨터로인용안함.
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/PromISSe/Facts_about_the_Soyuz
+NASA SP4408part1공식역사표:11A511 Soyuz발사로켓1966.계열약60년표현만,정확개별첫발사일·생산연도미사용.
+https://www.nasa.gov/wp-content/uploads/static/history/SP-4408pt1.pdf
+NASA,NASA AstronautAnilMenon,CrewmatesArriveatSpaceStation,2026-07.7/14Soyuz로켓발사/ISS도착확인.현재쓰임근거1임무,미래전부운용확정으로확대안함.
+https://www.nasa.gov/news-release/nasa-astronaut-anil-menon-crewmates-arrive-at-space-station/
+
+한계:개별로켓생산날짜/성공률총계/최저가격/최신전부버전상태/수십년미래일정단정없음.소유즈5등동일이름새계열을구식R7버전으로섞지않음.소유즈는하드웨어한대60년재사용아님.일반부분개량/기존시설경험의장점은공학해설이며개발자속마음확정아님.현재ESA쿠루발사지속을오래된페이지에서가져오지않음.발사로켓과귀환우주선구분.
+독립검수 전초안.원영상전체번역아님.3분집필목표이며음성시간아님.원지침파일변경없음.

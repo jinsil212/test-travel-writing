@@ -1,0 +1,19 @@
+제목: 새 엔진에서 배관이 사라졌습니다｜그 배관이 하던 일은 어디로 갔을까?
+썸네일 1줄: 부품을 지웠는데
+썸네일 2줄: 엔진은 더 어려워졌다?
+원순위52 / This Engine Will Reinvent Space Travel
+소재: https://www.youtube.com/watch?v=4K8zt8NzlVo
+공식 확인 2026-10-03 KST. 원영상 전체 접근 실패; 공개 랩터 소재는 제조/기능 통합 질문으로 재기획. 랩터 비공개 내부 지도를 추정하지 않음. 19번의 풀플로 연소 흐름과 차별.
+1 NASA 2026-07-31: 슈퍼헤비 V3 랩터3/하부 구조 변화·덮개/대형 열차폐판 없는 구성, 풍동에서 재진입 정상/비정상 힘 평가. 엔진 내부 냉각과 차량 열차폐 구분.
+https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/
+2 NASA RAMPT: 금속 적층·연소실/노즐 통합·다른 합금 접합·복합재 지지·실제 연소 시험. 랩터 공정이라고 동일시하지 않음.
+https://www.nasa.gov/rapid-analysis-and-manufacturing-propulsion-technology/
+3 NASA 2024-08-01(2026 갱신): 미세구조/재료 성질, 시제품-시험-개선 반복, 냉각 통로 및 제조 스케일.
+https://www.nasa.gov/centers-and-facilities/marshall/nasa-additive-manufacturing-project-shapes-future-for-agency-industry-rocket-makers/
+4 NASA 기술 이전: 통합 냉각 통로·재료 경계·누출 가능 연결 감소의 공개 연구. Challenger는 고체부스터 조인트 사고이므로 액체 연소실 사고로 옮기지 않았음.
+https://technology.nasa.gov/patent/MFS-TOPS-93
+5 NASA 2015: 구리 라이너 냉각 통로 및 강한 고온/저온 조건.
+https://www.nasa.gov/technology/nasa-3-d-prints-first-full-scale-copper-rocket-engine-part/
+6 NASA-STD-6030: 우주 비행 적층 제조 설계·제작·시험 기준 존재 확인; 상세 조항은 본문 주장 안 함.
+https://standards.nasa.gov/node/2739
+정비 교환성·전체 구성 무게 비교는 일반 공학적 설명이며 랩터 특정 고장률/비용/정비량 확정치가 아님. 무게/비용 절감률과 생산량 숫자 제외. 단순 외관만으로 성능/신뢰성/자율 재사용 완료 단정 금지. 독립 한국판 낭독 초안, 독립 검수 전. 3분은 집필 목표이며 음성 실측 아님.

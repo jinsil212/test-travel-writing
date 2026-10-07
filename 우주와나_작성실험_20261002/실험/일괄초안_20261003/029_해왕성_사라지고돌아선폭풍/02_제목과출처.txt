@@ -1,0 +1,15 @@
+제목: 해왕성의 검은 폭풍은 왜 사라지고 돌아섰을까? | 사진을 다시 볼 때 생긴 발견
+썸네일 2줄:
+그 폭풍은 사라졌다
+새 폭풍은 돌아섰다
+원소재: https://www.youtube.com/watch?v=yjnLNzqTWng / What NASA Found on Neptune
+독립 한국판 초안, 전체 번역 아님. 독립검수 전, 실사 미확보.
+1. NASA 1989 탐사 역사 https://www.nasa.gov/history/30-years-ago-voyager-2-explores-neptune/ — 가까운 통과와 대암점.
+2. NASA 2019 장기 추적 https://science.nasa.gov/missions/hubble/hubble-tracks-the-lifecycle-of-giant-storms-on-neptune/ — 장기 영상·폭풍 변화. 검색 본문과 기관 기록 확인.
+3. NASA 2020 연구 발표 https://science.nasa.gov/missions/hubble/dark-storm-on-neptune-reverses-direction-possibly-shedding-a-fragment/ — 본문 직접 확인: 2018 발견,2020 경로 전환, 작은 점 연관 미증명, 고기압 소용돌이, OPAL.
+4. ESO 2023 발표 https://www.eso.org/public/news/eso2314/ — VLT/MUSE 빛 분해로 검은 점과 깊은 밝은 구름 연구.
+5. ESO 영상 설명 https://www.eso.org/public/unitedkingdom/videos/eso2314c/ — 파장별 특징 및 적응광학 보정. 크레딧/CC BY 원본 조건은 사용 시 확인.
+6. NASA Webb 2022 https://science.nasa.gov/missions/webb/new-webb-image-captures-clearest-view-of-neptunes-rings-in-decades/ — 근적외선 고리·높은 메테인 얼음 구름·가시광선과 외형 차이.
+한정: 1989~2023 관측 사례, 현재2026 폭풍 상태를 주장하지 않음. 검은 점들 한 개체로 혼합 안 함. 작은 점은 분리 조각 가능성이지 원인 확정 아님. 2023 발표와 관측 시점 동일이라고 단정 안 함. 고리·구름·폭풍은 별개 질문. 다색 이미지 육안 색·온도와 동일시 안 함. 자전 보정 필요는 일반 관측 설명.
+제작: 허블 해왕성 이미지 원본 크레딧 NASA/ESA/STScI 및 해당 연구자 표시. ESO 파장 애니메이션은 실제 관측 데이터 설명, 폭풍 작동 과정의 실시간 영상처럼 제시하지 않음. 본문은 직접 '이 사진' 지시 없음.
+시간: 집필 3분 목표 실측은 진행목록. 낭독·TTS 미측정, 음성3분 아님.

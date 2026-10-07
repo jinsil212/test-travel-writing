@@ -1,0 +1,19 @@
+제목: 핵으로 화성에 간다고요?｜원자로의 열이 엔진이 되는 두 가지 길
+썸네일 1줄: 핵로켓이 아니다?
+썸네일 2줄: 화성으로 가는 전기의 길
+원순위53 / NASA is Launching a Nuclear Rocket to Mars
+소재: https://www.youtube.com/watch?v=orzOG0KoCwE
+공식 확인 2026-10-03 KST. 원제 미래 단정을 현재 완료로 옮기지 않음.
+1 NASA SNP 현재 설명: NTP열 직접전달/NEP발전 후 전기추진, 수소저장·재료·지상 발사/우주 작동 조건, Rover/NERVA 역사.
+https://www.nasa.gov/space-technology-mission-directorate/tdm/space-nuclear-propulsion/
+2 NASA 2026-09-29 갱신: SR-1 Freedom 핵전기추진, 2028말 발사목표/2029 목표도착, 화성통과+SkyFall배치 계획. 본문은 발사목표만 사용, 성공 조작 없음. 3헬리콥터 탑재계획, 원자로가 각각 착륙하는 것 아님.
+https://www.nasa.gov/mission/space-reactor-1-freedom/
+3 NASA 2023-07-26 DRACO 발표: 당시 핵열 시연계획·이르면2027. 과거 발표로 명시하고 현재 확정일정 취급하지 않음.
+https://www.nasa.gov/technology/nasa-darpa-partner-with-industry-on-mars-rocket-engine/
+4 NASA 2026-01-27: 실제2025흐름시험/비핵 비행유사시험체, 제어설계와 해석검증. 2026에 소개된 연구이며 우주 핵반응 성과 아님.
+https://www.nasa.gov/directorates/stmd/tech-demo-missions-program/space-nuclear-propulsion-snp/nasa-testing-advances-space-nuclear-propulsion-capabilities/
+5 NASA NTRS2022: NEP임무개념의 원자로/차폐/전력변환/폐열방열/분배 통합비교. 과거의2030s일정 본문 사용 안 함.
+https://ntrs.nasa.gov/citations/20210016968
+6 NASA2019기술발표: NTP수소 낮은분자량 이점, 반드시 화학엔진보다 기체온도가 더높아서라는 설명은 아님.
+https://www.nasa.gov/wp-content/uploads/2015/03/nac_april_2019_mitchell_ntp.pdf
+2025 예산요청 자료의 DRACO 종료 표현만으로 2026 모든 핵추진 중단 주장하지 않음. 최신 SR-1공식 사업과 NTP연구가 별개임을 반영. 특정 여행일수/효율2배=여행시간반감 미사용. 핵폭발추진과 구별, 민감 제작정보 없이 기관 공개 원리만 설명. 독립 한국판 초안이며 독립 검수 전. 3분은 집필 목표/낭독 실측 아님.

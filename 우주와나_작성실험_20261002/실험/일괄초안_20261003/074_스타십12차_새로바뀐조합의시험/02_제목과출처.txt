@@ -1,0 +1,16 @@
+제목: 스타십 12차는 왜 새로 시험해야 했을까?
+썸네일 1줄: 열두 번째 비행인데
+썸네일 2줄: 이 조합은 처음입니다
+
+원 소재: What Exactly Happened On SpaceX's TWELFTH Starship Test Flight!
+원 URL: https://www.youtube.com/watch?v=QLM7vme6NWk
+한국판 핵심: V3 우주선·부스터·새 랩터·새 발사대의 첫 통합 비행을 기존 경험과 새 검증의 관계로 설명. 원영상 대사를 보거나 전체 번역한 것이 아님.
+
+1차 출처 (2026-10-03 KST 확인):
+1. SpaceX, EU Prospectus, 2026-06-05, PDF 71·109쪽. 2026년 5월 12차에서 다음 세대 Starship/Super Heavy·Raptor 발전형·새 발사대 데뷔 확인. 특정 날짜나 개별 엔진 고장·착륙 결과·수정 조치를 이 문서의 종합 성과에서 가져오지 않음.
+https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf
+2. NASA, NASA, SpaceX Advance Wind Tunnel Tests for Starship Rocket, 2026-07-31. 2025년 말 풍동 시험, V3의 3개 확대 격자날개·추진 및 엔진부 외형·통합 hot stage 변화, 정상/비정상 공력 및 압력 자료의 비행 계산 사용. 기초 설명은 이를 바탕으로 한 일반 공학적 해설이며 해당 비행 센서 결과를 제시하지 않음.
+https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/nasa-spacex-advance-wind-tunnel-tests-for-starship-rocket/
+
+확인 한계: SpaceX flight-12/13 동적 페이지는 본문이 열리지 않아 세부 비행 결과를 확인하지 못함. 같은 접근을 반복하지 않고 공개 1차자료의 새 구성과 시험 필요성으로 기획 조정. 12차 정확 발사일·고장 수·원인·바다 도착 결과·모형 탑재체 수는 서술하지 않음. 7월 발표와 2025년 말 시험 시점 구분. 컴퓨터·우산 비교와 일반 제어/연결 설명은 이해를 위한 비유이며 실제 내부 사고 재구성이 아님.
+독립검수 전 초안. 3분은 작성 목표이며 낭독 길이 아님. 공식 상세 접근 지연 및 맥락 압축을 포함한 실측 기록 유지. 원지침 파일 변경 없음.

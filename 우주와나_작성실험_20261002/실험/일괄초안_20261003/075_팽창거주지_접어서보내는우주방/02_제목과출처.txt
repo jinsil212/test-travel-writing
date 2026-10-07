@@ -1,0 +1,23 @@
+제목: 화성에 보낼 집은 왜 접어서 만들까요?
+썸네일 1줄: 로켓에서는 작게
+썸네일 2줄: 우주에서는 큰 방으로
+원 소재: Why Inflatable Habitats Are The Key To A Mars Colony!
+원 URL: https://www.youtube.com/watch?v=Od_E2O-YHN8
+독립 한국판 핵심: 운반 부피와 사용 공간의 충돌을 접힌 외벽이 어떻게 바꾸는가. BEAM 실제 시험과 화성 적용의 남은 질문. 79번 의도적 파열 시험과 별도.
+
+1차 출처 (2026-10-03 KST 확인):
+NASA BEAM 소개: 2016년 정거장 설치·5/28팽창·6/6첫 진입과 기술 실증 목적.
+https://www.nasa.gov/international-space-station/bigelow-expandable-activity-module-beam/
+NASA, BEAM Successfully Installed, 2016-04-16: Dragon 운반 및 정거장 설치, 줄어드는 운반 부피.
+https://www.nasa.gov/blogs/spacestation/2016/04/16/beam-successfully-installed-to-the-international-space-station/
+NASA, Expansion Underway, 2016-05-27: 초기 압력 증가에도 예상 크기 증가가 나타나지 않은 사실. 원인 추정은 넣지 않음.
+https://www.nasa.gov/blogs/spacestation/2016/05/27/bigelow-expandable-activity-module-expansion-underway/
+NASA, Expanded to Full Size, 2016-05-28: 짧게 나눈 공기 공급과 지상 압력 감시.
+https://www.nasa.gov/blogs/spacestation/2016/05/28/beam-expanded-to-full-size/
+NASA, Inspecting the Space Station’s Expandable Habitat, 2016: 방사선 장비와 표면 미생물 시료 조사.
+https://www.nasa.gov/image-article/inspecting-space-stations-expandable-habitat/
+NASA NTRS, Final Report on Radiation Measurements Performed Inside of the BEAM Module, 2024-09-05: 2016년 이후 측정 자료를 다룬 보고서 존재. 다른 임무 환경의 방호성능 수치로 단정하지 않음.
+https://ntrs.nasa.gov/citations/20240011436
+
+설명과 한계: 압력·온도·부피 관계, 연결부·장비 배치·화성 지지 및 수리 질문은 일반 물리·설계 설명이며 BEAM에서 화성 적용까지 실증했다는 주장이 아님. 시험 당시 출입과 독립 장기 거주를 구분. 현재 정거장 운영 상태나 특정 화성 계획 일정은 서술하지 않음. 실제 다층 재료 상품명/두께/충돌·방사선 성능 수치 불포함.
+독립검수 전 순수 낭독 초안. 소재 차용 독립 한국판이며 원영상 전체 번역 아님. 3분은 집필 목표로 음성 시간 실측 아님. 원지침 변경 없음.

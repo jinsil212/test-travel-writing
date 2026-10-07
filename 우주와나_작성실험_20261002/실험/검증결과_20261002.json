@@ -7,5 +7,66 @@
   "native_config_json_toml_and_launcher": "valid",
   "installed_hook_synthetic_event_cases": 5,
   "native_runtime_activation": "not_verified; project/definition trust required",
-  "manuscript_quality_trial": "not_started"
+  "manuscript_quality_trial": "not_started",
+  "details_revision": {
+    "source_split": {
+      "mode": "check",
+      "source_blocks": 363,
+      "assigned_blocks": 360,
+      "excluded_other_channel_blocks": 3,
+      "unassigned_applicable_blocks": 0,
+      "packets": 9
+    },
+    "actual_rule_snapshot_files": 26,
+    "native_definitions_syntax_verified": 7,
+    "embedded_role_guides_match": true,
+    "original_experiment_sources_unchanged": true,
+    "unit_tests": 25,
+    "unit_tests_exit": 0,
+    "tests_log": "test_ask_choice_guard (test_pipeline.PipelineTests.test_ask_choice_guard) ... ok\ntest_ask_phase_choices_independent_and_reselection_invalidates (test_pipeline.PipelineTests.test_ask_phase_choices_independent_and_reselection_invalidates) ... ok\ntest_auto_complete (test_pipeline.PipelineTests.test_auto_complete) ... ok\ntest_changed_roster_cannot_merge_independent_reviewers (test_pipeline.PipelineTests.test_changed_roster_cannot_merge_independent_reviewers) ... ok\ntest_draft_mutation (test_pipeline.PipelineTests.test_draft_mutation) ... ok\ntest_fail_blocks_next (test_pipeline.PipelineTests.test_fail_blocks_next) ... ok\ntest_final_requires_every_numbered_criterion (test_pipeline.PipelineTests.test_final_requires_every_numbered_criterion) ... ok\ntest_flow_cannot_self_certify_factual_criteria (test_pipeline.PipelineTests.test_flow_cannot_self_certify_factual_criteria) ... ok\ntest_hook_absolute_windows_path_from_outside_scope (test_pipeline.PipelineTests.test_hook_absolute_windows_path_from_outside_scope) ... ok\ntest_hook_raw_shell_and_patch_blocked (test_pipeline.PipelineTests.test_hook_raw_shell_and_patch_blocked) ... ok\ntest_hook_read_subcommand_blocked (test_pipeline.PipelineTests.test_hook_read_subcommand_blocked) ... ok\ntest_invalid_evidence (test_pipeline.PipelineTests.test_invalid_evidence) ... ok\ntest_missing_dependency (test_pipeline.PipelineTests.test_missing_dependency) ... ok\ntest_mutated_role_packet_blocks_reuse (test_pipeline.PipelineTests.test_mutated_role_packet_blocks_reuse) ... ok\ntest_new_execution_rejects_stale_source_packets (test_pipeline.PipelineTests.test_new_execution_rejects_stale_source_packets) ... ok\ntest_path_traversal (test_pipeline.PipelineTests.test_path_traversal) ... ok\ntest_prepare_reference_mutation_after_write (test_pipeline.PipelineTests.test_prepare_reference_mutation_after_write) ... ok\ntest_prepare_required (test_pipeline.PipelineTests.test_prepare_required) ... ok\ntest_required_checks_cannot_all_be_na (test_pipeline.PipelineTests.test_required_checks_cannot_all_be_na) ... ok\ntest_review_requires_target_evidence (test_pipeline.PipelineTests.test_review_requires_target_evidence) ... ok\ntest_role_detail_reading_is_required (test_pipeline.PipelineTests.test_role_detail_reading_is_required) ... ok\ntest_rule_mutation (test_pipeline.PipelineTests.test_rule_mutation) ... ok\ntest_self_review (test_pipeline.PipelineTests.test_self_review) ... ok\ntest_stage_review_requires_writers_detail_reading (test_pipeline.PipelineTests.test_stage_review_requires_writers_detail_reading) ... ok\ntest_upstream_review_mutation (test_pipeline.PipelineTests.test_upstream_review_mutation) ... ok\n\n----------------------------------------------------------------------\nRan 25 tests in 75.073s\n\nOK\n",
+    "native_runtime_activation": "not_verified",
+    "manuscript_quality_trial": "not_started",
+    "installed_snapshot_files": 26,
+    "installed_hashes_match_tested_candidate": true
+  },
+  "overlap_audit": {
+    "source_sha256": {
+      "_대본지침서.md": "daa401ec7b60c19584c9433581f58860b9f57417179b93f4c1c7ff167939dce4",
+      "우주와나/채널설정.md": "1ce6065eb4b9c9f99a4db260f4be291acc5e537ca972546d0a43fff350bc5ac5",
+      "우주와나/수정·선택 사례.md": "7957fc1c03abb217a2665b62c791e9007dd19a76c9dee0a10247da6a3fe09827",
+      "우주와나/분석지/_원고쓰는법.md": "cc6ec4a9f317e809a4b64c77ee60c7d4a2bb7add69e9e87e5349861567c84d74",
+      "우주와나/분석지/_검수기준서.md": "e36660e12c796d1734ecd1a786193b11654eec3d5d0be777e846e653e12df85d"
+    },
+    "source_blocks": 363,
+    "assigned_blocks": 360,
+    "excluded_other_channel_blocks": 3,
+    "common_own_overlap": {
+      "coordinator": [],
+      "research": [],
+      "plan": [],
+      "package": [],
+      "opening": [],
+      "body": [],
+      "fact_review": [],
+      "flow_review": []
+    },
+    "original_block_responsibilities_preserved": true,
+    "original_text_blocks_preserved": true,
+    "native_definitions_reference_current_guides": 7,
+    "source_check": {
+      "mode": "check",
+      "source_blocks": 363,
+      "assigned_blocks": 360,
+      "excluded_other_channel_blocks": 3,
+      "unassigned_applicable_blocks": 0,
+      "packets": 9
+    },
+    "rule_snapshot_files": 26,
+    "pipeline_code_changed": false,
+    "native_activation": "not_verified",
+    "manuscript_trial": "not_started",
+    "installed_snapshot_files": 26,
+    "installed_hashes_match_verified_candidate": true,
+    "backup": "실험/중복정리전_20261002_135223"
+  }
 }

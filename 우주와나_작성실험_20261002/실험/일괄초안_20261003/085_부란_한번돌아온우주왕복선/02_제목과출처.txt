@@ -1,0 +1,21 @@
+제목: 자동으로 돌아온 소련 우주왕복선은 왜 한 번만 날았을까?
+썸네일 1줄: 사람 없이 돌아왔지만
+썸네일 2줄: 다음 비행은 없었습니다
+원 소재: What Actually Happened to the Soviet Space Shuttle
+원 URL: https://www.youtube.com/watch?v=nSuxE98EnpE
+한국판: 1988실제1회무인귀환 성과와지속운용조건의차이. 단일경제·정치원인단정없음.
+
+1차/기관발행 출처,2026-10-03 KST 확인:
+NASA발행체르토크회고,SP4110Vol4,PDF618·621·650–653.1988-11-15무인2회전/자동활주로귀환,첫마지막비행,발사Energiya및Buran외탑재물설계구분,많은조직참여·이후지원정책에관한참여자평가. 미래성과나비용우열의저자개인의견은확정사실로서술안함.
+https://www.nasa.gov/wp-content/uploads/2023/04/sp-4110-vol4.pdf
+ESA,Buran1988launch사진및2002소개:동일형태와발사로켓구분용.사진촬영일과소개게시일구분.
+https://www.esa.int/ESA_Multimedia/Images/2021/01/1988_launch_of_Soviet_Buran_shuttle
+https://www.esa.int/ESA_Multimedia/Images/2002/05/Buran
+NASA,ExploringtheUnknownVol4/1986–1990Chronicle공식검색:자동비행무인,all-liquidEnergia.전문접근오류로세부탱크/노즐수불포함.
+https://www.nasa.gov/wp-content/uploads/2023/04/sp-4407-etuv4.pdf
+https://www.nasa.gov/wp-content/uploads/2023/04/1986-1990.pdf
+NASA/TP2010-216131공식검색:미국shuttle주추진/고체부스터vsEnergia액체추진배치구분.이전PDF링크는역사목록으로리다이렉트되어비공개수치나세부장비설명으로확장안함.
+https://www.nasa.gov/history/johnson-history-resources/
+
+확인 한계:2002격납고붕괴는기관1차본문으로직접확인하지못해본문에서제외.미확인사망수/정확사고일/원인/현전시실물신분주장없음.실제한회궤도비행과지상아날로그/모형구분.단일'소련해체때문'설명금지,1991시점과1988비행나눔.재사용정비·유인생활검증·계속운용조건은일반해설,실제부란정비소요/비용측정처럼쓰지않음.사진제작시비행품/시험품/모형캡션확인필수.
+독립검수 전초안.소재차용독립한국판,원영상전체번역아님.3분집필목표이며낭독시간아님.원지침변경없음.

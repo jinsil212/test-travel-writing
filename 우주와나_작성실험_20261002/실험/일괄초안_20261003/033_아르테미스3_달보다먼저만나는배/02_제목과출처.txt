@@ -1,0 +1,16 @@
+제목: 아르테미스3는 이제 달에 착륙하지 않습니다 | 지구 주위에서 먼저 해야 할 시험
+썸네일 2줄:
+달보다 먼저
+두 우주선이 만납니다
+원소재: https://www.youtube.com/watch?v=OqpFjr8au2E / What Will Actually Happen on Artemis 3
+독립 한국판 초안, 전체 번역 아님. 독립검수 전, 실사 미확보. 원소재 옛 계획을2026 최신 상태로 교정.
+최신 확인:2026-10-03 KST. 실제 임무 완료 아님, NASA 현재 계획2027 저궤도 시험·IV부터 후속 착륙.
+1. 현재 임무 공식 https://www.nasa.gov/mission/artemis-iii/ — 저궤도 목표·2027·착륙IV부터.
+2. NASA2026-02 구조 변경 https://www.nasa.gov/news-release/nasa-adds-mission-to-artemis-lunar-program-updates-architecture/ — III 시험 임무 추가/변경, IV 착륙 목표. 날짜는 목표.
+3. NASA2026-05-13(05-15clarification) https://www.nasa.gov/missions/artemis/artemis-3/nasa-outlines-preliminary-artemis-iii-mission-plans/ — 본문 직접 확인. 추진 없는 spacer, 서비스 모듈 원형화, 장기 체류·귀환 열차폐 시험 계획.
+4. NASA2026-07-15 https://www.nasa.gov/directorates/esdmd/artemis-campaign-development-division/human-landing-system-program/how-nasas-artemis-iii-lander-test-will-pave-way-for-moon-landings/ — 본문 직접 확인. 별도 발사, Starship V3 도킹/제어·통신 시험 및 승무원 진입 안 함, Blue Moon 승무원실·최대2진입/우주복질량 모사. 초기기사 모호함 대신 최신구체구분.
+5. NASA2026-06-09 https://www.nasa.gov/news-release/nasa-marches-toward-artemis-iii-mission-in-2027-names-crew-members/ — 승무원 임무 준비/운영 협업 계획. 명단·기간 확정 숫자 본문 제외.
+6. NASA2026-08-05 https://www.nasa.gov/blogs/missions/2026/08/05/nasa-joins-artemis-iii-orion-modules-rocket-hardware-update/ — 최신 하드웨어 준비 중, 서비스모듈/승무원모듈 기능. 개발 완료나 비행성공 주장 안 함.
+한정: 모든 동사는 발표된 계획 범위. 달표면 우주복 실제 월면시험으로 표현 안 함. 도킹과 내부 진입 구분. 시제기능을 최종 달착륙선 전체 검증으로 확대 안 함. 저궤도 성공과 달 실증 구분. 도킹제어/발사 상호 의존 설명은 일반 공학. 시험 일정 변경 가능하므로 게시 직전 재확인.
+제작:2026 NASA/회사 도킹 그림은 artist concept 표시, 실제 비행 영상으로 제시 금지. 기관 원본별 크레딧 조건 확인.
+시간: 집필3분 목표 실측은 진행목록. 낭독·TTS 미측정, 음성3분 아님.

@@ -23,18 +23,23 @@ class PipelineTests(unittest.TestCase):
         p.GUIDES = self.root / '지침' / '에이전트'
         guides = ['_대본지침서.md', '우주와나/채널설정.md', '우주와나/수정·선택 사례.md',
                   '우주와나/분석지/_원고쓰는법.md', '우주와나/분석지/_검수기준서.md',
-                  '지침/운영.md'] + ['지침/에이전트/' + n for n in set(p.ROLES.values())]
+                  '지침/운영.md', '지침/에이전트/06_독립검수.md', p.COMMON_DETAIL, p.DETAIL_ROUTING] + list(set(p.DETAILS.values())) + ['지침/에이전트/' + n for n in set(p.ROLES.values())]
         self.bench = '우주와나/분석지/001_견본/원문.txt'
         self.sample = '우주와나/_합격원고/견본/01_대본.txt'
         for name in guides + [self.bench, self.sample]:
             self.put(name, '견본 구절. ' + '참고 내용 ' * 100)
+        self.put(p.DETAIL_INDEX, {'source_sha256': {f: p.sha(self.root / f) for f in p.SOURCE_FILES},
+            'routing_sha256': p.sha(self.root / p.DETAIL_ROUTING),
+            'packets': {f: p.sha(self.root / f) for f in set(p.DETAILS.values()) | {p.COMMON_DETAIL}}})
         self.actors = {role: 'agent-' + role for role in p.ROLES}
         self.put('actors.json', self.actors)
         self.put('request.md', '사용자 요청: 한 편 시험')
         self.call('init', actors='actors.json', request='request.md', mode='AUTO', parts=1, max_minutes=None)
         self.ep = p.episode('test')
         for role in p.ROLES:
-            files = ['지침/에이전트/' + p.ROLES[role], '지침/운영.md', '우주와나/채널설정.md', '우주와나/수정·선택 사례.md', '_대본지침서.md']
+            files = p.required_readings(role)
+            if role == 'review':
+                files += list(set(p.DETAILS.values())) + ['지침/에이전트/' + n for n in set(p.ROLES.values())]
             self.put('reading.json', [{'file': f, 'quote': '견본 구절.', 'application': '이번 단계 적용'} for f in files])
             self.call('read-record', role=role, actor=self.actors[role], input='reading.json')
 
@@ -68,11 +73,17 @@ class PipelineTests(unittest.TestCase):
         key = key or stage
         target = self.ep / p.file_for(stage)
         relative = str(target.relative_to(self.root))
-        return {'verdict': 'PASS', 'unresolved': [], 'artifact_sha256': p.sha(target),
+        result = {'verdict': 'PASS', 'unresolved': [], 'artifact_sha256': p.sha(target),
             'selection': {'source': 'worker', 'reason': '비교 선정'},
             'checks': {k: {'status': 'PASS', 'reason': '원고 대조', 'evidence':
                 [{'file': relative, 'quote': '실제 원고 구절.', 'sha256': p.sha(target)}]}
                 for k in p.criteria(key if stage == 'final' else 'part' if stage.startswith('part_') else stage)}}
+        fact_path = self.ep / 'review_final_fact.json'
+        if key == 'final_flow' and fact_path.exists():
+            result['fact_review_reference'] = {'actor': self.actors['fact_review'],
+                'artifact_sha256': p.sha(target), 'receipt_sha256': p.sha(fact_path),
+                'checks': ['claims_sources', 'numbers_conditions', 'future_hypothesis']}
+        return result
 
     def review(self, stage, key=None, payload=None, actor=None):
         key = key or stage
@@ -87,6 +98,75 @@ class PipelineTests(unittest.TestCase):
                 self.review(stage, key)
             if stage == stop:
                 break
+
+    def test_lazy_roster_and_independent_review(self):
+        p.validate_roster({'coordinator': 'root'})
+        with self.assertRaises(p.GateError):
+            p.validate_roster({'coordinator': 'root', 'plan': 'same', 'review': 'same'})
+        with self.assertRaises(p.GateError):
+            p.validate_roster({'coordinator': 'root', 'fact_review': 'same', 'flow_review': 'same'})
+
+    def test_roster_addition_and_reassignment_guard(self):
+        state=p.load(self.ep / 'state.json')
+        state['actors']={'coordinator': self.actors['coordinator']}
+        p.save(self.ep / 'state.json', state)
+        self.put('addition.json', {'plan': 'new-plan'})
+        self.call('roster', actor=self.actors['coordinator'], actors='addition.json')
+        self.assertEqual(p.load(self.ep / 'state.json')['actors']['plan'], 'new-plan')
+        self.put('addition.json', {'plan': 'replacement'})
+        with self.assertRaises(p.GateError):
+            self.call('roster', actor=self.actors['coordinator'], actors='addition.json')
+
+    def test_role_detail_reading_is_required(self):
+        record = p.load(self.ep / 'read_research.json')
+        record['files'].pop(p.DETAILS['research'])
+        p.save(self.ep / 'read_research.json', record)
+        with self.assertRaisesRegex(p.GateError, '열람 기록 누락'):
+            self.call('check', stage='research')
+
+    def test_mutated_role_packet_blocks_reuse(self):
+        self.put(p.DETAILS['research'], '변경된 역할별 원문')
+        with self.assertRaisesRegex(p.GateError, '지침 변경'):
+            self.call('check', stage='research')
+
+    def test_new_execution_rejects_stale_source_packets(self):
+        self.put('우주와나/채널설정.md', '새 사용자 지침')
+        with self.assertRaisesRegex(p.GateError, '원문 묶음 갱신'):
+            p.run(SimpleNamespace(action='init', episode='newtest', actors='actors.json',
+                request='request.md', mode='AUTO', parts=1, max_minutes=None))
+        self.assertFalse(p.episode('newtest').exists())
+
+    def test_changed_roster_cannot_merge_independent_reviewers(self):
+        state = p.load(self.ep / 'state.json')
+        state['actors']['flow_review'] = state['actors']['fact_review']
+        p.save(self.ep / 'state.json', state)
+        with self.assertRaisesRegex(p.GateError, '서로 달라야'):
+            self.call('status')
+
+    def test_final_requires_every_numbered_criterion(self):
+        self.complete_through('closing')
+        self.write('final')
+        payload = self.payload('final', 'final_flow')
+        payload['checks'].pop('criterion_25')
+        with self.assertRaisesRegex(p.GateError, 'criterion_25'):
+            self.review('final', key='final_flow', payload=payload)
+
+    def test_stage_review_requires_writers_detail_reading(self):
+        self.write('research')
+        record = p.load(self.ep / 'read_review.json')
+        record['files'].pop(p.DETAILS['research'])
+        p.save(self.ep / 'read_review.json', record)
+        with self.assertRaisesRegex(p.GateError, '열람 기록 누락'):
+            self.review('research')
+
+    def test_flow_cannot_self_certify_factual_criteria(self):
+        self.complete_through('closing')
+        self.write('final')
+        self.review('final', key='final_fact')
+        payload = self.payload('final', 'final_flow')
+        payload.pop('fact_review_reference')
+        with self.assertRaisesRegex(p.GateError, '독립 사실 판정 참조'):
+            self.review('final', key='final_flow', payload=payload)
 
     def test_auto_complete(self):
         self.complete_through()
@@ -206,7 +286,7 @@ class PipelineTests(unittest.TestCase):
         for stage in ['research', 'plan', 'package', 'opening']:
             self.write(stage)
             payload = self.payload(stage)
-            if stage != 'research':
+            if stage in ('plan', 'opening'):
                 quote = stage + ' 1안을 선택합니다'
                 self.put('choice.md', quote)
                 self.call('decision', stage=stage, actor=self.actors['coordinator'], input='choice.md')

@@ -1,0 +1,191 @@
+[
+  {
+    "actor": "/root/plan",
+    "file": "_대본지침서.md",
+    "quote": "설명을 쉽게 만들기 전에 그 설명 자체가 필요한지 먼저 검사한다.",
+    "application": "3안의 각 설명 단위에 삭제 시험과 후속 의존 문장을 남긴다. 공식 사실의 같은 질문에 필요한 과정으로 최소10분을 설계한다.",
+    "sha256": "daa401ec7b60c19584c9433581f58860b9f57417179b93f4c1c7ff167939dce4",
+    "scope": "전문; 긴 원문은 출력 분할 및 잘린 구간 재열람",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "우주와나/채널설정.md",
+    "quote": "배경이 세운 상식과 사건의 결과를 같은 말로 잇는다.",
+    "application": "안마다 배경·사건의 대상과 동사를 통일하고 엔진 정지/궤도 진입/귀환 같은 다른 결과의 관계를 처음 듣는 사람에게 풀어 쓴다.",
+    "sha256": "1ce6065eb4b9c9f99a4db260f4be291acc5e537ca972546d0a43fff350bc5ac5",
+    "scope": "전문; 긴 원문은 출력 분할 및 잘린 구간 재열람",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "우주와나/수정·선택 사례.md",
+    "quote": "원본의 7갈래 공사 순서를 따르지 않고",
+    "application": "참고 영상의 모든 시험 이벤트를 담지 않고 각 후보가 약속한 질문에 필요한 사건·조건만 남긴다. 기존 특정편 기획 위임을 이번편 AUTO 위임으로 쓰지 않는다.",
+    "sha256": "7957fc1c03abb217a2665b62c791e9007dd19a76c9dee0a10247da6a3fe09827",
+    "scope": "전문; 긴 원문은 출력 분할 및 잘린 구간 재열람",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "우주와나/분석지/_원고쓰는법.md",
+    "quote": "그 장치가 하는 일",
+    "application": "011/016/017의 실제 전개 기능을 검증된 새 사실과 연결하고 장치·반전·숫자 수는 강제하지 않는다.",
+    "sha256": "cc6ec4a9f317e809a4b64c77ee60c7d4a2bb7add69e9e87e5349861567c84d74",
+    "scope": "전문; 긴 원문은 출력 분할 및 잘린 구간 재열람",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "우주와나/분석지/_검수기준서.md",
+    "quote": "핵심 주제와 핵심 답",
+    "application": "기획에서 한 질문과 끝답의 계약을 정해 도입·본문 담당이 변경하지 않도록 넘긴다. 독립 검수자가 직접 수정할 수 없음을 유지한다.",
+    "sha256": "e36660e12c796d1734ecd1a786193b11654eec3d5d0be777e846e653e12df85d",
+    "scope": "전문; 긴 원문은 출력 분할 및 잘린 구간 재열람",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "지침/운영.md",
+    "quote": "기본 ASK.",
+    "application": "조사 PASS 뒤에만 기획 집필하며 기획3안 선택 전 포장 정식 후보·도입·본문을 작성하지 않는다.",
+    "sha256": "fba988aff41fb951a820a9f7c97a2a470b8f4f1bed7f4a5d0feef1166960d4c7",
+    "scope": "전문; 긴 원문은 출력 분할 및 잘린 구간 재열람",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "지침/에이전트/02_기획.md",
+    "quote": "안별 질문·흐름·답이 사실로 성립",
+    "application": "3안 질문·정보 공개 순서·마지막답을 차별화하고 화면3지점·10분재료를 실제 claim ID에 연결한다.",
+    "sha256": "10929bfad28b13822bc1213cf6b3dc74a227fe0b9532f8532e55ad154fdc2095",
+    "scope": "전문; 긴 원문은 출력 분할 및 잘린 구간 재열람",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "지침/세부지침/공통_원문.md",
+    "quote": "같은 원문 블록을 같은 버전으로 이미 전문 읽었으면",
+    "application": "같은 실행에서 실제 필수5개 전문을 읽은 기록을 block ID와 source 범위로 연결한다. packet_blocks.json111블록 원문 일치를 확인했다.",
+    "sha256": "72fd9415e96e62ae639565a4710bad80a2da723bb65966d9b14954eeb8eb9647",
+    "scope": "전문; 긴 원문은 출력 분할 및 잘린 구간 재열람",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "지침/세부지침/02_기획_원문.md",
+    "quote": "P0-15. 클릭한 이유에 필요한 내용만 남긴다",
+    "application": "같은 실행 전문 독서의 원문과109담당 블록을 대응한다. 실제 산출물에는 P0 하위·P5/P6/P7/P13/P15/P16/P17 요구를 개별 적용한다.",
+    "sha256": "e050242d4753ff99a2256b25878e463da64de0ba6c49229b123b1cbf242e29e4",
+    "scope": "전문; 긴 원문은 출력 분할 및 잘린 구간 재열람",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "우주와나/분석지/_색인.md",
+    "quote": "1편 관찰",
+    "application": "색인18행 전체 비교 후011/016/017선정. 실적은 저장시점 관찰, 인과효과는 미검증가설로 처리한다.",
+    "sha256": "5640cd2fb367d997536473d547253b86e655e2f04125f455acdca208b2e9bbe7",
+    "scope": "전문; 긴 원문은 출력 분할 및 잘린 구간 재열람",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "우주와나/분석지/011_파피루스/원문.txt",
+    "quote": "하지만 문제는 스캔한 자료로부터 텍스트를 검출하는 데 상당한 시간과 비용이 들었고 그렇게 검출한 텍스트를 해독하는 것 또한 쉽지 않았다는 것이다.",
+    "application": "스타십 시험의 목표→실제로 확인된 결과→남은 과제 관계를 설계할 때만 사용한다. 단순 실패 연표, 인용된 결심이나 공개 협업 반전 자체를 차용하지 않는다. 제목이 시험 결과를 약속하면 본문은 그 결과와 해석을 충분히 준다.",
+    "sha256": "e2e9480168d9729973913da55f886b3b194897603713fc77b9f926e9faccbd54",
+    "scope": "전문 독서 완료",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "우주와나/분석지/011_파피루스/분석지.md",
+    "quote": "계단의 마지막 칸만 기술이 아니라 사람이다.",
+    "application": "시도가 확인한 것과 아직 해결하지 못한 것을 구별하며, 남은 문제가 다음 방법의 필요성을 만드는 전개를 검토할 후보다. 피할 약점: 제목·썸네일이 약속한 \"내용\"이 본문의 17.6%뿐이다. 실적 인과효과는 가설이다.",
+    "sha256": "08c363d40dc6a9beffd9a3996f55edf2047e4df6bf476b2e91c8f81c20d586f3",
+    "scope": "전문 독서 완료",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "우주와나/분석지/016_노벨물리/원문.txt",
+    "quote": "단일 쿠퍼쌍이 가능하다면 수십억의 쿠퍼쌍이 만들어내는 전류 전체도 하나의 거대한 파동처럼 터널링할 수 있지 않을까?",
+    "application": "스타십의 새 결과가 이전 시험과 어떤 같은 기준에서 다른지 설명한다. 단조 증가 사다리를 강제하지 않고 시험 목표·조건이 다르면 그 차이를 밝힌다. 공식 용어·엔진 이름부터 열지 않고 실제 일과 의미로 설명한다.",
+    "sha256": "1b5b3a91ac6a932a287d1ec9d08f1f73bb8b9c28eb77cecb72948816fd99d89c",
+    "scope": "전문 독서 완료",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "우주와나/분석지/016_노벨물리/분석지.md",
+    "quote": "앞 계단들이 크기의 자를 만들어 주기 때문에 \"수십억\"이 커 보인다.",
+    "application": "최근 뉴스가 왜 의미 있는지를 이전에 확인된 범위와 새 시험의 차이로 납득시키는 후보다. 피할 약점: 첫 문장이 노벨상 발표라 놀람이 없다. 의아함도 4번 칸에 가서야 선다. 실적 인과효과는 가설이다.",
+    "sha256": "512895bbf8a5eefea671198da040cb01b5dd30f014f31936f99b1cff1673cfa0",
+    "scope": "전문 독서 완료",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "우주와나/분석지/017_암세포/원문.txt",
+    "quote": "그러나 치명적인 문제가 하나 있었다. 갈색 지방은 약 16도 이하의 낮은 온도에서만 활성화된다는 점이었다.",
+    "application": "시험 결과에서 무엇을 확인했으며 무엇은 아직 확인하지 못했는지 낭독문 조건에 붙인다. 연구상의 단서를 실제 운항 완성·일정 보장으로 바꾸지 않는다. 이전 실패와 이번 설계 변경의 인과는 공식 근거가 있을 때만 잇는다. 의학 수치·개인적 냉소 착지는 가져오지 않는다.",
+    "sha256": "bd7107e8f1f56d9276164532ce23f01de617c168b886ea334ac97e3fd2429c22",
+    "scope": "전문 독서 완료",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "우주와나/분석지/017_암세포/분석지.md",
+    "quote": "두 번의 실패가 각각 다음 칸의 문제 정의가 된다.",
+    "application": "실패의 원인이 다음 시도의 조건을 바꾸는 구조와 시험 단계·실제 적용의 차이를 검토할 후보다. 피할 약점: 동물 실험과 사람 사례 1건 단계의 연구다. 실적 인과효과는 가설이다.",
+    "sha256": "a06b5f6aef095a2545b38c5efcdb1f1602af29f24c52bafb224ec1467be00b49",
+    "scope": "전문 독서 완료",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "우주와나/_합격원고/보이저49년/01_대본.txt",
+    "quote": "이 속도로 7만 6천 년. 그럼 더 빨리 가면 되는 거 아닌가요?",
+    "application": "쉽게 풀어 준 결과에서 저절로 생길 반문을 받아, 다음 조건·원인을 구체적으로 설명하는 말투를 참고한다. 롱폼의 장벽 개수·분량·반전·마지막 예고를 새 편 기준으로 쓰지 않는다. 역사적 과학 사실은 조사 단계와 별도로 새 검증 전 재사용하지 않는다.",
+    "sha256": "ff2c46c1853df9226a595ab8d7c9d2fb777ce21716f8ac6fa0e0b8ffbaa1701d",
+    "scope": "전문 독서 완료",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "실험/입력/스타십14_20261002/sources/captions_en.txt",
+    "quote": "three historic accomplishments, all on a",
+    "application": "366구간 전문을 읽었다. 원본은 세 성과를 먼저 내놓고 발사·엔진 문제·궤도 결정·배치·귀환·미래 예측 순으로 전개한다. 원본 해석과 확인 사실을 분리하며 재구성의 비교 기준으로만 쓴다.",
+    "sha256": "945582f2dc0da729ada660dfdf042e49afd7e2276348b0cab34c27954c81f09a",
+    "scope": "전문 독서 완료",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "실험/입력/스타십14_20261002/sources/spacex_flight14.json",
+    "quote": "burning its remaining five engines for longer than planned",
+    "application": "공식 결과 9문단과 계획표를 전문 읽었다. 남은 엔진의 보상 연소와 후속 엔진 상태 확인, 궤도 삽입, 26기 배치와 통신, 엔진 문제를 고려한 체류 단축을 확인 사실로 연결한다. 계획표를 실제 시간으로 쓰지 않는다.",
+    "sha256": "232460784b1cb8aa8498c8f3d052a4a5ee8731d5803a3b0dcd96678f22efeef0",
+    "scope": "전문 독서 완료",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "실험/입력/스타십14_20261002/sources/nasa_orbits.txt",
+    "quote": "the object is always falling toward the planet, but because it's moving sideways fast enough, it never hits the planet.",
+    "application": "본문 전문을 읽었다. 높은 곳과 궤도 차이는 중력과 옆 방향 움직임의 관계만 보강한다. 이 편에 필요 없는 정지궤도 부수 설명은 제외한다.",
+    "sha256": "79fbf55a81df81a8bf233417e67f94ea8b1183202b0294cf2b7e48335ede7b3c",
+    "scope": "전문 독서 완료",
+    "quote_found": true
+  },
+  {
+    "actor": "/root/plan",
+    "file": "실험/에피소드/스타십14_20261002/research.md",
+    "quote": "상승 중 엔진 문제를 고려해 궤도 체류시간을 줄이고 북태평양 해역으로 귀환하기로 했다.",
+    "application": "조사 정본 전문을 읽었다. C03/C04/C05의 단계별 판단, C06/C07의 배치와 서비스 차이, C08/C09/C10의 체류 단축과 사전 귀환 경로를 후보의 근거 축으로 검토한다. 고장 원인·열관리 실제 원인·GO 반전·미래 일정은 검증 안 된 원본 해석으로 제외한다.",
+    "sha256": "5cdceee8d372d74b75e8e11e6bb0dfe3a3ee2736c6c7bd414e29d2aea9a6e07b",
+    "scope": "전문 독서 완료",
+    "quote_found": true
+  }
+]

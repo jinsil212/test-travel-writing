@@ -5,7 +5,7 @@
   "package": "실제생성된에이전트ID_package",
   "opening": "실제생성된에이전트ID_opening",
   "body": "실제생성된에이전트ID_body",
-  "review": "실제생성된에이전트ID_review",
+  "review": "실제생성된흐름검수에이전트ID",
   "fact_review": "실제생성된에이전트ID_fact_review",
-  "flow_review": "실제생성된에이전트ID_flow_review"
+  "flow_review": "실제생성된흐름검수에이전트ID"
 }

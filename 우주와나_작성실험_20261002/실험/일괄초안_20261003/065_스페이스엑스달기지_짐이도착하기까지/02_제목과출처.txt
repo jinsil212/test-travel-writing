@@ -1,0 +1,20 @@
+제목: 스타십이 달에 집을 보내려면? 착륙 전에도 끝내야 할 일들
+썸네일 1줄: 달에 닿기 전부터
+썸네일 2줄: 기지 운송은 시작됩니다
+원소재: How SpaceX Will Build The First Moon Base
+원영상: https://www.youtube.com/watch?v=cl_kfWNazLg
+기획: 건설·전력·일상생활 반복 없이 궤도 추진제 집합·저장·이송과 표면접근 승강기라는 운송 경로. 실제 완성 기지 아닌 SpaceX/NASA 지원 구상. 사람/화물/탱커/저장고 역할을 구분.
+공식 확인일: 2026-10-03 KST
+1. NASA OIG IG-26-004(2026-03-10) PDF10쪽/본문5쪽: Starship착륙선/탱커/저장고 역할, 추진제집합→착륙선보충→달주변확인→승무원전이 구상. 문서 당시 Artemis번호/수치·발사간격/횟수는 현재 확정 아닌 당시 계획이므로 본문 생략. 귀환은 Orion/lander구간 구분.
+https://oig.nasa.gov/wp-content/uploads/2026/03/final-report-ig-26-004-nasas-management-of-the-human-landing-system-contracts.pdf
+2. NASA TechPort project116764 공식 검색 본문: 탱크압력/열·유체·settling·transferline/receivingtank chilldown 등 궤도극저온이송 과제. 직접웹본문1줄이라 검색에서 확인한 과제 범위로 한정.
+https://techport.nasa.gov/projects/116764
+3. NASA ZBOT: 열유입→증발→압력증가, venting시 추진제손실, 냉각·혼합 관리연구. ZBOT작은유체시험≠SpaceX전체완성체계. 우주차가움≠자동무열유입.
+https://www.nasa.gov/glenn/glenn-expertise-space-exploration/physical-sciences-program/fluid-science/zero-boil-off-tank-zbot/
+4. NASA2023-12-21승강기모형: 실제지구시험, 전체축소모형/풀스케일basket·기계조작부, 우주복크기/동작제한모사, gate/ramp/cargospace/dynamic운용피드백. 실제달시험/현재완성비행하드웨어 아님. 당시 ArtemisIII/IV번호/일주일체류를 현시점확정으로 쓰지 않음.
+https://www.nasa.gov/image-article/nasa-astronauts-test-spacex-elevator-concept-for-artemis-lunar-lander/
+5. SpaceX공식Moon 검색본문: 장기달활동구성요소·큰화물착륙선구성 구상. 미실행목표로서만 서술, 100톤등성능숫자 제외.
+https://new.spacex.com/humanspaceflight/moon
+https://new.spacex.com/updates
+한계: 정확착륙연도·추진제옮김현재완료여부·반복공급횟수·최초기지누가완성단정없음. 도착→하역/가동→귀환의 필요한과정은 설계해설이며 특정 미발생성과가 아님. 원영상전체번역 아닌 독립한국판.
+독립사실·흐름검수전 순수초안. 3분은 작성목표이며 음성길이/목표달성보장없음.

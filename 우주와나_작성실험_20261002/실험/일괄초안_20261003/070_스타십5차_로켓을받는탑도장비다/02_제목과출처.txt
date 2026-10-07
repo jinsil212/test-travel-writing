@@ -1,0 +1,13 @@
+제목: 스타십 5차 시험, 로켓을 잡는 탑도 비행 장비입니다
+썸네일:
+두 팔이 받은 로켓
+진짜 맞춰야 할 것
+원 소재: What Exactly Happened On SpaceX's FIFTH Starship Test Flight!
+원 영상: https://www.youtube.com/watch?v=vypjY9EU04g
+한국판 핵심: 2024년 첫 슈퍼헤비 탑 포획의 공중·지상 시스템 연결, 상단 인도양 착수와 구별. 44번 첫 비행/62번 11차 해상 시험/66번 Falcon 정비와 별개. 전체 번역 아님.
+출처 확인일: 2026-10-03 KST
+NASA OIG IG-26-004 2026-03, PDF11~12쪽 https://oig.nasa.gov/wp-content/uploads/2026/03/final-report-ig-26-004-nasas-management-of-the-human-landing-system-contracts.pdf — 2024-10-13 5차 탑팔 포획 성공, 4차 제어 착수 이후 단계. 당시 보고서의 최신 총시험 횟수/향후 일정은 현재 주장으로 사용하지 않음.
+SpaceX 공식 5차 영상 소개 https://www.youtube.com/watch?v=hI9HQfCAw64 — 공식 verified SpaceX 설명의 2024-10-13 비행, 분리/스타십 대기권진입/flip/landingburn/인도양 목표 착수 확인. 영상 전부 번역 아님. 실시간 육안으로 전 단계 관찰했다고 주장하지 않음.
+NASA Ames 2024 연구 https://www.nasa.gov/general/nasa-ames-astrogram-september-october-2024/ — 1.2% 모형의 안정성/공기력/자세 시험. 실제 본문은 작게 만든 모형으로 표현. 2024 초 연구는 flight3 소프트웨어 및 후속 외형 개선에 쓰임; 5차 포획만을 위한 특정 수정이라고 연결하지 않음. 다른 엔진 단순화 원고의 2026V3 연구와 별개.
+해설/제약: 위치+속도+자세/탑 하중 분담은 기본 공학 설명, 비공개 제어알고리즘·포획허용치·연료량·정밀 엔진 수순 단정 없음. '탑이 빠르게 떨어지는 물체를 전부 멈춘다'는 오해 방지. 잡힌 부스터와 상단 구별. 재비행/즉시발사/유인 준비 완료로 확대하지 않음. 원제의 비행은 역사 사건이며 최근 비행으로 소개하지 않음.
+상태: 4000자 이상 초안, 독립검수 전. 원 지침 변경 없음. 3분은 집필 목표이며 음성 길이 아님.

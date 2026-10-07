@@ -1,0 +1,22 @@
+제목: 거대한 스타팩토리는 무엇을 만들까? | 공장 크기보다 중요한 로켓 제작의 흐름
+썸네일:
+건물만 크면 될까
+로켓이 완성되는 과정
+
+원소재: https://www.youtube.com/watch?v=RIh2UZH7hYA
+원제: Inside SpaceX's $3 Billion Starfactory
+기획: 원제30억달러 금액을 검증 없이 유지하지 않고 공개 시설 역할과 제조→통합→시험 흐름으로 재구성했습니다. 비공개 내부 공정 투어를 본 것처럼 쓰지 않습니다. 루이지애나 입지·로켓 발사비용 편과 별개로 제조망과 작업 단계가 중심입니다.
+1차 출처:
+https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf
+2026년6월5일 회사 공개 문서 4.3.11, PDF119~120쪽. Starfactory 제조 시설, 생산·공학 인력 배치, 수직 통합 건물의 확장 계획, Starbase 시험, Hawthorne 제조, McGregor 엔진 시험. 회사 주장으로 설명하며 생산 목표를 실측 생산으로 바꾸지 않았습니다.
+https://www.spacex.com/updates/reusability
+공개 개발 업데이트의 제조·통합 시설과 시험 시설 확장 설명. 고정 일일 생산 수량으로 변환하지 않았습니다.
+https://www.faa.gov/media/94341
+2025년 환경평가 요약에 Starfactory가 등장하며 Starbase 제조 시설의 존재를 별도 확인. 환경 허가가 공장 수율 검증이라는 뜻은 아닙니다.
+https://www.nasa.gov/reference/jsc-manufacturing-assembly-integration/
+일반 우주 하드웨어의 제조·통합·측정·검사·청정 관리 사례. NASA시설의 구체적 작업이 SpaceX에서도 동일하게 이루어진다고 주장하지 않습니다.
+https://www.nasa.gov/reference/space-launch-system-rs-25-core-stage-engine/
+부품 수·제조·검사 개선의 NASA 공개 사례. 스타팩토리의 비공개 생산법이 아니라 비교 개념.
+
+접근 한정: new.spacex.com 차량·업데이트 전문과 채용 상세는 직접 열기 실패/본문 없음. 회사의 공개 PDF에서 실제 역할을 확인했고 검색 요약은 보조로만 이용했습니다. 검증하지 않은30억달러·매일1대·완전자동화·수율·완공 상태 숫자는 본문에 없습니다. 통합 건물의 공개 미래 능력은 계획으로 설명했습니다. NASA 제조 사진을 스타팩토리 내부 실사로 쓰지 않으며 설명 그림은 예시로 표시합니다.
+상태: 독립 검수 전 순차 초안. 해외 영상 전체 번역이 아닌 소재 차용 한국어 독립 구성.3분은 작성 목표이며 낭독 길이가 아닙니다. 실제 작성 시간은 진행목록에 기록합니다.

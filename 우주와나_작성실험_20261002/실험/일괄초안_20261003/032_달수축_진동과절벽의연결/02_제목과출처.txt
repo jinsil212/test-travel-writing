@@ -1,0 +1,14 @@
+제목: 달이 줄어드는데 왜 눈에는 같을까? | 아폴로 진동과 절벽이 만난 이야기
+썸네일 2줄:
+조용한 달이 흔들린다
+오래된 기록의 새 연결
+원소재: https://www.youtube.com/watch?v=L5r9kxBrok8 / Something Weird Is Happening On The Moon..
+독립 한국판 초안, 전체 번역 아님. 독립검수 전, 실사 미확보.
+1. NASA 2019 연구 https://www.nasa.gov/news-release/shrinking-moon-may-be-generating-moonquakes/ — 본문 직접 확인. 수억 년 수십미터 수축, 취성 지각·역단층, 아폴로 얕은 월진 재위치, LRO 단층 가까운 일부 사건·시간 조석 관계. 관측과 해석 구분.
+2. NASA 월진 기본 https://science.nasa.gov/moon/moonquakes/ — 본문 직접 확인. 깊은 조석·얕은·충돌·열 변화 진동 구분, 느린 냉각 수축. 전체 월진 모두 단층 아님.
+3. NASA 2015 연구 https://www.nasa.gov/news-release/nasas-lro-discovers-earths-pull-is-massaging-our-moon/ — 단층 분포 방향에 수축과 지구 조석 영향. 검색 기관 설명 확인.
+4. NASA 2019 지형 연구 https://www.nasa.gov/missions/lro/study-finds-new-wrinkles-on-earths-moon/ — 오래된 지진 기록과 젊은 단층 관련, LRO의 지형 확인.
+5. NASA 2024 지역 평가 https://www.nasa.gov/solar-system/moon/shrinking-moon-causing-moonquakes-and-faults-near-lunar-south-pole/ — 남극 단층·월진·지형 안정성 연구. 임무 일정 배제.
+한정: 원제 최신 이상 현상을 특정 사건으로 조작 안 함. 발생 시각과 사진 취득 시기 다름, 미끄러짐 실시간 촬영 주장 없음. 지질학적 활동을 임무 중 필연 재난·확정 날짜 예보로 바꾸지 않음. 달 전체 수축과 겉보기 크기 구분. 특정 지역의 위험을 남극 전역 붕괴로 확대 안 함. 사진 조명·지형모델·관측망 설명은 일반 관측 원리.
+제작: LRO 원본 NASA/GSFC/Arizona State University 등 해당 이미지 크레딧 유지, 지형 기반 회전 영상은 시각화 표시. 관측 장비 없는 지역을 실측 월진 지도라고 표기하지 않음.
+시간: 집필3분 목표 실측은 진행목록. 낭독·TTS 미측정, 음성3분 아님.

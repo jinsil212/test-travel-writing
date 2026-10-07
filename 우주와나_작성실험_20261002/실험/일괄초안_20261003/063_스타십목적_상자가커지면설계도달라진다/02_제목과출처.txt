@@ -1,0 +1,17 @@
+제목: 스타십이 커지면 실을 물건도 달라질까? 로켓 안의 공간이 바꾸는 설계
+썸네일 1줄: 더 센 로켓보다
+썸네일 2줄: 더 큰 상자가 필요할 때
+원소재: The Real Reason SpaceX Is Building The Starship
+원영상: https://www.youtube.com/watch?v=WU0Es4XICOs
+기획: 비공개 동기 대신 공개한 큰 적재 공간이 화물 설계 선택에 미치는 영향. 웹의 접힘/전개 실제 사례와 구별된 미래 스타십 탑재 구상. 35비용/26재사용 시스템/66정비·재비행과 구분하며 가격비율·회전시간 사용 없음.
+공식 확인일: 2026-10-03 KST
+1. SpaceX 현재 공식 Starship 검색 본문: 사람/화물 지구궤도·달·화성 목표, 큰 적재함으로 여러 위성·대형 우주망원경·화물 운송 목표. 직접 웹페이지 fetch는 오류로 원시 세부 규격을 재현하지 않음.
+https://new.spacex.com/vehicles/starship
+2. SpaceX 2026-06-05 EU Prospectus PDF110쪽(인쇄98쪽): 큰 적재 공간·정거장 모듈/대형 망원경 목표, 두단 완전 신속 재사용 목표, 궤도 추진제 보충 예상 기능. 모든 수치/주당·시간당 재비행 기대는 달성값으로 쓰지 않음. 회사 문서의 미래 예상은 회사 목표로만 서술.
+https://content.spacex.com/cms-assets/FINAL_Documents%20and%20Updates/SpaceX%20-%20EU%20Prospectus%20%28Approved%20by%20Bafin%29%20-%20June%205%2C%202026.pdf
+3. NASA Webb Deployment: Ariane5에 접어 적재→우주 전개 성공, 거울/차양막과 해제장치·복잡한 단계·시험, 이후 냉각/정렬/교정. 스타십이 웹을 발사했다고 쓰지 않음. 웹이 접는 장치를 썼다는 사례와 미래 탑재물의 선택 여지를 구분.
+https://science.nasa.gov/mission/webb/deployment/
+4. NASA Webb Sunshield: 얇은5겹/접어 제한공간 보관, 진동음향 등 시험, 전개/팽팽하게 펴기. 부품개수·과장위험수치 복사하지 않고 구조 기능만 설명.
+https://science.nasa.gov/mission/webb/webbs-sunshield/
+한계: 2020 users guide는 현재 URL404라 현재 규격 근거로 사용 안 함. SpaceX 목표가 모두 현시점 달성되었다거나 큰 적재함이면 웹을 그대로 실을 수 있다고 주장 안 함. 질량/부피·분리·고정·환경 검증의 연결은 공학 해설이며 특정 미계약 미래 임무 확정 아님. 유명인 비공개 마음·숨은 동기 추정 없음. 가격·발사 횟수·정확 실측 화물량 최신 미확인으로 생략.
+원영상 전체 번역이 아닌 독립 한국판 초안. 독립 사실·흐름 검수 전. 3분은 작성 목표이며 음성 길이 또는 시간 달성 보장 없음.

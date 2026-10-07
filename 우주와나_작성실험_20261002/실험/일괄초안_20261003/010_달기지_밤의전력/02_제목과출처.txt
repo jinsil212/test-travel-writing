@@ -1,0 +1,15 @@
+제목: NASA가 달에 작은 원자로를 준비합니다 | 긴 밤에도 기지를 돌리려면?
+썸네일:
+달 기지에 찾아오는 긴 밤
+전기는 어떻게? 🌙
+소재: https://www.youtube.com/watch?v=zNv7o8wEJdc
+핵심: 달 장기거주 전력의 시간 문제. 달남극구덩이 기존 입지 질문과 구별하여 발전·저장·배전·개발상태에 집중.
+확인 자료:
+https://www.nasa.gov/news-release/nasa-department-of-energy-to-develop-lunar-surface-reactor-by-2030/
+https://www.nasa.gov/exploration-systems-development-mission-directorate/fission-surface-power/
+https://www.nasa.gov/lunar-surface-technology/
+https://www.nasa.gov/humans-in-space/fission-system-to-power-exploration-on-the-moons-surface-and-beyond/
+https://www.nasa.gov/centers-and-facilities/glenn/nasas-fission-surface-power-project-energizes-lunar-exploration/
+https://techport.nasa.gov/projects/155244
+https://www.nasa.gov/space-nuclear/
+기간 약2주는 많은 지역 기준, 극지 입지·조명 예외 구분. 핵분열/동위원소 전원 구별.2030=2026 발표 개발목표, 성공 보장 아님. 구자료10kW와40kW 시기 차이는 본문에서 출력 고정값으로 쓰지 않음.2018 지상시험/2022 설계선정/달 실증 구별. 원자로 상세 제작정보 없음. 독립 검수 미실시 초안, 원본 대사 번역 주장 없음.

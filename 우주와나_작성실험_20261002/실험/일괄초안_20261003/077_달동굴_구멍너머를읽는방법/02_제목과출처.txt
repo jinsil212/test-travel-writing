@@ -1,0 +1,19 @@
+제목: 달의 구멍 아래에 동굴이 있다는 건 어떻게 알았을까?
+썸네일 1줄: 안에는 못 들어갔는데
+썸네일 2줄: 동굴의 증거를 찾았습니다
+원 소재: NASA Isn't Telling Us Something About The Moon
+원 URL: https://www.youtube.com/watch?v=eJ3dsXP839U
+한국판: 은폐 의혹을 사실로 만들지 않고 공개 LRO 사진·레이더·열 관측이 서로 다른 질문을 푸는 과정. 지진/소용돌이/달 도시 수송과 별개.
+
+1차 출처, 2026-10-03 KST 확인:
+NASA Science, New Evidence Adds to Findings Hinting at Network of Caves on Moon, 2024-07-18. 2010 Mini-RF 자료 재분석·평온의 바다 pit 바닥부터 200ft 넘는 연장 증거·전체 규모 미확정·용암 통로 형성 설명. 수백 km 전체 네트워크를 확인한 것으로 서술하지 않음.
+https://science.nasa.gov/solar-system/new-evidence-adds-to-findings-hinting-at-network-of-caves-on-moon/
+NASA, LRO Finds Lunar Pits Harbor Comfortable Temperatures, 2022-07-26. Diviner 측정+모델, 특정 영구 그늘 구간 약17도, 동굴로 이어질 경우 온도 추정. 전체 달 동굴 온도로 일반화하지 않음.
+https://www.nasa.gov/solar-system/nasas-lro-finds-lunar-pits-harbor-comfortable-temperatures/
+NASA, Lunar Pits Could Shelter Astronauts, 2014-07-17. 입구 사진·벽의 층과 미래 탐사 질문.
+https://www.nasa.gov/solar-system/lunar-pits-could-shelter-astronauts-reveal-details-of-how-man-in-the-moon-formed/
+원 연구: Carrer et al., Nature Astronomy 2024, Radar evidence of an accessible cave conduit on the Moon below the Mare Tranquillitatis pit. 초록/기관 소개 범위 사용, 전문 접근 실패로 세부 모델값 미사용.
+https://www.nature.com/articles/s41550-024-02302-y
+
+한계/제작: 레이더는 동굴 내부 실사 사진이 아니며 60m는 연장 증거 범위이지 실측 전체 길이 아님. 압력·안정성·접근·통신·미래 과학은 적용 시 필요한 질문으로 서술, 이미 수행된 임무로 쓰지 않음. 17도=공기/물/안전/거주 완성 아님. NASA 은폐·외계 건축 주장 없음. 실사 이미지는 NASA 개별 이미지 크레딧 확인, 임의 동굴 내부 그림을 관측사진처럼 표시 금지.
+독립검수 전 초안. 원영상 전체 번역 아님. 3분은 집필 목표이며 낭독시간 아님. 원지침 변경 없음.

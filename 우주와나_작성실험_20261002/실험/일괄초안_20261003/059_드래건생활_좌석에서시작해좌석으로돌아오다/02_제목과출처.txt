@@ -1,0 +1,21 @@
+제목: 드래건 안에서는 어떻게 지낼까? 같은 좌석이 세 번 달라지는 이유
+썸네일 1줄: 여기서 먹고 자고
+썸네일 2줄: 다시 묶여 돌아옵니다
+원소재: Life Inside The SpaceX Dragon Capsule!
+원영상: https://www.youtube.com/watch?v=1QcVa71FWQA
+기획: 장기 정거장 생활과 구별하여, 발사 고정→궤도 생활→도킹 준비→귀환 고정의 선실 전환을 따라갑니다. 전체 영상 번역이 아닌 독립 한국판 초안입니다.
+공식 확인일: 2026-10-03 KST
+1. NASA Commercial Crew spacecraft: NASA 임무 최대 네 명, 자율 비행·승무원/관제 제어, 캡슐과 트렁크, 해상 착수.
+https://www.nasa.gov/humans-in-space/spaceships-and-rockets/commercial-crew-spacecraft/
+2. NASA 2020 탑승 절차: 처음 upright 좌석을 이후 reclined로 바꿈. 두 명 탑승은 Demo-2 당시 사례.
+https://blogs.nasa.gov/commercialcrew/2020/05/30/all-aboard-astronauts-ingress-crew-dragon/
+3. NASA Demo-2 비행책임자 인터뷰: 발 받침 보관, 우주복 착용 단계, 팬·음식·음료·화장실·수면, 궤도 조정 추진기, 다기관 도킹 절차, 귀환 전 좌석·항법·전력 확인. 2020 시험 사례를 모든 임무의 고정 시간표로 쓰지 않음.
+https://www.nasa.gov/podcasts/houston-we-have-a-podcast/spacex-demo-2/
+4. NASA 드래건 설명: 장갑 착용/미착용 터치스크린, 자동 및 수동 제어·훈련.
+https://blogs.nasa.gov/commercialcrew/2020/05/30/the-spacex-crew-dragon/
+5. NASA 실제 거주성 평가: 2020년 정거장 도킹 중 승무원 거주성 평가를 NASA 검색 본문에서 확인. 페이지 직접 열람은 현재 NASA 블로그 목록으로 리디렉션되어 상세 시험 인원·항목은 단정하지 않음.
+https://blogs.nasa.gov/commercialcrew/2020/07/22/astronauts-perform-habitability-assessment-of-spacex-crew-dragon-while-in-orbit/
+6. NASA Demo-2 귀환 설명: 기상·회수조건 선정, 재진입 전 트렁크 분리, 낙하산·착수 후 회수 절차. 당시 플로리다 특정 착수 장소를 현재 모든 임무의 장소로 일반화하지 않음.
+https://www.nasa.gov/humans-in-space/top-10-things-to-know-for-nasas-spacex-demo-2-return/
+한계: 최신 특정 임무의 승무원·소요시간·착수 해역을 서술하지 않음. 화장실 정확 위치·개인적 이용 감상·식단을 미확인으로 추가하지 않음. 정상 운영의 기능 전환을 설명한 초안이며 사고가 없다는 보장은 아님.
+독립 사실·흐름 검수 전 초안. 3분은 작성 목표이며 음성 낭독 3분 또는 작성 시간 달성을 보장한 표시는 아님.

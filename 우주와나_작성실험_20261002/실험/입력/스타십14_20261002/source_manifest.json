@@ -1,0 +1,60 @@
+{
+  "research_actor": "/root/research",
+  "sources": [
+    {
+      "source_id": "V01",
+      "file": "실험/입력/스타십14_20261002/sources/captions_en.txt",
+      "local_work_file": "work/space_research/captions_en.txt",
+      "url": "https://www.youtube.com/watch?v=G6TJ14AKhME",
+      "sha256": "945582f2dc0da729ada660dfdf042e49afd7e2276348b0cab34c27954c81f09a",
+      "bytes": 18012,
+      "checked_on": "2026-10-02",
+      "scope": "영어 자동자막 366구간 전문. 영상 전체 픽셀 미검토."
+    },
+    {
+      "source_id": "V01",
+      "file": "실험/입력/스타십14_20261002/sources/captions_en.json",
+      "local_work_file": "work/space_research/captions_en.json",
+      "url": "https://www.youtube.com/watch?v=G6TJ14AKhME",
+      "sha256": "f2888d828f5b910264b45d56d898702ede5dd5375279542022479359f5cedb28",
+      "bytes": 40112,
+      "checked_on": "2026-10-02",
+      "scope": "자동자막 원시 구간 배열."
+    },
+    {
+      "source_id": "V01",
+      "file": "실험/입력/스타십14_20261002/sources/player.json",
+      "local_work_file": "work/space_research/player.json",
+      "url": "https://www.youtube.com/watch?v=G6TJ14AKhME",
+      "sha256": "bcebcbd53b81b82b5180df6ee62b616f9e00395f61d37c3d7cfa7536db229e46",
+      "bytes": 222836,
+      "checked_on": "2026-10-02",
+      "scope": "공개 player 메타데이터. 길이878/879초 차이."
+    },
+    {
+      "source_id": "S01",
+      "file": "실험/입력/스타십14_20261002/sources/spacex_flight14.json",
+      "local_work_file": "work/space_sources/spacex_flight14.json",
+      "url": "https://content.spacex.com/api/spacex-website/missions/starship-flight-14",
+      "sha256": "232460784b1cb8aa8498c8f3d052a4a5ee8731d5803a3b0dcd96678f22efeef0",
+      "bytes": 15475,
+      "checked_on": "2026-10-02",
+      "scope": "공식 결과 paragraphs9개 전문. timeline은 계획값."
+    },
+    {
+      "source_id": "S02",
+      "file": "실험/입력/스타십14_20261002/sources/nasa_orbits.txt",
+      "local_work_file": "work/space_research/nasa_orbits.txt",
+      "url": "https://spaceplace.nasa.gov/orbits/en/",
+      "sha256": "79fbf55a81df81a8bf233417e67f94ea8b1183202b0294cf2b7e48335ede7b3c",
+      "bytes": 4717,
+      "checked_on": "2026-10-02",
+      "scope": "원문 본문 전문 확인. 중력/옆방향 운동 설명만 사용; GEO 부수설명 제외."
+    }
+  ],
+  "NASA_read_evidence": {
+    "quote": "because it's moving sideways fast enough, it never hits the planet",
+    "location": "How Do Objects Stay in Orbit?",
+    "application": "C12 궤도 설명에만 적용. 독립 공식물리 근거이며 이번 비행 속도/고도 근거는 아니다."
+  }
+}

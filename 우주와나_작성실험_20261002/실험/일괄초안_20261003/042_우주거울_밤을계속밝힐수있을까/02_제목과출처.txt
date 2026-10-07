@@ -1,0 +1,22 @@
+제목: 우주 거울로 밤을 밝힌 러시아 | 왜 도시의 조명이 되지는 못했을까?
+썸네일:
+밤에 내려온 햇빛
+거울만 크면 될까
+
+원소재: https://www.youtube.com/watch?v=ujWnpB5Wm5E
+원제: What Happened When The Soviets Launched A Giant Mirror Into Space
+기획: 실제 1993년 러시아 즈나먀 시험의 반사·회전 전개·이동하는 조명과 1999년 전개 손상을 중심으로, 시연과 지속 조명의 조건을 구분합니다. 소련이 1993년에 존재했던 것처럼 쓰지 않습니다.
+1차 출처:
+https://www.nasa.gov/wp-content/uploads/static/history/SP-4225/documentation/mhh/mirhh-part2.pdf
+Mir Hardware Heritage 138~139쪽(문서 PDF75~76쪽). 1993년2월4일 프로그레스M15 분리 후 전개, 약20m 반사판, 6분 시험, 유럽 통과. 질량은 자료별 대상 정의 차이 가능하여 쓰지 않았습니다.
+https://ntrs.nasa.gov/api/citations/20150006878/downloads/20150006878.pdf
+NASA 태양돛 기술 발표5번 PDF쪽. 약5km 조명 영역, 빠른 이동, 후속 전개 손상 요약. 초당8km 숫자는 설명상 필수 아니므로 본문 제외.
+https://www.esa.int/gsp/ACT/doc/ARI/ARI%20Study%20Report/ACT-RPT-MAD-ARI-05-4109a-SpaceWebs-KTH.pdf
+ESA 연구 보고서2.3절(PDF13~14쪽). 회전으로 펼치고 형태 유지, 1999년25m 버전 안테나 걸림. 상세 소프트웨어 원인은 본문 확대하지 않았습니다.
+https://www.nasa.gov/general/nasa-next-generation-solar-sail-boom-technology-ready-for-launch/
+빛의 압력과 반사막, 현대 복합재 지지 구조. 과거 즈나먀와 동일 설계라고 쓰지 않습니다.
+https://www.nasa.gov/smallspacecraft/what-is-acs3/
+태양돛의 광자 압력 및 전개 구조의 기본 원리.
+
+한정·제작 메모: 만월 몇 배 밝기·구름 아래 실제 지역별 밝기·경제성 수치를 확인하지 못해 쓰지 않았습니다. 밤새 도시가 밝혀지거나 극지 난방에 충분한 에너지를 공급했다고 주장하지 않습니다. 지표 조명과 반사판 자체의 가시성을 분리합니다. 1999년 실패와 기술 전개의 어려움으로 설명하며 취소 원인을 정치 음모로 만들지 않습니다. 재현 애니메이션은 실제 지표 촬영으로 표시하지 않습니다.
+상태: 독립 검수 전 순차 초안. 전체 원영상 번역이 아닌 독립 한국어 구성. 3분은 작성 목표이며 낭독 실측 시간이 아닙니다. 작성 실측은 진행목록에 기록합니다.

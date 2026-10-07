@@ -1,0 +1,28 @@
+제목 가안: NASA가 명왕성의 하트를 들여다봤습니다 | 얼어붙은 땅은 왜 계속 바뀔까?
+썸네일 가안:
+명왕성의 얼어붙은 하트
+왜 계속 바뀔까? 🧊
+
+다음 순서 소재: What NASA Found on Pluto / https://www.youtube.com/watch?v=1ozN_0gYTBk
+이번 속도시험은 채널 목록의 다음 소재를 골라 NASA 자료로 독립 작성한 초안이다. 원본 영상 대사·자막을 읽거나 번역했다는 의미가 아니다.
+사용자 요청: 그 다음주제로 써봐 3분안에 4천자.
+운영 지침 변경 없음. 기존 순차 관문 및 독립 검수 PASS 원고로 표시하지 않음.
+
+직접 확인한 NASA 자료:
+1. 임무 발사/통과 날짜, 플라이바이, 질소 빙하 해석
+https://astrobiology.nasa.gov/missions/new-horizons/
+2. 평원의 충돌구 미관측, 지형 경계, 2015년 초기 해석
+https://www.nasa.gov/news-release/nasas-new-horizons-discovers-frozen-plains-in-the-heart-of-plutos-heart/
+3. 2016년 질소 얼음 대류 모형. 액체 용암이나 움직임의 실시간 촬영으로 설명하지 않음.
+https://www.nasa.gov/solar-system/plutos-heart-like-a-cosmic-lava-lamp/
+4. 물 얼음 언덕의 주변 고지대 기원 가능성. 확정된 이동 경로로 쓰지 않음.
+https://www.nasa.gov/image-article/floating-hills-plutos-sputnik-planum/
+5. 약3500m 산, 통과 후 역광 사진, 다층 안개
+https://science.nasa.gov/resource/plutos-majestic-mountains-frozen-plains-and-foggy-hazes/
+6. 높은 지형의 메탄 서리와 성분 자료
+https://www.nasa.gov/general/plutos-methane-snowcaps-on-the-edge-of-darkness/
+7. 물 얼음 산 등 종합 발견 사항(검색 확인)
+https://www.nasa.gov/solar-system/five-years-after-new-horizons-historic-flyby-here-are-10-cool-things-we-learned-about-pluto/
+
+이번에 다루지 않은 것: 내부 바다 확정, 생명체, 2026년 질소 액체 연구, 임의의 표면 온도와 얼음 흐름 속도 수치.
+검수 상태: 작성자 초안. 출처 확인 및 기본 구분을 적용했으나 별도 담당의 독립 사실·흐름 검수 미실시.

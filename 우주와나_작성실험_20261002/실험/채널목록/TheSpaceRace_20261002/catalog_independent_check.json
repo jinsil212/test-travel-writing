@@ -1,0 +1,941 @@
+{
+  "reviewer": "/root/flow_review",
+  "scope": "카탈로그 데이터 독립 검토만. 편별 research 또는 원고 검수 관문 아님.",
+  "request": "Videos 탭에서 50만 이상 전체를 인기순 정리하고 전편 한국 시청자용 기획·대본을 순차 작성",
+  "inputs": [
+    {
+      "path": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\thespacerace_channel_raw.json",
+      "sha256": "0db15ac3e2c38cc2d935be80f8d17f2143f250c426e8dde9e7c86f594b112d4f"
+    },
+    {
+      "path": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\thespacerace_500k_catalog.json",
+      "sha256": "bd15cdb9969bb96380359f745c8b42a8ba9023e1ae599f7048f39a73bf7d46a4"
+    },
+    {
+      "path": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\existing_matches.json",
+      "sha256": "eb65df576345267cf0e4690ffab2e66495d9e30e3ed66cd8dca308e385b38182"
+    }
+  ],
+  "method": "저장된 raw 467개와 catalog 87개 및 개별 89개 JSON을 새로 전부 파싱하여 재산출·대조. 네트워크 재수집은 하지 않음.",
+  "checks": [
+    {
+      "check": "raw_count_and_unique",
+      "result": "일치",
+      "evidence": {
+        "entries": 467,
+        "playlist_count": 467,
+        "unique_ids": 467,
+        "last": "RMdn38HLUeQ"
+      }
+    },
+    {
+      "check": "detail_coverage_of_490000_candidates",
+      "result": "일치",
+      "evidence": {
+        "candidates": 89,
+        "files": 89,
+        "missing": []
+      }
+    },
+    {
+      "check": "all_89_individual_records",
+      "result": "일치",
+      "evidence": {
+        "records_checked": 89,
+        "records_with_issues": []
+      }
+    },
+    {
+      "check": "threshold_and_sort",
+      "result": "일치",
+      "evidence": {
+        "qualifying": 87,
+        "catalog": 87,
+        "minimum_exact_views": 505691,
+        "top": "FXF-nD4U5zk",
+        "bottom": "MK_SyGn84C4"
+      }
+    },
+    {
+      "check": "all_87_catalog_fields_match_individual_json",
+      "result": "일치",
+      "evidence": {
+        "fields_compared": "all fields except added rank",
+        "differences": []
+      }
+    },
+    {
+      "check": "members_excluded_and_preserved",
+      "result": "일치",
+      "evidence": {
+        "raw_missing_view_count": 17,
+        "availability_counts": {
+          "subscriber_only": 17
+        },
+        "excluded_count": 17
+      }
+    },
+    {
+      "check": "adjacent_490000_candidates",
+      "result": "일치",
+      "evidence": [
+        {
+          "id": "AhBlFei369g",
+          "flat": 492000,
+          "exact": 492117,
+          "qualifies": false
+        },
+        {
+          "id": "n2iz9KuFdMo",
+          "flat": 490000,
+          "exact": 490276,
+          "qualifies": false
+        }
+      ]
+    },
+    {
+      "check": "metadata_summary_and_errors",
+      "result": "일치",
+      "evidence": {
+        "errors": [],
+        "qualifying_count": 87,
+        "exact_candidates_count": 89
+      }
+    },
+    {
+      "check": "five_existing_URL_matches",
+      "result": "일치",
+      "evidence": [
+        {
+          "id": "Vrn5KEfXHW8",
+          "folders": [
+            "우주와나\\원고\\스타십정거장"
+          ],
+          "proofs": [
+            {
+              "path": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002\\우주와나\\원고\\스타십정거장\\기획3안.md",
+              "line": 3,
+              "quote": "- 요청(2026-09-19): “우주원고 쓰자 분량 20분 내외. 소재 https://www.youtube.com/watch?v=Vrn5KEfXHW8”"
+            },
+            {
+              "path": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002\\우주와나\\원고\\스타십정거장\\진행상태.md",
+              "line": 14,
+              "quote": "- 사용자 요청: “우주원고 쓰자 분량 20분 내외. 소재 https://www.youtube.com/watch?v=Vrn5KEfXHW8”"
+            }
+          ]
+        },
+        {
+          "id": "yemQjpTIU1k",
+          "folders": [
+            "우주와나\\원고\\행성9"
+          ],
+          "proofs": [
+            {
+              "path": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002\\우주와나\\원고\\행성9\\기획_핵심주제.md",
+              "line": 4,
+              "quote": "- 사용자 요청(원문): “우주원고 작성 시작 분량은 15~20분 사이. 3안 제시하지말고 가장좋은거로 추천해서 너가 아예 … 이런식으로 정해서보여줘바로시작할수잇게, 한국사람들 중학생이 이해할수잇을정도로 쉽게 푸는게 핵심이고 그대로 내용하는게 아니라 소재 차용해서. 원래 내용 다 담으려고하면 어려워지니 적당히” + 극한실화 1996 에베레스트의 ‘핵심 주제’ 네 칸 예시 + https://www.youtube.com/watch?v=yemQjpTIU1k"
+            },
+            {
+              "path": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002\\우주와나\\원고\\행성9\\진행상태.md",
+              "line": 15,
+              "quote": "- 사용자 요청: “우주원고 작성 시작 분량은 15~20분 사이. 3안 제시하지말고 가장좋은거로 추천해서 너가 아예” + 극한실화 에베레스트 ‘핵심 주제’ 네 칸 예시 + “이런식으로 정해서보여줘바로시작할수잇게, 한국사람들 중학생이 이해할수잇을정도로 쉽게 푸는게 핵심이고 그대로 내용하는게 아니라 소재 차용해서. 원래 내용 다 담으려고하면 어려워지니 적당히” + https://www.youtube.com/watch?v=yemQjpTIU1k (The Space Race 「There Is Another Planet In Our Solar System」 11:41)"
+            },
+            {
+              "path": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002\\우주와나\\원고\\행성9\\참고영상_정보.md",
+              "line": 3,
+              "quote": "- URL: https://www.youtube.com/watch?v=yemQjpTIU1k"
+            }
+          ]
+        },
+        {
+          "id": "FXF-nD4U5zk",
+          "folders": [
+            "우주와나\\원고\\목성속"
+          ],
+          "proofs": [
+            {
+              "path": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002\\우주와나\\원고\\목성속\\진행상태.md",
+              "line": 46,
+              "quote": "- 사용자 요청: 원본 링크(https://www.youtube.com/watch?v=FXF-nD4U5zk) + “우주원고 작성 시작 분량은 15~20분 사이. 3안 제시하지말고 가장좋은거로 추천해서 너가 아예” + 극한실화 에베레스트 편의 ‘핵심 주제’ 네 칸 예시 + “이런식으로 정해서보여줘 바로 시작할수잇게, 한국사람들 중학생이 이해할수잇을정도로 쉽게 푸는게 핵심이고 그대로 내용하는게 아니라 소재 차용해서. 원래 내용 다 담으려고하면 어려워지니 적당히”."
+            },
+            {
+              "path": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002\\우주와나\\원고\\목성속\\참고영상_정보.md",
+              "line": 7,
+              "quote": "| URL | https://www.youtube.com/watch?v=FXF-nD4U5zk |"
+            }
+          ]
+        },
+        {
+          "id": "iltPgUQiPtw",
+          "folders": [
+            "우주와나\\원고\\타이탄강바닥"
+          ],
+          "proofs": [
+            {
+              "path": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002\\우주와나\\원고\\타이탄강바닥\\진행상태.md",
+              "line": 57,
+              "quote": "- 사용자 요청: “우주원고 작성 시작 분량은 15~20분 사이. 3안 제시하지말고 가장좋은거로 추천해서 너가 아예” + 극한실화 에베레스트 ‘핵심 주제’ 네 칸 예시 + “이런식으로 정해서보여줘바로시작할수잇게, 한국사람들 중학생이 이해할수잇을정도로 쉽게 푸는게 핵심이고 그대로 내용하는게 아니라 소재 차용해서. 원래 내용 다 담으려고하면 어려워지니 적당히” + https://www.youtube.com/watch?v=iltPgUQiPtw (The Space Race 「What NASA Found on Titan」 16:17)"
+            },
+            {
+              "path": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002\\우주와나\\원고\\타이탄강바닥\\참고영상_정보.md",
+              "line": 7,
+              "quote": "| URL | https://www.youtube.com/watch?v=iltPgUQiPtw |"
+            }
+          ]
+        },
+        {
+          "id": "nOieMPrmans",
+          "folders": [
+            "우주와나\\원고\\화성가는길"
+          ],
+          "proofs": [
+            {
+              "path": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002\\우주와나\\원고\\화성가는길\\기획3안.md",
+              "line": 3,
+              "quote": "2026-09-19 사용자 요청: “우주원고 소재 https://www.youtube.com/watch?v=nOieMPrmans 20분”"
+            },
+            {
+              "path": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002\\우주와나\\원고\\화성가는길\\기획3안.md",
+              "line": 353,
+              "quote": "- 원본 영상: https://www.youtube.com/watch?v=nOieMPrmans (자막·정보·댓글은 `원본자료/`)"
+            },
+            {
+              "path": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002\\우주와나\\원고\\화성가는길\\진행상태.md",
+              "line": 43,
+              "quote": "- 사용자 요청: “우주원고 소재 https://www.youtube.com/watch?v=nOieMPrmans 20분”"
+            },
+            {
+              "path": "C:\\Users\\79420\\Documents\\테스트\\우주와나_작성실험_20261002\\우주와나\\원고\\화성가는길\\원본자료\\정보.md",
+              "line": 7,
+              "quote": "| 주소 | https://www.youtube.com/watch?v=nOieMPrmans |"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "individual_89_records": [
+    {
+      "id": "-6fmZ_Dt56o",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\-6fmZ_Dt56o.json",
+      "sha256": "6a1ab2d53836a83d2596a20e0701730e7e081056c5fd78ff8fa3f5cb73db1f44",
+      "view_count": 702016,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "-_L5ZN-VnD0",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\-_L5ZN-VnD0.json",
+      "sha256": "435d710db81698c487a5dd9e162643e2f60edd6c9f4a4710c34b8fdd3276dbef",
+      "view_count": 4236070,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "-yrO_bD9YXo",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\-yrO_bD9YXo.json",
+      "sha256": "abcd788148b877d267be9726f300bf6c33bb338510e2d430c0c54e3df3927284",
+      "view_count": 668474,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "0lnQW47gFtI",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\0lnQW47gFtI.json",
+      "sha256": "da5b9c4a3710e3fb2fe8c595172ead75e926dcd7d1924373a9fbc9688688ac21",
+      "view_count": 903365,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "1ozN_0gYTBk",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\1ozN_0gYTBk.json",
+      "sha256": "28526009ce9de627ccc4cf67113005671ca9965076b1e54aa6cb6d84de250364",
+      "view_count": 6065302,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "1QcVa71FWQA",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\1QcVa71FWQA.json",
+      "sha256": "f8ae20874737b652ac5f4731d7bb1401d8d128293094f9293c4cffee23bd0d1c",
+      "view_count": 827017,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "1Ul2tR7qxqM",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\1Ul2tR7qxqM.json",
+      "sha256": "a6684de21eeb6360c08366dc01d81b0f619adb45ae4eac14fd01fb50a75d6e7b",
+      "view_count": 1279511,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "2eaZLYiRHuY",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\2eaZLYiRHuY.json",
+      "sha256": "008ecc9734dea856f2146a02fe43d2382aae1c31ebdd8305a235b70c15de7b9c",
+      "view_count": 1668267,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "4_iTuvomj0Y",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\4_iTuvomj0Y.json",
+      "sha256": "d5ad39decdbfe088a2fc959bd3c74fea5016cccddc0880b67806a95fb717a563",
+      "view_count": 4028047,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "4K8zt8NzlVo",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\4K8zt8NzlVo.json",
+      "sha256": "64a507ab2f52b397dbc5fb3028e2e8c94fbc689dffd73d6a57f1c88b411cac76",
+      "view_count": 890944,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "4N3GJnDiqCU",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\4N3GJnDiqCU.json",
+      "sha256": "5f9d890096151b10b141cd3cf8d3b3cc44d0177a08f8e3e62b53ea7527bc24d8",
+      "view_count": 3198936,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "5ejHYVamyiw",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\5ejHYVamyiw.json",
+      "sha256": "57104dd7f2c9ba7589840c930e30d82d4d754d4a84fdfdfff4ab6e90c07a692c",
+      "view_count": 3294719,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "5fEFuo5wuZo",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\5fEFuo5wuZo.json",
+      "sha256": "35e8eccd9b4efe0e3c50e4daad27a81bd4b6a8381ac6861f89872e0acc43d021",
+      "view_count": 1538922,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "7vE95eBX6M0",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\7vE95eBX6M0.json",
+      "sha256": "436d861705273d5c00d71d0deb6281550e7fa6fc89eb8f4daaa0de96bc7abc9a",
+      "view_count": 1889213,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "AhBlFei369g",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\AhBlFei369g.json",
+      "sha256": "350493d3cc159f02bebd2b81bf684d23b10d7d547f90714cecdec0400620e785",
+      "view_count": 492117,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "ajP0AlYxhug",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\ajP0AlYxhug.json",
+      "sha256": "8047fd38b85e2dcfd81835037bdbdf95f5a8562cdaf8306a8731d59c7344322b",
+      "view_count": 811310,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "ASEchqxT_5I",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\ASEchqxT_5I.json",
+      "sha256": "ceb03c715ad20f9fb2c0b3781e25de809353d4dc22ed6f4c0187819faf7892c6",
+      "view_count": 1542658,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "ATgwz_hS3Qg",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\ATgwz_hS3Qg.json",
+      "sha256": "bfd38aa7ae914cd3a0722cca725e3949b2a3056deef3ab2f3bbcd78307d92104",
+      "view_count": 3982924,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "aw9ENIAqkA8",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\aw9ENIAqkA8.json",
+      "sha256": "588b202748c5b62d894e226848f3b2b11fe0af39b191b35290f8fbc0e02f25a1",
+      "view_count": 1120391,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "b2_M-1YqnNI",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\b2_M-1YqnNI.json",
+      "sha256": "f024ddb8400ee2322d57d62d4146d9ac4605d4b3a9413903dabe21d26699e5e0",
+      "view_count": 6382326,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "bhxn_emGHjA",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\bhxn_emGHjA.json",
+      "sha256": "a05f9211e259943db002a52bc9b70624fa9e34219f5cdad2c85294831b8012d0",
+      "view_count": 1405547,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "BNfIPVjQwEA",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\BNfIPVjQwEA.json",
+      "sha256": "40d1dd40bfaaf34fb97a5b78eede35229c9c1ead03eb49d1648e1b43acdd70c9",
+      "view_count": 4226270,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "BR2ZZXjpeqQ",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\BR2ZZXjpeqQ.json",
+      "sha256": "17a5efbcf5d62176f6bf0d53a680c7e608ddbc3f741218990236d8b8678d1ed9",
+      "view_count": 539064,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "cl_kfWNazLg",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\cl_kfWNazLg.json",
+      "sha256": "96c20647f4b7296f64e28daff14edbfa4a9c7bee6d80f865724575a280443796",
+      "view_count": 732622,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "DvM5zrDbLXo",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\DvM5zrDbLXo.json",
+      "sha256": "41e6ed66ca1162132189bde6cedd5794c2d2c7e8b5b1dd2890b63de916476aeb",
+      "view_count": 2388032,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "DW-aL_MiUz4",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\DW-aL_MiUz4.json",
+      "sha256": "768e2e0b9a63b4056b09580afdda57952b5dc94f328c65a127d234c4d53b1839",
+      "view_count": 1744830,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "DwzmznJi3KU",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\DwzmznJi3KU.json",
+      "sha256": "6160ac81b2fc3d5adea26d0a7c006fd9c1cef5f8bc8153b42791db0e38512bda",
+      "view_count": 545369,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "EgCZFumiIec",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\EgCZFumiIec.json",
+      "sha256": "1c4ab8b921b91bbf00cd6a8fcdf447aa5ee82d79c9cb605bdb67687aa783c8cd",
+      "view_count": 3963811,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "eJ3dsXP839U",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\eJ3dsXP839U.json",
+      "sha256": "50fced84f3f4f679aeb226dd12878f2ec2161bbdec4f8a879dec0496832feadd",
+      "view_count": 593941,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "esi9K_JKs3k",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\esi9K_JKs3k.json",
+      "sha256": "de7ce4964b00a898badc661887ab425038238c8d1664bfcae3b653b93bc107aa",
+      "view_count": 940400,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "eYhqBVXOVz0",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\eYhqBVXOVz0.json",
+      "sha256": "e82bc426c10f4d6b26328850857aa4a759c2e4c0c24f98120d312a712084b0fc",
+      "view_count": 1379223,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "F9YVmf61KWY",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\F9YVmf61KWY.json",
+      "sha256": "29d1912b11c1825f7ecc2cfcb36f65c6e049b1772f1ad6c91840b24d7160cebe",
+      "view_count": 521978,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "Fgxd4phK8eY",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\Fgxd4phK8eY.json",
+      "sha256": "23d1c2718d79f6b3b892b9e69e90c3db64bf3f7ae185cad195ddcb2273ef7b83",
+      "view_count": 1075605,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "FXF-nD4U5zk",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\FXF-nD4U5zk.json",
+      "sha256": "7886838ee4f5ed5d96dd47f91a9e6066c82932a59d7e9c1dd223b3a0cd7b77bb",
+      "view_count": 7039717,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "G6TJ14AKhME",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\G6TJ14AKhME.json",
+      "sha256": "a58b16e2bd52da3925a11600bfaa5ebac1f707df2330310bd8a73091a7ac22d8",
+      "view_count": 996745,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "HzjOzj_eueM",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\HzjOzj_eueM.json",
+      "sha256": "72ae6bc587df45a2059988900f031d507dc458145973d742b6a5359ad0186400",
+      "view_count": 660082,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "iltPgUQiPtw",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\iltPgUQiPtw.json",
+      "sha256": "09fa0aedb6a1ac18832679a860d3e1cea2dd2aa52461736020d97349bb764c8c",
+      "view_count": 1475476,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "ish_ycyS4JU",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\ish_ycyS4JU.json",
+      "sha256": "07d84309ea8bdcaa1fbd5afebde7b310213d508790f8805fac7dfadb5236ab73",
+      "view_count": 707742,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "jCcWlecjv4k",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\jCcWlecjv4k.json",
+      "sha256": "5e929a3cbdbbe32ab3b5d95700839d100766b7fe61109eb4c2185f99574b49a6",
+      "view_count": 3174442,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "kh5VIF6Pghk",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\kh5VIF6Pghk.json",
+      "sha256": "2f307f6f02fddd6f0b0dd582aa6bad66c47cc216406b712d791d436027a7e7c6",
+      "view_count": 832834,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "L5r9kxBrok8",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\L5r9kxBrok8.json",
+      "sha256": "eb8a10c2b8723181326f28b2d00082218cbc3ff47e31884343b0060334b7b02a",
+      "view_count": 1490710,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "LmK18kPfMjA",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\LmK18kPfMjA.json",
+      "sha256": "40c39d8f38874bc6f907bebea32592eda42d150a34e91c0b5f78b54a12cc3d17",
+      "view_count": 1397680,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "LV3pAQXVciE",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\LV3pAQXVciE.json",
+      "sha256": "e1f72211fbb2bf3fac73c440bb5f0ed63f3f86b7a23420b65974c0ac9b11cffe",
+      "view_count": 2898922,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "lZ_WIvCfll8",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\lZ_WIvCfll8.json",
+      "sha256": "e7c8d525043b862242a801e0aff436d3165bfc9978e695af36de1cfd250b0642",
+      "view_count": 783027,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "mhzyCt__d_4",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\mhzyCt__d_4.json",
+      "sha256": "1e67442ec15bb0c749ac51c10aa4323332b969f6e68f284bddc89a80fac530f8",
+      "view_count": 610743,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "MK_SyGn84C4",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\MK_SyGn84C4.json",
+      "sha256": "e2c9b6482b433ce7af7720c1fc20906995ee8621b6f7350bc7b7b4e22b452fb0",
+      "view_count": 505691,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "MmO0Syp6jRk",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\MmO0Syp6jRk.json",
+      "sha256": "9fe4053bd2fa93f2e6596ff7d7a44d542505799e95c4e2eee1fb3dcd07ad0b51",
+      "view_count": 673823,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "n2iz9KuFdMo",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\n2iz9KuFdMo.json",
+      "sha256": "1a3ffc9f3ab3a66838041202810c3d1ac61b3948c28781c450db6febdd48e50e",
+      "view_count": 490276,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "ngACavNijMY",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\ngACavNijMY.json",
+      "sha256": "2f9bfc20b31bdfdf18d06ca5275e49da690e46cf778a57a383223e17d3f81219",
+      "view_count": 564536,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "nOieMPrmans",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\nOieMPrmans.json",
+      "sha256": "047da53417796270d7be662c75d79ff3c8f06af09aa412e62c308ab5670e03bf",
+      "view_count": 1094554,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "nP9OaYUjvdE",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\nP9OaYUjvdE.json",
+      "sha256": "4f44a98e49fd04e31ea80d037d24dfc58d5927b5974f29ac1a2c0131975af159",
+      "view_count": 2825440,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "nSuxE98EnpE",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\nSuxE98EnpE.json",
+      "sha256": "64225074749c695c1d32c4827fac788ce9086d34f688f7707d3ef933f084e99b",
+      "view_count": 523215,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "oBhrq6TuSa0",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\oBhrq6TuSa0.json",
+      "sha256": "45ce0949a54832852dfed9f5666ca7a9ea0da2685345bb46ef5f6eaf2f2a89fe",
+      "view_count": 833817,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "OBIxbULqDxY",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\OBIxbULqDxY.json",
+      "sha256": "78c00c85d4fdd89e228abb59f8264d10f9b77622eab848c09602e68aee21f285",
+      "view_count": 876977,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "oCILDWN95GI",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\oCILDWN95GI.json",
+      "sha256": "8f755a9b340956e4d8872164979767122488e077b54f3c76aebed2379c6456ab",
+      "view_count": 844391,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "Od_E2O-YHN8",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\Od_E2O-YHN8.json",
+      "sha256": "868e40a8e434e160f20772c56d4d79c08294a8beff1ab995651b5efbe620e85b",
+      "view_count": 615558,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "OqpFjr8au2E",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\OqpFjr8au2E.json",
+      "sha256": "41ae90ecb7ee60a0e8a4efa9f613c8f1aa6413676643ed53927a2d7c18c014d3",
+      "view_count": 1480094,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "orzOG0KoCwE",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\orzOG0KoCwE.json",
+      "sha256": "0df671eb6fddd36b1e9d5700d48b63cce6348f433c417b917d6b32299f5af163",
+      "view_count": 889530,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "OtLvAly7lD8",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\OtLvAly7lD8.json",
+      "sha256": "b00d50481d2811974e32212c2e098f74a050da50bf8fe564a525694bbe6b6855",
+      "view_count": 1912956,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "ozcLN6obs_0",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\ozcLN6obs_0.json",
+      "sha256": "01331574f074a8fb80d77823749d3bba50f9f3be102de127fd057027bb61f9de",
+      "view_count": 716593,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "p3hlnL2JN8E",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\p3hlnL2JN8E.json",
+      "sha256": "d16c32bf3a0df6649c891f5ed4e351deab6c06f2e0843d2a8d93ea0776ba3faa",
+      "view_count": 803777,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "PMFE_I6xseA",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\PMFE_I6xseA.json",
+      "sha256": "b12ba47b8ed8582698c0f5cba55c994002ca0cc91c08f9a919fcf8d9a588e4d6",
+      "view_count": 1986799,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "pUK0KIZAa9E",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\pUK0KIZAa9E.json",
+      "sha256": "200e08fd3364b2384f25bf1053bd6fc79a6c479f054b1bb30fa2f602bc2c371a",
+      "view_count": 2397983,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "QLM7vme6NWk",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\QLM7vme6NWk.json",
+      "sha256": "e911678977777b442b8c841d4f29c595abff21d7e0d625e5aa3b194fe9903af1",
+      "view_count": 645403,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "qnnY_7piaro",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\qnnY_7piaro.json",
+      "sha256": "2ed3a0715f7e9e7f0c9945803e86d7c782f646f79228afd601428a3a5e7f4d65",
+      "view_count": 742514,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "qqJBLP07o7A",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\qqJBLP07o7A.json",
+      "sha256": "b76095040aaaeeee9ca425f701123211597d2172fb2d09c847f1da5633005c96",
+      "view_count": 527024,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "qqndbveA3Tw",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\qqndbveA3Tw.json",
+      "sha256": "b0da10f515e6765e7f3db068802ee946a2dde6eaf63cd4dac3842b21a4162a41",
+      "view_count": 884052,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "RIh2UZH7hYA",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\RIh2UZH7hYA.json",
+      "sha256": "274205c00f08785dbbcea17292ba0eb4fef5dba14c8e445811bb44f47e0c5080",
+      "view_count": 954065,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "rpdX6kOXprM",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\rpdX6kOXprM.json",
+      "sha256": "d948363808eff031c9ea521be40fadc883539c9be857ecd45cfa2a874563518b",
+      "view_count": 725949,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "s0mNlXGd2Bc",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\s0mNlXGd2Bc.json",
+      "sha256": "104ddcc0f9b45912473eb24f5abdae6100e3306c2621776a83205950790e3992",
+      "view_count": 5319780,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "TY9dnrbQano",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\TY9dnrbQano.json",
+      "sha256": "29e4d163f005235d086bb38c9089085b05d9eb8f61aa8c227ad753da9162f582",
+      "view_count": 3801227,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "ujWnpB5Wm5E",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\ujWnpB5Wm5E.json",
+      "sha256": "9318c99204cf5a1353e9626272a9f40016d0be08d58bd6ca56bd134f3893f293",
+      "view_count": 1083250,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "usrQukyvEtI",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\usrQukyvEtI.json",
+      "sha256": "3aa1e14b28af3c36beb359959d4b76c25a9442ae11705bef2bd9545e53269cd9",
+      "view_count": 567168,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "Vrn5KEfXHW8",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\Vrn5KEfXHW8.json",
+      "sha256": "0708d494158c93080e9bf367f3820e19ef99994d50151ec38caa2c3e95526a86",
+      "view_count": 533938,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "vypjY9EU04g",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\vypjY9EU04g.json",
+      "sha256": "7f7e87201e96cfc858454017c2cf6e8b10a966632de470a94f076eecac7c1e41",
+      "view_count": 678440,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "w9G1nz4UlyU",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\w9G1nz4UlyU.json",
+      "sha256": "e76a35da2e9c808314c93d20e44fcb6d69075f6598ff88220e45298f7fdcd18f",
+      "view_count": 1005958,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "W9p_TBzxFBs",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\W9p_TBzxFBs.json",
+      "sha256": "8e70adba45afb08770f45d0a9aaef097a7ef2f8426b4278407f8f8934b61245a",
+      "view_count": 2223127,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "WEwa0hbobew",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\WEwa0hbobew.json",
+      "sha256": "61e208d61f120b8a3fe5acb3b6577e4ed077ee89319ce78748a3dfa6655f85e5",
+      "view_count": 2123431,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "WU0Es4XICOs",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\WU0Es4XICOs.json",
+      "sha256": "7eef8db61f8494fef86e7420fced767091d5e61c630c309c91ef78b73584e6f5",
+      "view_count": 776057,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "XC3dwEVxYEM",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\XC3dwEVxYEM.json",
+      "sha256": "324e38362a53427cb47ea194015b639344b44b350ad7923feeb346bf8ad1113b",
+      "view_count": 3726331,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "xltW2G60GCs",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\xltW2G60GCs.json",
+      "sha256": "83da6bced1ad985c83a54e6376fa58a34faa759629f109d9c0deff1d265474b5",
+      "view_count": 1378482,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "xTq5nrHfdZc",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\xTq5nrHfdZc.json",
+      "sha256": "e2cf6646bc2328523fa524478249506d8152045aaa0a5754a848e61ee0eb3bce",
+      "view_count": 997700,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "ydibFhTuimY",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\ydibFhTuimY.json",
+      "sha256": "98820c5d2e795b04a68f93d064ac58e7cb8d84b3d1704ccb111f4a0e6a9d40d1",
+      "view_count": 3681042,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "yemQjpTIU1k",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\yemQjpTIU1k.json",
+      "sha256": "2e320721808f1c28337487b088c6ebded6f366b015a8a52de48f1a12386048c1",
+      "view_count": 1076941,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "yjnLNzqTWng",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\yjnLNzqTWng.json",
+      "sha256": "b939921099089eeb5970fee49679cf8d8b4bd27e9c5604e79c62757bd9055d78",
+      "view_count": 1667349,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "yPWv4fDxYIk",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\yPWv4fDxYIk.json",
+      "sha256": "b695a2db602b8c12b95644fcbfdb8db111e217075bb01d4867dd5d6966818c23",
+      "view_count": 3171083,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "z_z8lvZ76Yw",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\z_z8lvZ76Yw.json",
+      "sha256": "770d0b82aca01f5eac77ac8dd3a6bafddfe2fce2cab27f27339d1869f8e334c4",
+      "view_count": 539446,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "ZLP1Voyf8aE",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\ZLP1Voyf8aE.json",
+      "sha256": "14dff88ea130dd6bd10dfb1f6d4fa092dc580abf52a6c016c126d7be6ea0d829",
+      "view_count": 1053191,
+      "availability": "public",
+      "issues": []
+    },
+    {
+      "id": "zNv7o8wEJdc",
+      "file": "C:\\Users\\79420\\Documents\\Codex\\2026-10-02\\c-users-79420-documents-20261002-x20\\work\\catalog_details\\zNv7o8wEJdc.json",
+      "sha256": "09a888cffe5136336daef282cbfc587b20fa26bf9ce43731e599c3e816045114",
+      "view_count": 3870623,
+      "availability": "public",
+      "issues": []
+    }
+  ],
+  "issues": [],
+  "conclusion": "저장된 카탈로그 데이터의 범위·필터·정렬·개별 대조에 미해결 오류 없음",
+  "limits": [
+    "Videos 탭만 대상이며 Shorts·Streams는 제외. 요청 링크 범위와 일치하지만 채널의 모든 형식 전체라는 해석이면 추가 수집 필요.",
+    "채널에서 현재 반환되지 않는 삭제·비공개 영상과 회원 전용 정확 조회수는 검증하지 못함.",
+    "49만 미만 361개 공개 영상은 개별 정확값을 조회하지 않음. 표시값의 통상적인 단위 절삭에 근거한 후보 선정이며 모든 450편의 정확값 전수 검증은 아님.",
+    "수집 시각이 편마다 다르며 미래 조회수와 동일 시각의 순위는 보장하지 않음.",
+    "영상 전문 시청·자막 확보·과학 사실·저작권 허가·한국 시청자 반응·기획·대본·원고 research PASS는 검증하지 않음.",
+    "기존 URL 연결은 기존 작업의 존재 증거만이며 최신 본문 완성·재사용 가능 또는 gate PASS를 뜻하지 않음."
+  ]
+}
