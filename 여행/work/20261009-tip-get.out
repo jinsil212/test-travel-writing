@@ -1,0 +1,30 @@
+{
+  "id": "bb4b8dd5894e",
+  "channel_id": "187dd22ee02f",
+  "title": "🇺🇸뉴욕 여행 시 이것만은 조심하세요🚨 모르면 돈 더 내는 팁·결제 주의사항 9가지",
+  "topic": "뉴욕 팁·결제 주의사항",
+  "summary": "유형3(현지 주의사항). 뉴욕에서 팁을 내는 자리와 안 내도 되는 자리를 9가지로 가름. 원재료는 제작 329e41046c70(nyc-trip-prep, 뉴욕 첫 여행 준비 총정리)의 조사 자료이나, 그 주제는 미드폼 뉴욕첫여행 1편과 중복으로 판정해 팁·결제로 각도를 좁힌 별도 제작. 벤치마킹 원본 영상 없음(사례원고 S13 흐름만 참고).",
+  "folder": "C:\\Users\\진실\\Documents\\테스트\\여행\\원고\\뉴욕팁결제",
+  "created_at": "2026-10-09T22:02:23+09:00",
+  "updated_at": "2026-10-09T22:02:32+09:00",
+  "script": "complete",
+  "edit": "unknown",
+  "thumbnail": "unknown",
+  "exported": 0,
+  "uploaded": 0,
+  "upload_url": "",
+  "upload_title": "",
+  "origin": "claude-code",
+  "note": "",
+  "merged_into": "",
+  "channel": "여행",
+  "sources": [],
+  "artifacts": [
+    {
+      "stage": "script",
+      "path": "C:\\Users\\진실\\Documents\\테스트\\여행\\원고\\뉴욕팁결제\\대본_v1_읽기용.txt",
+      "digest": "8bc38bd52c1bb1b2d8470706705758e3f49aaf1ecf6a8627d8cdcdf10435f63d",
+      "confirmed_at": "2026-10-09T22:02:32+09:00"
+    }
+  ]
+}
