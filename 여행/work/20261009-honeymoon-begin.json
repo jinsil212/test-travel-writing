@@ -1,0 +1,10 @@
+{
+  "action": "begin",
+  "channel": "여행",
+  "title": "뉴욕+칸쿤 신혼여행 9박 11일 일정·경비 (제목 확정 전)",
+  "urls": [],
+  "topic": "뉴욕 칸쿤 신혼여행 일정 경비",
+  "summary": "미국 신혼여행으로 뉴욕과 칸쿤을 함께 가는 부부 대상. 결혼 달 고르기, 뉴욕·칸쿤 박수 배분, 뉴욕→칸쿤 이동일 설계, 리조트 성격별 선택, 상품가 밖으로 나가는 돈까지 정리하는 일정 설계 가이드. 새 방식 테스트 폴더(Documents/테스트/여행) 기준. 조사 자료는 autoworker-script의 us-honeymoon 조사분을 옮겨 옴",
+  "folder": "C:/Users/진실/Documents/테스트/여행/원고/뉴욕칸쿤신혼여행",
+  "actor": "claude-code"
+}
