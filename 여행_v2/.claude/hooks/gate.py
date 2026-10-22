@@ -109,7 +109,9 @@ def check_script(folder, text):
             if len(key) >= 8 and norm(body).count(key) >= 2:
                 missing.append("핵심 문장이 본문에 2회 이상 반복됨 — 도입 끝 또는 마무리 한 곳에서 1회만")
         # 분량: 뼈대 편 길이에는 맞추지 않는다(사용자 지시 2026-10-21). 극단적 축약만 막는 절대 하한.
-        plain = re.sub(r"<!--.*?-->|^#.*$", "", body, flags=re.M | re.S)
+        # 2026-10-22 수정: 주석 제거와 소제목 제거를 분리(이전에는 re.S 때문에 '#'부터 본문 끝까지 지워져 0자로 세었다)
+        plain = re.sub(r"<!--.*?-->", "", body, flags=re.S)
+        plain = re.sub(r"^\s*#.*$", "", plain, flags=re.M)
         plain = re.sub(r"\s+", " ", plain).strip()
         n_body = len(plain)
         if n_body < 4500:
@@ -119,6 +121,25 @@ def check_script(folder, text):
             missing.append(f"'~라고 생각해요' {n_think}회 — 3회 이하로('~추천해요'로 바로)")
         if "추천드리고 싶어요" in body:
             missing.append("'~추천드리고 싶어요' — '~추천해요'로")
+        # 2026-10-22 사용자 지적 반영 — 점검표 채우기용 문장·라벨 전환·기관 남발·명령형 연타를 저장 단계에서 막는다
+        sents = [s.strip() for s in re.split(r"(?<=[.!?])\s+", plain) if s.strip()]
+        if sents:
+            n_cmd = sum(1 for s in sents if re.search(r"(세요|마세요)[.!?]?$", s))
+            if n_cmd / len(sents) > 0.18:
+                missing.append(f"명령형(~세요/~마세요) 끝 문장 {n_cmd}/{len(sents)} = {n_cmd/len(sents):.0%} — 15% 이하로(합격원고 1~15%). 이유를 붙여 '~하시면 돼요/~게 좋아요'로")
+            labels = [s for s in sents if re.match(r"^(다음은|마지막은|하나는|다른 하나는)\s.{0,14}(예요|이에요)[.!]$|^\S{1,6}\s?가지예요[.!]$", s)]
+            if labels:
+                missing.append("라벨형 전환(소제목 읽기) — 앞 항목의 결과로 이어지는 말로: " + " / ".join(labels[:3]))
+            hypo = [s for s in sents if re.search(r"라고 해 보세요|상황을 생각해 보세요", s)]
+            if len(hypo) >= 2:
+                missing.append("가상 장면 예시 2개 이상 — 실제 사례·경험·지명만: " + " / ".join(hypo[:2]))
+        n_org = len(re.findall(r"외교부|관광청|엠티에이|MTA|공식|시청|경찰|교통기관", plain))
+        if n_org > 6:
+            missing.append(f"기관·공식 언급 {n_org}회 — 편당 6회 이하(출처는 자료.md에, 낭독문은 단정으로)")
+        # '카드'(교통카드)·'블록'(거리 블록)은 낭독문에 정당하게 쓰이므로 기계 검사에서 제외 — 기획 용어 '카드마다/카드에서'는 check_script.py가 후보로만 표시
+        plan_words = re.findall(r"뼈대|구성안|장 대응|억지 칸", plain)
+        if plan_words:
+            missing.append("기획 용어가 낭독문에 있음: " + ", ".join(sorted(set(plan_words))))
     if missing:
         block("대본 저장 불가:\n- " + "\n- ".join(missing))
 
